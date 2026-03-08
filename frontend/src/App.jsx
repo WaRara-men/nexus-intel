@@ -3,7 +3,7 @@ import axios from 'axios';
 import { Cpu, Settings, Globe, Newspaper, ExternalLink, Star, Package } from 'lucide-react';
 import './style.css';
 
-const DATA_URL = '/data/intel.json';
+const DATA_URL = './data/intel.json';
 
 function App() {
   const [intel, setIntel] = useState([]);
