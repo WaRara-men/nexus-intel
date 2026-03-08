@@ -43,6 +43,14 @@ jobs:
         working-directory: ./frontend
         run: npm run build
 
+      - name: Prepare Deployment Directory
+        run: |
+          mkdir -p dist/data
+          # Frontendのビルド成果物をルートのdistへ
+          cp -r frontend/dist/* dist/
+          # スクレイピングしたデータをdist/dataへ
+          cp data/intel.json dist/data/
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
