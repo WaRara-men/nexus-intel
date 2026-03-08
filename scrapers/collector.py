@@ -84,10 +84,11 @@ def collect_intel():
     
     conn.commit()
     
-    # JSON 出力
+    # JSON 出力用のカーソルを再作成
     conn.row_factory = sqlite3.Row
-    c.execute("SELECT * FROM intel ORDER BY published_at DESC LIMIT 100")
-    rows = [dict(row) for row in c.fetchall()]
+    cursor_json = conn.cursor()
+    cursor_json.execute("SELECT * FROM intel ORDER BY published_at DESC LIMIT 100")
+    rows = [dict(row) for row in cursor_json.fetchall()]
     
     with open('data/intel.json', 'w', encoding='utf-8') as f:
         json.dump(rows, f, ensure_ascii=False, indent=2)
