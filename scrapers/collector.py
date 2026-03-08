@@ -3,6 +3,8 @@ import sqlite3
 import datetime
 import requests
 from bs4 import BeautifulSoup
+import json
+import os
 
 SOURCES = {
     'AI/IT': [
@@ -25,6 +27,8 @@ SOURCES = {
 }
 
 def init_db():
+    if not os.path.exists('data'):
+        os.makedirs('data')
     conn = sqlite3.connect('data/nexus.db')
     c = conn.cursor()
     c.execute('''CREATE TABLE IF NOT EXISTS intel (
@@ -53,16 +57,34 @@ def score_importance(title, summary):
             score += s
     return min(score, 5)
 
-import json
-import os
-
 def collect_intel():
     init_db()
     conn = sqlite3.connect('data/nexus.db')
     c = conn.cursor()
     
-    # ... (既存の収集ロジック) ...
-    # 最後に JSON として書き出し
+    for category, sources in SOURCES.items():
+        for src in sources:
+            print(f"Collecting from {src['name']}...")
+            try:
+                feed = feedparser.parse(src['url'])
+                for entry in feed.entries:
+                    try:
+                        summary_text = entry.get('summary', '')[:500]
+                        importance = score_importance(entry.title, summary_text)
+                        
+                        c.execute('''INSERT OR REPLACE INTO intel 
+                            (category, title, summary, url, published_at, source_name, importance) 
+                            VALUES (?, ?, ?, ?, ?, ?, ?)''', 
+                            (category, entry.title, summary_text[:200], entry.link, 
+                             entry.get('published', datetime.datetime.now()), src['name'], importance))
+                    except Exception as e:
+                        print(f"Error processing {entry.title}: {e}")
+            except Exception as e:
+                print(f"Error fetching from {src['name']}: {e}")
+    
+    conn.commit()
+    
+    # JSON 出力
     conn.row_factory = sqlite3.Row
     c.execute("SELECT * FROM intel ORDER BY published_at DESC LIMIT 100")
     rows = [dict(row) for row in c.fetchall()]
