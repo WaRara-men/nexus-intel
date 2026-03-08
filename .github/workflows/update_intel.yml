@@ -1,0 +1,51 @@
+name: Update Intel & Deploy
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 毎時0分に実行
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: |
+          pip install feedparser beautifulsoup4 requests
+
+      - name: Run Scraper
+        run: |
+          python scrapers/collector.py
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Frontend dependencies
+        working-directory: ./frontend
+        run: npm install
+
+      - name: Build Frontend
+        working-directory: ./frontend
+        run: npm run build
+
+      - name: Prepare Deployment Directory
+        run: |
+          mkdir -p dist/data
+          cp -r frontend/dist/* dist/
+          cp data/intel.json dist/data/
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
