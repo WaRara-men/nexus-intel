@@ -3,7 +3,7 @@ import axios from 'axios';
 import { 
   Cpu, Settings, Globe, Newspaper, ExternalLink, Star, 
   Package, Languages, Search, Bookmark, BookmarkCheck, 
-  Sun, Moon, Share2, Clock 
+  Sun, Moon, Share2, Clock, TrendingUp
 } from 'lucide-react';
 import './style.css';
 
@@ -11,40 +11,29 @@ const DATA_URL = './data/intel.json';
 
 const I18N = {
   ja: {
-    title: "Nexus Intel", subtitle: "世界情報キャッチアップ・システム",
-    intro: "世界中のAI、ロボティクス、ニュース、新プロダクトを1時間ごとに自動収集。重要度をAIが判定し、あなたの知的キャッチアップを加速させます。",
-    all: "すべて", ai: "AI/IT", mech: "機械工学", prod: "プロダクト", global: "世界情勢", news: "時事ニュース", saved: "保存済み",
-    readMore: "詳しく読む", loading: "世界の知性を集約中...", search: "キーワードで検索...", readTime: "約{t}分で読めます", share: "共有"
+    title: "NEXUS", subtitle: "INTELLIGENCE",
+    all: "ALL", saved: "SAVED", ai: "AI/IT", mech: "MECH", prod: "PROD", global: "WORLD", news: "NEWS",
+    search: "探索を開始...", loading: "NEURAL LINK ESTABLISHING...", readMore: "OPEN"
   },
   en: {
-    title: "Nexus Intel", subtitle: "Global Intelligence Hub",
-    intro: "Automatically gathers AI, Robotics, News, and Products from around the world every hour.",
-    all: "All", ai: "AI/IT", mech: "Mechanical", prod: "Product", global: "Global", news: "News", saved: "Saved",
-    readMore: "Read More", loading: "Gathering Intelligence...", search: "Search intelligence...", readTime: "{t} min read", share: "Share"
+    title: "NEXUS", subtitle: "INTELLIGENCE",
+    all: "ALL", saved: "SAVED", ai: "AI/IT", mech: "MECH", prod: "PROD", global: "WORLD", news: "NEWS",
+    search: "Search Nexus...", loading: "ESTABLISHING LINK...", readMore: "OPEN"
   },
   zh: {
-    title: "Nexus Intel", subtitle: "全球情报中心",
-    intro: "每小时自动从全球获取 AI、机器人、新闻和产品信息。",
-    all: "全部", ai: "人工智能", mech: "机械工程", prod: "新产品", global: "全球动态", news: "时事新闻", saved: "已保存",
-    readMore: "阅读全文", loading: "正在汇集全球情报...", search: "搜索...", readTime: "阅读需 {t} 分钟", share: "分享"
+    title: "NEXUS", subtitle: "INTELLIGENCE",
+    all: "全部", saved: "收藏", ai: "AI", mech: "机械", prod: "产品", global: "全球", news: "新闻",
+    search: "搜索情报...", loading: "正在连接神经网络...", readMore: "打开"
   }
 };
 
-// 背景のパーティクル・コンポーネント
-const Particles = () => {
-  return (
-    <div className="particles-container">
-      {[...Array(20)].map((_, i) => (
-        <div key={i} className="particle" style={{
-          left: `${Math.random() * 100}%`,
-          top: `${Math.random() * 100}%`,
-          animationDelay: `${Math.random() * 5}s`,
-          animationDuration: `${10 + Math.random() * 20}s`
-        }}></div>
-      ))}
-    </div>
-  );
-};
+const Particles = () => (
+  <div className="bg-glow">
+    <div className="glow-1"></div>
+    <div className="glow-2"></div>
+    <div className="glow-3"></div>
+  </div>
+);
 
 function App() {
   const [intel, setIntel] = useState([]);
@@ -53,154 +42,121 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
   const [bookmarks, setBookmarks] = useState(() => JSON.parse(localStorage.getItem('nexus_bookmarks') || '[]'));
-  const [theme, setTheme] = useState(() => localStorage.getItem('nexus_theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
+  const [theme, setTheme] = useState('dark');
 
   const t = I18N[lang];
 
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme);
-    localStorage.setItem('nexus_theme', theme);
   }, [theme]);
-
-  useEffect(() => {
-    localStorage.setItem('nexus_bookmarks', JSON.stringify(bookmarks));
-  }, [bookmarks]);
 
   const fetchIntel = async () => {
     setLoading(true);
     try {
       const res = await axios.get(DATA_URL);
       setIntel(res.data);
-    } catch (err) {
-      console.error("Fetch error:", err);
-    }
+    } catch (err) { console.error(err); }
     setLoading(false);
   };
 
   useEffect(() => { fetchIntel(); }, []);
 
-  const toggleBookmark = (id) => {
+  const toggleBookmark = (e, id) => {
+    e.preventDefault();
+    e.stopPropagation();
     setBookmarks(prev => prev.includes(id) ? prev.filter(b => b !== id) : [...prev, id]);
   };
 
-  const handleShare = async (item) => {
-    if (navigator.share) {
-      try {
-        await navigator.share({ title: item.title, text: item.summary, url: item.url });
-      } catch (err) { console.log('Share failed', err); }
-    } else {
-      navigator.clipboard.writeText(item.url);
-      alert('URL copied to clipboard!');
-    }
-  };
-
-  // フィルタリング＆検索ロジック
   const filteredIntel = useMemo(() => {
     return intel.filter(item => {
       const matchCat = category === 'saved' ? bookmarks.includes(item.id) : (category === '' || item.category === category);
-      const matchSearch = item.title.toLowerCase().includes(searchQuery.toLowerCase()) || (item.summary && item.summary.toLowerCase().includes(searchQuery.toLowerCase()));
+      const matchSearch = item.title.toLowerCase().includes(searchQuery.toLowerCase());
       return matchCat && matchSearch;
     });
   }, [intel, category, searchQuery, bookmarks]);
 
   const categories = [
-    { name: t.all, icon: <Globe size={18} />, value: '' },
-    { name: t.saved, icon: <Bookmark size={18} />, value: 'saved' },
-    { name: t.ai, icon: <Cpu size={18} />, value: 'AI/IT' },
-    { name: t.mech, icon: <Settings size={18} />, value: 'Mechanical' },
-    { name: t.prod, icon: <Package size={18} />, value: 'Product' },
-    { name: t.global, icon: <Globe size={18} />, value: 'Global' },
-    { name: t.news, icon: <Newspaper size={18} />, value: 'News' },
+    { name: t.all, icon: <Globe size={16} />, value: '' },
+    { name: t.saved, icon: <Bookmark size={16} />, value: 'saved' },
+    { name: t.ai, icon: <Cpu size={16} />, value: 'AI/IT' },
+    { name: t.mech, icon: <Settings size={16} />, value: 'Mechanical' },
+    { name: t.prod, icon: <Package size={16} />, value: 'Product' },
+    { name: t.global, icon: <Globe size={16} />, value: 'Global' },
+    { name: t.news, icon: <Newspaper size={16} />, value: 'News' },
   ];
 
-  const calcReadTime = (text) => Math.max(1, Math.ceil((text?.length || 0) / 400));
-
   return (
-    <div className={`app-container lang-${lang}`}>
+    <div className="app-container">
       <Particles />
       
-      <nav className="top-nav">
-        <div className="logo">NEXUS <span>INTEL</span></div>
-        <div className="nav-controls">
-          <div className="search-bar">
+      <nav className="glass-nav">
+        <div className="logo-area">
+          <div className="nexus-logo"></div>
+          <h1 className="brand">{t.title}<span>{t.subtitle}</span></h1>
+        </div>
+        
+        <div className="nav-main">
+          <div className="cyber-search">
             <Search size={16} />
-            <input 
-              type="text" 
-              placeholder={t.search} 
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-            />
+            <input type="text" placeholder={t.search} value={searchQuery} onChange={(e)=>setSearchQuery(e.target.value)} />
           </div>
-          <button onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')} className="icon-btn">
-            {theme === 'dark' ? <Sun size={18} /> : <Moon size={18} />}
-          </button>
-          <button onClick={() => setLang(lang === 'ja' ? 'en' : lang === 'en' ? 'zh' : 'ja')} className="icon-btn text-btn">
-            <Languages size={18} /> {lang.toUpperCase()}
-          </button>
+          <div className="lang-selector">
+            <button onClick={() => setLang(lang === 'ja' ? 'en' : lang === 'en' ? 'zh' : 'ja')}>
+              {lang.toUpperCase()}
+            </button>
+          </div>
         </div>
       </nav>
 
-      <header>
-        <div className="category-tabs">
-          {categories.map((cat) => (
-            <button
-              key={cat.value}
-              className={category === cat.value ? 'active' : ''}
-              onClick={() => setCategory(cat.value)}
-            >
-              {cat.icon}
-              <span className="tab-label">{cat.name}</span>
-            </button>
-          ))}
-        </div>
-      </header>
+      <div className="category-bar">
+        {categories.map((cat) => (
+          <button 
+            key={cat.value} 
+            className={category === cat.value ? 'active' : ''} 
+            onClick={() => setCategory(cat.value)}
+          >
+            {cat.icon} <span>{cat.name}</span>
+          </button>
+        ))}
+      </div>
 
-      <main>
+      <main className="bento-grid">
         {loading ? (
-          <div className="loading">{t.loading}</div>
-        ) : filteredIntel.length === 0 ? (
-          <div className="no-results">No intelligence found.</div>
+          <div className="cyber-loader">{t.loading}</div>
         ) : (
-          <div className="masonry-grid">
-            {filteredIntel.map((item) => (
-              <div className={`card importance-${item.importance} ${item.importance >= 4 ? 'featured' : ''}`} key={item.id}>
-                
-                <div className="card-header">
-                  <span className="source-tag">{item.source_name}</span>
-                  <div className="header-actions">
-                    <div className="importance-badge">
-                      {[...Array(5)].map((_, i) => (
-                        <Star key={i} size={12} fill={i < item.importance ? "var(--gold)" : "none"} color={i < item.importance ? "var(--gold)" : "var(--border)"} />
-                      ))}
-                    </div>
-                    <button className="action-btn" onClick={() => toggleBookmark(item.id)}>
-                      {bookmarks.includes(item.id) ? <BookmarkCheck size={18} color="var(--accent)" /> : <Bookmark size={18} />}
-                    </button>
-                  </div>
-                </div>
-
-                <h3>{item.title}</h3>
-                <p className="summary">{item.summary}...</p>
-                
-                <div className="card-meta">
-                  <span className="read-time"><Clock size={12}/> {t.readTime.replace('{t}', calcReadTime(item.summary))}</span>
-                </div>
-
-                <div className="card-footer">
-                  <span className="date">{new Date(item.published_at).toLocaleDateString()}</span>
-                  <div className="footer-actions">
-                    <button className="action-btn share-btn" onClick={() => handleShare(item)}>
-                      <Share2 size={16} />
-                    </button>
-                    <a href={item.url} target="_blank" rel="noopener noreferrer" className="read-btn">
-                      {t.readMore} <ExternalLink size={14} />
-                    </a>
-                  </div>
-                </div>
-
+          filteredIntel.map((item, idx) => (
+            <div 
+              className={`bento-card importance-${item.importance} ${idx === 0 ? 'hero-card' : ''}`} 
+              key={item.id}
+              onClick={() => window.open(item.url, '_blank')}
+            >
+              <div className="card-bg-text">{item.category}</div>
+              <div className="card-overlay"></div>
+              
+              <div className="card-top">
+                <span className="source">{item.source_name}</span>
+                <button className="bookmark-btn" onClick={(e) => toggleBookmark(e, item.id)}>
+                  {bookmarks.includes(item.id) ? <BookmarkCheck size={20} fill="var(--neon-blue)" /> : <Bookmark size={20} />}
+                </button>
               </div>
-            ))}
-          </div>
+
+              <div className="card-body">
+                <h3 className="title">{item.title}</h3>
+                <p className="description">{item.summary}</p>
+              </div>
+
+              <div className="card-bottom">
+                <div className="meta">
+                  <Clock size={14} /> <span>{new Date(item.published_at).toLocaleDateString()}</span>
+                </div>
+                <div className="read-action">
+                  {t.readMore} <ExternalLink size={14} />
+                </div>
+              </div>
+
+              {item.importance >= 4 && <div className="hot-tag"><TrendingUp size={12}/> HOT</div>}
+            </div>
+          ))
         )}
       </main>
     </div>
