@@ -10,115 +10,88 @@
 ---
 
 <a name="english"></a>
-## 🌐 English: The Signal in the Noise
+## 🌐 English: Technical Excellence & Architecture
 
-### 📖 What is Nexus Intel?
-In an era of information overload, **Nexus Intel** serves as a specialized, serverless intelligence hub designed for engineers, researchers, and tech enthusiasts. It solves the "Too Much to Read" problem by automatically aggregating the most critical updates in AI, Robotics, and Global Trends into a single, visually prioritized dashboard.
+### 📖 Concept
+**Nexus Intel** is a serverless intelligence pipeline that transforms raw global signals into a curated, localized dashboard. It is built on the principle of "Vibe Coding" — combining aesthetic excellence with lean, robust engineering.
 
-### 💡 Why Nexus Intel?
-- **Filtering the Noise**: Most news feeds are cluttered. Nexus Intel uses a custom scoring algorithm to highlight "Breakthroughs" and "Critical News" first.
-- **Language is No Barrier**: We live in a globalized world, but international breakthroughs often go unnoticed due to language gaps. Nexus Intel bridges this by auto-translating global source titles into Japanese in real-time.
-- **Sustainability (Zero Cost)**: This is a proof-of-concept that high-value intelligence platforms don't need expensive infrastructure. It runs entirely on the "Free Tier" of GitHub's ecosystem.
+### 🛠️ Deep Technical Stack
 
-### ✨ Key Features in Detail
-1.  🌐 **Global Intelligence Collection**:
-    - Automatically scrapes dozens of top-tier RSS feeds including **Arxiv (AI/ML)**, **IEEE Spectrum**, **TechCrunch**, and **Product Hunt**.
-    - Operates on a 60-minute cycle via GitHub Actions, ensuring you never miss a beat.
-2.  🇯🇵 **Automated Japanese Translation**:
-    - Every international headline is automatically translated into Japanese using the `deep-translator` library.
-    - Allows for quick scanning and comprehension without leaving the dashboard.
-3.  💎 **Cyber-Glass Bento Dashboard**:
-    - A custom-built React dashboard using a "Glassmorphism" and "Bento Box" design layout.
-    - Highly responsive: Look beautiful on desktop, tablet, and mobile.
-4.  ⚡ **Smarter Interaction**:
-    - **Importance Scoring**: Articles are assigned a 1-5 star rating based on keyword analysis (e.g., "Breakthrough", "GPT-5", "Crisis").
-    - **Instant Filter & Search**: Search through hundreds of archived intelligence items in milliseconds.
-    - **Category Browsing**: Dedicated tabs for AI/IT, Robotics, News, and more.
+#### 1. Backend: Python Intelligence Engine
+- **Data Ingestion**: Utilizes `feedparser` and `BeautifulSoup4` for multi-source RSS/Atom parsing and data normalization.
+- **NLP & Translation**: Integrates `deep-translator` (Google's Engine) for high-fidelity English-to-Japanese headline translation.
+- **Importance Scoring Algorithm**: Implements a keyword-based weightage system (`score_importance`). 
+    - *Breakthrough/World First*: +3 score.
+    - *AI/GPT/Robot/Crisis*: +2 score.
+    - *Normalization*: Scores are clamped between 1 and 5 stars.
+- **Data Persistence**: Uses a 2-stage storage approach:
+    - **Primary**: SQLite (`nexus.db`) for deduplication and historical tracking.
+    - **Deployment**: Exports to a minified `intel.json` for lightweight frontend consumption.
+
+#### 2. Frontend: High-Performance React Dashboard
+- **React 18 & Vite**: Lightning-fast build and runtime performance.
+- **State & Optimization**: 
+    - **useMemo**: Optimized filtering and multi-keyword search logic to ensure 60fps interaction even with large datasets.
+    - **localStorage API**: Persistent bookmarks and language preferences stored client-side.
+- **UI Architecture**:
+    - **Glassmorphism**: Advanced CSS filters (`backdrop-filter: blur()`) and HSL-based neon palettes for a premium "Cyber" aesthetic.
+    - **Bento Logic**: A modular grid system that dynamically prioritizes "Hero Cards" based on AI-assigned importance scores.
+
+#### 3. DevOps: Fully Automated CI/CD
+- **GitHub Actions Workflow**: Runs on an hourly cron schedule.
+- **Environment**: Linux runner (Ubuntu-latest) executing dual-stack workloads (Python 3.12 + Node.js 20).
+- **Atomic Deployment**: GitHub Actions merges the new `intel.json` data with the React build assets and pushes to the `gh-pages` branch for zero-downtime updates.
 
 ---
 
 <a name="日本語"></a>
-## 🇯🇵 日本語: 情報のノイズを切り裂く「Nexus Intel」
+## 🇯🇵 日本語: 技術スタックとアーキテクチャの深掘り
 
-### 📖 Nexus Intel とは？
-情報過多の時代において、**Nexus Intel**（ネクサス・インテル）は、エンジニア、研究者、そしてテック愛好家のために設計された、サーバーレスの次世代インテリジェンス・ハブです。「読むものが多すぎる」という問題を、AI、ロボティクス、世界のトレンドから最も重要な情報を自動抽出し、視覚的に優先順位をつけた一つのダッシュボードに集約することで解決します。
+### 📖 コンセプト
+**Nexus Intel**（ネクサス・インテル）は、生のグローバル信号を、精緻にキュレーションされたローカライズ・ダッシュボードへと変換するサーバーレス・インテリジェンス・パイプラインです。美学的な卓越性と、軽量で堅牢なエンジニアリングを融合させる「Vibe Coding」の原則に基づいて構築されています。
 
-### 💡 なぜ Nexus Intel なのか？
-- **ノイズの除去**: 一般的なニュースフィードは不要な情報で溢れています。Nexus Intel は独自のスコアリング・アルゴリズムを使用し、「画期的な進歩（Breakthrough）」や「緊急ニュース」を優先的にハイライトします。
-- **言語の壁を破壊**: 世界は繋がっていますが、言語の壁によって海外の重大なニュースが見過ごされることが多々あります。Nexus Intel は、海外メディアのタイトルをリアルタイムで日本語に自動翻訳し、このギャップを埋めます。
-- **究極の持続可能性 (運用コスト 0 円)**: 高価値な情報プラットフォームに高価なサーバーは不要であることを証明しました。GitHub のエコシステムのみを活用し、完全無料で 24 時間 365 日稼働します。
+### 🛠️ テクニカル・ディープダイブ
 
-### ✨ 主要機能の詳細
-1.  🌐 **グローバル・インテリジェンス収集**:
-    - **Arxiv (AI/ML)**、**IEEE Spectrum**、**TechCrunch**、**Product Hunt** などの最高位 RSS フィードから自動収集。
-    - GitHub Actions により 60 分おきに自動更新。常に最新の情報を手元に。
-2.  🇯🇵 **全自動日本語翻訳**:
-    - 収集された海外メディアの全見出しを `deep-translator` ライブラリで日本語化。
-    - ダッシュボードを眺めるだけで、世界で何が起きているかを瞬時に把握できます。
-3.  💎 **Cyber-Glass Bento ダッシュボード**:
-    - 「グラスモーフィズム（透明感）」と「弁当箱レイアウト」を採用した独自の React デザイン。
-    - デスクトップ、タブレット、モバイルのあらゆる端末でプレミアムな体験を提供。
-4.  ⚡ **高度なインタラクション**:
-    - **重要度スコアリング**: キーワード分析（例：「Breakthrough」「GPT-5」「危機」）により 1〜5 つ星で評価。
-    - **高速フィルター機能**: 数百件のアーカイブからミリ秒単位で検索可能。
-    - **カテゴリー別ブラウズ**: AI/IT、ロボティクス、ニュースなど、関心のある分野へ即座にアクセス。
+#### 1. バックエンド: Python インテリジェンス・エンジン
+- **データ・インジェスチョン**: `feedparser` と `BeautifulSoup4` を活用し、RSS/Atom フィードのパースとデータの正規化を数秒で完了します。
+- **NLP & 翻訳機能**: `deep-translator`（Google エンジン）を統合し、海外メディアのヘッドラインを非常に高い精度で日本語化。
+- **重要度スコアリング・アルゴリズム**: 独自の見出し解析システム（`score_importance`）を搭載。
+    - *Breakthrough（画期的）/ 世界初*: +3 スコア。
+    - *AI / GPT / Robot / 危機*: +2 スコア。
+    - *正規化*: 計算結果を 1〜5 つ星にマッピングし、情報の優先順位を可視化。
+- **データ永続化**: 2 段階のストレージ・アプローチ。
+    - **プライマリ**: SQLite (`nexus.db`) を使用し、重複の排除と履歴管理を実施。
+    - **デプロイ用**: 軽量なフロントエンド連携のため、SQL から `intel.json` へフラットファイル出力。
 
----
+#### 2. フロントエンド: 高性能 React ダッシュボード
+- **React 18 & Vite**: 極めて高速なビルドとランタイム・パフォーマンス。
+- **ステート管理 & 最適化**: 
+    - **useMemo**: 複雑なフィルタリングと複数キーワード検索ロジックを最適化し、データ量が増えても 60fps の滑らかな操作感を維持。
+    - **localStorage API**: ブックマークや言語設定をクライアント側で永続化。
+- **UI アーキテクチャ**:
+    - **グラスモーフィズム**: 高度な CSS フィルタ (`backdrop-filter: blur()`) と HSL ベースのネオンパレットを使用し、プレミアムな「サイバー」世界観を演出。
+    - **Bento ロジック**: モジュール式のグリッドシステム。AI が判定した重要度スコアに基づき、「ヒーローカード」を動的に配置。
 
-## 🏗️ System Architecture / 技術アーキテクチャ
-
-Nexus Intel は、洗練されたデータパイプラインによって構築されています。
-
-1.  **Ingestion (Python)**: `feedparser` と `BeautifulSoup4` を使用し、分散したソースからデータを抽出し正規化。
-2.  **Enrichment**: `deep-translator` による日本語化と、キーワードベースの重要度評価。
-3.  **Storage**: データベースサーバーを排除し、`data/intel.json` として Git 上で管理（フラットファイル DB）。
-4.  **UI (React/Vite)**: 高速な React フロントエンドが最新の JSON をフェッチし、動的な Bento UI を生成。
-5.  **Automation**: すべての工程を GitHub Actions が統括し、自動ビルド・自動デプロイを実現。
+#### 3. DevOps: 完全自動化された CI/CD
+- **GitHub Actions ワークフロー**: 1 時間ごとの cron スケジュールで稼働。
+- **実行環境**: Ubuntu-latest 上で Python 3.12 と Node.js 20 のデュアルスタック・ワークロードを実行。
+- **アトミック・デプロイ**: GitHub Actions が新しい `intel.json` データと React のビルド成果物を統合し、`gh-pages` ブランチへプッシュ。ダウンタイムなしの更新を実現。
 
 ---
 
 ## 🚀 Local Setup / ローカルセットアップ
 
-### Prerequisites
-- Node.js (v20+)
-- Python (v3.12+)
-
-### 1. インストール
+### Scraper (Python)
 ```bash
-git clone https://github.com/WaRara-men/nexus-intel.git
-cd nexus-intel
-```
-
-### 2. バックエンド (スクレイパー) の設定
-```bash
-# 依存関係のインストール
-pip install -r requirements.txt
-
-# 手動でデータを収集してみる
+pip install feedparser beautifulsoup4 requests deep-translator pandas
 python scrapers/collector.py
 ```
 
-### 3. フロントエンド (ダッシュボード) の起動
+### Dashboard (React)
 ```bash
-cd frontend
 npm install
 npm run dev
 ```
-
----
-
-## 🛠️ Tech Stack / 使用技術
-- **Frontend**: React, Vite, Tailwind CSS (Vanilla CSS Architecture), Lucide React.
-- **Backend**: Python, BeautifulSoup4, Feedparser.
-- **Database**: JSON-based flat-file database.
-- **Infrastructure**: GitHub Actions, GitHub Pages.
-
----
-
-## 🛣️ Roadmap / 今後の展望
-- [ ] **AI Summarization**: タイトルだけでなく、本文の 3 行要約機能を搭載。
-- [ ] **Push Notifications**: 重大なニュースが検出された際、Discord/Slack への通知。
-- [ ] **Advanced Analytics**: ソースごとの重要度トレンドの可視化。
 
 ---
 
