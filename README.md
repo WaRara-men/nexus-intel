@@ -51,11 +51,11 @@ Harnessing the full capability of the GitHub ecosystem to achieve **Absolute Aut
 
 ```mermaid
 graph TD
-    subgraph External_Intelligence_Layer [External Intelligence Layer]
+    subgraph External_Intelligence_Layer ["External Intelligence Layer"]
         Sources["📡 Global RSS & Atom Sources<br/>(Arxiv, TechCrunch, IEEE, Google News)"]
     end
 
-    subgraph Neural_Processing_Layer [Neural Processing Layer (GitHub Actions)]
+    subgraph Neural_Processing_Layer ["Neural Processing Layer (GitHub Actions)"]
         Scraper["🐍 Python Scraper Engine"]
         Logic{"🧠 Neural Logic"}
         Trans["🇯🇵 deep-translator<br/>(Neural MT)"]
@@ -66,7 +66,7 @@ graph TD
         Logic -->|Scoring| Store
     end
 
-    subgraph Edge_Delivery_Layer [Edge Delivery Layer (GitHub Pages)]
+    subgraph Edge_Delivery_Layer ["Edge Delivery Layer (GitHub Pages)"]
         Vite["⚡ Vite Optimization Engine"]
         Assets["📦 Static Assets + Minified JSON"]
         
@@ -74,7 +74,7 @@ graph TD
         Vite --> Assets
     end
 
-    subgraph Terminal_Dashboard [Terminal Dashboard (The Soul)]
+    subgraph Terminal_Dashboard ["Terminal Dashboard (The Soul)"]
         UI["💎 Cyber-Glass Bento UI<br/>(React 18)"]
         Inter["🚀 60fps Search & Interaction"]
         
