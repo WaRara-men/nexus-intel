@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Nexus Intel 🌐 | Serverless Global Intelligence Hub
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -6,14 +5,18 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
+[English](#english) | [日本語](#日本語)
+
+---
+
+<a name="english"></a>
+## English
+
 **Nexus Intel** is a high-performance, zero-cost intelligence dashboard that aggregates global news, AI breakthroughs, and robotics trends. It features an automated translation engine and a stunning "Cyber-Glass Bento" UI.
 
 🚀 **[Live Demo](https://WaRara-men.github.io/nexus-intel/)**
 
----
-
-## ✨ Ultimate Features
-
+### ✨ Ultimate Features
 - 🌐 **Global Aggregation**: Scrapes AI, Robotics, and World News from top-tier RSS feeds every hour.
 - 🇯🇵 **Auto-Translation**: Automatically translates international titles into Japanese using `deep-translator`.
 - 💎 **Cyber-Glass Bento UI**: A premium, responsive React dashboard designed for readability and visual excellence.
@@ -23,8 +26,24 @@
 
 ---
 
-## 🛠️ Tech Stack
+<a name="日本語"></a>
+## 日本語
 
+**Nexus Intel** は、世界のニュース、AI の画期的な進歩、ロボティクスのトレンドを集約する、ハイパフォーマンスかつコストゼロのインテリジェンス・ダッシュボードです。自動翻訳エンジンと、洗練された「Cyber-Glass Bento」UI を備えています。
+
+🚀 **[ライブデモはこちら](https://WaRara-men.github.io/nexus-intel/)**
+
+### ✨ 主な機能
+- 🌐 **グローバル集約**: AI、ロボティクス、世界ニュースをトップクラスの RSS フィードから 1 時間ごとに収集。
+- 🇯🇵 **自動翻訳**: `deep-translator` を使用して、海外のニュース記事のタイトルを日本語に自動翻訳。
+- 💎 **Cyber-Glass Bento UI**: 視認性と美しさを追求した、プレミアムでレスポンシブな React ダッシュボード。
+- ⚡ **サーバーレス＆ゼロコスト**: GitHub Actions と GitHub Pages のみで動作し、インフラ費用は一切かかりません。
+- 🔍 **リアルタイム検索・フィルタ**: 必要な情報を瞬時に見つけることが可能。
+- 📑 **ブックマーク＆重要度スコアリング**: AI モデルによる重要度判定で、重要なアップデートを強調表示。
+
+---
+
+## 🛠️ Tech Stack
 - **Frontend**: React, Vite, Tailwind CSS (Vanilla CSS Architecture), Lucide React.
 - **Backend**: Python, BeautifulSoup4, Feedparser.
 - **Database**: JSON-based flat-file database (`data/intel.json`).
@@ -32,7 +51,7 @@
 
 ---
 
-## 🚀 Local Setup
+## 🚀 Local Setup / ローカルセットアップ
 
 ### Prerequisites
 - Node.js (v20+)
@@ -63,7 +82,6 @@ npm run dev
 ---
 
 ## 🤖 How it Works (System Architecture)
-
 1. **Scrape**: GitHub Actions triggers the Python scraper every 60 minutes.
 2. **Translate & Score**: The scraper fetches RSS feeds, translates titles to Japanese, and assigns importance scores.
 3. **Commit**: The updated `data/intel.json` is committed back to the repository.
@@ -76,97 +94,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 Built with ❤️ by [WaRara-men](https://github.com/WaRara-men)
-=======
-# Project Overview
-
-This project aims to provide a comprehensive solution for managing and analyzing Intel data.\  
-このプロジェクトは、Intelデータの管理と分析のための包括的なソリューションを提供することを目的としています。
-
-# Tech Stack
-
-- Node.js\  
-- Express.js\  
-- MongoDB\  
-- React\  
-- Docker\  
-
-# Features
-
-- Real-time data analysis\  
-- Multi-language support\  
-- Secure data access and storage\  
-- User-friendly interface\  
-
-# Quick Start
-
-1. Clone the repository\  
-2. Install dependencies: `npm install`\  
-3. Start the server: `npm start`\  
-
-# Project Structure
-
-```
-project/
-├── client/  // React frontend
-├── server/  // Node.js backend
-├── db/      // Database related files
-└── config/   // Configuration files
-```
-
-# Configuration
-
-Configurations can be found in the `config/` directory. Make sure to set the following:
-- Database URI
-- Port number
-
-# Usage Examples
-
-You can access the application by navigating to `http://localhost:3000` in your browser.\  
-アプリケーションには、ブラウザで `http://localhost:3000` に移動することでアクセスできます。
-
-# Tests
-
-Run tests using the command: `npm test`\  
-テストを実行するには、コマンドを使用します: `npm test`
-
-# Performance
-
-The application is optimized for high performance with efficient data handling techniques.\  
-アプリケーションは効率的なデータ処理技術により高パフォーマンス用に最適化されています。
-
-# Security
-
-Security measures include user authentication, data encryption, and access control.\  
-セキュリティ対策には、ユーザー認証、データ暗号化、およびアクセス制御が含まれます。
-
-# Contributing Guidelines
-
-1. Fork the repository\  
-2. Create a new branch for your feature\  
-3. Submit a pull request\  
-
-# Code Standards
-
-Follow the coding conventions outlined in the project documentation.\  
-プログラムのドキュメントに記載されているコーディング規約に従ってください。
-
-# Bug Reports
-
-Please report any bugs you find on the GitHub issue tracker.\  
-見つけたバグは、GitHubのイシュートラッカーで報告してください。
-
-# License
-
-This project is licensed under the MIT License.\  
-このプロジェクトはMITライセンスの下でライセンスされています。
-
-# Resources
-
-- [Documentation](https://example.com/docs)\  
-- [API Reference](https://example.com/api)\  
-
-# Support Information
-
-For support, please open an issue or contact the maintainers.\  
-サポートが必要な場合は、イシューを開くか、メンテナーに連絡してください.
->>>>>>> 47eed0692254c1c2cb5dd8208e61dabd648ecd2a
