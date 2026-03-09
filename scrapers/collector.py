@@ -5,6 +5,10 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import os
+from deep_translator import GoogleTranslator
+
+# 翻訳エンジン
+translator = GoogleTranslator(source='auto', target='ja')
 
 SOURCES = {
     'AI/IT': [
@@ -39,22 +43,18 @@ def init_db():
         url TEXT UNIQUE,
         published_at TIMESTAMP,
         importance INTEGER DEFAULT 1,
-        source_name TEXT
+        source_name TEXT,
+        translated_title TEXT
     )''')
     conn.commit()
     conn.close()
 
 def score_importance(title, summary):
     score = 1
-    keywords = {
-        'AI': 2, 'GPT': 2, 'Robot': 2, 'New': 1, 'Launch': 2, 
-        'Crisis': 2, 'Breakthrough': 3, 'Quantum': 2, 'Apple': 1, 'Tesla': 1,
-        '戦争': 2, '危機': 2, '発表': 1, '世界初': 3
-    }
+    keywords = {'AI': 2, 'GPT': 2, 'Robot': 2, 'Launch': 2, 'Crisis': 2, 'Breakthrough': 3, '戦争': 2, '危機': 2, '世界初': 3}
     text = (str(title) + " " + str(summary)).upper()
     for kw, s in keywords.items():
-        if kw.upper() in text:
-            score += s
+        if kw.upper() in text: score += s
     return min(score, 5)
 
 def collect_intel():
@@ -69,14 +69,24 @@ def collect_intel():
                 feed = feedparser.parse(src['url'])
                 for entry in feed.entries:
                     try:
+                        # 既にあるかチェック
+                        c.execute("SELECT 1 FROM intel WHERE url = ?", (entry.link,))
+                        if c.fetchone(): continue
+
                         summary_text = entry.get('summary', '')[:500]
                         importance = score_importance(entry.title, summary_text)
                         
-                        c.execute('''INSERT OR REPLACE INTO intel 
-                            (category, title, summary, url, published_at, source_name, importance) 
-                            VALUES (?, ?, ?, ?, ?, ?, ?)''', 
+                        # 翻訳（GitHub Actionsが重くならないようタイトルのみ翻訳）
+                        try:
+                            trans = translator.translate(entry.title) if category != 'News' else entry.title
+                        except:
+                            trans = entry.title
+                        
+                        c.execute('''INSERT OR IGNORE INTO intel 
+                            (category, title, summary, url, published_at, source_name, importance, translated_title) 
+                            VALUES (?, ?, ?, ?, ?, ?, ?, ?)''', 
                             (category, entry.title, summary_text[:200], entry.link, 
-                             entry.get('published', datetime.datetime.now()), src['name'], importance))
+                             entry.get('published', datetime.datetime.now().isoformat()), src['name'], importance, trans))
                     except Exception as e:
                         print(f"Error processing {entry.title}: {e}")
             except Exception as e:
@@ -84,14 +94,19 @@ def collect_intel():
     
     conn.commit()
     
-    # JSON 出力用のカーソルを再作成
     conn.row_factory = sqlite3.Row
     cursor_json = conn.cursor()
     cursor_json.execute("SELECT * FROM intel ORDER BY published_at DESC LIMIT 100")
     rows = [dict(row) for row in cursor_json.fetchall()]
     
+    # メタデータとともに JSON 出力
+    output_data = {
+        "last_updated": datetime.datetime.now().isoformat(),
+        "items": rows
+    }
+    
     with open('data/intel.json', 'w', encoding='utf-8') as f:
-        json.dump(rows, f, ensure_ascii=False, indent=2)
+        json.dump(output_data, f, ensure_ascii=False, indent=2)
     
     conn.close()
     print("Collection & JSON export completed.")

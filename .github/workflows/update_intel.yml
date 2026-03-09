@@ -23,7 +23,7 @@ jobs:
 
       - name: Install Python deps
         run: |
-          pip install feedparser beautifulsoup4 requests
+          pip install feedparser beautifulsoup4 requests deep-translator
 
       - name: Run Scraper
         run: |
