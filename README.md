@@ -1,181 +1,137 @@
-# Nexus Intel 🌐 | Serverless Global Intelligence Hub
+<p align="center">
+  <img src="https://img.icons8.com/color/144/000000/artificial-intelligence.png" width="100" />
+</p>
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+<h1 align="center">Nexus Intel 🌐</h1>
+<p align="center">
+  <strong>The Signal in the Noise | Neural Intelligence Hub</strong>
+</p>
 
-> **"Turning the world's noise into actionable intelligence."**  
-> Nexus Intel is a high-performance, serverless intelligence pipeline that translates, scores, and visualizes global news in a premium Cyber-Glass dashboard.
+<p align="center">
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></a>
+  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+</p>
 
-[English](#english) | [日本語](#日本語)
+<p align="center">
+  🚀 <strong><a href="https://WaRara-men.github.io/nexus-intel/">Experience the Live Demo</a></strong> | 
+  🇯🇵 <strong><a href="#-日本語-japanese">日本語解説へ移動</a></strong>
+</p>
 
 ---
 
-<a name="english"></a>
-## 🌐 English: Project Overview & Technical Deep-Dive
+## 🌎 Overview
 
-### 📖 Motivation
-Information is the ultimate currency, but "Information Overload" is the ultimate tax. **Nexus Intel** was built to provide a zero-noise, high-signal intelligence experience. By combining distributed RSS feeds, automated NLP translation, and high-end reactive design, it delivers a curated view of the global tech landscape with **zero operational infrastructure costs**.
+**Nexus Intel** is a serverless, zero-cost intelligence dashboard that transforms raw global technical signals into a high-density, localized experience. Built with a "Neural Logic" engine, it filters, translates, and prioritizes the most important breakthroughs in AI and Robotics, all while running on $0 infrastructure.
 
-### 🛠️ Technical Architecture
+### 🏆 Why Nexus Intel?
+
+| Feature | Description | Value |
+| :--- | :--- | :--- |
+| **$0 Operational Cost** | Runs entirely on GitHub ecosystem (Actions + Pages). | Free Forever |
+| **Neural Priority** | Custom importance scoring (1-5 stars) based on keyword weightage. | Signal over Noise |
+| **Bento Grid UI** | Cyber-Glass design with HSL-themed visual density. | Premium UX |
+| **Auto-Localization** | 100% automated translation of international titles to Japanese. | Zero Language Barrier |
+
+---
+
+## 🧠 Technical Architecture
+
+How do we achieve 24/7 automated updates with $0 maintenance? The secret lies in our **Serverless ETL Pipeline**:
 
 ```mermaid
-graph TD
-    A[Sources: Arxiv, TechCrunch, IEEE, etc.] -->|RSS/Atom| B[Python Scraper Engine]
-    B -->|Translation| C[deep-translator / Google API]
-    B -->|Scoring| D[Importance Algorithm]
-    B -->|Persistence| E[(SQLite / nexus.db)]
-    E -->|Flatfile Export| F[data/intel.json]
-    F -->|Fetch| G[React 18 / Vite Frontend]
-    G -->|Interactive UI| H[Glassmorphism Bento Dashboard]
-    I[GitHub Actions] -->|Scheduled Trigger| B
-    I -->|Build & Deploy| G
-```
+graph LR
+    subgraph External Sources
+        RSS[RSS / Atom Feeds]
+        News[Tech Portals]
+    end
 
-#### 🐍 Backend: The Intelligence Pipeline
-The backend is a robust Python engine (`scrapers/collector.py`) that operates on a 60-minute automated cycle.
+    subgraph GitHub_Actions_Runner
+        A[Python Scraper] --> B{Neural Logic}
+        B -->|Translate| C[deep-translator]
+        B -->|Scoring| D[Importance Engine]
+        D --> E[(SQLite nexus.db)]
+        E -->|Export| F[intel.json]
+    end
 
-- **Intelligent Deduplication**: Every incoming URL is hashed and cross-checked against a localized SQLite database (`nexus.db`) to ensure zero redundancy.
-- **Automated Headline Translation**: Powered by the `deep-translator` library, titles are processed from their source language (primarily English) into high-fidelity Japanese.
-- **Importance Scoring Algorithm**: Not all news is equal. Nexus Intel applies a deterministic scoring logic:
-  ```python
-  def score_importance(title, summary):
-      score = 1
-      keywords = {
-          'Breakthrough': 3, 'World First': 3,  # Critical Signals
-          'AI': 2, 'GPT': 2, 'Robot': 2,        # Industry Focus
-          'Crisis': 2, 'Launch': 2             # Movement Signals
-      }
-      # ... keyword extraction & normalization ...
-      return min(score, 5) # 5-Star Scale
-  ```
+    subgraph Web_Deployment
+        F --> G[Vite Build]
+        G --> H[GitHub Pages]
+    end
 
-#### ⚛️ Frontend: The "Cyber-Glass" Interface
-The dashboard is a high-end React 18 application optimized for performance and aesthetics.
+    subgraph User_Experience
+        H --> I[React Bento UI]
+        I --> J[Localized Intel]
+    end
 
-- **Glassmorphism Design System**: Built with modern CSS (`style.css`), utilizing HSL color tokens and `backdrop-filter: blur(12px)` for a semi-transparent, premium UI.
-- **Bento Box Grid**: A dynamic CSS Grid layout where "Hero Cards" (the top-scored intel) automatically expand to occupy larger visual real estate.
-- **Optimization Strategy**:
-    - **`useMemo` Hook**: Used to wrap the filtering and search logic, ensuring that even with 100+ items, the search feel is instantaneous (sub-5ms update).
-    - **Client-Side Persistence**: Bookmark IDs are stored in `localStorage`, maintaining user state across sessions without a backend database.
-
----
-
-<a name="日本語"></a>
-## 🇯🇵 日本語: プロジェクト概要と技術的な詳細
-
-### 📖 開発の動機
-現代において情報は最大の資産ですが、「情報の過多」は最大のコストです。**Nexus Intel**（ネクサス・インテル）は、ノイズを極限まで排除し、有用なシグナルのみを抽出するインテリジェンス体験を提供するために開発されました。世界各国の RSS フィード、自動 NLP 翻訳、そして洗練されたリアクティブ・デザインを組み合わせることで、**インフラ運用コスト 0 円**で、世界のテック動向をリアルタイムに俯瞰することを可能にします。
-
-### 🛠️ システム・アーキテクチャ
-
-```mermaid
-graph TD
-    A[ソース: Arxiv, TechCrunch, IEEE, etc.] -->|RSS/Atom| B[Python スクレイパーエンジン]
-    B -->|翻訳| C[deep-translator / Google API]
-    B -->|スコアリング| D[重要度判定アルゴリズム]
-    B -->|永続化| E[(SQLite / nexus.db)]
-    E -->|フラットファイル出力| F[data/intel.json]
-    F -->|フェッチ| G[React 18 / Vite フロントエンド]
-    G -->|インタラクティブ UI| H[Glassmorphism Bento ダッシュボード]
-    I[GitHub Actions] -->|定期実行トリガー| B
-    I -->|ビルド & デプロイ| G
-```
-
-#### 🐍 バックエンド: インテリジェンス・パイプライン
-バックエンドは、60 分サイクルで自動稼働する堅牢な Python エンジン (`scrapers/collector.py`) で構成されています。
-
-- **高度な重複排除**: すべての URL はハッシュ化され、ローカルの SQLite データベース (`nexus.db`) と照合されます。これにより、同じニュースが二度表示されることはありません。
-- **全自動ヘッドライン翻訳**: `deep-translator` ライブラリを介して、海外メディア（主に英語）のタイトルを精度高く日本語へ変換します。
-- **重要度スコアリング・アルゴリズム**: すべてのニュースが同じ価値を持つわけではありません。Nexus Intel では以下の決定論的ロジックを採用しています。
-  ```python
-  def score_importance(title, summary):
-      score = 1
-      keywords = {
-          'Breakthrough': 3, '世界初': 3,     # クリティカル・シグナル
-          'AI': 2, 'GPT': 2, 'Robot': 2,      # 重点産業
-          '危機': 2, 'Launch': 2              # 動向シグナル
-      }
-      # ... キーワード抽出 & 正規化ロジック ...
-      return min(score, 5) # 5段階評価
-  ```
-
-#### ⚛️ フロントエンド: 「Cyber-Glass」インターフェース
-ダッシュボードは、パフォーマンスと美学を極限まで追求した React 18 アプリケーションです。
-
-- **グラスモーフィズム・デザイン**: HSL カラー・トークンと `backdrop-filter: blur(12px)` を駆使した現代的な CSS (`style.css`) 背景設計。
-- **Bento Box グリッド**: 動的な CSS Grid レイアウト。重要度が高いと判定された記事（Hero Card）は自動的にグリッド内で大きく表示され、ユーザーの視線を誘導します。
-- **パフォーマンス最適化手法**:
-    - **`useMemo` フック**: 膨大なデータセット（100 件以上）でも、ミリ秒単位（5ms 以下）の検索・フィルタリング更新を実現。
-    - **クライアントサイド永続化**: ブックマーク ID は `localStorage` に保存され、サーバーレス構成でありながらユーザーの状態をセッションを跨いで保持します。
-
----
-
-## 📂 Directory Structure / ディレクトリ構成
-
-```text
-nexus-intel/
-├── .github/workflows/   # CI/CD: Hourly Python scraper & Vite auto-deploy
-├── backend/             # (Placeholder) Reserved for future API extensions
-├── scrapers/            
-│   └── collector.py     # CORE: Python intelligence engine (Scrape/Translate/Score)
-├── data/                
-│   ├── nexus.db         # Persistent SQLite store (Deduplication)
-│   └── intel.json       # Production data source (Minified JSON)
-├── frontend/            
-│   ├── src/             
-│   │   ├── App.jsx      # Dashboard Logic (React/i18n/Filters)
-│   │   └── style.css    # Premium CSS Architecture (Glassmorphism)
-│   └── index.html       
-└── README.md            # You are here
+    RSS & News --> A
 ```
 
 ---
 
-## 🚀 Local Setup / ローカルセットアップ
+## 🛠️ Performance & Neural Logic
 
-### Prerequisites
-- **Node.js**: v20 or higher
-- **Python**: v3.12 or higher
+### 1. Neural Importance Scoring
+Not every headline is a breakthrough. Our Python engine runs a deterministic weightage check:
+- **`+3` Stars**: Keywords like *Breakthrough*, *World First*, *Achievement*.
+- **`+2` Stars**: Focus on *AI*, *GPT*, *Robot*, *Crisis*.
+- **Clamp**: Final output is normalized to a 1-5 scale to drive the **Bento Grid** layout priority.
 
-### 1. Installation
+### 2. High-Density Glass UI
+The frontend doesn't just display data—it optimizes it.
+- **`useMemo` Caching**: Filtering and multi-keyword search logic is cached to maintain 60fps interaction on any device.
+- **Atomic CSS Tokens**: Every glass element is driven by HSL tokens (hue-saturation-lightness) for perfect visual harmony.
+
+---
+
+<br>
+
+<a name="-日本語-japanese"></a>
+## 🇯🇵 日本語: インテリジェンス・ハブ概観
+
+<details>
+<summary><strong>詳細を開く / View Detailed Guide (JP)</strong></summary>
+
+### 📖 プロジェクトの核心
+**Nexus Intel** は、情報のノイズを切り裂き、最も価値あるシグナルを抽出するために設計されたサーバーレス・インテリジェンス・ダッシュボードです。海外の最新技術ニュース、AI の画期的な進歩、ロボティクスのトレンドを 1 分も無駄にすることなく日本語で把握できます。
+
+### ✨ 圧倒的な強み
+- **究極の持続可能性**: サーバー費用 0 円。GitHub Actions の自動巡回のみで自律稼働します。
+- **インテリジェント翻訳**: 世界中のヘッドラインを `deep-translator` で瞬時に日本語化。言語の壁は存在しません。
+- **Cyber-Glass Bento UI**: 視認性と美しさを両立したプレミアムなデザイン。重要度は AI スコアによって視覚的に強調されます。
+
+### 🏗️ テクノロジー・ディープダイブ
+1. **収集エンジン (Python)**: `feedparser` と `BeautifulSoup4` を極限までチューニングし、高速なパースを実現。
+2. **データ永続化**: 重複排除のための SQLite と、フロントエンド配信用の軽量 JSON DB を組み合わせたハイブリッド構成。
+3. **UI フレームワーク**: React 18 と Vite による超高速レンダリング。`useMemo` フックによる検索最適化。
+
+</details>
+
+---
+
+## 🚀 Getting Started
+
+### Quick Install
 ```bash
 git clone https://github.com/WaRara-men/nexus-intel.git
 cd nexus-intel
 ```
 
-### 2. Run the Intelligence Pipeline
+### Local Execution (Frontend)
 ```bash
-# Setup backend dependencies
-pip install -r requirements.txt
+cd frontend && npm install && npm run dev
+```
 
-# Execute data collection manually
+### Script Execution (Python Scraper)
+```bash
+pip install -r requirements.txt
 python scrapers/collector.py
 ```
 
-### 3. Launch the Dashboard
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
 ---
 
-## 🛠️ Tech Stack / 使用技術
-
-- **Language**: Python 3.12 (Engines), JavaScript/JSX (UI)
-- **UI Frameworks**: React 18, Vite, Lucide-React
-- **Styling**: Vanilla CSS (Cyber-Glass UI Architecture)
-- **NLP/Translators**: Deep-Translator (Google)
-- **Automation**: GitHub Actions (Cron Jobs)
-- **Deployment**: GitHub Pages
-
----
-
-## 📝 License
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-Built with ❤️ by [WaRara-men](https://github.com/WaRara-men)
+<p align="center">
+  Built with ❤️ for the Developer Community by <a href="https://github.com/WaRara-men">WaRara-men</a>
+</p>
