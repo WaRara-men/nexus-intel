@@ -2,8 +2,8 @@ import React, { useEffect, useState, useMemo } from 'react';
 import axios from 'axios';
 import { 
   Cpu, Settings, Globe, Newspaper, ExternalLink, Star, 
-  Package, Languages, Search, Bookmark, BookmarkCheck, 
-  Clock, TrendingUp, Zap
+  Package, Search, Bookmark, BookmarkCheck, 
+  Clock, TrendingUp, Zap, BarChart3
 } from 'lucide-react';
 import './style.css';
 
@@ -12,20 +12,18 @@ const DATA_URL = './data/intel.json';
 const I18N = {
   ja: {
     title: "NEXUS", subtitle: "INTEL", search: "知性を検索...", loading: "データを同期中...", 
-    lastUpdate: "最終更新: {t}", nextUpdate: "次回巡回まで: {m}分", readMore: "開く"
+    lastUpdate: "最終更新: {t}", nextUpdate: "次回巡回まで: {m}分", readMore: "開く", trends: "トレンド"
   },
   en: {
     title: "NEXUS", subtitle: "INTEL", search: "Search Intelligence...", loading: "Syncing Neural Data...",
-    lastUpdate: "Updated: {t}", nextUpdate: "Next crawl in {m}m", readMore: "OPEN"
+    lastUpdate: "Updated: {t}", nextUpdate: "Next crawl in {m}m", readMore: "OPEN", trends: "TRENDS"
   }
 };
 
-// 相対時間を計算する関数
 const getRelativeTime = (dateStr) => {
   const now = new Date();
   const date = new Date(dateStr);
   const diffInMinutes = Math.floor((now - date) / (1000 * 60));
-  
   if (diffInMinutes < 1) return "Just now";
   if (diffInMinutes < 60) return `${diffInMinutes}m ago`;
   if (diffInMinutes < 1440) return `${Math.floor(diffInMinutes / 60)}h ago`;
@@ -42,6 +40,7 @@ const Particles = () => (
 function App() {
   const [intel, setIntel] = useState([]);
   const [lastUpdated, setLastUpdated] = useState(null);
+  const [trends, setTrends] = useState([]);
   const [category, setCategory] = useState('');
   const [lang, setLang] = useState('ja');
   const [loading, setLoading] = useState(true);
@@ -56,6 +55,7 @@ function App() {
       const res = await axios.get(DATA_URL);
       setIntel(res.data.items || []);
       setLastUpdated(res.data.last_updated);
+      setTrends(res.data.trends || []);
     } catch (err) { console.error(err); }
     setLoading(false);
   };
@@ -67,7 +67,6 @@ function App() {
     setBookmarks(prev => prev.includes(id) ? prev.filter(b => b !== id) : [...prev, id]);
   };
 
-  // 検索・フィルタリングロジック（修正済み）
   const filteredIntel = useMemo(() => {
     const query = searchQuery.toLowerCase();
     return intel.filter(item => {
@@ -106,6 +105,18 @@ function App() {
           <Search size={16} />
           <input type="text" placeholder={t.search} value={searchQuery} onChange={(e)=>setSearchQuery(e.target.value)} />
         </div>
+
+        {trends.length > 0 && (
+          <div className="trends-bar">
+            <BarChart3 size={14} />
+            <span className="trend-label">{t.trends}:</span>
+            <div className="trend-tags">
+              {trends.map(word => (
+                <button key={word} onClick={() => setSearchQuery(word)} className="trend-tag">#{word}</button>
+              ))}
+            </div>
+          </div>
+        )}
       </nav>
 
       <div className="category-bar">
@@ -119,6 +130,8 @@ function App() {
       <main className="bento-grid">
         {loading ? (
           <div className="cyber-loader">{t.loading}</div>
+        ) : filteredIntel.length === 0 ? (
+          <div className="no-results">SYSTEM SCAN COMPLETE: NO DATA MATCHING CRITERIA.</div>
         ) : (
           filteredIntel.map((item, idx) => (
             <div className={`bento-card importance-${item.importance} ${idx === 0 && !searchQuery ? 'hero-card' : ''}`} key={item.id} onClick={() => window.open(item.url, '_blank')}>
