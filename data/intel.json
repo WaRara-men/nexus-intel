@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T07:44:55.402320",
+  "last_updated": "2026-03-11T08:48:10.083218",
   "items": [
     {
       "id": 327,
@@ -11,6 +11,17 @@
       "importance": 3,
       "source_name": "IEEE Robotics",
       "translated_title": "ロボットのチームが戦場で命を救うために競い合う"
+    },
+    {
+      "id": 502,
+      "category": "Global",
+      "title": "World News in Brief: Arab economies rise, rights experts call for police reform in India, Ukraine school closures, Myanmar airstrikes - UN News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE43N1F1MF81bDNhaURJN3lNR1hXUEluLWNSLVg0TlpGeEVwb1NFSWhjMWZnV3BDcFlHNGJEeG5jdE5LRWFCZUZvandQS1o0ODdJTkNSdktrZw?oc=5\" target=\"_blank\">World New",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43N1F1MF81bDNhaURJN3lNR1hXUEluLWNSLVg0TlpGeEVwb1NFSWhjMWZnV3BDcFlHNGJEeG5jdE5LRWFCZUZvandQS1o0ODdJTkNSdktrZw?oc=5",
+      "published_at": "Wed, 25 Feb 2026 18:13:10 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "世界ニュース概要：アラブ経済が台頭、人権専門家がインドの警察改革を求める、ウクライナの学校閉鎖、ミャンマーの空爆 - 国連ニュース"
     },
     {
       "id": 315,
@@ -59,6 +70,61 @@
     {
       "id": 392,
       "category": "Product",
+      "title": "MacBook Neoのスピーカー、音量は十分。でも「低音」と「音のひろがり」が物足りない",
+      "summary": "Photo:はらいさん全体的に「音のひろがり方」が少し気になりました。MacBookNeoの本体価格は税込9万9800円から。10万円以下を実現するために、ほかのMacBookシリーズに搭載されている機能がいくつか削ぎ落とされています。そのなかの1つがスピーカー。本体側面に搭載されているサイドファイアリングスピーカーの音は実際どんなふうに聞こえるのか、さっそく試し聞きしてみました。静かな環境で聞く",
+      "url": "https://www.gizmodo.jp/2026/03/macbookneo-speaker.html",
+      "published_at": "Wed, 11 Mar 2026 17:45:00 +0900",
+      "importance": 1,
+      "source_name": "Gizmodo JP",
+      "translated_title": "MacBook Neoのスピーカー、音量は十分。でも「低音」と「音のひろがり」が物足りない"
+    },
+    {
+      "id": 393,
+      "category": "Product",
+      "title": "MacBook Neoの遅いポートに（わざと）ディスプレイを繋いでみた",
+      "summary": "Photo:小暮ひさのり手前か？奥か？どっちだ!?「MacBookNeo」の良いところとしてUSBポートが2つ備わっています。悪いところとしては、2つのポートの規格が違います。USB3とUSB2ポートが混在していて、高速なデータ転送や外部ディスプレイ出力には、高速なUSB3ポートの方に繋ぐ必要があるのです。奥が高速なUSB3ポートで、手前が低速のUSB2ポート。この低速なUSB2ポートの方に外部デ",
+      "url": "https://www.gizmodo.jp/2026/03/macbookneo-display.html",
+      "published_at": "Wed, 11 Mar 2026 17:45:00 +0900",
+      "importance": 1,
+      "source_name": "Gizmodo JP",
+      "translated_title": "MacBook Neoの遅いポートに（わざと）ディスプレイを繋いでみた"
+    },
+    {
+      "id": 394,
+      "category": "Product",
+      "title": "わずか634gのウルトラライト・シンセで「どこでもDTM」爆誕",
+      "summary": "Photo:KazumiOda2025年8月31日の記事を編集して再掲載しています。僕のバッグはいつも機材でパンパンだ。海外出張でも会社に出社するときでも、ノートPCや文房具よりもサンプラーや小型モジュラー、ケーブルやミキサーが幅をきかせている。界隈では「荷物が多すぎる編集長」と呼ばれ、飛行機の中でサンプラーを叩いていれば「ミュージシャンの方ですか？」とCAに声をかけられるのは、もはや恒例行事だ。",
+      "url": "https://www.gizmodo.jp/2026/03/esi_xsynth-mqy.html",
+      "published_at": "Wed, 11 Mar 2026 17:35:00 +0900",
+      "importance": 1,
+      "source_name": "Gizmodo JP",
+      "translated_title": "わずか634gのウルトラライト・シンセで「どこでもDTM」爆誕"
+    },
+    {
+      "id": 395,
+      "category": "Product",
+      "title": "110億円の月探査ミッションが一瞬で水の泡。原因があまりに単純だった",
+      "summary": "NASAとロッキード・マーティンによる、月探査衛星「LunarTrailblazer」が月周回軌道にある様子を描いたイラストImage:NASANASAの月探査機「ルナ・トレイルブレイザー（LunarTrailblazer）」は、月面の水をマッピングして将来の月探査に重要な手がかりをもたらすはずでした。しかし、昨年ケネディ宇宙センターから華々しく打ち上げられた直後、ただの鉄屑になってしまったんです",
+      "url": "https://www.gizmodo.jp/2026/03/lunar-trailblazer-sun-pointing-software-bug.html",
+      "published_at": "Wed, 11 Mar 2026 17:00:00 +0900",
+      "importance": 3,
+      "source_name": "Gizmodo JP",
+      "translated_title": "110億円の月探査ミッションが一瞬で水の泡。原因があまりに単純だった"
+    },
+    {
+      "id": 396,
+      "category": "Product",
+      "title": "3通り充電＆LEDライトに変身。サンワの「防災意識の塊」多機能ラジオを常備せよ",
+      "summary": "楽天市場では、最大50％と高ポイント還元イベント｢楽天スーパーDEAL｣を開催中。\n本日2026年3月11日は、スマートフォン充電・手回し・ソーラーといった3つの充電方法を備え、非常時に役立つサンワサプライ（SANWA SUPPLY ）の「多機能防災ラジオ 800-LED100 」が、お得に登場しています。",
+      "url": "https://www.gizmodo.jp/2026/03/rakuten-sale-2026-0311-1.html",
+      "published_at": "Wed, 11 Mar 2026 16:55:00 +0900",
+      "importance": 1,
+      "source_name": "Gizmodo JP",
+      "translated_title": "3通り充電＆LEDライトに変身。サンワの「防災意識の塊」多機能ラジオを常備せよ"
+    },
+    {
+      "id": 397,
+      "category": "Product",
       "title": "安くて簡単に窓とカーテンの隙間をなくす方法",
       "summary": "Image:KOMERI.COM2024年4月14日の記事を編集して再掲載しています。突っ張り棒で設置がカンタン！窓ガラスとカーテンレールの隙間のせいで、光が漏れて眩しかったり、冬だと冷気が降りてきて寒いってことありますよね。100円でも買える突っ張り棒隙間をふさぐのに良いアイテムはそう多くはない中、コメリの「アテーナライフ　つっぱり式ハニカムシェード」は安くて機能的。壁に穴を開けることなく、10",
       "url": "https://www.gizmodo.jp/2026/03/komeri-honeycomb-shade-curtain-w0t.html",
@@ -68,7 +134,7 @@
       "translated_title": "安くて簡単に窓とカーテンの隙間をなくす方法"
     },
     {
-      "id": 393,
+      "id": 398,
       "category": "Product",
       "title": "遠慮せんでた〜んとお食べ。MacBook Neoに140Wアダプタを繋げてみた",
       "summary": "Photo:小暮ひさのりさぁさぁ、食べな食べな。遠慮はいらんって。そ、そうは言われても、僕食が細いんで…。みたいな経験ありますか？今日やってきたMacBookNeoちゃんもそんな子で、付属する充電器も20Wモデルです。「そうは言っても、20W以上食えるんでしょ？」「本気出せばもうちょっと入るんでしょ？」みたいな期待感ありますよね。食ってもらいました。MacBookPro用140Wアダプタを用意。さ",
@@ -79,7 +145,7 @@
       "translated_title": "遠慮せんでた〜んとお食べ。MacBook Neoに140Wアダプタを繋げてみた"
     },
     {
-      "id": 394,
+      "id": 399,
       "category": "Product",
       "title": "水没の危機を回避せよ。水に浮くドローンなら水辺でも安心",
       "summary": "Photo:三浦一紀ドローンを買って、ワクワクしながら海や川で飛ばしてみたら、いきなり水面に落っこちて終了…。そんな経験したことありませんか？防水設計ではないドローンは、その時点で絶命してしまいます。Photo:三浦一紀そんな不安から解放してくれるのが、HOVERAirの「HOVERAirAQUA」。IP67等級の防水設計がされており、水に浮くようになっています。これなら、水に落ちても安心。Pho",
@@ -90,7 +156,7 @@
       "translated_title": "水没の危機を回避せよ。水に浮くドローンなら水辺でも安心"
     },
     {
-      "id": 395,
+      "id": 400,
       "category": "Product",
       "title": "車内のケーブル管理万全。UGREENのカーチャージャーが2,000円台になってる",
       "summary": "Amazon（アマゾン）で毎日開催されているタイムセール。\n本日2026年3月11日は、最大70cmの巻き取り式ケーブルと最大60W出力を備えたUGREEN（ユーグリーン）の「Nexode 巻き取り式 USB-Cケーブル内蔵 カーチャージャー  60W  EC602 」が、お得に登場しています。",
@@ -101,7 +167,7 @@
       "translated_title": "車内のケーブル管理万全。UGREENのカーチャージャーが2,000円台になってる"
     },
     {
-      "id": 396,
+      "id": 401,
       "category": "Product",
       "title": "MacBook Neoのトラックパッドは押せる（物理）。サイズもちょいコンパクトね",
       "summary": "Photo:小暮ひさのり新モデルの大きな変更点！本日発売された期待の新星「MacBookNeo」。9万9800円という価格でインパクトのスゴイ子ですが、価格故に既存のMacBookたちと異なるポイントもいくつかあります。見た目と操作で変わるポイントとして、トラックパッドが違うのです。トラックパッドが感圧式。物理的に沈み込むPhoto:小暮ひさのりこちらが実際のトラックパッド。マルチタッチやジェスチ",
@@ -112,18 +178,18 @@
       "translated_title": "MacBook Neoのトラックパッドは押せる（物理）。サイズもちょいコンパクトね"
     },
     {
-      "id": 397,
+      "id": 402,
       "category": "Product",
-      "title": "MacBook Neoを開封。「シトラス」は惚れ惚れする色合いでした",
+      "title": "MacBook Neoを開封。シトラス、よく見ると「黄緑」でした",
       "summary": "Photo:はらいさんMacの開封で久々にワクワクした！税込10万円以下で購入できるMacBookNeoがついに発売日を迎えました。MacBookNeoの本体カラーは全4色。どの色にするか迷っている方も多いと思いますが、ギズモード編集部にも素敵な色合いのMacBookNeoがさっそく届いたので開封してみました！明るい色合いのMacBookはかなり斬新。ビジュアルだけでも大満足Photo:はらいさん",
       "url": "https://www.gizmodo.jp/2026/03/macbook-neo-first-impression.html",
       "published_at": "Wed, 11 Mar 2026 15:15:00 +0900",
       "importance": 1,
       "source_name": "Gizmodo JP",
-      "translated_title": "MacBook Neoを開封。「シトラス」は惚れ惚れする色合いでした"
+      "translated_title": "MacBook Neoを開封。シトラス、よく見ると「黄緑」でした"
     },
     {
-      "id": 398,
+      "id": 403,
       "category": "Product",
       "title": "iPhone 17eとMacBook Neo、処理速度が速いのはiPhoneでした",
       "summary": "Photo:小暮ひさのり今日発売のAppleの2つのエントリーモデル端末、iPhone17eとMacBookNeo。どちらもAppleの中ではバジェットモデルにあたり、価格を下げるためにさまざまな工夫がされています。とくに、MacBokNeoは、10万円以下Appleノートパソコンを実現するため、通常はiPhoneに搭載されるAチップを採用したのが大きなポイントです。では、通常iPhoneに搭載さ",
@@ -134,7 +200,7 @@
       "translated_title": "iPhone 17eとMacBook Neo、処理速度が速いのはiPhoneでした"
     },
     {
-      "id": 399,
+      "id": 404,
       "category": "Product",
       "title": "カードリーダー内蔵の収納ケース。SDカードとmicroSDに対応",
       "summary": "Photo:三浦一紀スマートフォン撮影関連のグッズを多数展開しているPGYTECH（ピージーワイテック）のブースに、便利そうなものを発見。「CreateMate高速ミニカードリーダー内蔵ケース」です。Photo:三浦一紀こちら、カバーを開けるとSDカードとmicroSDカードが収納できるカードケースとなります。この状態では、SDカード1枚にmicroSDカード3枚収納できます。Photo:三浦一紀",
@@ -145,7 +211,7 @@
       "translated_title": "カードリーダー内蔵の収納ケース。SDカードとmicroSDに対応"
     },
     {
-      "id": 400,
+      "id": 405,
       "category": "Product",
       "title": "「UGREENの軽量・ANC付きヘッドホン62％オフ」に驚いて、ページ閉じないで",
       "summary": "Amazon（アマゾン）で毎日開催されているタイムセール。\n本日2026年3月11日は、約135gの軽量設計・最大80時間再生・ノイズキャンセリング付きで、コストパフォーマンスが優秀なUGREEN（ユーグリーン）のワイヤレスヘッドホン「Studio Plus HP207」が、お得に登場しています。",
@@ -156,7 +222,7 @@
       "translated_title": "「UGREENの軽量・ANC付きヘッドホン62％オフ」に驚いて、ページ閉じないで"
     },
     {
-      "id": 401,
+      "id": 406,
       "category": "Product",
       "title": "使うのは、無印良品だけ。フリーランスの私がたどり着いた「領収書整理をサボらずできるセット」",
       "summary": "Photo:小池田ROOMIE2026年1月28日掲載の記事より転載この前新年を迎えたばかりだと思っていたら、あっというまに1月も残すところあと数日。フリーランスの私にとっては、そろそろ確定申告に本格的に取り掛からなければいけない時期です。仕事を続けるうえで、毎年頭を悩ませていたのが領収書の整理。毎月そこそこの量があるうえに、生活のなかでちょこちょこと発生するので、こまめに整理しておかないと「あれ",
@@ -167,7 +233,7 @@
       "translated_title": "使うのは、無印良品だけ。フリーランスの私がたどり着いた「領収書整理をサボらずできるセット」"
     },
     {
-      "id": 402,
+      "id": 407,
       "category": "Product",
       "title": "iPhone 17eの新色「ソフトピンク」を開封。春っぽさがお出迎え",
       "summary": "Photo:小暮ひさのり春が来た、春が来た、編集部に来た。3月11日、ついに発売になった「iPhone17e」。昨年iPhone16eが出た時もびっくりしたけど、まさかそれが毎年更新のレギュラーになるとは。しかも新色「ソフトピンク」まで出るなんて！そんなの欲しいに決まってんじゃん！というわけで、編集部でポチったやつが早速届きました。さぁ、この春色のアンボックス、行ってみましょー！外箱はいつものペリ",
@@ -178,7 +244,7 @@
       "translated_title": "iPhone 17eの新色「ソフトピンク」を開封。春っぽさがお出迎え"
     },
     {
-      "id": 403,
+      "id": 408,
       "category": "Product",
       "title": "こういうのがいいんだよ。今年のCP+で気になったトイデジ",
       "summary": "Photo:三浦一紀手軽に撮れるのがいいね。今年のCP+で感じたのが、「トイデジが多いな」ということ。本格的なミラーレス一眼や高級コンデジもいいんですが、もっと気軽にパシャパシャ撮れて、ちょっと懐かしい画質のトイデジも、感情に訴えかけるものがあっていいですよね。こちらの記事で紹介したトイデジ以外にも、ちょっと気になったものがあったのでご紹介します。こーんなに小さいトイデジ。でも映りは結構しっかりし",
@@ -189,7 +255,7 @@
       "translated_title": "こういうのがいいんだよ。今年のCP+で気になったトイデジ"
     },
     {
-      "id": 404,
+      "id": 409,
       "category": "Product",
       "title": "デザインアワード受賞。リロードアクションもできるこの電動ドライバーシリーズ、かっこよすぎないか？",
       "summary": "MECHTRON CYBERPUNK Seriesは、SF映画のようなサイバーパンクデザインの電動ドライバーシリーズ。デザインアワード受賞歴もあり、ピストル型など4種類をラインナップ。特にピストル型は弾倉型バッテリーでリロードアクションも楽しめる。実用性とエンタメ性を両立した要注目プロダクトです。",
@@ -200,7 +266,7 @@
       "translated_title": "デザインアワード受賞。リロードアクションもできるこの電動ドライバーシリーズ、かっこよすぎないか？"
     },
     {
-      "id": 405,
+      "id": 410,
       "category": "Product",
       "title": "Samsung初のスマートグラスは今年発売か？「ユーザー目線のカメラ」搭載",
       "summary": "Image:RidhamSupriyanto(Shutterstock)以前から開発が噂されまくっているSamsung（サムスン）のスマートグラス。Samsungモバイルの中の人、JayKim氏が米メディア・CNBCのインタビューに応じ、スマートグラスについて語りました。ユーザーの視線を読み解くキーとなりそうなのは、スマートグラスに搭載されるカメラ。Kim氏いわく、「ユーザーの目の高さと同じ位置に",
@@ -211,7 +277,7 @@
       "translated_title": "Samsung初のスマートグラスは今年発売か？「ユーザー目線のカメラ」搭載"
     },
     {
-      "id": 406,
+      "id": 411,
       "category": "Product",
       "title": "AI翻訳機がスマホリングと一体化。同時通訳・文字起こし機能で146言語の壁をラクラク超える",
       "summary": "スマホリングとAI翻訳機がひとつになった「TeweekAI X10」はオンライン会議や海外出張、映画や動画鑑賞で活躍します。146言語対応のAI翻訳が言葉の壁を解消。8つの翻訳モードと長時間バッテリーを搭載し、リアルタイムでテキスト化します。もうコミュニケーションで悩まない、令和時代のスマートな選択肢です。",
@@ -222,7 +288,7 @@
       "translated_title": "AI翻訳機がスマホリングと一体化。同時通訳・文字起こし機能で146言語の壁をラクラク超える"
     },
     {
-      "id": 407,
+      "id": 412,
       "category": "Product",
       "title": "Pixel 11は見た目に大きな変化なし？ 折りたたみと最高位機種リーク",
       "summary": "Image:ギズモード編集部｜Geminiによる予想ビジュアル先日アメリカで発売されたPixel10a（日本ではまだ発売日発表なし）ですが、ほぼPixel9aだと言われており、大きなアプデはほぼなし。が、低価格モデルに限らず、今年のGoogleは“控えめ”なのかもしれません。折りたたみスマホのPixel11ProFoldのレンダリング画像、フラッグシップ最高位機種のPixel11ProXLのケース",
@@ -233,7 +299,7 @@
       "translated_title": "Pixel 11は見た目に大きな変化なし？ 折りたたみと最高位機種リーク"
     },
     {
-      "id": 408,
+      "id": 413,
       "category": "Product",
       "title": "値段そのままで中身マシマシ。iPhone 17eはスマホの正統進化形",
       "summary": "Image:AdrianoContreras/GizmodoUS発表を聞いた瞬間から当たり端末だとは思いました。なんといっても、このご時世に、去年のモデルiPhone16eから価格が据え置きなんですから！日本価格も据え置きなんですから！その上で、iPhone16eになかった、かつあったらいいなと思っていたポイントを、全方位的にもりもりアップデート。スペック表を見ただけでもお買い得感がありましたが、",
@@ -244,7 +310,7 @@
       "translated_title": "値段そのままで中身マシマシ。iPhone 17eはスマホの正統進化形"
     },
     {
-      "id": 409,
+      "id": 414,
       "category": "Product",
       "title": "いちど無印iPhoneにしたら、Proシリーズがどれほど快適だったのか気付かされました",
       "summary": "Photo:中川真知子2025年3月2日の記事を編集して再掲載しています。iPhone16Proを使って半年が経とうとしています。実機を触ったその日にポチるほど惚れ込み、期待もしていた最新iPhone。「買ってよかった〜〜〜〜〜！」と天に向かって叫びたくなるほどの高揚感や満足感はないのですが、ちょっとしたことでジワっと「私の選択は間違っていなかった」と感じています。というわけで今回は、長期的に使っ",
@@ -255,7 +321,7 @@
       "translated_title": "いちど無印iPhoneにしたら、Proシリーズがどれほど快適だったのか気付かされました"
     },
     {
-      "id": 410,
+      "id": 415,
       "category": "Product",
       "title": "新生活を始める皆さん、買うなら「机よりイス優先」で。 毎日、身体を預けたい相棒ワークチェア",
       "summary": "Photo:三浦一紀机じゃない、イスだ。もうすぐ4月。新生活のシーズンです。ライフスタイルが変わって部屋の模様替えをしようという人も多いことでしょう。仕事に備えて在宅ワーク環境を備えたい新社会人に、一人暮らしに向けて学習スペースを構築したい学生さん、そして「春だし、デスクをもっと快適にアプデしたい」という人も。心機一転、理想の作業環境を作るために、机を買い替えようと思ったりしていませんか？確かに、",
@@ -266,7 +332,7 @@
       "translated_title": "新生活を始める皆さん、買うなら「机よりイス優先」で。 毎日、身体を預けたい相棒ワークチェア"
     },
     {
-      "id": 411,
+      "id": 416,
       "category": "Product",
       "title": "直火でもIHでも使える。たった2ピースで6役こなす、日本製の軽量鉄フライパンを試してみた",
       "summary": "鉄ミニフライパンと鉄シェラカップの2ピースセット「無骨シェラパン」は、ハードテンパー加工済みで届いたその日から使えます。炒める・焼く・揚げる・煮る・茹でる・沸かすの6役をこれ1つでカバー。持ち手と本体の一体構造で壊れにくく、汚れも溜まりにくい設計。ガス火からIH・直火・オーブンまで対応し、自宅でもキャンプでもシームレスに活躍します。熟練の鉄職人が手作業で仕上げた日本製で、使うほどに油がなじみ育つ一",
@@ -277,73 +343,73 @@
       "translated_title": "直火でもIHでも使える。たった2ピースで6役こなす、日本製の軽量鉄フライパンを試してみた"
     },
     {
-      "id": 412,
-      "category": "Product",
-      "title": "0秒で読書!? 画期的なアプリを使ってみたら本当だった",
-      "summary": "Photo:納富廉邦「0秒読書」というなかなか挑発的な名前のアプリが登場した。いくらなんでもそれは言い過ぎではないのかと思っていたところ、発売元の「ソースネクスト」からプレス用に1ヶ月のお試しアカウントをいただいたので、とにかく試したみた。電子書籍をPDF化する単機能ツールPhoto:納富廉邦アプリとしての機能はいたってシンプル。通常、電子書籍で購入した本はテキストの抜き出しができないようになって",
-      "url": "https://www.gizmodo.jp/2026/03/sourcenext_zerodokusyo_application.html",
-      "published_at": "Wed, 11 Mar 2026 10:30:00 +0900",
+      "id": 535,
+      "category": "News",
+      "title": "わずか634gのウルトラライト・シンセで｢どこでもDTM｣爆誕 - ギズモード・ジャパン",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Bc2R4b0E3RXVwUmdDanJMaFFJXzdJbWp3cEdMNnNzNTFlajQ5M2d0UlE0VXdleHJMNFpzMmdNOV9BSlhid0J4ZkpwZGhnUGRsMGZBZ0F4NGdkNnU0bHhB?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Bc2R4b0E3RXVwUmdDanJMaFFJXzdJbWp3cEdMNnNzNTFlajQ5M2d0UlE0VXdleHJMNFpzMmdNOV9BSlhid0J4ZkpwZGhnUGRsMGZBZ0F4NGdkNnU0bHhB?oc=5",
+      "published_at": "Wed, 11 Mar 2026 08:35:00 GMT",
       "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "0秒で読書!? 画期的なアプリを使ってみたら本当だった"
-    },
-    {
-      "id": 413,
-      "category": "Product",
-      "title": "「電動は高い」をくつがえす1台。ニトリの昇降デスクは2万円",
-      "summary": "Image:NITORI電動で2万円は買いです。長時間のデスク作業は腰や肩に負担がきますよね。それが何年も積み重なると、ヒドい腰痛や肩コリに悩まされます。座りっぱなしにならないようちょいちょい立ったり、ストレッチしたり、矯正ベルトを着けるなどの対策もありますが…スタンディングデスクの導入がシンプルな解決策かもしれません。かといって、立ちっぱなしも負担があるので、最適解は昇降デスク。カジュアルな作業",
-      "url": "https://www.gizmodo.jp/2026/03/nitori-electric-height-adjustable-desk.html",
-      "published_at": "Wed, 11 Mar 2026 10:00:00 +0900",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "「電動は高い」をくつがえす1台。ニトリの昇降デスクは2万円"
-    },
-    {
-      "id": 414,
-      "category": "Product",
-      "title": "このワークギアは想像以上の快適さ。PCスタンド・拡張HUB・スリーブ機能を一体化しちゃいました",
-      "summary": "PCスタンド・拡張HUB・スリーブ機能を一体化した「utendors スタンドHUB」は、ノートPC作業をより快適にしてくれる次世代ワークギアです。開くだけでスタンドが立ち上がり、自然な目線の高さを確保。長時間作業でも姿勢をラクに保てます。USBやHDMIなど複数ポートを備え、周辺機器をまとめて接続できるのも魅力。折りたためばそのままPCケースとして持ち運べるため、荷物を減らしたいモバイルワーカー",
-      "url": "https://www.gizmodo.jp/2026/03/costorypo-utendors-review2-1775510000.html",
-      "published_at": "Wed, 11 Mar 2026 09:55:00 +0900",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "このワークギアは想像以上の快適さ。PCスタンド・拡張HUB・スリーブ機能を一体化しちゃいました"
-    },
-    {
-      "id": 415,
-      "category": "Product",
-      "title": "約3700万円で落札されたPlayStationがあった話",
-      "summary": "Image:HeritageAuctionsこの記事は「ギズモード・タイムマシン」──すこし前の今日って、何があったんだろう？未来から観察してみたら、懐かしさだけでなく、意外な発見だってあるかもしれません。2020年3月10日、「PlayStationが約3700万円で落札…その正体とは？」という記事を掲載しました。このPlayStationの正体は、1990年代初頭に生み出された｢Nintend",
-      "url": "https://www.gizmodo.jp/2026/03/nintendo_playstation.html",
-      "published_at": "Wed, 11 Mar 2026 09:00:00 +0900",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "約3700万円で落札されたPlayStationがあった話"
-    },
-    {
-      "id": 416,
-      "category": "Product",
-      "title": "コンセントが「不足＆間隔狭くて挿せない」問題、CIOの電源タップでサクッと解決",
-      "summary": "CIOの「Polaris CUBE WALL」は、壁コンセントにACコンセント×3口、USB-C×2ポート、USB-A×1ポートを追加できる拡張電源タップです。例えば、3口のコンセントでは電気スタンドや扇風機などを使用して、残りのUSBポートでノートPCやイヤホンの充電を同時に可能にしますよ。",
-      "url": "https://www.gizmodo.jp/2026/03/2603-amazon-cio-polaris-cube-1.html",
-      "published_at": "Wed, 11 Mar 2026 08:55:00 +0900",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "コンセントが「不足＆間隔狭くて挿せない」問題、CIOの電源タップでサクッと解決"
+      "source_name": "Google News JP",
+      "translated_title": "わずか634gのウルトラライト・シンセで｢どこでもDTM｣爆誕 - ギズモード・ジャパン"
     },
     {
       "id": 419,
       "category": "Global",
+      "title": "See the world in vertical: Top photos by AP photojournalists - AP News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWh3NGFGT3Q4eDdzWXFSZER1OGVxc1pPZVhFTGNNcGZfMjhDZzlLNnFVdXBpR010eWE4cG5zWFItcWNTR2d5U01Zcm1JMm9IRUVYLURid1NpbWNsSHM1NXpaVVBsSzdVU1ZEQVRzMH",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWh3NGFGT3Q4eDdzWXFSZER1OGVxc1pPZVhFTGNNcGZfMjhDZzlLNnFVdXBpR010eWE4cG5zWFItcWNTR2d5U01Zcm1JMm9IRUVYLURid1NpbWNsSHM1NXpaVVBsSzdVU1ZEQVRzMHlZbXZXZ3pPU2RJakZERTNfeGZRVXN1S0gtRVp4ckJwNlhBcFV6cG0xM2JHZnlHY19h?oc=5",
+      "published_at": "Wed, 11 Mar 2026 08:10:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "世界を垂直方向に見る: AP フォトジャーナリストによるトップ写真 - AP ニュース"
+    },
+    {
+      "id": 420,
+      "category": "Global",
       "title": "Middle East crisis live: New supreme leader ‘safe’ despite war injuries, says president’s son; Iran retaliates as Israel pounds Lebanon - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT1hKM3l0TXFsVGNWY0JmUjZtUS1ma1FDVWdQV0xIZDE0QzM0Ry1BWGY3TGQ2R0w4UW9GbElUY2tvbjRFRjVRdnoxYUxJY0ZoeWZwamFLeHVYdWpHaC1WUE1nXzdKeC14S01wMUZNVl",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT1hKM3l0TXFsVGNWY0JmUjZtUS1ma1FDVWdQV0xIZDE0QzM0Ry1BWGY3TGQ2R0w4UW9GbElUY2tvbjRFRjVRdnoxYUxJY0ZoeWZwamFLeHVYdWpHaC1WUE1nXzdKeC14S01wMUZNVlBSelhJNEI3a18xdmJtWFNyRkNJeXZ1S3hTYXF5U19yX1VjRDE0cG9mbWZYQUh4V3IyaXMwR3NRRnVfSHd6dGJ2YzhzOTlJWFNyMTl0bTUxOEdJYXpGTEJ1YTBfUWtXaWZtNG5BTS05TkM?oc=5",
-      "published_at": "Wed, 11 Mar 2026 07:15:00 GMT",
+      "published_at": "Wed, 11 Mar 2026 08:04:00 GMT",
       "importance": 3,
       "source_name": "Google News World",
       "translated_title": "中東危機の現実：戦争による負傷にもかかわらず、新最高指導者は「安全」だと大統領の息子が語る。イスラエルがレバノンを砲撃、イランが報復 - ガーディアン紙"
     },
     {
-      "id": 453,
+      "id": 417,
+      "category": "Global",
+      "title": "US Iran War News LIVE: Mojtaba Khamenei 'safe and sound' despite injuries, says Iran; cargo ship hit in Strait of Hormuz | World News - Hindustan Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxONGd0allKcFgtRkpfOGU1MnQtYXNpcWVwM24xcTVzRmZlN1gzQUdEOFZlNWp0blBKOHVqUjBLM1o1Umx0ZnR0U0RWalNjNE9lS3Z0UEF0Uk8xUTB3Qm9ZSEM3OHdhcVctVmNWaWdmT3",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONGd0allKcFgtRkpfOGU1MnQtYXNpcWVwM24xcTVzRmZlN1gzQUdEOFZlNWp0blBKOHVqUjBLM1o1Umx0ZnR0U0RWalNjNE9lS3Z0UEF0Uk8xUTB3Qm9ZSEM3OHdhcVctVmNWaWdmT3dhU3VpNVQ3eVp0YmhaTV8yeV9xVHN0MFZIbXBURkFmVzYwZGZYbU1DRThEZS1LWTdjTDdJb29wYXE1UWU4VU4wTjNuZDYzdnRPaUtUenBxWmQ3VVNSWHUzSEFaZDNrX2htNGp6d3dSVjNFTDNNZjlNSjZXRDBEc1VGWnA1ZVJaZ3VXRXpGdGt1RTE2TmVOVUcySmZ6bmZyVdIBjAJBVV95cUxQcTZsSlpYM3ZPQm9SYXdkVENyQlY1OW9aaEs3dTRPYU93Q05kcE5vQUtFZjlHajJuU2xVWGVQWTMxeXJsa0JCN2ZMTExJSVVLZl9sZ0dYTnhvdDNTWENiRXU5bE9uV0V5aEdVWlVES2tDOERfbGlOOHFwMHNnV0ZZa1JiYkRJZFAyeEJ0MXhEVjZSb0tQNmhUMTV1UnZXdHhjMS10M1JkQnF0YWdGT09qSDBhU2ZFMGxlVkNfMXBXcmREVmZKb2ZQU0xFbS1hUlh4NG01d1FnTEEyWmNKeTVrQ1lzd2NSdjdUZjNpb29XTE1Cc2lOTllkem9aQ0FhNEFlVFpjbWpFVGU5YUlO?oc=5",
+      "published_at": "Wed, 11 Mar 2026 07:59:49 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "米国イラン戦争ニュースライブ：モジタバ・ハメネイ師は負傷にもかかわらず「安全で健全」とイランが発言。ホルムズ海峡で貨物船が衝突 | 写真 ホルムズ海峡で貨物船が衝突世界のニュース - ヒンドゥスタン・タイムズ"
+    },
+    {
+      "id": 519,
+      "category": "News",
+      "title": "イランがホルムズ海峡に機雷設置の準備か トランプ大統領 撤去なければ「見たことのないレベルの攻撃」 - Yahoo!ニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9qSWQ5d1lUMkNSRWdQeTR3NTRJUm5VOGVmRzNHUVk2czVtMm1LYl9HWXJaY1cxcW9xUlNPdENSUEhESWNIRjNNTmxHSjRVZWVGUEc1dHhnekFuSFpLZlRzbjNNa0I4Wm1TSG",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qSWQ5d1lUMkNSRWdQeTR3NTRJUm5VOGVmRzNHUVk2czVtMm1LYl9HWXJaY1cxcW9xUlNPdENSUEhESWNIRjNNTmxHSjRVZWVGUEc1dHhnekFuSFpLZlRzbjNNa0I4Wm1TSGRwYTF5aVdwejZqRDhsZ2ZpUExJWGc?oc=5",
+      "published_at": "Wed, 11 Mar 2026 07:36:26 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "イランがホルムズ海峡に機雷設置の準備か トランプ大統領 撤去なければ「見たことのないレベルの攻撃」 - Yahoo!ニュース"
+    },
+    {
+      "id": 531,
+      "category": "News",
+      "title": "東証大引け 日経平均は続伸 776円高 オラクル好決算や原油の上昇一服で - 日本経済新聞",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1KVy1zT3E2VmVPZlNIRW5GSFJoQjhLU0tkZzQweTNnZXJpTzR4MUpDU3VVcXU1WWo3X3JHbUNMeG9KcDhvRHRLVGM1YWVIUUlFZnd4T29meVlESEpkbWZQeGRBRTRDaE52a0",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KVy1zT3E2VmVPZlNIRW5GSFJoQjhLU0tkZzQweTNnZXJpTzR4MUpDU3VVcXU1WWo3X3JHbUNMeG9KcDhvRHRLVGM1YWVIUUlFZnd4T29meVlESEpkbWZQeGRBRTRDaE52a0ZXYw?oc=5",
+      "published_at": "Wed, 11 Mar 2026 07:10:12 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "東証大引け 日経平均は続伸 776円高 オラクル好決算や原油の上昇一服で - 日本経済新聞"
+    },
+    {
+      "id": 449,
       "category": "Global",
       "title": "UK counter-extremism plan aims to address hatred on campus - University World News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9mRTFBVnNHUi1QYjNxQVpZVTBkc2t1Z1lvZ2lzNVRkRmdBZTFnd0tUcVVKa3puNFJ3YnJBajNjNjNsN1VsdWRsVzdDRUpUbUtSQTBZSk9OSUpvUGdobzc4NVlsRWlvenFjWGYzZ0Y1U1",
@@ -351,10 +417,21 @@
       "published_at": "Wed, 11 Mar 2026 07:07:06 GMT",
       "importance": 3,
       "source_name": "Google News World",
-      "translated_title": "英国の対過激主義計画はキャンパス内の憎悪に対処することを目指す - University World News"
+      "translated_title": "英国の対過激主義計画はキャンパス内の憎しみに対処することを目指す - University World News"
     },
     {
-      "id": 444,
+      "id": 513,
+      "category": "Global",
+      "title": "Smashing Stats: Swiss Open 2026 - BWF World Tour",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQQVhTWlYzeHJIYzRxdEZMM3FIMm1DNFBXUzF3bFBLSThrMU5Za3E4WDk3WkZVMGdzeGg2SVVQMlkzNy1IU0xSWWREMlNzM1pCTS00cWZIVTJGbHc2SjYyUUpsb2pJV2t2SG1mb2Facz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQVhTWlYzeHJIYzRxdEZMM3FIMm1DNFBXUzF3bFBLSThrMU5Za3E4WDk3WkZVMGdzeGg2SVVQMlkzNy1IU0xSWWREMlNzM1pCTS00cWZIVTJGbHc2SjYyUUpsb2pJV2t2SG1mb2FaczFtdnNub0V2bEs3R2NSVHhpV1ZSbEswUnFsanc4cXhhUjFDMGhhQjd3?oc=5",
+      "published_at": "Wed, 11 Mar 2026 07:05:20 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "驚異的な統計: スイス オープン 2026 - BWF ワールド ツアー"
+    },
+    {
+      "id": 435,
       "category": "Global",
       "title": "The shadowy world of merchant cash advances - North Country Public Radio",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGczcWJ2cXRqSUtNaFNPMGJZaUZsZDlrT2FJY0tybHJGMDNVMWo0TGY3a1NjdWFsc3dSUnQ1MnA1RXdCZTh0MmRIakwyYXR5TXlWZVZZTW9ob3lYU21nOGVlaTJIQ2xmTUlMMi10Nk",
@@ -365,7 +442,7 @@
       "translated_title": "加盟店現金前貸しの影の世界 - North Country Public Radio"
     },
     {
-      "id": 537,
+      "id": 538,
       "category": "News",
       "title": "「オクトパストラベラー0」や「FFVIIリメイク IG」がセールに登場。「スクエニ MARCH SALE Part2」開催 - GAME Watch",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE45ejgycUhLVE8tR2NQejlTbE5OcU9MNjNPVkE1Ui1Ta0lIQUJYc090bGdld3l6c1ZCT0xXc2stRklmblkyU2FJUC16NHppQjFDRnpKRU4yZDhJVV9rcmcwVEdJZzZxdw?oc=5\" targe",
@@ -387,40 +464,40 @@
       "translated_title": "アンドゥリル、宇宙監視会社ExoAnalytic Solutionsを買収"
     },
     {
-      "id": 518,
+      "id": 541,
       "category": "News",
-      "title": "抗がん剤注入後に10代死亡、2人後遺症 埼玉県立小児医療センター [埼玉県] - 朝日新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55SW1wZWVxSlEycGJtTDJJeV9vLTJiMFc1NmN5d1ItUjBsbWJleXVVdFkxaThZNUxnaFJVSlpsemtsOTVzcDB0bGl6M0RXMnpQSXZCanpYa00zNG02anhENWROaE9TTFk?oc",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55SW1wZWVxSlEycGJtTDJJeV9vLTJiMFc1NmN5d1ItUjBsbWJleXVVdFkxaThZNUxnaFJVSlpsemtsOTVzcDB0bGl6M0RXMnpQSXZCanpYa00zNG02anhENWROaE9TTFk?oc=5",
-      "published_at": "Wed, 11 Mar 2026 06:40:23 GMT",
+      "title": "米国ホワイトハウスが「遊戯王」利用した広報映像投稿で批判殺到―公式は「一切関与していない」と声明 - Game*Spark",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jRWFTQUROUUtVNnNFS0JlV2JSZFI2dGEwVmtMdkRRTkx0N0lRb1g2Qkh6V1Q5LU4ybnQxbkR6Vk5WYW9sd2dUQU5Vd2VJN2lLRFB2bkRJaGQ1UFo1T3NaMkV4S1puUQ?oc=",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jRWFTQUROUUtVNnNFS0JlV2JSZFI2dGEwVmtMdkRRTkx0N0lRb1g2Qkh6V1Q5LU4ybnQxbkR6Vk5WYW9sd2dUQU5Vd2VJN2lLRFB2bkRJaGQ1UFo1T3NaMkV4S1puUQ?oc=5",
+      "published_at": "Wed, 11 Mar 2026 07:00:04 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "抗がん剤注入後に10代死亡、2人後遺症 埼玉県立小児医療センター [埼玉県] - 朝日新聞"
+      "translated_title": "米国ホワイトハウスが「遊戯王」利用した広報映像投稿で批判殺到―公式は「一切関与していない」と声明 - Game*Spark"
     },
     {
-      "id": 545,
-      "category": "News",
-      "title": "横綱・大の里（海洋高校出身）が春場所休場 初日から３連敗と不振 - 新潟日報",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wYnpqV1lITzY0T2NjVVV3Q1Q2SlhQMDdDeW44NkZJTDJTVXpDUXdWQ0dSRTlLTkl6cHBEVFhXYzgySGdNQzdrLW1CZE14aGRUbjNpV0pOUHdGWkhuaWc?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wYnpqV1lITzY0T2NjVVV3Q1Q2SlhQMDdDeW44NkZJTDJTVXpDUXdWQ0dSRTlLTkl6cHBEVFhXYzgySGdNQzdrLW1CZE14aGRUbjNpV0pOUHdGWkhuaWc?oc=5",
-      "published_at": "Wed, 11 Mar 2026 06:37:26 GMT",
+      "id": 473,
+      "category": "Global",
+      "title": "Tragic world news - facebook.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNMEJ2b3BlZ0tQWk85enMtT0J6eXZfdkZNNkRRbm1hdkhPYW1sbm5WLWFwM2Y0SHE0dVZrUUkwS3pHeU9zWkN3Y29zR2xySjlubFUyb3VFM3JJaVZvU3NYcGFvRmR6WFJ3ZUhxaEYtOX",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMEJ2b3BlZ0tQWk85enMtT0J6eXZfdkZNNkRRbm1hdkhPYW1sbm5WLWFwM2Y0SHE0dVZrUUkwS3pHeU9zWkN3Y29zR2xySjlubFUyb3VFM3JJaVZvU3NYcGFvRmR6WFJ3ZUhxaEYtOXVIRnJmSVAxRGJOd1gwbXhhZFdVMVJHMDVlQy14clMyaER4Zw?oc=5",
+      "published_at": "Wed, 11 Mar 2026 06:46:14 GMT",
       "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "横綱・大の里（海洋高校出身）が春場所休場 初日から３連敗と不振 - 新潟日報"
+      "source_name": "Google News World",
+      "translated_title": "悲劇的な世界ニュース - facebook.com"
     },
     {
-      "id": 529,
+      "id": 527,
       "category": "News",
-      "title": "ホルムズ海峡で貨物船に飛翔体、火災発生で乗組員避難 - Reuters",
+      "title": "ホルムズ海峡で貨物船に飛翔体、火災発生で乗組員避難 ＵＡＥ沖でも - Reuters",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVBSN1U3M2ttdm9ldEc5YXlKUUVDa1V2SDRrc2J6STV6dnRJOGlTT0pGQ01zbllIckdpZi1LTGtaXzFrZFp4ZTN4WkJfUEVTR2hfZk5sb0hHV3hhVVdiMnU3Z0tJTkYxOU",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVBSN1U3M2ttdm9ldEc5YXlKUUVDa1V2SDRrc2J6STV6dnRJOGlTT0pGQ01zbllIckdpZi1LTGtaXzFrZFp4ZTN4WkJfUEVTR2hfZk5sb0hHV3hhVVdiMnU3Z0tJTkYxOUNiaG9ENDB6VG9JUnJidkF2MTMxRU56UVhLUUVJV1Jy?oc=5",
       "published_at": "Wed, 11 Mar 2026 06:06:00 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "ホルムズ海峡で貨物船に飛翔体、火災発生で乗組員避難 - Reuters"
+      "translated_title": "ホルムズ海峡で貨物船に飛翔体、火災発生で乗組員避難 ＵＡＥ沖でも - Reuters"
     },
     {
-      "id": 447,
+      "id": 442,
       "category": "Global",
       "title": "Why Iran’s vital Kharg Island oil hub is still untouched by US-Israel bombers - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXMwdlVJQW5sRjBvQlpHOVE0UzRISGRyWVpaQUpkVGt2cVc1dVVTNmtObWxkSUpaUVNDMnNrY0JsemlVQ3dxUGctNGNwSUZQWjdxWFowSkpGTDhZaHc3NWdKQzhPZ2dCd2ZUc0N4Wj",
@@ -428,10 +505,10 @@
       "published_at": "Wed, 11 Mar 2026 06:02:00 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "イランの重要な石油ハブであるハルグ島がなぜ未だに米イスラエル爆撃機の攻撃を受けていないのか - ガーディアン紙"
+      "translated_title": "イランの重要な石油ハブであるカルグ島が未だに米イスラエル爆撃機の攻撃を受けていない理由 - ガーディアン紙"
     },
     {
-      "id": 485,
+      "id": 487,
       "category": "Global",
       "title": "Moses Itauma already one of the best heavyweights in the world: 'I feel like I am. I just have to prove it' - Sky Sports",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ2ZyV09NSHZVV3VGdE5jUjAyUzlJdW5SdUtjRFZHTWZZWTVweXhoLUdGTDNKTE5DS0dnMl9MbzNGOEtLc1BOTmRWYU1mUU9oQUlYYnVzbjRKZENLTVI4bWdFNnB2bVp6aU8zU2hENF",
@@ -442,18 +519,18 @@
       "translated_title": "モーゼス・イタウマはすでに世界最高のヘビー級選手の一人である：「私はそう感じている。それを証明するだけだ」 - スカイスポーツ"
     },
     {
-      "id": 517,
+      "id": 542,
       "category": "News",
-      "title": "東日本大震災15年「時が止まったままのよう」 発生時刻に黙とう - 日本経済新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9DRzhIODhGbHpHV1ZheWpXTkJ3TnhSWk9wNU01eWxaa2VmaUNNajFtcWcyWDhEcERCTXR6MVJZRUVUdmQ5OXhYLWJCX0c5Qm1TdHlJZ3prOEJnSlFZRmpqeVBiendmMWdNRF",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DRzhIODhGbHpHV1ZheWpXTkJ3TnhSWk9wNU01eWxaa2VmaUNNajFtcWcyWDhEcERCTXR6MVJZRUVUdmQ5OXhYLWJCX0c5Qm1TdHlJZ3prOEJnSlFZRmpqeVBiendmMWdNRFd4eg?oc=5",
-      "published_at": "Wed, 11 Mar 2026 05:58:58 GMT",
+      "title": "国際音楽賞「MUSIC AWARDS JAPAN 2026」ABEMAで無料生中継決定 - モデルプレス",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NR1dfWEpLeTRGMG5vcG9IeFRLSjJPTU1tVllrd1RtRGNHYVg4SHhOSS1qY3dvSndsS2duMjhVQW1ualJPcFJ0ZGN3T2HSAUhBVV95cUxNX3VqNDFnSEtZaFl1RUxjX2VmY0",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NR1dfWEpLeTRGMG5vcG9IeFRLSjJPTU1tVllrd1RtRGNHYVg4SHhOSS1qY3dvSndsS2duMjhVQW1ualJPcFJ0ZGN3T2HSAUhBVV95cUxNX3VqNDFnSEtZaFl1RUxjX2VmY01nTktHQ0VjZG1oYk92OHF3ZUtUWEtELXN1em5vY1B0Q3Y4elROZEJWZmZQdEQ?oc=5",
+      "published_at": "Wed, 11 Mar 2026 06:00:00 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "東日本大震災15年「時が止まったままのよう」 発生時刻に黙とう - 日本経済新聞"
+      "translated_title": "国際音楽賞「MUSIC AWARDS JAPAN 2026」ABEMAで無料生中継決定 - モデルプレス"
     },
     {
-      "id": 423,
+      "id": 424,
       "category": "Global",
       "title": "Cargo ship hit by projectile in Strait of Hormuz, crew evacuates - Reuters",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTFzMk02anpZZFQycEJxSGRYc0xVWHN2Tzdva2d4WEJWeWMzNG1BS19zZk1OVXNZT1BneHJFS3E2dTd2TEF5QkFZby1RcHJsWVJLdE1tREdYRXFlbEJTRXpMd2lnaDF4QkxPMTdPWi",
@@ -464,18 +541,7 @@
       "translated_title": "ホルムズ海峡で貨物船が飛翔体直撃、乗組員は避難 - ロイター"
     },
     {
-      "id": 532,
-      "category": "News",
-      "title": "日経平均は912円高、米CPIなどに関心(フィスコ) - Yahoo!ファイナンス",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOaENNVjNZY29jMHhIbkV1eVNNa2ZPWEkzRzBYcHIyVVZVckZULVRzb2t0TkpjWDhXSkZIRmVGVG03MnhtNk1oWXlOa3QxWGhnMjl2dEtRSjJnUlp2V3dqYmZTTGozaWpSdF",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaENNVjNZY29jMHhIbkV1eVNNa2ZPWEkzRzBYcHIyVVZVckZULVRzb2t0TkpjWDhXSkZIRmVGVG03MnhtNk1oWXlOa3QxWGhnMjl2dEtRSjJnUlp2V3dqYmZTTGozaWpSdFY5UjAyYlB2YXNUbkx5UmlROFc4akI5RWwwUE10WFk?oc=5",
-      "published_at": "Wed, 11 Mar 2026 05:51:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "日経平均は912円高、米CPIなどに関心(フィスコ) - Yahoo!ファイナンス"
-    },
-    {
-      "id": 430,
+      "id": 428,
       "category": "Global",
       "title": "Breaking News: The U.S. said it attacked 16 Iranian mine-laying vessels near the Strait of Hormuz amid concerns that Iran could block the world’s access to oil. Follow live updates. - facebook.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR0VnNXVreGlaTGdUczJJTDlPQnctOFpnamhzNTJCd1N0NHhZQ0RkN2NXMHhaaXB4VEc4R05pRGtGYXdhQzlqMUdKbENxZHEwVEdyLU1WU0xYU09seDVwRzB3T2dQcy13SVhaR3kyZl",
@@ -483,10 +549,21 @@
       "published_at": "Wed, 11 Mar 2026 05:35:28 GMT",
       "importance": 3,
       "source_name": "Google News World",
-      "translated_title": "ニュース速報：イランが世界の石油へのアクセスを阻害する可能性があるとの懸念から、米国はホルムズ海峡付近でイランの機雷敷設船16隻を攻撃したと発表した。ライブアップデートをフォローしてください。 - フェイスブック.com"
+      "translated_title": "ニュース速報：イランが世界の石油へのアクセスを妨害する可能性があるとの懸念から、米国はホルムズ海峡付近でイランの機雷敷設船16隻を攻撃したと発表した。ライブアップデートをフォローしてください。 - フェイスブック.com"
     },
     {
-      "id": 421,
+      "id": 518,
+      "category": "News",
+      "title": "抗がん剤注入後に10代死亡、2人後遺症 埼玉県立小児医療センター [埼玉県] - 朝日新聞",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55SW1wZWVxSlEycGJtTDJJeV9vLTJiMFc1NmN5d1ItUjBsbWJleXVVdFkxaThZNUxnaFJVSlpsemtsOTVzcDB0bGl6M0RXMnpQSXZCanpYa00zNG02anhENWROaE9TTFk?oc",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55SW1wZWVxSlEycGJtTDJJeV9vLTJiMFc1NmN5d1ItUjBsbWJleXVVdFkxaThZNUxnaFJVSlpsemtsOTVzcDB0bGl6M0RXMnpQSXZCanpYa00zNG02anhENWROaE9TTFk?oc=5",
+      "published_at": "Wed, 11 Mar 2026 05:31:03 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "抗がん剤注入後に10代死亡、2人後遺症 埼玉県立小児医療センター [埼玉県] - 朝日新聞"
+    },
+    {
+      "id": 423,
       "category": "Global",
       "title": "Live updates: 'Most intense day' of U.S. strikes on Iran, Hegseth says; Tehran warns it will block oil until attacks end - NBC News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnJLS21XV21pOFZYMUh5TThadjJhb01Cb1d2TzlRRE5jLUJmZ1NrNUxZbk9jMzFSQTJfRUFQSkpHMTRDWlJ1NS1id281RUZ1Z2JxNUE2Tm4tMDhyaUl0LUNzcDRrX1h0VFYwcGIzaW",
@@ -497,7 +574,7 @@
       "translated_title": "ライブ最新情報：米国のイラン攻撃で「最も激しい日」とヘグセス氏が語る。イラン政府、攻撃が終わるまで石油を封鎖すると警告 - NBCニュース"
     },
     {
-      "id": 451,
+      "id": 447,
       "category": "Global",
       "title": "How can Team USA advance at World Baseball Classic? WBC tiebreaker scenarios explained - CBS Sports",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOMDFRSEowR3R6NHVxNTVGMEJ5U0YxbGs2WkZjaFFXdjRkVFQtRFczeEVZS0pZSmpxQWZnM1hTSmJuSDVPLWE5RmVDZi1UV2I5T0E0Vmt2dDVoTW5PS0JmVU1ESFQ0UVkwQWtiUFVEem",
@@ -508,7 +585,7 @@
       "translated_title": "アメリカチームはどうすればワールド・ベースボール・クラシックで勝ち上がることができるでしょうか? WBCタイブレーカーのシナリオを解説 - CBSスポーツ"
     },
     {
-      "id": 534,
+      "id": 532,
       "category": "News",
       "title": "3円以上の値上がり…最新のガソリン価格、都道府県別一覧 3月11日経産省発表 - 福井新聞社",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SzNEYmZPcGpoWmc4UnJFdjdsOUhISE9SVWNoLThKNVhjNWVMcllwOUR6NjFhYlBaZEFidGtBX0NLeUpZMENTVWY5OTZKVU9EY0xsQmo5a0ptbDlvSFE?oc=5\" target=\"",
@@ -519,7 +596,7 @@
       "translated_title": "3円以上の値上がり…最新のガソリン価格、都道府県別一覧 3月11日経産省発表 - 福井新聞社"
     },
     {
-      "id": 432,
+      "id": 430,
       "category": "Global",
       "title": "Iran keeps up pressure on oil infrastructure as concerns of global energy crisis grow - WRAL",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnNrWDU4RWdJRTRDQXJIRENYUXMxWUpJT3UtbXBHUDI3SXY2VndZMFdGdTB1WmFYdU9YdGQ2aWkwWFI5MU1OTV92Ry1KaTNaM2RDV1k2enhIdTlWdllaN3lKa2NrYUp0MWppbGJtbm",
@@ -530,18 +607,7 @@
       "translated_title": "世界的なエネルギー危機の懸念が高まる中、イランは石油インフラへの圧力を続ける - WRAL"
     },
     {
-      "id": 425,
-      "category": "Global",
-      "title": "Iran keeps up pressure on oil infrastructure as concerns of global energy crisis grow - AP News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHlpakYzV29uWUcta3BPbDdFZnk2cEQ5WlNkZ0FHczdodk9Rb1hNZWEtRXRiQnE5THllenhSYzBlRnMzTU51N0U1d2xqeWx6aWdYek0wblE5NFpuV3NJMGNQdlRBU2phclQ0T3RXcn",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHlpakYzV29uWUcta3BPbDdFZnk2cEQ5WlNkZ0FHczdodk9Rb1hNZWEtRXRiQnE5THllenhSYzBlRnMzTU51N0U1d2xqeWx6aWdYek0wblE5NFpuV3NJMGNQdlRBU2phclQ0T3RXcnJlYnRrYTJzTlh4MktmYlF3NW9Fa2YwbXpmNGVzV3pMSGl1cUk2T0ozdV81dVQ2YUFJ?oc=5",
-      "published_at": "Wed, 11 Mar 2026 05:03:44 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "世界的なエネルギー危機の懸念が高まる中、イランは石油インフラへの圧力を続ける - AP通信"
-    },
-    {
-      "id": 443,
+      "id": 440,
       "category": "Global",
       "title": "The Latest: Iran fires at Gulf states as Australia grants asylum to women on Iranian soccer team - KSAT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa3Vya05NRVJUeTlTQlFlMi1JVW9CX3g3UUxGa3lCMHJqeEg5VncxMTF0Vy12LUlFNjJ2T3NCWXpZNV9Dak1BNFEzU2gzbGszRkY3SnJFNnplMjhhSktRZVVCbE9OSVlPVmtUZV83Wm",
@@ -552,7 +618,18 @@
       "translated_title": "最新情報：オーストラリアがイランサッカーチームの女性に亡命を認める中、イランが湾岸諸国に発砲 - KSAT"
     },
     {
-      "id": 438,
+      "id": 544,
+      "category": "News",
+      "title": "【WBC】鈴木誠也が大谷翔平の珍ショット公開　チャーター機で目を見開く同級生をパシャリ - ｄメニューニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHVlaE0xRENLX2UwX0RrX2QySHQwSXMzQkhHeTB2WC1mR1dRVVpOWXZlNTBtWU9CdUVuTnVhb1hVS0dSaTk3dmUzVDFUWDFlb1E5aE5Eampsa0htekNmZTJEdkFhdnMyOC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHVlaE0xRENLX2UwX0RrX2QySHQwSXMzQkhHeTB2WC1mR1dRVVpOWXZlNTBtWU9CdUVuTnVhb1hVS0dSaTk3dmUzVDFUWDFlb1E5aE5Eampsa0htekNmZTJEdkFhdnMyOC1UbWR1MXpuUnNfWGVvaXIzVkNPcTZKTjVrYWgxbXRiWHk2azdGWjAwVnFLa1HSAZsBQVVfeXFMTUI0X3I0OGppdGVDdnBHQTIzenF4Zl9oN25DSmRoVmhNVWJaQ2IxSVVWTjhQRmtjOXlNMzZWNWswRk9mMHFLLXJOTXRpTnk1SW1rQmhwemd3NTNKZW8xZXhLdThzWkJGS2RsMEFBZjZmRFBVaE9WSVFXZVNpMi0xeUw2MmRPeDlkYk1yb24xc2VybG9PcEwwQTVuR2M?oc=5",
+      "published_at": "Wed, 11 Mar 2026 05:00:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "【WBC】鈴木誠也が大谷翔平の珍ショット公開　チャーター機で目を見開く同級生をパシャリ - ｄメニューニュース"
+    },
+    {
+      "id": 431,
       "category": "Global",
       "title": "World Baseball Classic: USA stunned by Italy, must await its fate for knockout round - Yahoo Sports",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOXpOcm1GWTNiQ0d1endvam9GejJrOW9meEtsZUM5OERUaW50cFRXUE95VE9VVU1wQTV3dGFhX29WOHNSVUhmTnVvcmdkSE5DSkFfQ3c1NGdiQXhiazMtM0gtYm03QkRwNzF5c3laRE",
@@ -563,7 +640,18 @@
       "translated_title": "ワールド・ベースボール・クラシック：アメリカはイタリアに惨敗、決勝トーナメント進出は運命を待たなければならない - Yahoo Sports"
     },
     {
-      "id": 493,
+      "id": 529,
+      "category": "News",
+      "title": "【速報】成田到着機には韓国籍ら12人も搭乗 - 47NEWS",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1OXRpY2lVNjhEN1UwVHp4VjRMVHk1QVZiY2N0Q2VHdnRXQTRhenRFSU5ZT19xZVRtdHJJTFoybjl5OVJoZ3pRVklhbw?oc=5\" target=\"_blank\">【速報】成田到着機には韓国籍ら12",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1OXRpY2lVNjhEN1UwVHp4VjRMVHk1QVZiY2N0Q2VHdnRXQTRhenRFSU5ZT19xZVRtdHJJTFoybjl5OVJoZ3pRVklhbw?oc=5",
+      "published_at": "Wed, 11 Mar 2026 04:51:43 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "【速報】成田到着機には韓国籍ら12人も搭乗 - 47NEWS"
+    },
+    {
+      "id": 491,
       "category": "Global",
       "title": "Trump: Iran wants dialogue 'badly' - nhk.or.jp",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE42aEZJbmU2VTJsQnVsdkZIM0dTWXl3R3NsNjF2YnZubWNGTkxkYmExUzE0bTR3eFFyQ3ZLQnItTVVtakJZMnJJQWwtVkZadzZVNVpwZC04OU1JWmNoNHFmRmdLUQ?oc=5\" target=\"_",
@@ -574,7 +662,29 @@
       "translated_title": "トランプ氏「イランは対話を「ひどく」望んでいる - nhk.or.jp"
     },
     {
-      "id": 469,
+      "id": 533,
+      "category": "News",
+      "title": "日産、賃上げ「月1万円」で満額回答 26年春季交渉 - 日本経済新聞",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBSQnpzZXpmVlhyR1RWeGpvcExXX0VLejhvMk92WnZVM1RkTVA1a1ZXc3ozMHgtUlNQMkZRdHNQajExVVoyU184dWppNGRRaGpYX0ZSTGtYa1A0QndZWXBSRlhrZUhyN3F5ZW",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSQnpzZXpmVlhyR1RWeGpvcExXX0VLejhvMk92WnZVM1RkTVA1a1ZXc3ozMHgtUlNQMkZRdHNQajExVVoyU184dWppNGRRaGpYX0ZSTGtYa1A0QndZWXBSRlhrZUhyN3F5ZWd4RQ?oc=5",
+      "published_at": "Wed, 11 Mar 2026 04:27:32 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "日産、賃上げ「月1万円」で満額回答 26年春季交渉 - 日本経済新聞"
+    },
+    {
+      "id": 444,
+      "category": "Global",
+      "title": "Sherrard Middle School Robotics Teams Advance to VEX World Championships - theintelligencer.net",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNVllYaVBMVU5fbWJmdEZQd2Q5MVQza1BDb25MZjdWWkViMG55VWlRLUxJdUsyMVBNYVNiLUk1eDRiWnVQQWJsSU1tdFl1Q1RYcVozbUE1NGFoT0hGMVhqNDhCM21aTHNaUzVaUHFCND",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVllYaVBMVU5fbWJmdEZQd2Q5MVQza1BDb25MZjdWWkViMG55VWlRLUxJdUsyMVBNYVNiLUk1eDRiWnVQQWJsSU1tdFl1Q1RYcVozbUE1NGFoT0hGMVhqNDhCM21aTHNaUzVaUHFCNDZhdk5qUlRWWDd3VjJMTDZjaXpzUkQ1ZW1pS1NDa3pBVlJ1dVJSTkMxRFUyUlJDR0N4LVRlY0k1X0pPRTYtTUlXbkxCSUxzdzdqWXd2OVp4UFE2MW1sd2NLR3lKTVk5UQ?oc=5",
+      "published_at": "Wed, 11 Mar 2026 04:24:05 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "シェラード中学校のロボット工学チームが VEX 世界選手権に進出 - theintelligencer.net"
+    },
+    {
+      "id": 466,
       "category": "Global",
       "title": "NFL world stunned after Ravens back out of Maxx Crosby trade - USA Today",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQakpnc29BMzVQd1RaSjdKd3VmTkZGWVgwOVRJcFR2Q0ZHLXQ2QjN3OV9xRS1xdnYwX2UtVVBKUmFHVk8wYUYzbk91MzNneTYzRTlEM1VvTVRONG90S0FtdGM5bDdBbkxkRGFRVHh4QU",
@@ -583,17 +693,6 @@
       "importance": 1,
       "source_name": "Google News World",
       "translated_title": "レイブンズがマックス・クロスビーとのトレードから撤退、NFL世界が驚愕 - USA Today"
-    },
-    {
-      "id": 449,
-      "category": "Global",
-      "title": "Sherrard Middle School Robotics Teams Advance to VEX World Championships - theintelligencer.net",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNVllYaVBMVU5fbWJmdEZQd2Q5MVQza1BDb25MZjdWWkViMG55VWlRLUxJdUsyMVBNYVNiLUk1eDRiWnVQQWJsSU1tdFl1Q1RYcVozbUE1NGFoT0hGMVhqNDhCM21aTHNaUzVaUHFCND",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVllYaVBMVU5fbWJmdEZQd2Q5MVQza1BDb25MZjdWWkViMG55VWlRLUxJdUsyMVBNYVNiLUk1eDRiWnVQQWJsSU1tdFl1Q1RYcVozbUE1NGFoT0hGMVhqNDhCM21aTHNaUzVaUHFCNDZhdk5qUlRWWDd3VjJMTDZjaXpzUkQ1ZW1pS1NDa3pBVlJ1dVJSTkMxRFUyUlJDR0N4LVRlY0k1X0pPRTYtTUlXbkxCSUxzdzdqWXd2OVp4UFE2MW1sd2NLR3lKTVk5UQ?oc=5",
-      "published_at": "Wed, 11 Mar 2026 04:18:51 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "シェラード中学校のロボット工学チームが VEX 世界選手権に進出 - theintelligencer.net"
     },
     {
       "id": 543,
@@ -607,7 +706,7 @@
       "translated_title": "【ＷＢＣ】イタリアが米国から３発で大金星…史上最大の下克上 終盤の猛追振り切る “エスプレッソ軍団”が８強王手 - Yahoo!ニュース"
     },
     {
-      "id": 520,
+      "id": 522,
       "category": "News",
       "title": "アングル：革命防衛隊が担ぎ上げたイラン新指導者、本人沈黙に国内外で懸念も - Reuters",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNUzF0QWRnOGVuck1ocUNxdF82czNrVnMyazVTWm5STXhoRHRCTXQ0dTJ5ZFg0WGNsU2ZvdTRsUXMyNFB5QUh0ampvWWJkdzJtcHF0V2JvaGJNMXNtcVhjTTQyUTRKTmhSNk",
@@ -618,37 +717,15 @@
       "translated_title": "アングル：革命防衛隊が担ぎ上げたイラン新指導者、本人沈黙に国内外で懸念も - Reuters"
     },
     {
-      "id": 541,
+      "id": 537,
       "category": "News",
-      "title": "アニメ「遊☆戯☆王」公式、米国ホワイトハウスの動画に「許諾した事実なし」 ポケモン画像に続いて物議 - ITmedia",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9SMExDU2JPNU15TzFTQ3BMenV1V0xvQ0VmWTI0TFI3VTVrWlFtMDhoaWh5Z2hwVUN3MDdad2FSQ2otWU0xUVhWN3hhc1JHMF9RbzlkMTVZMmJlOWhaR0dBLWp5WWVtejNPNH",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SMExDU2JPNU15TzFTQ3BMenV1V0xvQ0VmWTI0TFI3VTVrWlFtMDhoaWh5Z2hwVUN3MDdad2FSQ2otWU0xUVhWN3hhc1JHMF9RbzlkMTVZMmJlOWhaR0dBLWp5WWVtejNPNHJqWg?oc=5",
-      "published_at": "Wed, 11 Mar 2026 04:06:00 GMT",
+      "title": "【変わり映えなし】次期Pixel 11 Pro Fold再現レンダリングが登場 - すまほん!! - すまほん!!",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uLWI3ZGNzMmpPVGlHd1RLOHExdW1lNEVMcjRtMmFwVHFnRlFMR0l4RVh0bVpPRElzYXoxbWR0RXF3c3E5b1dFamVaR1RZdzlZdV9fY3RMbjZ4VWvSAWBBVV95cUxPcWJEOV",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uLWI3ZGNzMmpPVGlHd1RLOHExdW1lNEVMcjRtMmFwVHFnRlFMR0l4RVh0bVpPRElzYXoxbWR0RXF3c3E5b1dFamVaR1RZdzlZdV9fY3RMbjZ4VWvSAWBBVV95cUxPcWJEOVBTRWZ4U0JtZzl6SkNiMTJQVTBPS1QtUWdBcGczS211QTVXUEx3Q1ZzSDVVN2JVbklDeVFleFdHYjRkYldQRjVLdDM3WkM4eUUzUTlHZUJlcllwY18?oc=5",
+      "published_at": "Wed, 11 Mar 2026 03:59:00 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "アニメ「遊☆戯☆王」公式、米国ホワイトハウスの動画に「許諾した事実なし」 ポケモン画像に続いて物議 - ITmedia"
-    },
-    {
-      "id": 503,
-      "category": "Global",
-      "title": "Gaza residents face spiking prices after crossing closures - nhk.or.jp",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnZzJac2xudmJyVlU3VzdkcnNyWUl5UzR6OGdFY0hpR0tod1puWk1rYzhJVUR5MVZzd3o1QTJPdjJ4V1BrZDFtQ00xdk1jZDFmVFlLSks4RGFKZENDV3VhSU02MA?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnZzJac2xudmJyVlU3VzdkcnNyWUl5UzR6OGdFY0hpR0tod1puWk1rYzhJVUR5MVZzd3o1QTJPdjJ4V1BrZDFtQ00xdk1jZDFmVFlLSks4RGFKZENDV3VhSU02MA?oc=5",
-      "published_at": "Wed, 11 Mar 2026 04:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "ガザ住民、交差点閉鎖で物価高騰に直面 - nhk.or.jp"
-    },
-    {
-      "id": 536,
-      "category": "News",
-      "title": "Pixel 11は見た目に大きな変化なし？ 折りたたみと最高位機種リーク - ギズモード・ジャパン",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvazNXb091Ym5YdE9WMUF6YXREeTY2MW10Ti1MaDY4OXpnQmstcUh5S1ZmYU5UTllsdXRNcXFuSmRvZFFTUmRCbi14cGhidzVkMXF0VHhXSXBJcjFISF96VHZpOWY?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvazNXb091Ym5YdE9WMUF6YXREeTY2MW10Ti1MaDY4OXpnQmstcUh5S1ZmYU5UTllsdXRNcXFuSmRvZFFTUmRCbi14cGhidzVkMXF0VHhXSXBJcjFISF96VHZpOWY?oc=5",
-      "published_at": "Wed, 11 Mar 2026 03:30:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "Pixel 11は見た目に大きな変化なし？ 折りたたみと最高位機種リーク - ギズモード・ジャパン"
+      "translated_title": "【変わり映えなし】次期Pixel 11 Pro Fold再現レンダリングが登場 - すまほん!! - すまほん!!"
     },
     {
       "id": 540,
@@ -662,62 +739,40 @@
       "translated_title": "前山剛久がメンズラウンジ店退店 神田沙也加さん動画影響か 元夫・村田充も〝怒り〟投稿 - 東スポWEB"
     },
     {
-      "id": 417,
-      "category": "Global",
-      "title": "US' Claim, Iran's Refusal And A U-Turn: Oil Still Stuck In Strait Of Hormuz - NDTV",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbE15SjBNa205T2hiMlpnMVFfQXJQdDExbkFJaHJjYkduVEI1b0c4bEp4UTVxY1pHZ2l2dDhLRGdZc3FVNGZtd1c3Ui1Da0tqUUU5blB1b0ZlTFdQZE1fazJKdFQydkV5aUlqb0d1OF",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbE15SjBNa205T2hiMlpnMVFfQXJQdDExbkFJaHJjYkduVEI1b0c4bEp4UTVxY1pHZ2l2dDhLRGdZc3FVNGZtd1c3Ui1Da0tqUUU5blB1b0ZlTFdQZE1fazJKdFQydkV5aUlqb0d1OFE0d2pIWXBtTGNWLW1zSzlLRkVpZTloZHdJTzhRMmhiX2xlbjBQQzJfWnRqcW9qcUxpc0NpT3ZyNFFiR1ktVEYyNXZuSmFQNktRSE9QS1BySEZFdEJ6akFBYXhuUmV4ZTVOR2dv0gHbAUFVX3lxTE5OeGZqV2FHMlhJbjk4WFhfWWtUWW81QWV6b0ZfYzd4YmlMdmxiVHF2MXlYSDVfTHFVN3E4TUU1dVVsYVZrWWxqelI1bWhsczFWNE5OcndjR3Fzai1xamN0bHdfcWZvMFFMcUd6SWJWZmVpOVQ2NmRpTDh1SG8tR2FMQkg5MUdHdVhMXzJtV1Rua3dkdGpBR1E1RE14YzEwOXFaay1iZHdLcjNrNy1CcDFaMVhLcWRhQmZjVGd6SGxqcnFDUmhSY1RwSUIzUTF0ZWMwZG1qVWEwQjBubw?oc=5",
-      "published_at": "Wed, 11 Mar 2026 03:15:00 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "米国の主張、イランの拒否とＵターン：ホルムズ海峡で依然として原油が滞留 - NDTV"
-    },
-    {
-      "id": 538,
+      "id": 525,
       "category": "News",
-      "title": "2026年3月マイクロソフトセキュリティ更新プログラムに関する注意喚起 - jpcert.or.jp",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNeEtsR2RjcFA2RDJma0NUTXJGaU9ndW9ENFBCZGs4OFNvYXlNWWVsT3RpclNONkVFSTVqc2tsQWg1czlNbFpjMUFETTRDSHlFR196U2hxT1loQQ?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNeEtsR2RjcFA2RDJma0NUTXJGaU9ndW9ENFBCZGs4OFNvYXlNWWVsT3RpclNONkVFSTVqc2tsQWg1czlNbFpjMUFETTRDSHlFR196U2hxT1loQQ?oc=5",
-      "published_at": "Wed, 11 Mar 2026 02:57:56 GMT",
+      "title": "「言うこと聞けば殺したりせえへん」10年前に女性へ性的暴行容疑、国外逃亡の男逮捕 - 産経ニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZUVhfa1M1MFRnYkN4VzB6NjRDcTd5X0QyU3A5czc4WW5OcW14MnlOaXFUZ0gzazJfSEVlYUpiRzQ4bkQwZk51b1BKQjgyd3J6QWlIbGVjUDVxZmVuYmcxczlOdjY5eDZlc1",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZUVhfa1M1MFRnYkN4VzB6NjRDcTd5X0QyU3A5czc4WW5OcW14MnlOaXFUZ0gzazJfSEVlYUpiRzQ4bkQwZk51b1BKQjgyd3J6QWlIbGVjUDVxZmVuYmcxczlOdjY5eDZlc1NNRDkxRkYyRzJ2akE?oc=5",
+      "published_at": "Wed, 11 Mar 2026 02:53:38 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "2026年3月マイクロソフトセキュリティ更新プログラムに関する注意喚起 - jpcert.or.jp"
-    },
-    {
-      "id": 519,
-      "category": "News",
-      "title": "イスラエル、イランとレバノンを新たに攻撃　ホルムズ海峡で機雷敷設艦16隻を破壊したと米軍 - BBC",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EcWVuVEowR2Z5elZZZjYxYWVkUklWX0RSYXpGRmsyRE5CWE1TUkt4SDBwWWZlalkxOURRRDhIa29aZmNHMHh3YU5MTjN3UXlMS0lHMXlPWVdnYmlpUjQ00gFkQVVfeXFMTm",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EcWVuVEowR2Z5elZZZjYxYWVkUklWX0RSYXpGRmsyRE5CWE1TUkt4SDBwWWZlalkxOURRRDhIa29aZmNHMHh3YU5MTjN3UXlMS0lHMXlPWVdnYmlpUjQ00gFkQVVfeXFMTmNkbjVuVmtjOXd1RkRsb1pjQXI0T1EwR1BMbE5jYVBuaEpaMURlUGFnVGk5bEg4QWppb2xIYXZTMFc3Sl9VVDgzOEdqaTdVR1ZybVZ0eUQ3ZEc4OTdHU0xSUV9jSg?oc=5",
-      "published_at": "Wed, 11 Mar 2026 02:47:58 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "イスラエル、イランとレバノンを新たに攻撃　ホルムズ海峡で機雷敷設艦16隻を破壊したと米軍 - BBC"
+      "translated_title": "「言うこと聞けば殺したりせえへん」10年前に女性へ性的暴行容疑、国外逃亡の男逮捕 - 産経ニュース"
     },
     {
       "id": 526,
       "category": "News",
-      "title": "セクハラ辞職の前福井知事、全額返納求める声が相次ぎ…退職金の返還１０００万円→１５００万円に増額 - 読売新聞オンライン",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sME1renEzdXV0RkdMR21fMFNPdlBvaHVsdkxLUG9CeUQ5NmtkMGI5REtLX203MlBrUkdSYjA0cWhQdGtsUHZsZ3ZETkFURjZNcEhNaE9telp2cDBGMlQwNlBzc2Uxdw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sME1renEzdXV0RkdMR21fMFNPdlBvaHVsdkxLUG9CeUQ5NmtkMGI5REtLX203MlBrUkdSYjA0cWhQdGtsUHZsZ3ZETkFURjZNcEhNaE9telp2cDBGMlQwNlBzc2Uxdw?oc=5",
-      "published_at": "Wed, 11 Mar 2026 02:43:00 GMT",
+      "title": "自衛隊はホルムズ海峡に出動可能か 「米が国際法違反」前提なら厳しく - 日本経済新聞",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5LdDhPd1dYNWRtOTdfYUsxRk9qa0ZaMHhhdktWQjhRZHVBSWRnSDlfQXdqWFNpc1pZcVhWZlBoR2otSE55NndXM1Q0QmtWNm9sN3dFenFWVy1JTzBfSjNLVXhsVVpLZ2ZGRk",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LdDhPd1dYNWRtOTdfYUsxRk9qa0ZaMHhhdktWQjhRZHVBSWRnSDlfQXdqWFNpc1pZcVhWZlBoR2otSE55NndXM1Q0QmtWNm9sN3dFenFWVy1JTzBfSjNLVXhsVVpLZ2ZGRkdxcA?oc=5",
+      "published_at": "Wed, 11 Mar 2026 02:45:00 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "セクハラ辞職の前福井知事、全額返納求める声が相次ぎ…退職金の返還１０００万円→１５００万円に増額 - 読売新聞オンライン"
-    },
-    {
-      "id": 533,
-      "category": "News",
-      "title": "トランプ大統領、ガソリン急上昇無視できず－対イラン攻撃推進も - Bloomberg",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9weGlBVGZDdmZ6OHdXNnUzOXBEX1c1TlJPWGNLOEszblMtLVBHUkF2cnBoSlV3ckFMMTlaaWMzMUpoWWNmR05DLWZpYWVLbmhXcVB0eUhmQXVXUnItejhiUFZUS0gzLUJHdXBya1VMOW",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9weGlBVGZDdmZ6OHdXNnUzOXBEX1c1TlJPWGNLOEszblMtLVBHUkF2cnBoSlV3ckFMMTlaaWMzMUpoWWNmR05DLWZpYWVLbmhXcVB0eUhmQXVXUnItejhiUFZUS0gzLUJHdXBya1VMOWNYMmtWVGhJ?oc=5",
-      "published_at": "Wed, 11 Mar 2026 02:35:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "トランプ大統領、ガソリン急上昇無視できず－対イラン攻撃推進も - Bloomberg"
+      "translated_title": "自衛隊はホルムズ海峡に出動可能か 「米が国際法違反」前提なら厳しく - 日本経済新聞"
     },
     {
       "id": 446,
+      "category": "Global",
+      "title": "Solveig Løvseth on The Business of Winning a World Championship - Slowtwitch News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1Z2cDlTQ1dfQ0ltZjVrX214eU1kc1lmdkxEMTgzdENIQkxydG90VnNYWDdYZnJWQ1Vsa0QyWWRKUnN5RGVsN3N0SnltbEtqQlpOajAwZ1o4WllwMFRnR0tlUnduV2pxOGN3SXgzbn",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1Z2cDlTQ1dfQ0ltZjVrX214eU1kc1lmdkxEMTgzdENIQkxydG90VnNYWDdYZnJWQ1Vsa0QyWWRKUnN5RGVsN3N0SnltbEtqQlpOajAwZ1o4WllwMFRnR0tlUnduV2pxOGN3SXgzbnk0bDVzU3FEOG0wRUUzZmljTnBaWUhweEZxSldqVnFJR1pOaUR3UnRJWnBCRlA5Xy1zVHVj?oc=5",
+      "published_at": "Wed, 11 Mar 2026 02:37:11 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "ソルヴェイグ・ロヴセスが世界選手権で優勝するビジネスについて語る - Slowtwitch ニュース"
+    },
+    {
+      "id": 443,
       "category": "Global",
       "title": "Tehran endures ‘worst night of strikes’ amid mixed US messages about more to come - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWlJWdUkyRFM5ODYyWC1OTjFVaU9scUhUSUhiZmZKWFlQTVQxMFR3QjZuTW5wNWxmemhUNXhlcS05UHlJbEdXNFFFdHZodV9pY3lSMFJnU2RRYVVSdkx1dnEwQ1ItanF0bVJVM2RGV1",
@@ -739,17 +794,6 @@
       "translated_title": "Google が Chrome の Gemini をインドに導入"
     },
     {
-      "id": 530,
-      "category": "News",
-      "title": "中東退避の政府チャーター機に韓国人も搭乗 24年に協力関係結ぶ - 毎日新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE53MzB0QzNkNzRwcFhDNmZsSHZJTGZZeFlJTWlCSGVaa2FOc0Y4WnpoYlBtdUh6dmRnWkJuVjNaemhEYlBNaEw0X1dCZWx0RU9wR2N4NUZxTXIyMFo5YWp3cURXQUZCVW5Z?o",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53MzB0QzNkNzRwcFhDNmZsSHZJTGZZeFlJTWlCSGVaa2FOc0Y4WnpoYlBtdUh6dmRnWkJuVjNaemhEYlBNaEw0X1dCZWx0RU9wR2N4NUZxTXIyMFo5YWp3cURXQUZCVW5Z?oc=5",
-      "published_at": "Wed, 11 Mar 2026 02:28:24 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "中東退避の政府チャーター機に韓国人も搭乗 24年に協力関係結ぶ - 毎日新聞"
-    },
-    {
       "id": 523,
       "category": "News",
       "title": "大阪・梅田駅近くで貯水管が十数メートル隆起 下水道工事現場、けが人なし - 時事ドットコム",
@@ -761,7 +805,18 @@
       "translated_title": "大阪・梅田駅近くで貯水管が十数メートル隆起 下水道工事現場、けが人なし - 時事ドットコム"
     },
     {
-      "id": 522,
+      "id": 534,
+      "category": "News",
+      "title": "国家備蓄石油の単独放出は可能、あらゆる選択肢排除せず－赤沢経産相 - Bloomberg.com",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE8xWWFwMFVNUjR6cXp0dnpwQ0VRckhPTGlIbnB5RTQ4bUtYemdLWHVEVXExYjJqMXNhNUhiMUpKTEtkcXM3dmltRVNEZmZOYVJtaWtMeWlHQ0lRSE53MVBVX3VaVFVSSGpMM1",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xWWFwMFVNUjR6cXp0dnpwQ0VRckhPTGlIbnB5RTQ4bUtYemdLWHVEVXExYjJqMXNhNUhiMUpKTEtkcXM3dmltRVNEZmZOYVJtaWtMeWlHQ0lRSE53MVBVX3VaVFVSSGpMM1BFTGg1OTZoVnJiTG1N?oc=5",
+      "published_at": "Wed, 11 Mar 2026 02:16:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "国家備蓄石油の単独放出は可能、あらゆる選択肢排除せず－赤沢経産相 - Bloomberg.com"
+    },
+    {
+      "id": 520,
       "category": "News",
       "title": "手がかり求め、不明者捜索 震災15年で3県警、津波被害の沿岸部 6歳遺骨が家族の元に - 産経ニュース",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5zX0lkaTAxY0x1U1ZUUHVsQUZHbHYyVGF2c0ZORzJVeWVNUG5zRExybGxpUFk3czhaelpTN3BOdVRfeDlDUGlyYVRVTENUV0NzLVY2Slc5TW1Bem12bVV5RUhhcUtzRFJxeV",
@@ -772,7 +827,7 @@
       "translated_title": "手がかり求め、不明者捜索 震災15年で3県警、津波被害の沿岸部 6歳遺骨が家族の元に - 産経ニュース"
     },
     {
-      "id": 544,
+      "id": 545,
       "category": "News",
       "title": "【Ｆ１】苦境アストンマーティンのニューウェイ代表解任か ラルフ氏「ほぼ確信している」 - 東スポWEB",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBadVBBUm9BelFpRWpmdmxNM2Y2eXBFRDQ4UkhaLWhLeTFqeGtWbkZlbE5VQlpmYlUtZmREWWpXZlBHLTBDN1NSZ0pBa3NKVTlINW00eWt2cFFrTlFG?oc=5\" target=\"_bl",
@@ -783,18 +838,7 @@
       "translated_title": "【Ｆ１】苦境アストンマーティンのニューウェイ代表解任か ラルフ氏「ほぼ確信している」 - 東スポWEB"
     },
     {
-      "id": 528,
-      "category": "News",
-      "title": "イラン発射のミサイル、約半数にクラスター弾搭載 イスラエル軍発表 - AFPBB News",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0OWE5dDBGeWhkS29jWENYZmtDc1BPNlJwMGdUcnlXOWFBVENOWjB4LWE0U3BKUDNaV0stOWZtRG11ajFBUHhmQUNZTTZLb1lIUEHSAVRBVV95cUxQd2dZRlI1US1pTmJwS1",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0OWE5dDBGeWhkS29jWENYZmtDc1BPNlJwMGdUcnlXOWFBVENOWjB4LWE0U3BKUDNaV0stOWZtRG11ajFBUHhmQUNZTTZLb1lIUEHSAVRBVV95cUxQd2dZRlI1US1pTmJwS1JoLWlOVnFwNnVvVUZBMm12X0xEQXktdkllNXRkeWxFdkt6czRuNDcxUk1mOEVSdnFTN2lxR2JpSzlkLS11SVE?oc=5",
-      "published_at": "Wed, 11 Mar 2026 01:30:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "イラン発射のミサイル、約半数にクラスター弾搭載 イスラエル軍発表 - AFPBB News"
-    },
-    {
-      "id": 441,
+      "id": 434,
       "category": "Global",
       "title": "NEWS: World law enforcement chiefs set for EAFCS2026 to enhance fight against fraud and financial crime - AML Intelligence",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbEpJZ1oxd1NrS0xMY1RuaFk4V2ZvaEdVUFN5VkJUaU9vNThuUG43N29aTU1Fb2xKNmhmd3pyQTNxQ3ZwYng1ZG5BWFNOTVpEUkhqLTJRZndnazJLTEEtN20wOFgzU1dGOVBQeFpRWE",
@@ -816,18 +860,29 @@
       "translated_title": "今夜は関東南部で雨や雪の可能性 遅い帰宅は雨具の用意を - ウェザーニュース"
     },
     {
-      "id": 424,
-      "category": "Global",
-      "title": "March 10, 2026 - PBS News Hour full episode - PBS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1EOGFvR2xHbEJxb0FyY3YyeHJzbGEzWVNBMHFBY2diTDM0dU9VVTVxLWFtSkpyWHJjaHpDeEhBUWt3X3NQUmRNZFFoM1RybmJ2OHZIamJCOU1OMm1ITVhPVnQ1MkR0YXE2c29wU1liUD",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EOGFvR2xHbEJxb0FyY3YyeHJzbGEzWVNBMHFBY2diTDM0dU9VVTVxLWFtSkpyWHJjaHpDeEhBUWt3X3NQUmRNZFFoM1RybmJ2OHZIamJCOU1OMm1ITVhPVnQ1MkR0YXE2c29wU1liUDVMazl1aVJVT1NwN29XLUU?oc=5",
-      "published_at": "Wed, 11 Mar 2026 00:18:24 GMT",
+      "id": 530,
+      "category": "News",
+      "title": "米長官、「タンカー護衛」投稿削除 ホルムズ海峡、実施せずと政権 - 時事ドットコム",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE55Q3E3SDE0dmNyY2l5RkFuTzVPbi1kYkNOeW9hLVE3SXotUlpLekJzRE5KTkRlNWdoMVo5N3l1X3Z1VlYxMGdOazlVcy0wLU8zSGZzMDdBWDhmbm1BbWFrV1RzVQ?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55Q3E3SDE0dmNyY2l5RkFuTzVPbi1kYkNOeW9hLVE3SXotUlpLekJzRE5KTkRlNWdoMVo5N3l1X3Z1VlYxMGdOazlVcy0wLU8zSGZzMDdBWDhmbm1BbWFrV1RzVQ?oc=5",
+      "published_at": "Wed, 11 Mar 2026 00:58:00 GMT",
       "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "2026 年 3 月 10 日 - PBS ニュースアワー全話 - PBS"
+      "source_name": "Google News JP",
+      "translated_title": "米長官、「タンカー護衛」投稿削除 ホルムズ海峡、実施せずと政権 - 時事ドットコム"
     },
     {
-      "id": 473,
+      "id": 528,
+      "category": "News",
+      "title": "ウクライナが巡航ミサイル攻撃 ロシア電子部品工場で6人死亡（AP通信） - Yahoo!ニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1qdHM0eHlmNG5NbFpZTGI2MTJ3UnJ2TmZPRlVMQnUxQU55ZVFpMVBJbHo4RDJIRWRwVEVkRTU5cW1BVE1vay1qZmZtS3U1MHR0WGt4RG0yeS1pUWtfcWpTcXpFNDVXUTdjX3",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qdHM0eHlmNG5NbFpZTGI2MTJ3UnJ2TmZPRlVMQnUxQU55ZVFpMVBJbHo4RDJIRWRwVEVkRTU5cW1BVE1vay1qZmZtS3U1MHR0WGt4RG0yeS1pUWtfcWpTcXpFNDVXUTdjX3hadTNFT3liLWx6WEZxZGlQcG1SWEE?oc=5",
+      "published_at": "Wed, 11 Mar 2026 00:14:12 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "ウクライナが巡航ミサイル攻撃 ロシア電子部品工場で6人死亡（AP通信） - Yahoo!ニュース"
+    },
+    {
+      "id": 470,
       "category": "Global",
       "title": "How the Iran conflict is becoming a global crisis - Sky News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQODYxYnktNmpaTVRVRnMwa3hoQnNqMjM3dzlITU5Ub2NrQ3VBNXlEYWIxUklBNGItaHFHeE1UM1FrZXhCN1E4T2lUSURneklJbDlMMkdzcENJa1Q2NzJDay1UUFRUUVFqYm5QZUlJa0",
@@ -836,28 +891,6 @@
       "importance": 3,
       "source_name": "Google News World",
       "translated_title": "イラン紛争はどのように世界的危機になりつつあるのか - スカイニュース"
-    },
-    {
-      "id": 527,
-      "category": "News",
-      "title": "ウクライナ、ロシア西部のミサイル部品工場を攻撃 英製ミサイル使用 - Reuters",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPY21vZ0VJUXdlZ09iQXAwd2x2b2cyUWI3eUc1NW1YVzZfc0pGT1RnUC10UXFJQmN5YzdLWWhVWHJkNTZSUk9qbmUxTzJqcnhTYzdRMTZoMktFZkdCeGpMZ20yUElaZmgwN2",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY21vZ0VJUXdlZ09iQXAwd2x2b2cyUWI3eUc1NW1YVzZfc0pGT1RnUC10UXFJQmN5YzdLWWhVWHJkNTZSUk9qbmUxTzJqcnhTYzdRMTZoMktFZkdCeGpMZ20yUElaZmgwN2Q3aVRUTTJDaVFIYjViZ3JvOER6LVNYcw?oc=5",
-      "published_at": "Wed, 11 Mar 2026 00:11:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "ウクライナ、ロシア西部のミサイル部品工場を攻撃 英製ミサイル使用 - Reuters"
-    },
-    {
-      "id": 427,
-      "category": "Global",
-      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles - NBC News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5\" target=\"_blank\">NBC News - Breaking Headlines and Video Repor",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
-      "published_at": "Wed, 11 Mar 2026 00:09:56 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "NBC ニュース - 世界、米国、地域の視点からの最新のヘッドラインとビデオレポート - NBC ニュース"
     },
     {
       "id": 439,
@@ -873,13 +906,13 @@
     {
       "id": 546,
       "category": "News",
-      "title": "震災への思いは変わらない ドジャース佐々木朗希投手 - 岩手日報",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnalNSZW96SFJYSjNsanUtdTNEZjg1T2pjQUJ5NmN5VlhUUU5NWkoxVkppNzFVSVRUWFYtMWZPazQzelRrdFpZaVlmSWNSUHJwQzZBcXVSR2VLd0RLUVZlZg?oc=5\" targe",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnalNSZW96SFJYSjNsanUtdTNEZjg1T2pjQUJ5NmN5VlhUUU5NWkoxVkppNzFVSVRUWFYtMWZPazQzelRrdFpZaVlmSWNSUHJwQzZBcXVSR2VLd0RLUVZlZg?oc=5",
-      "published_at": "Wed, 11 Mar 2026 00:00:00 GMT",
+      "title": "“3.11”の記憶を胸に。東北楽天ゴールデンイーグルス アンバサダー銀次＆岡島豪郎の、東北と共に歩む15年とこれから - パ・リーグ.com",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JdUhCUHY0d0NDc1E5U1M0aHJlTFR3NEpRQTk3d3NiaTVlS0c3anlRTHJudDVCV3BpOXpOc2VrSWo0NmpfZFBQOGhfQnYzblJQblZFelFn0gFSQVVfeXFMTzdMX2hla2x4ej",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JdUhCUHY0d0NDc1E5U1M0aHJlTFR3NEpRQTk3d3NiaTVlS0c3anlRTHJudDVCV3BpOXpOc2VrSWo0NmpfZFBQOGhfQnYzblJQblZFelFn0gFSQVVfeXFMTzdMX2hla2x4ejU1enFlWl9sS2N4N2todkxlZ19tek1hdlRxeDBNYWNLbXc2UHd2bk1HMDc2UUZ3SU9DcUg4UzJTRHF1cWxfVldoZw?oc=5",
+      "published_at": "Wed, 11 Mar 2026 00:04:50 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "震災への思いは変わらない ドジャース佐々木朗希投手 - 岩手日報"
+      "translated_title": "“3.11”の記憶を胸に。東北楽天ゴールデンイーグルス アンバサダー銀次＆岡島豪郎の、東北と共に歩む15年とこれから - パ・リーグ.com"
     },
     {
       "id": 1,
@@ -1033,7 +1066,7 @@
       "published_at": "Wed, 11 Mar 2026 00:00:00 -0400",
       "importance": 1,
       "source_name": "Arxiv AI",
-      "translated_title": "継続的なエクスペリエンス主導の実行による詳細な表形式の調査"
+      "translated_title": "経験に基づいた継続的な実行による詳細な表形式の調査"
     },
     {
       "id": 15,
@@ -1067,53 +1100,20 @@
       "importance": 3,
       "source_name": "Arxiv AI",
       "translated_title": "Explainable Innovation Engine: Methods-as-Nodes と検証可能なライトバックを備えたデュアルツリー エージェント RAG"
-    },
-    {
-      "id": 18,
-      "category": "AI/IT",
-      "title": "The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness",
-      "summary": "arXiv:2603.09200v1 Announce Type: new \nAbstract: Situational awareness, the capacity of an AI system to recognize its own nature, understand its training and deployment context, and reason strategical",
-      "url": "https://arxiv.org/abs/2603.09200",
-      "published_at": "Wed, 11 Mar 2026 00:00:00 -0400",
-      "importance": 3,
-      "source_name": "Arxiv AI",
-      "translated_title": "推論の罠 -- 状況認識へのメカニズム的な経路としての論理的推論"
-    },
-    {
-      "id": 19,
-      "category": "AI/IT",
-      "title": "Evaluate-as-Action: Self-Evaluated Process Rewards for Retrieval-Augmented Agents",
-      "summary": "arXiv:2603.09203v1 Announce Type: new \nAbstract: Retrieval-augmented agents can query external evidence, yet their reliability in multi-step reasoning remains limited: noisy retrieval may derail multi",
-      "url": "https://arxiv.org/abs/2603.09203",
-      "published_at": "Wed, 11 Mar 2026 00:00:00 -0400",
-      "importance": 3,
-      "source_name": "Arxiv AI",
-      "translated_title": "アクションとしての評価: 検索拡張エージェントに対する自己評価プロセス報酬"
-    },
-    {
-      "id": 20,
-      "category": "AI/IT",
-      "title": "Abundant Intelligence and Deficient Demand: A Macro-Financial Stress Test of Rapid AI Adoption",
-      "summary": "arXiv:2603.09209v1 Announce Type: new \nAbstract: We formalize a macro-financial stress test for rapid AI adoption. Rather than a productivity bust or existential risk, we identify a distribution-and-c",
-      "url": "https://arxiv.org/abs/2603.09209",
-      "published_at": "Wed, 11 Mar 2026 00:00:00 -0400",
-      "importance": 3,
-      "source_name": "Arxiv AI",
-      "translated_title": "豊富なインテリジェンスと不足した需要: 急速な AI 導入のマクロ金融ストレステスト"
     }
   ],
   "trends": [
-    "イラン",
     "ニュ",
-    "news",
-    "llm",
-    "iran",
+    "イラン",
     "world",
-    "ジェント",
-    "iphone",
-    "multi",
+    "news",
     "macbook",
     "neo",
-    "reuters"
+    "ホルムズ",
+    "llm",
+    "iran",
+    "iphone",
+    "ジェント",
+    "multi"
   ]
 }
