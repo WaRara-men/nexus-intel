@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-04-25T02:30:32.809886",
+  "last_updated": "2026-04-25T05:12:36.822251",
   "items": [
     {
-      "id": 352,
+      "id": 35,
       "category": "Mechanical",
       "title": "30 Years Ago, Robots Learned to Walk Without Falling",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/collage-of-hondas-p2-humanoid-robot-from-1996-against-a-background-of-figures-related-to-its-technical-features.jpg?id=65402169&amp;width=1245&amp;hei",
@@ -13,7 +13,7 @@
       "translated_title": "30年前、ロボットは転ばずに歩くことを学んだ"
     },
     {
-      "id": 360,
+      "id": 43,
       "category": "Mechanical",
       "title": "Perseverance Smashes Autonomous Driving Record on Mars",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-self-portrait-captured-by-nasa-s-perseverance-rover-while-traversing-mars-rocky-surface.jpg?id=65007226&amp;width=1245&amp;height=700&amp;coordinate",
@@ -24,7 +24,7 @@
       "translated_title": "忍耐力が火星での自動運転記録を破る"
     },
     {
-      "id": 498,
+      "id": 182,
       "category": "Global",
       "title": "Trump family crypto firm sued over alleged 'extortion' - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3OVZxN2JqMkpJTXdpME9FR2VPMEEyZGdlc0RuLXhFNVNUNWNEOTg3UkttT3d3QkxaTkJ4OHZhX0xOR1JFNU44WWZZWXlnRkJRbGtyQUctaTBYdw?oc=5\" target=\"_blank\">Trump",
@@ -35,7 +35,7 @@
       "translated_title": "トランプ氏一族の仮想通貨会社、「恐喝」容疑で提訴 - BBC"
     },
     {
-      "id": 495,
+      "id": 179,
       "category": "Global",
       "title": "Crypto billionaire Justin Sun sues Trump family's World Liberty Financial, alleging fraud - CBS News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQUUdkdFVqOVR6WkdncVE0YVBzektfWjFOanBfX2lQTjhCeFpqU0xJWDdBT0NUb3ZIdUJQOXhCQW9sb0NSN0pKaFdtMmJSbFFYQkEtY09sOFpGclpZUDItWHJwaEx6UXN4WkM5SjFfbk",
@@ -46,7 +46,18 @@
       "translated_title": "仮想通貨億万長者のジャスティン・サン氏、トランプ家のワールド・リバティ・ファイナンシャルを詐欺容疑で提訴 - CBSニュース"
     },
     {
-      "id": 521,
+      "id": 215,
+      "category": "Global",
+      "title": "‘Impossible’ to reopen strait of Hormuz amid ‘flagrant’ ceasefire breaches, Iran says - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFU1MS12eUhGS3I4TXE0UC1jYTRxbzFsNGx1YzM2LUlQbHBweF9WcUoxQ2VuY0RXeWZLZzNOWjJjd2F0NThlLV9Eb1FPdjVMSHhyZmFPRnZMWnplTVFMdUVxMXh1TzZWaExDYkNfOF",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFU1MS12eUhGS3I4TXE0UC1jYTRxbzFsNGx1YzM2LUlQbHBweF9WcUoxQ2VuY0RXeWZLZzNOWjJjd2F0NThlLV9Eb1FPdjVMSHhyZmFPRnZMWnplTVFMdUVxMXh1TzZWaExDYkNfOFc5WHhlYzdRQUdtR21DLTB4WWlZNFBvU3lYaDZ5MFg0TWdDTEFlcHJBNmlZZWJtNHBCMFZ5ZzFfREE?oc=5",
+      "published_at": "Wed, 22 Apr 2026 16:37:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "「露骨な」停戦違反の中でホルムズ海峡再開は「不可能」とイランが発言 - ガーディアン紙"
+    },
+    {
+      "id": 203,
       "category": "Global",
       "title": "Anthropic’s New Mythos A.I. Model Sets Off Global Alarms - The New York Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBGT25GZUdIUVB1NUxWd2RUaDJoY1F5QmljMG9JdE0xV1lmMVM5dmhVeDBNaWc5OTdrMFlOQ013NWh2bDhXdTl5VFhWWUd0bG8xdGtnN3RBWTBjcFhONmlKWHhfY3Y2M1NGZW9MdVhHaD",
@@ -57,7 +68,7 @@
       "translated_title": "Anthropic の新しい神話 A.I.モデルが世界的な警報を発する - ニューヨーク・タイムズ"
     },
     {
-      "id": 340,
+      "id": 23,
       "category": "Mechanical",
       "title": "Proposed Chinese Robot Ban Is Latest U.S. Tech Sovereignty Move",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/photo-illustration-shows-a-chinese-made-humanoid-drone-quadruped-robot-on-a-red-background-with-yellow-highlights.jpg?id=65566471&amp;width=1245&amp;h",
@@ -68,7 +79,7 @@
       "translated_title": "中国製ロボットの禁止提案は米国の技術主権をめぐる最新の動きである"
     },
     {
-      "id": 506,
+      "id": 187,
       "category": "Global",
       "title": "World's biggest condom maker set to raise prices due to Iran war - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6MVVNR0cySnhnMkY5YXJpcjI2RlNwQ2ctOXA4WjJaeGRjOVQ0MXFkWVZhNG5wUDZSUDJJU0pmdkxSSTktLUpZUzhpR1VQYmxkZldQS0xnNmNMQQ?oc=5\" target=\"_blank\">World",
@@ -79,7 +90,7 @@
       "translated_title": "世界最大のコンドームメーカー、イラン戦争で値上げへ - BBC"
     },
     {
-      "id": 362,
+      "id": 45,
       "category": "Mechanical",
       "title": "Tech Is Taking Over Olympic Curling",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/curling-players-sweeping-a-red-stone-on-ice-motion-blur-emphasizes-speed-and-action.jpg?id=64953312&amp;width=1245&amp;height=700&amp;coordinates=0%2C",
@@ -90,7 +101,7 @@
       "translated_title": "テクノロジーがオリンピックカーリングを引き継ぐ"
     },
     {
-      "id": 490,
+      "id": 171,
       "category": "Global",
       "title": "Chagas disease (also known as American trypanosomiasis) - World Health Organization (WHO)",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQbzd0eXRoZ0pmbjhXX0ZJODE5d1J1V216MTR0N3ZLa2ZMS1VoSzROUGFTQWdxNnhZa3dYTW9nMDFOREVmbjZEMDVydTlNNEpQSnNMbExwdU0wQU5SaHZ5SlBqWGwybEI1LW9vR1JKWG",
@@ -101,7 +112,18 @@
       "translated_title": "シャーガス病 (アメリカトリパノソーマ症としても知られる) - 世界保健機関 (WHO)"
     },
     {
-      "id": 353,
+      "id": 225,
+      "category": "Global",
+      "title": "World welcomes US-Iran ceasefire, urges lasting peace in the Middle East - Al Jazeera",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWYxTWJaSEIwOXNmcGZOOTlTb2VZZGJnNHZLSWFHaVJyRER5QUVWWEFpbUNXaXV1UUt0c0tKcWRoMmhTMlY5MGh6emJWYWotdnZ6TUtwX3BxMmpiRUlCbUM3SHBKWld5eE1wME5sLW",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWYxTWJaSEIwOXNmcGZOOTlTb2VZZGJnNHZLSWFHaVJyRER5QUVWWEFpbUNXaXV1UUt0c0tKcWRoMmhTMlY5MGh6emJWYWotdnZ6TUtwX3BxMmpiRUlCbUM3SHBKWld5eE1wME5sLWtjMDlTVVhOazQwN0xNeHl2Z2lPRHllc3V5b3JyTTdzeWF6eGsxY29zZE1sblJWYjVZNjV1NktKdG9KbUE5a3hqbdIBtgFBVV95cUxPaE5xc1ZPZmZlWkJHY3FHa05yNEw2T2VMaERQNmJmUEcyZjJPZnl3WjJXOFhjYWVJRmNRdm5XNjNmYms4ZDdmMW1udUtDczhFTUphdUNpTWZSemJfdjdKcWJUa3k4eFI0Mzl1eVB4UGhmckpqaks3NFNNTzVBeUNvVF91UGRsaW1ES1N4dlNta0NZSUo0MFlVUU5TRkpIU29LYUF2REd5bmFLa3lIaWxmSy03NGJnQQ?oc=5",
+      "published_at": "Wed, 08 Apr 2026 07:00:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "世界は米国とイランの停戦を歓迎、中東の恒久平和を求める - アルジャジーラ"
+    },
+    {
+      "id": 36,
       "category": "Mechanical",
       "title": "The Coming Drone-War Inflection in Ukraine",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/person-holding-a-large-drone-outdoors-under-a-sunny-partly-cloudy-sky.jpg?id=65327386&amp;width=1245&amp;height=700&amp;coordinates=0%2C104%2C0%2C104\"",
@@ -112,7 +134,7 @@
       "translated_title": "ウクライナで今後起こるドローン戦争の転換点"
     },
     {
-      "id": 505,
+      "id": 189,
       "category": "Global",
       "title": "U.S., Iran and Israel Agree to Cease-Fire - The New York Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA4NjZQcHJQaDBaRTlzNEZ5dDJTR1UyWUJibWxBWFhFUjdfd1NFdzZpeGF3YUpObHc2OU5sZjNwa2o5dHZXVEViUV9sUTNzR1JCYzI3VWZqUGxaMGxFUDN3VVpVWjdCWjBCV2hzSXI5Sz",
@@ -123,7 +145,7 @@
       "translated_title": "米国、イラン、イスラエル、停戦に合意 - ニューヨーク・タイムズ"
     },
     {
-      "id": 514,
+      "id": 196,
       "category": "Global",
       "title": "NHK WORLD-JAPAN - nhk.or.jp",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9TUzVxS3RJcmlRTXdndU5CV0U2QUhXUkZnRTMyRlEyOUN2Zi1xNHQwcjhzTkVMUWJrZjl5dzJIMGdtUW1mbzhj?oc=5\" target=\"_blank\">NHK WORLD-JAPAN</a>&nbsp;&nbsp;",
@@ -134,7 +156,7 @@
       "translated_title": "NHKワールドJAPAN - nhk.or.jp"
     },
     {
-      "id": 343,
+      "id": 26,
       "category": "Mechanical",
       "title": "​Boston Dynamics and Google DeepMind Teach Spot to Reason​",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-load-laundry-into-a-white-basket.png?id=65521323&amp;width=1245&amp;height=700&amp;coordina",
@@ -145,7 +167,7 @@
       "translated_title": "ボストン・ダイナミクスとGoogle DeepMindがスポット・トゥ・リーズンを教えます"
     },
     {
-      "id": 509,
+      "id": 192,
       "category": "Global",
       "title": "FSU graduate programs achieve top marks in 2026 U.S. News & World Report rankings - Florida State University News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOWElPRGdqNldBSzdMaVhNVWRNcDZfQWR4c2t5eDNHSnMtY2NXbklJYjlDVGNkRU4yQTJHcTlDeWNjVkdTYkszNUpMU25qQXFwRE90cjNWaGduTDBUbnJuVnNDRHJuSW5qN1pma2ZFWG",
@@ -156,18 +178,40 @@
       "translated_title": "FSUの大学院プログラムが2026年の米国ニュース＆ワールドレポートランキングで最高点を獲得 - フロリダ州立大学ニュース"
     },
     {
-      "id": 337,
-      "category": "AI/IT",
-      "title": "Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation",
-      "summary": "The soldier is accused of using classified government information to inform a wager on the prediction market Polymarket.",
-      "url": "https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/",
-      "published_at": "Thu, 23 Apr 2026 23:32:33 +0000",
+      "id": 222,
+      "category": "Global",
+      "title": "Trump pulls back on Iran threats after warning a 'civilization will die tonight' if deal isn't reached - PBS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmlKTnBkbG5iOGs1Z250OVgxUkxPWWFvcnVPUE01dXpEVmpKWDN6VXFDcEdQWDNGWWhtSzJZLXhMdEpaLVhLWmZmem9CQ0ZnS1RUV2dWV05iUm90N2o2dDBjUjhrUFFtajZvRXhRUW",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmlKTnBkbG5iOGs1Z250OVgxUkxPWWFvcnVPUE01dXpEVmpKWDN6VXFDcEdQWDNGWWhtSzJZLXhMdEpaLVhLWmZmem9CQ0ZnS1RUV2dWV05iUm90N2o2dDBjUjhrUFFtajZvRXhRUW10Y1BRX1Z2X3U5WWs3V1RJV29sTGJrVm5iZHluRTJsZ1FxSnlfN0hVeFFXaldtaVpKWjNNRi1PWGdORFlPX3Q2MjYtWkxmd0pO0gG-AUFVX3lxTE53WW9TRkNYUzBsVnp2aFY0WHZoQl84emhLZlRBZHJqMkIzOE5hREMtdkRuVThYNmxfTGNxSXk3dFZfTTlFblJ4Y0lPb19fbExxbVFoQV9jWUxTQzhobjlORnM0UWtDY1BVdU8zcVdQbGs0WjRlLVpSTDdBSllIbFpUbEJlZVNGNGtCWU8xb2s0SUZ1TmwwOUhRbmplVGd4ZHQ5eDNjUEh6bkRFV3lJNzFja19JRGRJcHllQVNRQ0E?oc=5",
+      "published_at": "Tue, 07 Apr 2026 07:00:00 GMT",
       "importance": 1,
-      "source_name": "TechCrunch",
-      "translated_title": "当局、マドゥロ作戦に関わるポリマーケットの賭けで40万ドルを稼いだ疑いで特殊部隊兵士を逮捕"
+      "source_name": "Google News World",
+      "translated_title": "トランプ大統領、合意に達しなければ「文明は今夜滅亡する」と警告後、イラン脅迫を撤回 - PBS"
     },
     {
-      "id": 533,
+      "id": 221,
+      "category": "Global",
+      "title": "Mapping the most critical shipping lanes in the world - Australian Broadcasting Corporation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGN5a2dwOUJDZUpJNFNtQkVkck5XTFNOTm5iOXc4MkpjTHZOeTNrNmFlSkpoMmRHS3k4RVpXcm1kUFlyU0NUZFNjeXoxdVl5MDlyWmwyczAycWcwSzdEZHhnaEdCSW9JTGxReFBvQ2",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGN5a2dwOUJDZUpJNFNtQkVkck5XTFNOTm5iOXc4MkpjTHZOeTNrNmFlSkpoMmRHS3k4RVpXcm1kUFlyU0NUZFNjeXoxdVl5MDlyWmwyczAycWcwSzdEZHhnaEdCSW9JTGxReFBvQ2RXdEtHNzR0Rnh1NVR1QmU1Si13SlRaXzRxbE1zV1AzTURIX0lUTFdodGxMdlF1Y0RwUjYwbw?oc=5",
+      "published_at": "Thu, 23 Apr 2026 23:32:17 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "世界で最も重要な航路のマッピング - オーストラリア放送協会"
+    },
+    {
+      "id": 176,
+      "category": "Global",
+      "title": "How Does Trinity University Rank Among America's Best Colleges? - U.S. News & World Report",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9waXVKb3owdkFfLW1iV2FxYUU3RUFWV0s1LVlKTnhZRkFPZ3N1T3BvWGhObTU5WFRmR2x4cXMxZ3daVTFmS0MwSnI2RGJLLTdhOWxWcF9jMnZiR0xlMldfVkZHZFcxMmo2TkZKWA?oc=",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9waXVKb3owdkFfLW1iV2FxYUU3RUFWV0s1LVlKTnhZRkFPZ3N1T3BvWGhObTU5WFRmR2x4cXMxZ3daVTFmS0MwSnI2RGJLLTdhOWxWcF9jMnZiR0xlMldfVkZHZFcxMmo2TkZKWA?oc=5",
+      "published_at": "Thu, 23 Apr 2026 23:30:40 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "トリニティ大学はアメリカの最高の大学の中でどのようにランク付けされていますか? - 米国のニュース＆ワールドレポート"
+    },
+    {
+      "id": 209,
       "category": "Global",
       "title": "World news in brief - The Church Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVF9QLW5zaUJNQ294YnF6eGNBQ3RCZmVXcDRrWGxWWFNUQnJzaHZteFd3eldXNW5INUM2aVlLempqRGEyRGZOQzdMNUM0NHZBWDE0djAtd09jT2RjU2txamZqaTB6LWl5bHdLTHg1X2",
@@ -178,18 +222,7 @@
       "translated_title": "世界ニュースの概要 - The Church Times"
     },
     {
-      "id": 522,
-      "category": "Global",
-      "title": "Sloth World: Warehouse lacked proper permits for animals; 'stop work' order issued by county - FOX 35 Orlando",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE9RZHBFeldaVkZzVGdGaXo2anVPNDc2TDJWNzhvN2VVZHBQSkNMUVZYWWNvTjZ5OFU2ay1ocFd4N3hQcjZnZ3h6QzhhS3pWMm9IRDRvOFliRFNtb1dhOXVQZ01tYkd5ZDVOR2RFd1",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE9RZHBFeldaVkZzVGdGaXo2anVPNDc2TDJWNzhvN2VVZHBQSkNMUVZYWWNvTjZ5OFU2ay1ocFd4N3hQcjZnZ3h6QzhhS3pWMm9IRDRvOFliRFNtb1dhOXVQZ01tYkd5ZDVOR2RFd182WURTVEplYnB3UUNMU2VaY1BJamk0RXBmTjh3VElkZUpiUGxmSHF5aEdHQVFEZWdLTDUyaDhkall2MXJ3ZXk0ZEg5bzjSAboBQVVfeXFMUGpOU2J5eENZbXUtQ2NLOWRZZE9RazdKejdMN1pkLW1DSHVvUnVSTEQ3Z1pVS3pMdno3VFhuSjJ2OFJZakJWMWMyU25ZQVFjTjZVaWZQSVJ5eFBxMTNRR0xLcFlqMTFaWk9vTWZvSHNLbW1GMTBCZFpUck10QTJLaEVQOFFKRlV3bGRuOC1yWVNWZk1iZFJ3UHNaTHJCbDNIazJCMDZpZ2hQWGVGeU1DR2tZWTNxWG5pSWpR?oc=5",
-      "published_at": "Thu, 23 Apr 2026 22:52:24 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "ナマケモノの世界: 倉庫には動物の適切な許可がありませんでした。郡が「業務停止」命令を発令 - FOX 35 オーランド"
-    },
-    {
-      "id": 501,
+      "id": 183,
       "category": "Global",
       "title": "Pope Leo vents about failure to end Iran war: 'Many innocent people have died' - NBC News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSlNBVDFQOXVPMVBDdkZwSEZWNnJEM1ZMWEZwVUk4REpmZklxMGNfOTU2QmcwbHBFX25uVlFiWlN3NUVLcUNiLVVXTXVJblR3bkktVi1lMDExNmVmNUc0OHE0eDZWWUppRVBQOEhZTT",
@@ -200,7 +233,7 @@
       "translated_title": "レオ教皇、イラン戦争終結の失敗を吐露「多くの罪のない人々が亡くなった」 - NBCニュース"
     },
     {
-      "id": 540,
+      "id": 218,
       "category": "Global",
       "title": "Hotfixes: April 23, 2026 — World of Warcraft - Blizzard News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5zbEM2UTFRMkpNMHdQQzk4NzFNY18zVkZaRUpkYV92RmxNdjRxN2hFMDBGQWp1UDZnZ1RRbndhenNQMG4zVHEwY2lYM2ROTk1kS0h1REg0Mzk2cnVrNzQxVG1LYzZzOVMyaVU4WldnUT",
@@ -211,7 +244,7 @@
       "translated_title": "ホットフィックス: 2026 年 4 月 23 日 — World of Warcraft - ブリザードニュース"
     },
     {
-      "id": 517,
+      "id": 198,
       "category": "Global",
       "title": "Amnesty International and rights groups issue a World Cup travel advisory for the US - AP News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRW5nYkFKSWZZNzZpWTliR0lSU0NDVTlFRkZwV1ZoeW52V0R2NHMwNDNoV3N4aEZZeGlpbHAwRzZ2d3l0ekZpbUd1ZTlZNnpfWDRhY1RfUm5UczdUYWw4ejIxUjJjZlhUak5rTGZZR0",
@@ -222,7 +255,7 @@
       "translated_title": "アムネスティ・インターナショナルと人権団体、ワールドカップへの米国渡航勧告 - AP通信"
     },
     {
-      "id": 518,
+      "id": 200,
       "category": "Global",
       "title": "Mahjong mania: New clubs bring players together - Channel 3000",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdHhPd2MzejNTcUVIU0ZRTmM3cG01LUpYcW1xdjJramo0dUNIaFBZSGdPT1BxQng2a016MzVQV1pYUmctbnpqdUI3eUNoTFVGb1Rna3JzaXhGTlhXQUE1TzhCUDR1a3RTekU2NkZCU2",
@@ -233,18 +266,18 @@
       "translated_title": "麻雀マニア: 新しいクラブがプレイヤーを集める - チャンネル 3000"
     },
     {
-      "id": 528,
+      "id": 224,
       "category": "Global",
-      "title": "We Are Xbox - Xbox Wire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vMGh0eHJzMTczakxwdTZMNEV6TExCNGF0WUJWN1NieVJXQkZTR0dvT3hCNDB5c1hsVmVSRWJpUXl2aEdlLUdFeFg4bHFNZVM4ZGE2cmF5azZXY2NURjkwMA?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vMGh0eHJzMTczakxwdTZMNEV6TExCNGF0WUJWN1NieVJXQkZTR0dvT3hCNDB5c1hsVmVSRWJpUXl2aEdlLUdFeFg4bHFNZVM4ZGE2cmF5azZXY2NURjkwMA?oc=5",
-      "published_at": "Thu, 23 Apr 2026 20:27:34 GMT",
-      "importance": 1,
+      "title": "Ripon High School robotics qualify for world championship - Ripon Commonwealth Press",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU2FmMGVVS1pYR0t2Q1BGUHhROTdyZ1Z6eWx6cjZRWUUtNndwRnNpOWpLME9sOHRzQUxHcElHTWtDaGU1dldKSkI1NmF0Rmg1bnZibmhNbDNyWGhpRk00OG10bnRFYzB6VzJJT0ZhcV",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU2FmMGVVS1pYR0t2Q1BGUHhROTdyZ1Z6eWx6cjZRWUUtNndwRnNpOWpLME9sOHRzQUxHcElHTWtDaGU1dldKSkI1NmF0Rmg1bnZibmhNbDNyWGhpRk00OG10bnRFYzB6VzJJT0ZhcVNUbzlyQUFWMTU5aWpNNTZFWWlHVFJCUFpDdjh0NFNPNWQzUXV4R2c0S1RFVWZiZjhxTUNManRHUWlfdEx1eGFMRm9YaDNhRWM1VmtaOVhwYVdZMUFuVnRWQlpDWXFZRFE0TFh3enRB?oc=5",
+      "published_at": "Thu, 23 Apr 2026 21:00:00 GMT",
+      "importance": 3,
       "source_name": "Google News World",
-      "translated_title": "ウィー アー Xbox - Xbox Wire"
+      "translated_title": "リポン高校ロボット工学部が世界選手権出場権獲得 - Ripon Commonwealth Press"
     },
     {
-      "id": 474,
+      "id": 156,
       "category": "Global",
       "title": "Italy rejects 'shameful' idea to replace Iran at World Cup - ESPN",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkJJekNjSTVhVjU1YkpYSVdXa2hMOUFTcTY3VUNrLXNIbGxMeU9qa25nZGdNT0E0YzNzM2EwODctWGhfR2NHUmE5TTNiWks5b3h3Sk1Xc25OMVlDc3VJQ3hsM2xZemE3RnhDUWVFZG",
@@ -255,7 +288,7 @@
       "translated_title": "イタリア、ワールドカップでイランに代わって出場するという「恥ずべき」考えを拒否 - ESPN"
     },
     {
-      "id": 519,
+      "id": 201,
       "category": "Global",
       "title": "Rain and heat threaten strawberry crops - Channel 3000",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMkFRTjlkX3A0X2NNdFEtNXNfaUFUUGFkN3pPNTFqVmtZcFpTOFdmbDVYTE5PRTFIWHJNb3FWVnJUZHJtUEZuTmd5ejdzUzc1WUl5Zmdib3NxQnUtd0k5Y2tXeDBwSWtsVlllckxtVE",
@@ -266,7 +299,7 @@
       "translated_title": "雨と暑さがイチゴ作物を脅かす - Channel 3000"
     },
     {
-      "id": 515,
+      "id": 199,
       "category": "Global",
       "title": "World Cup final tickets listed on FIFA resale at over $2 million - ESPN",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEo5Zjd6QlcxTUFTX2JZc2xBa1B5TnJzVHVjaHMtMFJvT0lZSVVYZ1lMVlBDdDV1ZGZ5VjMxR2RqSm94V0k0Z1kzdHZkaExob2JoeTU4MkpDX0YxdFBaNTcyTDRIX29aaFNkUWpzLW",
@@ -277,7 +310,7 @@
       "translated_title": "ワールドカップ決勝チケット、FIFA転売で200万ドル超で出品 - ESPN"
     },
     {
-      "id": 499,
+      "id": 181,
       "category": "Global",
       "title": "Touring Africa, Pope Leo Raised His Voice, but Didn’t Like the Echo - The New York Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUVZGQk9Ob2h0UlFUMG1DZDNCYkNwRkFhSm1aQU9yUE5Cd2M0UmtOS3k1dy01cnNMZ2MyZXRrR0Z3OTFyVmRqMzgwUFRjelRoaDNHZDNzaXR4bDR1YUd5eG51QkJWSm1XSmdzdlg1el",
@@ -288,7 +321,7 @@
       "translated_title": "アフリカ歴訪中の教皇レオ、声を荒げたが反響は好まなかった - ニューヨーク・タイムズ"
     },
     {
-      "id": 479,
+      "id": 162,
       "category": "Global",
       "title": "World News in Brief: Civilians at risk in Gaza and West Bank, Duterte to go on trial in ICC, Yemen detainees update - UN News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5acFZOVy1jaXVsYV9HR2VDOE5oZmRNZXA0ekNPZW9YMjZ5bWhJRm5ycjdrelV5bnBVN1lWc2FrbXJWWFlJYnNaWEc0Z2JyQVlSMEI5QzA3Zw?oc=5\" target=\"_blank\">World New",
@@ -299,7 +332,7 @@
       "translated_title": "世界ニュース概要：ガザとヨルダン川西岸で民間人が危険にさらされ、ドゥテルテ大統領がICCで裁判へ、イエメン拘束者の最新情報 - 国連ニュース"
     },
     {
-      "id": 493,
+      "id": 174,
       "category": "Global",
       "title": "How will a Hungary without Orbán impact Ukraine? - The Week",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB6cGZHS3BvckJWcW9lbVlfeXdSZUN1ZmtZWEtQTXhMaTczX1d4dVBRUWJFWGtlZ3NuUVNsd3JMTVVqcWlZSUtiLS1tZC00QmNOTTVkTWMxVXNXdnJEQ2JyNDdwUDlwV2xSaEpIMmFOa2",
@@ -310,7 +343,7 @@
       "translated_title": "オルバン不在のハンガリーはウクライナにどのような影響を与えるだろうか？ - その週"
     },
     {
-      "id": 539,
+      "id": 216,
       "category": "Global",
       "title": "Extended naval blockade is admission US military escalation poses even greater risk - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOa3RubzVYajRwZm12WkVpT0JWUlRULXcyV2FkYUJlaER1bTdWWF9QTFRWQzhRUG1XX3I3WURyNzBnWGpmR1pzbGdjdVJFVmZtR3lCOVVqZVlXTVkzT003blFBaEt0SC1FX2ZqZG1WX2",
@@ -321,7 +354,7 @@
       "translated_title": "海上封鎖の延長は米軍の拡大がさらに大きなリスクをもたらすことを認める - ガーディアン紙"
     },
     {
-      "id": 542,
+      "id": 220,
       "category": "Global",
       "title": "Italian sports minister dismisses plan for Azzurri to replace Iran at 2026 World Cup - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPZGFDUHlzdDVCMHh1Z0stbmo3UEdIUU5rSHg1NjI4Y3lTc0pncGhwVjctV1VHUVlwcVE1bXl3OVBPRXN0WGUwYkw1MDVyR1E5Z3VWdEhqUW56OFBkSnhCdWtURUtTTWxfblFNbXpIRm",
@@ -332,7 +365,29 @@
       "translated_title": "イタリアのスポーツ大臣、2026年ワールドカップでイランに代わってアッズーリを起用する計画を却下 - ガーディアン"
     },
     {
-      "id": 339,
+      "id": 197,
+      "category": "Global",
+      "title": "Warner Bros. Discovery shareholders approve Paramount takeover - Channel 3000",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOekxBNDBxdUs1SDB6RzM2SU9GWWtkaVFWUmN2ZU03OVNpMlR5YlNCVmt5VTducEt5NDVXYWpnT2dTWnV3S1d0cTNtNW1zdjdKVVdmcTRJZ2duMWI3M3NaempCcnZWQy1CX3hlcjNUd2",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOekxBNDBxdUs1SDB6RzM2SU9GWWtkaVFWUmN2ZU03OVNpMlR5YlNCVmt5VTducEt5NDVXYWpnT2dTWnV3S1d0cTNtNW1zdjdKVVdmcTRJZ2duMWI3M3NaempCcnZWQy1CX3hlcjNUd2hHaU9XVFowRkFMRlJ6WnNlZjlaREUxT0c4NWk4OW5fX2tBSk5WQ1dJNnRGdV9xWG16aW1oRjVwZDdxV3ljcmFTdjl0dG4xQzA2Z2JDeUNpbXIyYnhvWG1CMURKNU53RERqVHRiUjBsY3NBV2pwN1NKSkNZUlpjam9LdFNEVUFvYVg3TE5KQWRrTmRR?oc=5",
+      "published_at": "Thu, 23 Apr 2026 15:21:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "ワーナー・ブラザース・ディスカバリーの株主がパラマウントの買収を承認 - Channel 3000"
+    },
+    {
+      "id": 190,
+      "category": "Global",
+      "title": "Why did US and Israel attack Iran and how long could the war last? - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5\" target=\"_blank\">Why d",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5",
+      "published_at": "Thu, 23 Apr 2026 14:23:17 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "なぜ米国とイスラエルはイランを攻撃したのか、そして戦争はどれくらい続くのか? - BBC"
+    },
+    {
+      "id": 22,
       "category": "Mechanical",
       "title": "This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/man-crouches-behind-three-robots.png?id=65575461&amp;width=1245&amp;height=700&amp;coordinates=0%2C219%2C0%2C219\" /><br /><br /><p><a href=\"https://li",
@@ -343,7 +398,7 @@
       "translated_title": "ロボット工学者から教師に転身したこの人は、ENIAC の等身大レプリカを作成しました"
     },
     {
-      "id": 464,
+      "id": 147,
       "category": "Global",
       "title": "Israel-Lebanon ceasefire extended by 3 weeks following White House peace talks, Trump says - CBS News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTVRZSHpJQzN6WkV5Y25XdXcxMXR0Q3NMYk1zSFExT08xbkpTTTVGTzkwU08zdXF5ZTlfS3NENTRDejVRbVRNQ3pQeW5Qa0pwZWNjTE9qNlptMFpNdTNPMnlJS2l3WFVmT3NYLS1FVV",
@@ -354,7 +409,7 @@
       "translated_title": "トランプ大統領、イスラエル・レバノンの停戦延長、ホワイトハウス和平協議を受けて3週間延長 - CBSニュース"
     },
     {
-      "id": 526,
+      "id": 205,
       "category": "Global",
       "title": "World Cup 2026: No Fifa plan to swap Iran and Italy after Trump envoy asks for switch - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Kcm5hYXh1WEQxOGJRcXNoT3BTRzBOSHcxQWk4ZUdQZFVDamdFa0FlWFhDVFg0eDFxSUhjRVRsUzR2TEZvNExIbFdEZWcydDRSY2VHQjViOFFVVklvczZXcExPc2h3elU?oc=5\" targ",
@@ -365,7 +420,7 @@
       "translated_title": "2026年ワールドカップ：トランプ特使がイランとイタリアの入れ替え要請後、FIFAはイランとイタリアの入れ替え計画なし - BBC"
     },
     {
-      "id": 494,
+      "id": 175,
       "category": "Global",
       "title": "World Press Photo announces Photo of the Year 2026 - WUNC News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQX2xMSGZSbnVpQlowQzdnRjFUNkJHN0VZUk1WbEpJNWF5OXdMUW1hdnB6T21DSF9SZmJjRXIwZ2FCc3VnaWRPbzJCNlNDYlRmdUViWV9ZVE5ON2c1T0tyQUE2WVNMNTM1NXNJMWJjUU",
@@ -376,7 +431,7 @@
       "translated_title": "World Press Photo、2026 年のフォト・オブ・ザ・イヤーを発表 - WUNC ニュース"
     },
     {
-      "id": 503,
+      "id": 186,
       "category": "Global",
       "title": "GENESIS GV60 NAMED BEST COMPACT ELECTRIC SUV BY US NEWS & WORLD REPORT IN 2026 BEST HYBRID AND ELECTRIC CAR AWARDS - Genesis Newsroom",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbmM1Y1VpSjJGMThrVlI0bjA3dTl5V3FUWVgxTERtdXd6ak9oT1ItM1BaVjNTdzliRkI5ZnktWXREMzlMMnZTbTY0em9DZzZUT2tROW1oSjZ5cFFGVG1sVXBlb2hKTGVJdHViQm5GYW",
@@ -387,29 +442,7 @@
       "translated_title": "ジェネシス GV60 が米国ニュース＆ワールドレポートにより、2026 年のベストハイブリッドカーおよび電気自動車賞で最優秀コンパクト電気 SUV に選出 - Genesis Newsroom"
     },
     {
-      "id": 507,
-      "category": "Global",
-      "title": "Israeli UN ambassador: IDF most moral military in the world - THIRTEEN - New York Public Media",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9fLUtmeks2bVJUNmMzaW9IZ1BkMC03MENuWkhydTNmalZTYTRPS1JreVZUNlBkeGlKc3pudTBoMTlKWFFrdzlud2RQazZIQ0JWSjI2SWIwNGJzVngwWWloWFBkUXpzcjFfX2xUS2xiZX",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fLUtmeks2bVJUNmMzaW9IZ1BkMC03MENuWkhydTNmalZTYTRPS1JreVZUNlBkeGlKc3pudTBoMTlKWFFrdzlud2RQazZIQ0JWSjI2SWIwNGJzVngwWWloWFBkUXpzcjFfX2xUS2xiZXhTcnlIbU5n?oc=5",
-      "published_at": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "イスラエル国連大使：IDFは世界で最も道徳的な軍隊 - THIRTEEN - New York Public Media"
-    },
-    {
-      "id": 520,
-      "category": "Global",
-      "title": "World Cup 2026 news and live updates - USA, Canada and Mexico build-up plus latest on Trump, tickets and fans - Sky Sports",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNU5mLUpCYnZRLTFLYUY4aS1FdUlmc0xhaVdDalFzV1Q5N3c0S3RTTjRvalRaS01zbmlidVVxa19hZC1wOEY3eFFXR2cteDU3N1BGLTBtcWRRcDhGQXBLTlNOdmNFcnQ2bld6dDVJT0",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNU5mLUpCYnZRLTFLYUY4aS1FdUlmc0xhaVdDalFzV1Q5N3c0S3RTTjRvalRaS01zbmlidVVxa19hZC1wOEY3eFFXR2cteDU3N1BGLTBtcWRRcDhGQXBLTlNOdmNFcnQ2bld6dDVJT0pzWFA0NkczOThwcjdQcldrMnYzcmRNQ2ZPUng5SUVkcldJNzFsdmpyUy1tXzNTbG9RRDZFYXFHeUhrUGpEdnI2djdpeHdDbnVqczY0SEtoZWQxVzlDWW4xVENaUV9WMHloOElGRlFaTkpiZVpHSkh6aldwX2dTN2VRMnJwM1l2YldQN041bFVXag?oc=5",
-      "published_at": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "2026 年ワールドカップのニュースとライブ最新情報 - 米国、カナダ、メキシコの強化とトランプ、チケット、ファンの最新情報 - スカイスポーツ"
-    },
-    {
-      "id": 535,
+      "id": 214,
       "category": "Global",
       "title": "World’s oldest nun turns 113 and reveals secret to long life: ‘My whole mind is on God’ - Catholic World Report",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOVFFkTTZaUlhoZzZRQ2NWRnJnVjF4aG1CNEUtT2p1NU9NbTVGdHBrMU1YajYwTFhSMENwQ1pyRmpxQUpsY1hDLTRrXzU5VWtHeldaQ210TS1uUEpiNGNBclFoVmp6Zzk3MFlIRlM5TW",
@@ -420,7 +453,7 @@
       "translated_title": "世界最高齢の修道女が113歳になり長寿の秘訣を明かす：「私の心はすべて神にあります」 - カトリック・ワールド・レポート"
     },
     {
-      "id": 355,
+      "id": 38,
       "category": "Mechanical",
       "title": "Overcoming Core Engineering Barriers in Humanoid Robotics Development",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/logo-of-murata-in-red-with-text-innovator-in-electronics-below.png?id=65106483&amp;width=980\" /><br /><br /><p><span>A technical examination of the se",
@@ -431,7 +464,7 @@
       "translated_title": "ヒューマノイドロボット開発におけるコアエンジニアリングの障壁を克服する"
     },
     {
-      "id": 508,
+      "id": 191,
       "category": "Global",
       "title": "Cancer - World Health Organization (WHO)",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YX1Z1bXFyRDgwRmRrdU5Ca3JETTJKaXFZYVVSQWp4V3VHOGFLYVRkMlU1ZXM5RHBfdGxIZGQ1a0Q3Sk5hYUlUY0kxMTdHd3UwYjl3M1c3cGxBZjN0UTI3Y0FOaXVpUQ?oc=5\" targe",
@@ -442,7 +475,7 @@
       "translated_title": "がん - 世界保健機関 (WHO)"
     },
     {
-      "id": 525,
+      "id": 204,
       "category": "Global",
       "title": "Lung cancer - World Health Organization (WHO)",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4yV2ozR0hPOGdZQTNtMWJSZ1pOaFhOc0RHaXdkb01tM1hMcEo5YUE0M0YwbmlpekJZZGIxRHpWZ2pFNzlELWZXSkx4UDMxZ3N0em5scWctemhJUWNSZVRkdFBLUG9ja3VzblRaeg?oc=",
@@ -453,7 +486,7 @@
       "translated_title": "肺がん - 世界保健機関 (WHO)"
     },
     {
-      "id": 345,
+      "id": 28,
       "category": "Mechanical",
       "title": "GoZTASP: A Zero-Trust Platform for Governing Autonomous Systems at Mission Scale",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/technology-innovation-institute-logo-with-stylized-tii-and-curved-line.png?id=65498963&amp;width=980\" /><br /><br /><p>ZTASP is a mission-scale assura",
@@ -464,7 +497,7 @@
       "translated_title": "GoZTASP: ミッション規模で自律システムを管理するためのゼロトラスト プラットフォーム"
     },
     {
-      "id": 348,
+      "id": 31,
       "category": "Mechanical",
       "title": "Humanoid Robots Hit a Turning Point as Their Brains Catch Up",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-smiling-bespectacled-bearded-man-kneels-posed-behind-a-robotic-torso.jpg?id=65446567&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188",
@@ -475,7 +508,7 @@
       "translated_title": "人型ロボット、脳の追い上げで転換点を迎える"
     },
     {
-      "id": 349,
+      "id": 32,
       "category": "Mechanical",
       "title": "Wi-Fi That Can Withstand a Nuclear Reactor",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/close-up-of-a-receiver-chip.jpg?id=65428613&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p>Researchers have made a ",
@@ -486,7 +519,7 @@
       "translated_title": "原子炉にも耐えられるWi-Fi"
     },
     {
-      "id": 350,
+      "id": 33,
       "category": "Mechanical",
       "title": "Scientists Build Living Robots With Nervous Systems",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/close-up-of-a-neuro-robot-that-has-been-stained-to-highlight-multi-ciliated-cells-around-its-periphery.jpg?id=65444408&amp;width=1245&amp;height=700&a",
@@ -497,7 +530,7 @@
       "translated_title": "科学者が神経系を備えた生きたロボットを構築"
     },
     {
-      "id": 536,
+      "id": 213,
       "category": "Global",
       "title": "World News in Brief: South Sudan rights, opioid guidelines update, DR Congo crisis continues - UN News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE91Q2pRT203TkdXZnlwNUxYeHpxTFJya2ZzVk0xOWdpc0c1eVdSaFhLcVNTckYwQ1V3aTZ0ZTg0d3JudFhHSzJMaUNjQ296aTZIbzBBSXM1SQ?oc=5\" target=\"_blank\">World New",
@@ -508,7 +541,7 @@
       "translated_title": "世界ニュース概要：南スーダンの権利、オピオイドガイドラインの更新、コンゴ民主共和国の危機は続く - 国連ニュース"
     },
     {
-      "id": 346,
+      "id": 29,
       "category": "Mechanical",
       "title": "What Happened When We Set Up a Robotics Lab in a Mall",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&amp;width=1245&amp;height=700&amp;coordinates=0%2C62",
@@ -519,7 +552,62 @@
       "translated_title": "ショッピングモールにロボット研究所を設立したら何が起こったのか"
     },
     {
-      "id": 418,
+      "id": 101,
+      "category": "Product",
+      "title": "水滴が残らないからすぐ収納OK。強撥水な折りたたみ傘で雨の日のストレスも減るね",
+      "summary": "ナノコーティングによる強力撥水は想像以上。サッと振るだけで水滴はほぼゼロに。風にも強い工夫もあり、UV99%カットで日傘としても使えるから常備しておきたい1本かも。",
+      "url": "https://www.gizmodo.jp/2026/04/machi-ya-nexrainzero-review-894707.html",
+      "published_at": "Sat, 25 Apr 2026 13:55:00 +0900",
+      "importance": 1,
+      "source_name": "Gizmodo JP",
+      "translated_title": "水滴が残らないからすぐ収納OK。強撥水な折りたたみ傘で雨の日のストレスも減るね"
+    },
+    {
+      "id": 102,
+      "category": "Product",
+      "title": "イスが「蒸れるの嫌すぎる」って人はメッシュ生地が正解【クラファン残り6日】",
+      "summary": "Photo:三浦一紀2026年3月26日の記事を編集して再掲載しています。蒸れ蒸れからの解放。仕事にしろ趣味のゲームにしろ、長時間デスクに向き合うなら作業環境をアップグレードしたくなるところ。「少しでも身体を楽にしたい、効率を上げたい」と、思い切って高機能なゲーミングチェアを相棒に選んだ人も少なくないはず。たしかにゲーミングチェアは、普通のイスに比べれば、ワンランクもツーランクも上の座り心地を提供",
+      "url": "https://www.gizmodo.jp/2026/04/yps-s800-gizmart-7-xoy-re.html",
+      "published_at": "Sat, 25 Apr 2026 13:00:00 +0900",
+      "importance": 1,
+      "source_name": "Gizmodo JP",
+      "translated_title": "イスが「蒸れるの嫌すぎる」って人はメッシュ生地が正解【クラファン残り6日】"
+    },
+    {
+      "id": 103,
+      "category": "Product",
+      "title": "4つの翻訳エンジンと世界のサーバに瞬時に接続。追加料金は不要の高性能AI翻訳イヤホン",
+      "summary": "AI翻訳イヤホン「Wooask M3」は、イヤホンをつけるだけでリアルタイム翻訳ができるスマートデバイス。ハンズフリーで会話できるフリートークモードをはじめ、タッチ操作やスピーカーモード、写真翻訳など、シーンに応じて使い分けが可能です。最大144言語に対応し、海外旅行やビジネスシーンでも活躍。さらにオフラインでも11言語に対応しているため、通信環境に左右されず使えるのも安心ポイント。コンパクトで軽",
+      "url": "https://www.gizmodo.jp/2026/04/costorypo-wooask-end-1978539678.html",
+      "published_at": "Sat, 25 Apr 2026 12:55:00 +0900",
+      "importance": 3,
+      "source_name": "Gizmodo JP",
+      "translated_title": "4つの翻訳エンジンと世界のサーバに瞬時に接続。追加料金は不要の高性能AI翻訳イヤホン"
+    },
+    {
+      "id": 104,
+      "category": "Product",
+      "title": "僕の相棒、「探す」対応iPad用ペンシルの安心感がすごい",
+      "summary": "Image:Amazonジェネリックの進化もスゴイ。iPadで手書きしたい人の必需品となっているAppleのApplePencil。今は安価なサードパーティ製ペンシル（いわゆるジェネリックApplePencil）も多く、意外とお安く手書き環境を構築できますよね。それらのジェネリックペンシルも、実は進化をしています。ESRipadペン用FindMy「探す」機能付きスタイラス4,599円Amazonで",
+      "url": "https://www.gizmodo.jp/2026/04/amazon-esr-apple-pencil.html",
+      "published_at": "Sat, 25 Apr 2026 12:00:00 +0900",
+      "importance": 1,
+      "source_name": "Gizmodo JP",
+      "translated_title": "僕の相棒、「探す」対応iPad用ペンシルの安心感がすごい"
+    },
+    {
+      "id": 105,
+      "category": "Product",
+      "title": "Pixelにしてよかった。目立たないけどありがたい4つの機能",
+      "summary": "Photo:小野寺しんいち2025年5月19日の記事を編集して再掲載しています。8Kで動画を撮れたり、写っていない人を合成した写真を作ってくれたり、AIが代わりに電話に出てくれたり...驚くような機能が目白押しのPixel。そんな華々しい機能の陰で、目立たないけれど便利な機能もたくさんあります。今回は、Pixelを3ヶ月使ってようやく気づいた、日々の生活にボディブローのように効いてくる、地味だけど",
+      "url": "https://www.gizmodo.jp/2026/04/pixel-ai-feature-five-4t7-aul.html",
+      "published_at": "Sat, 25 Apr 2026 11:35:00 +0900",
+      "importance": 3,
+      "source_name": "Gizmodo JP",
+      "translated_title": "Pixelにしてよかった。目立たないけどありがたい4つの機能"
+    },
+    {
+      "id": 106,
       "category": "Product",
       "title": "ゴールデンウィークにこそ推したいゲーム5作品",
       "summary": "Image:Shutterstock今年もやってきました、ゴールデンウィーク。家族や友達と旅行に行く方もいれば、お家でまったり映画やドラマを楽しむ!という方もいると思います。「せっかくの連休だけど何するか迷うなぁ…」という方は、ゲームに没頭する時間を設けてみてはいかがでしょうか？PlayStation5やNintendoSwitch2などの家庭ゲーム機で遊べる話題のアクションゲーム作品をピックアッ",
@@ -530,7 +618,7 @@
       "translated_title": "ゴールデンウィークにこそ推したいゲーム5作品"
     },
     {
-      "id": 419,
+      "id": 107,
       "category": "Product",
       "title": "音楽好き・クルマ好きのための独自設計カーキャパシタ。バッテリーからの電源供給の不安定さを改善します",
       "summary": "カーステレオの音のこもりやひずみは、カーバッテリーの不安定さが原因になっていることがあります。「TsudaISMカーキャパシタ」は、パワーソースを安定させることで音質改善が期待できるデバイス。燃費の改善も期待でき、音の安定感やクリアさに奥深さを与えてくれます。バッテリー端子に取り付けるだけの手軽さも魅力です。",
@@ -541,7 +629,7 @@
       "translated_title": "音楽好き・クルマ好きのための独自設計カーキャパシタ。バッテリーからの電源供給の不安定さを改善します"
     },
     {
-      "id": 420,
+      "id": 108,
       "category": "Product",
       "title": "自動巻き・裏表スケルトン。\"黒い宝石\" エボニーウッドを使った世界にひとつだけの木製腕時計",
       "summary": "希少な黒檀を使った木製自動巻き腕時計が登場。世界にひとつしかない木目、防滴・夜光針などの実用性を持ち、金属部分には肌への配慮もしっかり。電池不要の自動巻き機構を両面スケルトンデザインに内包し、機能美を視覚的に楽しむこともできます。木製専用ケース入りで、大切な人へのギフトにも最適な一生モノの逸品です。",
@@ -552,7 +640,7 @@
       "translated_title": "自動巻き・裏表スケルトン。\"黒い宝石\" エボニーウッドを使った世界にひとつだけの木製腕時計"
     },
     {
-      "id": 421,
+      "id": 109,
       "category": "Product",
       "title": "お茶は「美所作」で淹れる時代。HARIOの新作ポットは片手で注げるって",
       "summary": "HARIO（ハリオ）から、構造美が光るティーウェアが登場。\n4月13日に発売された「CLEAR BREW POT」は、なんとお茶を注ぐ際の「所作が自然に美しく変わる」というのです。",
@@ -563,7 +651,7 @@
       "translated_title": "お茶は「美所作」で淹れる時代。HARIOの新作ポットは片手で注げるって"
     },
     {
-      "id": 422,
+      "id": 110,
       "category": "Product",
       "title": "今ならお安く。新生活のお供にApple Watch Series 11はいかが？",
       "summary": "Image:Amazon.co.jp4月になり、新しい生活をスタートしたという方も多いことでしょう。そんな節目に、いっちょスマートウォッチでも買っちゃおうかなと思っている方、ちょうどいいタイミングです。なんと、AppleWatchSeries11がAmazonでお買い得になっています。セール価格はジェットブラックなど各カラーが対象42mmのGPSモデルが11％オフの5万7610円。AppleWat",
@@ -574,7 +662,7 @@
       "translated_title": "今ならお安く。新生活のお供にApple Watch Series 11はいかが？"
     },
     {
-      "id": 423,
+      "id": 111,
       "category": "Product",
       "title": "いつものドリップ、天秤スケールでもうひと手間を楽しんでみない？",
       "summary": "電池も電源もなし、傾きだけで豆12〜24gを量れる天秤式コーヒースプーン。デジタルまみれな現代だからこそ、アナログな道具で手間を楽しむのは意外と贅沢かも。 自分の感覚と向き合う時間を楽しんでみて。",
@@ -585,73 +673,183 @@
       "translated_title": "いつものドリップ、天秤スケールでもうひと手間を楽しんでみない？"
     },
     {
-      "id": 569,
+      "id": 254,
       "category": "News",
-      "title": "村上宗隆、７戦６発、元巨人・マイコラスからメジャートップタイ11号… 「振ったらほとんどホームラン」「永久契約してくれ」ホワイトソックスファン沸く（中日スポーツ） - Yahoo!ニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZX3ZtVFAwdThZQTU3VUxhRHg5ZHZUWWxZUVVoaGdmUHhGTTMwa1VyZC1OQW1tWlNPVG1nYjMtWUQwbTk5ZTUyM3R6eEZBS1I4S3NlOTBHeTM1OXBEM2V1TDhVRGhpRjZyX0",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZX3ZtVFAwdThZQTU3VUxhRHg5ZHZUWWxZUVVoaGdmUHhGTTMwa1VyZC1OQW1tWlNPVG1nYjMtWUQwbTk5ZTUyM3R6eEZBS1I4S3NlOTBHeTM1OXBEM2V1TDhVRGhpRjZyX0M5MEk1bmV6LTROZmNwbmF2WHN1SkU?oc=5",
-      "published_at": "Sat, 25 Apr 2026 02:00:53 GMT",
+      "title": "ホワイトソックス村上、11号ソロで本塁打ランク1位に アストロズのアルバレスと並ぶ - 産経ニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1IT25aSkUwbFd0UldLTURWc3pacDFEMkZZVlBKRlVNSUJJTl9PbDJmX28zeGZYVlNjWDlxakJwekp2dFJOeU01XzZQRmp1TF9TTU5Fc1dzTUJrMmJmM3lBY1FiSFpmSDA1b3",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IT25aSkUwbFd0UldLTURWc3pacDFEMkZZVlBKRlVNSUJJTl9PbDJmX28zeGZYVlNjWDlxakJwekp2dFJOeU01XzZQRmp1TF9TTU5Fc1dzTUJrMmJmM3lBY1FiSFpmSDA1b3Q3UUVWeTZtUkZCREE?oc=5",
+      "published_at": "Sat, 25 Apr 2026 04:54:52 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "村上宗隆、７戦６発、元巨人・マイコラスからメジャートップタイ11号… 「振ったらほとんどホームラン」「永久契約してくれ」ホワイトソックスファン沸く（中日スポーツ） - Yahoo!ニュース"
+      "translated_title": "ホワイトソックス村上、11号ソロで本塁打ランク1位に アストロズのアルバレスと並ぶ - 産経ニュース"
     },
     {
-      "id": 561,
+      "id": 140,
+      "category": "Global",
+      "title": "Trump sends envoys to Islamabad as Iran rules out direct talks - Audacy",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPYjlfRW9oLXdtUlFyeV9DZW5oYWZqck9xdS1IYWtxZnhxanYyRnNSLUJ6dk1YcXFsQXhESnFUZS1MOXNVZE1hYzJKZ01wdXE5ek0wRjdfRk04M3ZVR0lyVXFxaEFHWWVFTFJJSDVndU",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYjlfRW9oLXdtUlFyeV9DZW5oYWZqck9xdS1IYWtxZnhxanYyRnNSLUJ6dk1YcXFsQXhESnFUZS1MOXNVZE1hYzJKZ01wdXE5ek0wRjdfRk04M3ZVR0lyVXFxaEFHWWVFTFJJSDVndU5Wb3l2MWdmemFGYk0tWUI4ejR3WVNwX1piUlo3TVZWeUhLZS03UlZySXp2YlJuNndhbHlPRE42bWZDUnp0S2lHNWJkS3MxSDBQRHdGaU03Zzd2ZGxCdWhsSjZnVnczdw?oc=5",
+      "published_at": "Sat, 25 Apr 2026 04:52:49 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "イランが直接対話を排除する中、トランプ大統領が特使をイスラマバードに派遣 - Audacy"
+    },
+    {
+      "id": 153,
+      "category": "Global",
+      "title": "Talks Looks at Pittsburgh’s Impact on 1893 World’s Fair - theintelligencer.net",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNazVDeGdtbmJrWHFIUVRzTjZEc1FKRVozSkN5VWRXX3ZJNjFLSHN3NFpMeUgxMnlSV25RODVvOGYzemVqT3RySngxWlZ1UE1BbG1mREEtRXo2dzRDV2NNM2diQXJ0WkxkVnc4QW1LM0",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNazVDeGdtbmJrWHFIUVRzTjZEc1FKRVozSkN5VWRXX3ZJNjFLSHN3NFpMeUgxMnlSV25RODVvOGYzemVqT3RySngxWlZ1UE1BbG1mREEtRXo2dzRDV2NNM2diQXJ0WkxkVnc4QW1LM0RJRkk0TVRONlNQM1NCem4wdmIwdi0tSUNyOF8xZk0tV1pqMGVUR05jVkg1d0pCTXV6MnZaQlhISEdkSExQZGc?oc=5",
+      "published_at": "Sat, 25 Apr 2026 04:45:28 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "1893年万国博覧会に対するピッツバーグの影響について語る - theintelligencer.net"
+    },
+    {
+      "id": 152,
+      "category": "Global",
+      "title": "John Marshall Robotics Wins Design Award At World Championships - theintelligencer.net",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQenJqNndTdE0yVVZuX1lZRHJFYVBMNVBOUS1pZFYzSEdHeTVGTHZqR1ZjY0dMYkE4X203YVFlZ3JNVC1QeWVNZ1BGZmVkY2dXeldLLUFScGV4aEV6VHc0aXVINTd6NHNRZUVacjhFWk",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenJqNndTdE0yVVZuX1lZRHJFYVBMNVBOUS1pZFYzSEdHeTVGTHZqR1ZjY0dMYkE4X203YVFlZ3JNVC1QeWVNZ1BGZmVkY2dXeldLLUFScGV4aEV6VHc0aXVINTd6NHNRZUVacjhFWkpvU2dEblIyVXl0Ykx1cVdhLW9ZRWltMU9kOUxZLUZoZXlIblFVMjZCRV96VEI0UXNGakdJYk1sazFCajFDcjlOc2luaHA1X2Z2U0toTw?oc=5",
+      "published_at": "Sat, 25 Apr 2026 04:41:15 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "ジョン・マーシャル・ロボティクスが世界選手権でデザイン賞を受賞 - theintelligencer.net"
+    },
+    {
+      "id": 128,
+      "category": "Global",
+      "title": "Trump sends envoys to Islamabad as Iran rules out direct talks - WKMG",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNNkppYnRRck04NnM4MWtZem9ERkt2bnpDRmgyTkRKUExLOVR3bXRkMVJfaUF6T2dKcVl2Zl9zTFhOYkVJZ09BWnlnVXZBdjJUNE5odjR4TEFROFdUMUhwLUVRa1N1NDZPVFpNNXlRZ2",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNkppYnRRck04NnM4MWtZem9ERkt2bnpDRmgyTkRKUExLOVR3bXRkMVJfaUF6T2dKcVl2Zl9zTFhOYkVJZ09BWnlnVXZBdjJUNE5odjR4TEFROFdUMUhwLUVRa1N1NDZPVFpNNXlRZ29jaHNOVUtLX19oeEhQbGI5ZmFyT3A1TGhab2hZZFFCbzBheENBa1d4OVd6eXMzckhZVFBTeXhodEN3X3VvdEt6em16bHU?oc=5",
+      "published_at": "Sat, 25 Apr 2026 04:13:06 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "イランが直接対話を排除する中、トランプ大統領が特使をイスラマバードに派遣 - WKMG"
+    },
+    {
+      "id": 132,
+      "category": "Global",
+      "title": "Day 56 of Middle East conflict - Uncertainty remains in US-Iran peace talks - CNN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQeTN5a2dGaXEzWTRJQmc5T0pPbzlpbXVZWkpXOU9hUGJ2QzZMMjU4ZFp5TVl6bTB3VUY0dkJBTnloR2lPTmU0blAyT2FsYTc2WDZHU1p2R0JwN0hpUXVLcGNDSzNMR3M4NVlSdU5TQl",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeTN5a2dGaXEzWTRJQmc5T0pPbzlpbXVZWkpXOU9hUGJ2QzZMMjU4ZFp5TVl6bTB3VUY0dkJBTnloR2lPTmU0blAyT2FsYTc2WDZHU1p2R0JwN0hpUXVLcGNDSzNMR3M4NVlSdU5TQlRVUm5PNkREWGJDemFxbHptU3dR?oc=5",
+      "published_at": "Sat, 25 Apr 2026 04:09:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "中東紛争56日目―米国とイランの和平交渉は依然として不確実性が残る―CNN"
+    },
+    {
+      "id": 129,
+      "category": "Global",
+      "title": "US, Iran To Hold 2nd Round Of Talks In Pakistan Today. What's On Agenda - NDTV",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQYlJaZzVKSEt6NG11YV95UTJrSk1xTDktbG9pYTZ4S1pOeGVxOTRyVWkxNXMzUFJyWkFSMmdKYkVwaG0zbkJwZk5meGN1N1F1OHFEZTBlRDF6UmRfdE1ESWNxaFdLRVRTc2lER3JsR2",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYlJaZzVKSEt6NG11YV95UTJrSk1xTDktbG9pYTZ4S1pOeGVxOTRyVWkxNXMzUFJyWkFSMmdKYkVwaG0zbkJwZk5meGN1N1F1OHFEZTBlRDF6UmRfdE1ESWNxaFdLRVRTc2lER3JsR2dhSi1kTkFaMFlMY3g4UmdRSHhhbHE0NE42TGxtUG1zaVh0OXlGdGhJVWI0dC1IN2JRZWQtd05ZdGRvSG5hT3VsbjJUTzFfWEVuSkR2ZExB0gHGAUFVX3lxTE1oY2p4UGZEX0tYSjJWRVlQWEhhazhsbmlzRUx2V3AzNUgtX3JCNzRfaGpuLXl4d1Ztbk5DT1UyNzhnelFoSGNNSEdRSnFKUTBwemtUVG9QZ29UQXF2bVNSdGV3dEZVczU1YmoyYjZlMHM1MGNXYXpBOXc0cy1DcVAyYVZoSzkybWVqUmRyUlpVRG1WTFotLThkSnJYeE10aXhEVzFnWXpoZGFqbUYtZjVndC1URUtJZ09zQ3lUOUlmYmNpMDN4QQ?oc=5",
+      "published_at": "Sat, 25 Apr 2026 04:02:56 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "米国とイランは本日パキスタンで第2回協議を開催。議題 - NDTV"
+    },
+    {
+      "id": 131,
+      "category": "Global",
+      "title": "31 sloths die in Florida before opening of attraction - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaVkd3SHpPem0zQTRVS1pBaGFVa2hVdXpyaGFhY3dQbjh5c1VOYzVqSHJ6Z0pnMWRTeHZPSUozeDcxc0dUem9oSUhQdjNZdlkzV1NSdmxuTnY1dw?oc=5\" target=\"_blank\">31 sl",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaVkd3SHpPem0zQTRVS1pBaGFVa2hVdXpyaGFhY3dQbjh5c1VOYzVqSHJ6Z0pnMWRTeHZPSUozeDcxc0dUem9oSUhQdjNZdlkzV1NSdmxuTnY1dw?oc=5",
+      "published_at": "Sat, 25 Apr 2026 04:02:47 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "フロリダ州でアトラクションオープン前に31匹のナマケモノが死亡 - BBC"
+    },
+    {
+      "id": 1,
+      "category": "AI/IT",
+      "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+      "summary": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",
+      "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+      "published_at": "Sat, 25 Apr 2026 03:30:00 +0000",
+      "importance": 1,
+      "source_name": "TechCrunch",
+      "translated_title": "Lachy Groom氏がインドの新興企業Prontoを評価額2億ドルで支援すると情報筋が語る"
+    },
+    {
+      "id": 135,
+      "category": "Global",
+      "title": "India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3VfdHlocU04bTFqcw?oc=5",
+      "published_at": "Sat, 25 Apr 2026 03:28:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "トランプ大統領が「地獄」と呼ぶコメントを共有したことでインド、怒りの声 - ガーディアン紙"
+    },
+    {
+      "id": 253,
       "category": "News",
-      "title": "ゴールデンウィークにこそ推したいゲーム5作品 - ギズモード・ジャパン",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBWaXdrbExwNHkzLU1Xejd6NUlFS0ZxSFh3NW5oQzlTMHBPU24tdzVyYnBEaWdCRXlhaUFVd0NwbC0xekx3MGdOTElNWXlhRlZvOTNVandJelBGY2x4TmhIbkZxbXgxSnRnWmZOT0tLUk",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWaXdrbExwNHkzLU1Xejd6NUlFS0ZxSFh3NW5oQzlTMHBPU24tdzVyYnBEaWdCRXlhaUFVd0NwbC0xekx3MGdOTElNWXlhRlZvOTNVandJelBGY2x4TmhIbkZxbXgxSnRnWmZOT0tLUkJ4ck0?oc=5",
-      "published_at": "Sat, 25 Apr 2026 02:00:00 GMT",
+      "title": "大谷翔平、ドジャース移籍後ワーストの49打席連続ノーアーチ カブス戦で2打席連続の空振り三振（中日スポーツ） - Yahoo!ニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAwWFdsOWVmaG1JMmlzdGRUd3FjVnhPRlJCMHZqbkd1b2dMVDdZdzNPOXRneXBjejQ5Yml3RjN0ZTFuS1hqelZLSjdaX2RsRDVIVjNWX0gyeUFOcnZOVUJ2VUxqMDN2UG9QcE",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwWFdsOWVmaG1JMmlzdGRUd3FjVnhPRlJCMHZqbkd1b2dMVDdZdzNPOXRneXBjejQ5Yml3RjN0ZTFuS1hqelZLSjdaX2RsRDVIVjNWX0gyeUFOcnZOVUJ2VUxqMDN2UG9QcENYeEJPdEJFSE5Dc3BiWEFKUmVSd3c?oc=5",
+      "published_at": "Sat, 25 Apr 2026 03:19:08 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "ゴールデンウィークにこそ推したいゲーム5作品 - ギズモード・ジャパン"
+      "translated_title": "大谷翔平、ドジャース移籍後ワーストの49打席連続ノーアーチ カブス戦で2打席連続の空振り三振（中日スポーツ） - Yahoo!ニュース"
     },
     {
-      "id": 548,
+      "id": 251,
       "category": "News",
-      "title": "「ブラックボックス」化する宗教法人の寄付 首相支部に3000万円 - 毎日新聞",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YZ3VRckFOZVVucUo3RDBnQkdsWmloV2NoN0RrdGpWUjVsZ01wSGRhMEptYmtNcmIwbVZ6dzRwektwV1JOUHFhM2c2RUVpSHpOOEhKNy1NUTdZUG1mR2ExR1lKNkJfSDV0?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YZ3VRckFOZVVucUo3RDBnQkdsWmloV2NoN0RrdGpWUjVsZ01wSGRhMEptYmtNcmIwbVZ6dzRwektwV1JOUHFhM2c2RUVpSHpOOEhKNy1NUTdZUG1mR2ExR1lKNkJfSDV0?oc=5",
-      "published_at": "Sat, 25 Apr 2026 01:59:21 GMT",
+      "title": "名人戦勝負めし 藤井名人は帆立カレー 糸谷九段は蟹海老の天丼 - 毎日新聞",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wX1V2ODVPWTgzR00wd2wzS1NMODdoaFZaQVhjbWZkMUNiYjgtem9fbGlsZUtoWDQzNTE1NWpNeTZuWDl4bUg5RWMwY29UVVFaZDJ0aWM3Y3FxN1JkNFlSSkpOREhfX3Et?o",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wX1V2ODVPWTgzR00wd2wzS1NMODdoaFZaQVhjbWZkMUNiYjgtem9fbGlsZUtoWDQzNTE1NWpNeTZuWDl4bUg5RWMwY29UVVFaZDJ0aWM3Y3FxN1JkNFlSSkpOREhfX3Et?oc=5",
+      "published_at": "Sat, 25 Apr 2026 03:02:28 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "「ブラックボックス」化する宗教法人の寄付 首相支部に3000万円 - 毎日新聞"
+      "translated_title": "名人戦勝負めし 藤井名人は帆立カレー 糸谷九段は蟹海老の天丼 - 毎日新聞"
     },
     {
-      "id": 570,
+      "id": 250,
       "category": "News",
-      "title": "「りくりゅう」日本橋でリフト披露、ミラノ五輪メダリストらパレード…村岡桃佳ら練り歩き - 読売新聞",
+      "title": "新宿で水餃子食べ放題900円！ ガチ中華・福怡軒の「おまけビュッフェ」がコスパ良し / ガチ中華ランチ紀行：第27回 - ロケットニュース24",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE52WWJYTWZTYV9ETjZfQmQ0M2duVUY5YVhCaFUxSHB4Y3hfaUl1Yk1sQThPR05MTDlNb2VDUEJFS0Z0aVpsNzFZTHAtTk9VMGlHRW9yTzNZQdIBXEFVX3lxTE9oX2J4a3dGeD",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52WWJYTWZTYV9ETjZfQmQ0M2duVUY5YVhCaFUxSHB4Y3hfaUl1Yk1sQThPR05MTDlNb2VDUEJFS0Z0aVpsNzFZTHAtTk9VMGlHRW9yTzNZQdIBXEFVX3lxTE9oX2J4a3dGeDdqVWhFZUxMRVVqWWlzclpWRnRjeVV5SW8zNVZaR3V1OHN5bVlsdXp4VVRLVnJob240QVZjMEZaYVpGTWhTWGpmQnNtQV9yaDUtWkx2?oc=5",
+      "published_at": "Sat, 25 Apr 2026 02:55:46 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "新宿で水餃子食べ放題900円！ ガチ中華・福怡軒の「おまけビュッフェ」がコスパ良し / ガチ中華ランチ紀行：第27回 - ロケットニュース24"
+    },
+    {
+      "id": 236,
+      "category": "News",
+      "title": "米イラン「停戦・ホルムズ・核合意」行方は 米国の中東専門家6人に聞く - 日本経済新聞",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBaTmNMQkNrbDJjQlU4amx5eG9qQ1ltemxJQ1BmR3k0TmpOLWFjZklIZ2hleWdwbVp1bjdRNUd4T1A1NzZlRTVkNTUyZncwaGlkdUF3cjJGcjIxT09yXzkxU3VBcVFMWloyX2",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaTmNMQkNrbDJjQlU4amx5eG9qQ1ltemxJQ1BmR3k0TmpOLWFjZklIZ2hleWdwbVp1bjdRNUd4T1A1NzZlRTVkNTUyZncwaGlkdUF3cjJGcjIxT09yXzkxU3VBcVFMWloyX2FFLQ?oc=5",
+      "published_at": "Sat, 25 Apr 2026 02:30:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "米イラン「停戦・ホルムズ・核合意」行方は 米国の中東専門家6人に聞く - 日本経済新聞"
+    },
+    {
+      "id": 252,
+      "category": "News",
+      "title": "「りくりゅう」日本橋でリフト披露、村岡桃佳らミラノ五輪・パラのメダリストらパレード - 読売新聞",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5Lc0ZsdHlZVHNWbWxUUHlfeF9lRDZSbnBZeTdTLWdhRklSekxsTFM5M1k3amlKYjJ4Ulh6V3h6N0tyd0VxXzlXN1M2X2tvSzBLdmpJY0YyQkhDNTBDMHFEc0pLNzUwNUpPen",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Lc0ZsdHlZVHNWbWxUUHlfeF9lRDZSbnBZeTdTLWdhRklSekxsTFM5M1k3amlKYjJ4Ulh6V3h6N0tyd0VxXzlXN1M2X2tvSzBLdmpJY0YyQkhDNTBDMHFEc0pLNzUwNUpPend3?oc=5",
       "published_at": "Sat, 25 Apr 2026 01:52:00 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "「りくりゅう」日本橋でリフト披露、ミラノ五輪メダリストらパレード…村岡桃佳ら練り歩き - 読売新聞"
+      "translated_title": "「りくりゅう」日本橋でリフト披露、村岡桃佳らミラノ五輪・パラのメダリストらパレード - 読売新聞"
     },
     {
-      "id": 445,
-      "category": "Global",
-      "title": "Dozens of sloths died before opening of Sloth World attraction in Florida - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaVkd3SHpPem0zQTRVS1pBaGFVa2hVdXpyaGFhY3dQbjh5c1VOYzVqSHJ6Z0pnMWRTeHZPSUozeDcxc0dUem9oSUhQdjNZdlkzV1NSdmxuTnY1dw?oc=5\" target=\"_blank\">Dozen",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaVkd3SHpPem0zQTRVS1pBaGFVa2hVdXpyaGFhY3dQbjh5c1VOYzVqSHJ6Z0pnMWRTeHZPSUozeDcxc0dUem9oSUhQdjNZdlkzV1NSdmxuTnY1dw?oc=5",
-      "published_at": "Sat, 25 Apr 2026 01:42:58 GMT",
+      "id": 234,
+      "category": "News",
+      "title": "踏切に一人で入った１歳男児、回送電車にはねられ重体…岐阜・岐南町の名鉄名古屋本線 - 読売新聞",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zZHMwS0lJeFlGQVNlTmQ5LWZWU3NnRDZVaGROSHhieDByUGZRaTV2bERpWFBTR0pld3drbUtKQ3ZlLU1rQU05eGd6NFBPclEyRHRVeWc5QkJhVkpfWjI5VlBWSHI4dw?oc=",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zZHMwS0lJeFlGQVNlTmQ5LWZWU3NnRDZVaGROSHhieDByUGZRaTV2bERpWFBTR0pld3drbUtKQ3ZlLU1rQU05eGd6NFBPclEyRHRVeWc5QkJhVkpfWjI5VlBWSHI4dw?oc=5",
+      "published_at": "Sat, 25 Apr 2026 01:38:00 GMT",
       "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "フロリダのアトラクション「ナマケモノワールド」オープン前に数十匹のナマケモノが死亡 - BBC"
+      "source_name": "Google News JP",
+      "translated_title": "踏切に一人で入った１歳男児、回送電車にはねられ重体…岐阜・岐南町の名鉄名古屋本線 - 読売新聞"
     },
     {
-      "id": 447,
-      "category": "Global",
-      "title": "Live updates: US envoys will head to Pakistan on Saturday for fresh Iran talks - CNN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQeTN5a2dGaXEzWTRJQmc5T0pPbzlpbXVZWkpXOU9hUGJ2QzZMMjU4ZFp5TVl6bTB3VUY0dkJBTnloR2lPTmU0blAyT2FsYTc2WDZHU1p2R0JwN0hpUXVLcGNDSzNMR3M4NVlSdU5TQl",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeTN5a2dGaXEzWTRJQmc5T0pPbzlpbXVZWkpXOU9hUGJ2QzZMMjU4ZFp5TVl6bTB3VUY0dkJBTnloR2lPTmU0blAyT2FsYTc2WDZHU1p2R0JwN0hpUXVLcGNDSzNMR3M4NVlSdU5TQlRVUm5PNkREWGJDemFxbHptU3dR?oc=5",
-      "published_at": "Sat, 25 Apr 2026 01:35:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "ライブ最新情報：米国の特使は土曜日にパキスタンに向かい、イランとの新たな協議に臨む - CNN"
-    },
-    {
-      "id": 470,
+      "id": 158,
       "category": "Global",
       "title": "Netanyahu says he was successfully treated for prostate cancer - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFNma1lKWlp0TmJBeWJlandtWmh0d1JxcWxUTGUwMU5OMV8ybEhTSnVnNjg2MTdCal9mNGhVeVBSUXNxMTdtVGlOU1Z2RlprQi16UmhuanFBclFRV1Y3U2t5RzF4ajJoTXp1S3k4LV",
@@ -662,18 +860,7 @@
       "translated_title": "ネタニヤフ首相、前立腺がんの治療に成功したと語る - ガーディアン紙"
     },
     {
-      "id": 446,
-      "category": "Global",
-      "title": "H-1B Visas To Be Paused For 3 Years? Trump's Aides Introduce New Bill - NDTV",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQkVlRTdDTFlqUDk4d3ByMzAzR3F1eXJ3cjNIZjNHY1dObFNXRlY0ODRmcWhHQlJlTDVENDhrXzlWMDY5RmFoWDU1SWQzbnVvQ1YwVkJvRGlrWE83cTRETjAzRmRqV25iTHMtaHdNVD",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQkVlRTdDTFlqUDk4d3ByMzAzR3F1eXJ3cjNIZjNHY1dObFNXRlY0ODRmcWhHQlJlTDVENDhrXzlWMDY5RmFoWDU1SWQzbnVvQ1YwVkJvRGlrWE83cTRETjAzRmRqV25iTHMtaHdNVDhPYkRRcmIzdE1felloNy1Eak00UmRXUm5Bejk1MWRUa0dVQS1sTTNfU2lUaGQweC0yOWZJUWZEd3MzUFZwYkY5Z0JKZTZVcDZBVDNZcmlhUkFmeThYOWN5MFlsSUJTSGNpckxXdVpqRDlucUxyQXBXcDRKQUt3eVhNTkdUUDd30gH2AUFVX3lxTE9hYjNDV1Z3WHNMRTg3bzlzWkhrcVF6NWNnX3dnVnhzWlNPd25PaUVpaGpDS00ydERybDJ4YzdtZWhsT0doc3hfYnFzWGJ0c2d4RGRxdzBCbHdyUHFocFlKN3lwVExMR2wweGQtYVZBcER6dVFEMENoU0s0Y2VrOTJFMm9pTFdtT2IzU213eFowU29IUG93aE1OcWdROXBEbTlJcDhHbEtBWWx4M2w1LW9NUThiUWxWczU1NG05WWlPNTVqVmN1YVpmODB4d3BuQjlxVThtbGszTXA4TDJDT2I5MWdMRTN0RGk4MmpvcWx2NC1PWG1LUQ?oc=5",
-      "published_at": "Sat, 25 Apr 2026 01:28:33 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "H-1Bビザは3年間停止される？トランプ大統領の側近が新法案を提出 - NDTV"
-    },
-    {
-      "id": 457,
+      "id": 138,
       "category": "Global",
       "title": "After Mass Deaths at ‘Sloth World,’ 13 Surviving Animals Are Transferred to a Florida Zoo - Inside Climate News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWFvTHBCSUNmTEd6Ym5LVU1TNWtuY0pOUHo2N1pLTWliUnBMdTVQc21GVVV1WTBxUzNRUEdrVHdYbnBJUVR6MnQyVFFxcjRNSVdKZ3ZkTDFLS1hwamhWRUtmTzRTSjhlaVF1aEFxaT",
@@ -684,7 +871,18 @@
       "translated_title": "「ナマケモノの世界」で大量死、生き残った13頭の動物がフロリダ動物園に移送 - Inside Climate News"
     },
     {
-      "id": 564,
+      "id": 227,
+      "category": "News",
+      "title": "山林火災の岩手県大槌は今日も雨なし 明日は一時的に風が強まる予想 - ウェザーニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqMTR1SlNXaTJwUEJiTVRDZlBydU9iMzN2dDQtWVhNWmpyT3FVNV9QMVRQZFp2ZUJQMGM3TWVoak9iTWd5cXZmWFZvOTRZYk5pdnlMSQ?oc=5\" target=\"_blank\">山林火災の",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqMTR1SlNXaTJwUEJiTVRDZlBydU9iMzN2dDQtWVhNWmpyT3FVNV9QMVRQZFp2ZUJQMGM3TWVoak9iTWd5cXZmWFZvOTRZYk5pdnlMSQ?oc=5",
+      "published_at": "Sat, 25 Apr 2026 00:57:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "山林火災の岩手県大槌は今日も雨なし 明日は一時的に風が強まる予想 - ウェザーニュース"
+    },
+    {
+      "id": 245,
       "category": "News",
       "title": "Windows更新が35日制限のまま無制限リセット、企業IT管理者を揺さぶる矛盾設計 - XenoSpectrum",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBxakRmUXpVQk56ZzdIV292YzA2YWY1ODF3ZTFDRXE3RTl3WVN0WHJnbEJmTThhRmI0aTBFaEpTNmJMbUttdzRHOTd1SU52blRxYUx6dUhXd3FGM2oxRC1CdFpNUU1XdjJaNn",
@@ -695,18 +893,18 @@
       "translated_title": "Windows更新が35日制限のまま無制限リセット、企業IT管理者を揺さぶる矛盾設計 - XenoSpectrum"
     },
     {
-      "id": 565,
+      "id": 233,
       "category": "News",
-      "title": "『プラダを着た悪魔２』で大復活〉富豪の彼氏が逮捕、「努力家」→「イタい女」と評価が一転…アン・ハサウェイ（43）の“波乱万丈人生”（CREA WEB - Yahoo!ニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE40VTNEX3ZwQ21fTmVEVGp1YnRCLUFfMndhRkZ0ai16U3o0ODdfZ2t6M1pwX2ZHT2RmbEpHc2RPM3RvR0tSSWlBRFpPbWFsUnNwQWJ1MzJxS2ljSzd3Z0FrQlZDT05Ga25KZX",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40VTNEX3ZwQ21fTmVEVGp1YnRCLUFfMndhRkZ0ai16U3o0ODdfZ2t6M1pwX2ZHT2RmbEpHc2RPM3RvR0tSSWlBRFpPbWFsUnNwQWJ1MzJxS2ljSzd3Z0FrQlZDT05Ga25KZXBwMVpMY0lBUUJzMFNiejJhb2VpY0U?oc=5",
-      "published_at": "Sat, 25 Apr 2026 00:40:35 GMT",
-      "importance": 3,
+      "title": "福知山線脱線事故から２１年、「祈りの杜」でＪＲ西日本の役員ら黙とう…追悼慰霊式も - 読売新聞",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zS0lmaC1qeEF4T3BoamJmZmJ4SERWYklnR2xDTjdRcGFTcWlhZGhyVm9NZDlwRGhxQnFlekVrWW1hZlZ3SmtIa2k3V3BEaXVCU3JkQ1RtdTRVYmlzT3E3NGVvakxqZw?oc=",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zS0lmaC1qeEF4T3BoamJmZmJ4SERWYklnR2xDTjdRcGFTcWlhZGhyVm9NZDlwRGhxQnFlekVrWW1hZlZ3SmtIa2k3V3BEaXVCU3JkQ1RtdTRVYmlzT3E3NGVvakxqZw?oc=5",
+      "published_at": "Sat, 25 Apr 2026 00:39:00 GMT",
+      "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "『プラダを着た悪魔２』で大復活〉富豪の彼氏が逮捕、「努力家」→「イタい女」と評価が一転…アン・ハサウェイ（43）の“波乱万丈人生”（CREA WEB - Yahoo!ニュース"
+      "translated_title": "福知山線脱線事故から２１年、「祈りの杜」でＪＲ西日本の役員ら黙とう…追悼慰霊式も - 読売新聞"
     },
     {
-      "id": 529,
+      "id": 208,
       "category": "Global",
       "title": "US Justice Department ends probe of Federal Reserve - nhk.or.jp",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE93SVRFdHNXMHdHMEpMWERhZDFxZ0JnQlNLRklyR2pQQUktRWljZUtwaDkyWFBhcFdULTBxZ3pnd3FGSGVYU1JFNVRFd21ONWxIaHpHSDFhUW56UGVueWtrdUtKQQ?oc=5\" target=\"_",
@@ -717,29 +915,18 @@
       "translated_title": "米司法省、連邦準備理事会への捜査を終了 - nhk.or.jp"
     },
     {
-      "id": 467,
-      "category": "Global",
-      "title": "Iran and U.S. Blockades in the Strait of Hormuz: What to Know - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDVlMVpOMk1BXzZqZktwakVjWUQ1UGc4dWtROW5tSzVTNjh0MUlvek5qak5YU1Y1aXBUOVBHVTl5M0wzZEFyVGs0V2tlM2oxVWRZbWNnbkxLTnFoZzRqRmFPYnAza21JcHdNSXVidz",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDVlMVpOMk1BXzZqZktwakVjWUQ1UGc4dWtROW5tSzVTNjh0MUlvek5qak5YU1Y1aXBUOVBHVTl5M0wzZEFyVGs0V2tlM2oxVWRZbWNnbkxLTnFoZzRqRmFPYnAza21JcHdNSXVidzk2cnhKc1lSYkw0SWZaRzV2VWUwTWNSVjc1RGZWMmpjclI2T19J?oc=5",
-      "published_at": "Sat, 25 Apr 2026 00:28:36 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "イランと米国のホルムズ海峡封鎖：知っておくべきこと - ニューヨーク・タイムズ"
-    },
-    {
-      "id": 544,
+      "id": 228,
       "category": "News",
-      "title": "自転車の高校生に「法律変わって罰金対象、ここで６千円払って」…パトカーないこと不審に思い被害逃れる - 読売新聞",
+      "title": "自転車の高校生に「法律変わって罰金対象、ここで６千円」…パトカーがないこと不審に思い支払わず - 読売新聞",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9leXZfNy1wTDY4ZG5jMWFxZlpPMDBxTy1wYVlvUUxSMGNLNExHM0tNa0JRbF9XNFRteU9pUmFiUUlIdVFaYXBWLXI3Qm9MdkxHcjdOakRjMWtPODhuUFRlUlQ1dkx3QQ?oc=",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9leXZfNy1wTDY4ZG5jMWFxZlpPMDBxTy1wYVlvUUxSMGNLNExHM0tNa0JRbF9XNFRteU9pUmFiUUlIdVFaYXBWLXI3Qm9MdkxHcjdOakRjMWtPODhuUFRlUlQ1dkx3QQ?oc=5",
       "published_at": "Sat, 25 Apr 2026 00:21:00 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "自転車の高校生に「法律変わって罰金対象、ここで６千円払って」…パトカーないこと不審に思い被害逃れる - 読売新聞"
+      "translated_title": "自転車の高校生に「法律変わって罰金対象、ここで６千円」…パトカーがないこと不審に思い支払わず - 読売新聞"
     },
     {
-      "id": 458,
+      "id": 144,
       "category": "Global",
       "title": "VIDEO: World Cup arts walk - KIRO 7 News Seattle",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUTBsUzZ2YTMySk9CYkNwLXM4NUg1NEV4R3pXZlpNMW8xQjB4T0JodVVWcm5NOHJLdDdGMDdpMjBTRFFEYVk4aWdGcTIzMWJnMVJxZlpZd0pnVk8tZUhPbVpVOXR4R09WOGZ0cUplTz",
@@ -750,29 +937,40 @@
       "translated_title": "ビデオ: ワールドカップアートウォーク - KIRO 7 ニュースシアトル"
     },
     {
-      "id": 571,
+      "id": 247,
       "category": "News",
-      "title": "11位の神谷そら、吉田優利ら日本勢11人が決勝へ ネリー・コルダ6打差独走 - GDOゴルフニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1WWjg3ME54TmxsekV4bExvbVpQY19ITGF6TXZYbDBGZ1BMZFFlaHF5bVNsX291cmRldEJFSzBUVTlnVkU3SVRNSG5BRUdPTjF3am4xT0txWDJPVzZTY0xPSldmbXpySGJ1LU",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WWjg3ME54TmxsekV4bExvbVpQY19ITGF6TXZYbDBGZ1BMZFFlaHF5bVNsX291cmRldEJFSzBUVTlnVkU3SVRNSG5BRUdPTjF3am4xT0txWDJPVzZTY0xPSldmbXpySGJ1LU1ubXpOYTJDWjjSAYcBQVVfeXFMTk5QaE9KOGZMUUpxS0JlU3NDRE10VndxZzZDdXhTNTZWcFMyOFBGZ19Va0dDNDBQemxReHFJcHk1V3NJVzJuTjNzdjZjbF9QREdRQUV6Nk1kR3V3c0lYYUlUZ1Y4aXNqdjRqVzBxUHNWZHVWRWNsb2lkRUdwUmFWcE9lNVBwMXZB?oc=5",
-      "published_at": "Sat, 25 Apr 2026 00:16:54 GMT",
+      "title": "プラ材質、簡単に判定 山本製作所（天童）の大森さん、文科大臣表彰 - au Webポータル",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBtN2JsWTRQYlRGVWxDaEcySW1hd0l4WWVjZU1KWXpUY1pmQ3hZb1JneHctcFlRT2MtWUUya0hCSWg0a1V3SDA5TnJSQ2U2cUFXLW1SbG9UakxTaEpiMWRhNmE4eGYwdG9wV1BzZzhPZD",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtN2JsWTRQYlRGVWxDaEcySW1hd0l4WWVjZU1KWXpUY1pmQ3hZb1JneHctcFlRT2MtWUUya0hCSWg0a1V3SDA5TnJSQ2U2cUFXLW1SbG9UakxTaEpiMWRhNmE4eGYwdG9wV1BzZzhPZDUwcTV4cHgxMkhhOA?oc=5",
+      "published_at": "Sat, 25 Apr 2026 00:13:00 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "11位の神谷そら、吉田優利ら日本勢11人が決勝へ ネリー・コルダ6打差独走 - GDOゴルフニュース"
+      "translated_title": "プラ材質、簡単に判定 山本製作所（天童）の大森さん、文科大臣表彰 - au Webポータル"
     },
     {
-      "id": 478,
-      "category": "Global",
-      "title": "Pittsburgh crowd sets world record for hands-only CPR at Acrisure Stadium - CBS News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZTc5cUZmenNNbE5zSmV5Q09IVlI1UV9McHFnSllyMUlmZy1aalVGXy1raXRlTVI1eXdFQ2FlRGI2WVh1WVRzVEtDWEptXy1taTBZRXZWVS0xQkMwUjhLMGMwNEVjQ3N3REFzbk9CM1",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZTc5cUZmenNNbE5zSmV5Q09IVlI1UV9McHFnSllyMUlmZy1aalVGXy1raXRlTVI1eXdFQ2FlRGI2WVh1WVRzVEtDWEptXy1taTBZRXZWVS0xQkMwUjhLMGMwNEVjQ3N3REFzbk9CM1p5aFBnWUNHdFJJVTV6VHpWRDFlb2l1cHNKWTRZTmhBT21kZG1pR0dTeFRHU2hxNXNMbWR3NFlpODM3eWZQWmVfNWFNUkNkZw?oc=5",
-      "published_at": "Sat, 25 Apr 2026 00:12:00 GMT",
+      "id": 255,
+      "category": "News",
+      "title": "今永昇太、村上宗隆が大活躍も「彼の実力からしたら普通」 感じていた\"覚醒\"の下地 - full-count.jp",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FZEJIRU84dUN1QURTYnMybm8tRXlzLUdxUmVDREplNktvb1VXV0lyUHZaaVRESFNxVk9tUlpFM3lHcmRQWlVPdWZYU21lVi14QjV6SUVMNEw?oc=5\" target=\"_blank\">",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FZEJIRU84dUN1QURTYnMybm8tRXlzLUdxUmVDREplNktvb1VXV0lyUHZaaVRESFNxVk9tUlpFM3lHcmRQWlVPdWZYU21lVi14QjV6SUVMNEw?oc=5",
+      "published_at": "Sat, 25 Apr 2026 00:08:22 GMT",
       "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "ピッツバーグの観衆がアクリシュア・スタジアムで両手のみの心肺蘇生法で世界記録を樹立 - CBSニュース"
+      "source_name": "Google News JP",
+      "translated_title": "今永昇太、村上宗隆が大活躍も「彼の実力からしたら普通」 感じていた\"覚醒\"の下地 - full-count.jp"
     },
     {
-      "id": 354,
+      "id": 151,
+      "category": "Global",
+      "title": "Central Oregon breweries rack up medals at World Beer Cup, including a gold - Central Oregon Daily",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaktsMV9vSU9hLXpHc2xpUzRKNWlBa2JNXzhjT1piX3F4TDN2N0tna2k0RGNxd0tvQ1k2TlU3OW5HWk9oVUo3el82d09LLUM0YnhxY3RYZWNJaTRqMmdlSENqSTlGcjNXU2VYT1V2UE",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaktsMV9vSU9hLXpHc2xpUzRKNWlBa2JNXzhjT1piX3F4TDN2N0tna2k0RGNxd0tvQ1k2TlU3OW5HWk9oVUo3el82d09LLUM0YnhxY3RYZWNJaTRqMmdlSENqSTlGcjNXU2VYT1V2UEZWdzZjb0Q5TElYeHJzYS1wS3F0cHhLUTVIMWpPR1FfeHVyOUJwQmMyNVJWZkNWM3hVU0ZNWjJZT1ZVZl9QSllzT1hFemlTeHJ0NGR5T3BnXzAzMTlyazg4Q21YQ2RoNUZORUp3a0lBZkJfaE05SDFXN3N3?oc=5",
+      "published_at": "Sat, 25 Apr 2026 00:01:34 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "セントラル・オレゴン州のビール醸造所、ワールド・ビア・カップで金メダルを含むメダルを獲得 - セントラル・オレゴン・デイリー"
+    },
+    {
+      "id": 37,
       "category": "Mechanical",
       "title": "Video Friday: Humanoid Learns Tennis Skills Playing Humans",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/robot-playing-tennis-holding-racket-on-green-court-inset-shows-human-opponent-hitting-ball.png?id=65325604&amp;width=1245&amp;height=700&amp;coordinat",
@@ -783,7 +981,18 @@
       "translated_title": "金曜日のビデオ: ヒューマノイドが人間と対戦してテニスのスキルを学ぶ"
     },
     {
-      "id": 341,
+      "id": 223,
+      "category": "Global",
+      "title": "World's oldest nun, Sister Francis Dominici Piscatella, celebrates 113th birthday on Long Island - ABC7 New York",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNzBPQ0VjN3NMQ1hnLUZpQWlqV3ZUcGNGZ2J1TXdNMVpROEZKb0tmMU5zNDFmS0Z3R2x1STJtbWkweWVWM2tDem9OREh5QTNkcDk0bUk2SVdCUzludFVmLV9Nc0JKOHNNWXhIYkVXWV",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNzBPQ0VjN3NMQ1hnLUZpQWlqV3ZUcGNGZ2J1TXdNMVpROEZKb0tmMU5zNDFmS0Z3R2x1STJtbWkweWVWM2tDem9OREh5QTNkcDk0bUk2SVdCUzludFVmLV9Nc0JKOHNNWXhIYkVXWVJrRlhtZWowclp6aXRSSjZwV2QtQnZ1TDIzS042eTVPT3EwcWtVdXZMeTVmblJEZGpRRFNQX3RZU3pFM1NCQ0ZYZVJDUXdYalVEejNob0NTV0Vnd9IBxwFBVV95cUxNMFVWQy1tRGQ1dWRhWllhMTNvY2hBSTFNTXpqMmVyOWM5ZWczSzhHVXh6OXBJZHp6b1hPVl95V0M5M2VmVUN1UlRQQURTRFFnWlo5ZjZ0eUZUc3J3Vk9EbkZNZk5pbFEwWmRPd0hSdGliWVc0WTNDTDdJQkZUVExuc0pkSUw4aXNESlNlc3FsTzl1Mld3NGFnNmxQUEhHNEJQNm1iZTZVeEw1SEVkcXgxUGI3UU5XdjRyMVQ5cHpVWFBOZHljdHBJ?oc=5",
+      "published_at": "Mon, 20 Apr 2026 23:34:40 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "世界最高齢の修道女、シスター・フランシス・ドミニシ・ピスカテラ、ロングアイランドで113歳の誕生日を祝う - ABC7ニューヨーク"
+    },
+    {
+      "id": 24,
       "category": "Mechanical",
       "title": "The USC Professor Who Pioneered Socially Assistive Robotics",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-smiling-blonde-woman-poses-with-a-humanoid-robotic-torso-wearing-a-usc-sweatshirt.jpg?id=65574156&amp;width=1245&amp;height=700&amp;coordinates=0%2C",
@@ -794,7 +1003,7 @@
       "translated_title": "社会支援ロボティクスの先駆者である南カリフォルニア大学教授"
     },
     {
-      "id": 530,
+      "id": 207,
       "category": "Global",
       "title": "World News in Brief: ‘Skyrocketing’ needs outpace Sudan funding, Ukraine strikes update, global water security - UN News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0OVZsTlBKcDlDa3RQTkpIay1wS0xwR0pWTEhkOFJVRTYyQ05kVmdiSHBsVTFYbF9pbmJIdUVoeUx0RjktcUxTZWg4aEhYdlBWbnpPRHIxNA?oc=5\" target=\"_blank\">World New",
@@ -805,7 +1014,18 @@
       "translated_title": "世界ニュース概要: スーダンの資金調達を上回る「急増する」ニーズ、ウクライナ攻撃最新情報、世界の水安全保障 - 国連ニュース"
     },
     {
-      "id": 358,
+      "id": 219,
+      "category": "Global",
+      "title": "WHO calls for action: “Together for health. Stand with science.” to mark World Health Day - World Health Organization (WHO)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNQTdlamQyclFyemtkNnVJTWZ2ZnRHLUpldjNGbVJPaFd4RUE1Z3ZXVmJSazZ2SVplSnVvNGtydmczM29WbWFQbXhvVXVYT09xWnRvSG83eEZqdEV0NUM3WWc0NWpFb2NiYU5JdlB5Rl",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQTdlamQyclFyemtkNnVJTWZ2ZnRHLUpldjNGbVJPaFd4RUE1Z3ZXVmJSazZ2SVplSnVvNGtydmczM29WbWFQbXhvVXVYT09xWnRvSG83eEZqdEV0NUM3WWc0NWpFb2NiYU5JdlB5RlE4WE1fcmVtdTNLN3JQSFVqVnhKalNkWVlWai1TUmpfWGNsVm5kQzlSSEwzU05jVUI2S2lQWU5zdjcybUd1U2Vuc09MeWhSQXJMZkU4aU1JLXV6R0RBbnk4Ym9R?oc=5",
+      "published_at": "Mon, 06 Apr 2026 07:00:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "WHOは「健康のために共に。科学とともに立ちましょう」と行動を呼びかけている。世界保健デーを記念して - 世界保健機関 (WHO)"
+    },
+    {
+      "id": 41,
       "category": "Mechanical",
       "title": "What Military Drones Can Teach Self-Driving Cars",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/silhouette-from-the-back-of-an-adults-head-as-they-look-at-two-monitors-one-screen-displays-a-drone-and-the-other-shows-self-d.jpg?id=65098234&amp;wid",
@@ -816,7 +1036,7 @@
       "translated_title": "軍用ドローンが自動運転車に何を教えられるか"
     },
     {
-      "id": 365,
+      "id": 48,
       "category": "Mechanical",
       "title": "Ode to Very Small Devices",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/anthropomorphized-miniature-gadgets-standing-on-the-heads-of-two-hex-bolts.jpg?id=63525887&amp;width=1245&amp;height=700&amp;coordinates=0%2C128%2C0%2",
@@ -827,7 +1047,7 @@
       "translated_title": "非常に小さなデバイスへの賛歌"
     },
     {
-      "id": 366,
+      "id": 49,
       "category": "Mechanical",
       "title": "Video Friday: Multitasking Robots Smoothly Do the Things Together",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/humanoid-robot-holds-small-yellow-bag-near-biohazard-trash-bin-in-a-hallway.png?id=63524908&amp;width=1245&amp;height=700&amp;coordinates=0%2C49%2C0%2",
@@ -838,7 +1058,7 @@
       "translated_title": "ビデオフライデー: マルチタスクロボットが一緒に物事をスムーズに行う"
     },
     {
-      "id": 351,
+      "id": 34,
       "category": "Mechanical",
       "title": "Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/two-wheeled-balancing-robot-leans-while-rolling-in-an-indoor-testing-lab.png?id=65415603&amp;width=1245&amp;height=700&amp;coordinates=3%2C0%2C4%2C0\" ",
@@ -849,7 +1069,7 @@
       "translated_title": "ビデオフライデー: ビープ音!ビープ！ロードランナー二足歩行ボットが常識を打ち破る"
     },
     {
-      "id": 359,
+      "id": 42,
       "category": "Mechanical",
       "title": "Video Friday: Robot Dogs Haul Produce From the Field",
       "summary": "<img src=\"https://spectrum.ieee.org/media-library/quadruped-robots-with-crates-on-their-backs-carry-produce-on-a-path-amidst-lush-leafy-green-crops.png?id=65095903&amp;width=1245&amp;height=700&amp;co",
@@ -860,18 +1080,18 @@
       "translated_title": "ビデオフライデー: ロボット犬が農産物を畑から運ぶ"
     },
     {
-      "id": 572,
-      "category": "News",
-      "title": "岡本和真が４試合ぶり４号弾！バックスクリーンにたたき込んだ１３１メートル弾　衝撃の一発に本拠地が大歓声 - ｄメニューニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE42SXAyeG5XczJBQWJJN0wxeGlnaXltYkxXNDBjNk5GZHhla2tBUm9xSjZFNTVteXVYbHNLRnlVZlRPYVRSNENIbGU1a19aUlVxTnBGYXdpeUJQVG1VZEI3M0VHQnZwaXRiTz",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42SXAyeG5XczJBQWJJN0wxeGlnaXltYkxXNDBjNk5GZHhla2tBUm9xSjZFNTVteXVYbHNLRnlVZlRPYVRSNENIbGU1a19aUlVxTnBGYXdpeUJQVG1VZEI3M0VHQnZwaXRiTzctd1M5OWY3YjN6QWd2V3ln0gF_QVVfeXFMT1ItOVpLbEd1WnJ2YjF4V2JEZW10RDlVbGZOTWZnOGMxa0FjZG84NlBjbzhPbGZMUmVzMk5Zdm5VSXVLNFpXM25LU2tKSDBfejdNMXFwVkJvNTBFbG1IbTNXNXVyc2lJNEJWci12UG1qTmhxRE1pd1ZPcERPb1dLcw?oc=5",
-      "published_at": "Fri, 24 Apr 2026 23:52:00 GMT",
+      "id": 163,
+      "category": "Global",
+      "title": "43rd International Tucson Mariachi Conference to bring world-class talent - KVOA",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeXVfNkM5dlJUSWYwMHF4bGRDTFNJdG9vQUdyZDJUd21ad0RlWGFOaDhMWjZLd3Y4TFFyWG11bGJrS1BJaE5OMlVTb0FJX3FKS1ZFNHlTbk1Gd3dWdFI4Q3NUNE9Mb2hIMzBkWE5SbW",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeXVfNkM5dlJUSWYwMHF4bGRDTFNJdG9vQUdyZDJUd21ad0RlWGFOaDhMWjZLd3Y4TFFyWG11bGJrS1BJaE5OMlVTb0FJX3FKS1ZFNHlTbk1Gd3dWdFI4Q3NUNE9Mb2hIMzBkWE5SbWEybzhhbEJFSE5OQ2hjVE42Q3doQmF1cFltUldIeXBMZlh6OEswMkxxVFB3WHcwdkZVUk0tRUNkV0FTSTFndUhGOXlrQWRXd1hiSks2OUx5UGk4YUt6WmM3QTVYT2FDTElfSGxBeWs5cUR1aHUyTF9EWFZIOVdzWEIwNjAw?oc=5",
+      "published_at": "Fri, 24 Apr 2026 23:53:00 GMT",
       "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "岡本和真が４試合ぶり４号弾！バックスクリーンにたたき込んだ１３１メートル弾　衝撃の一発に本拠地が大歓声 - ｄメニューニュース"
+      "source_name": "Google News World",
+      "translated_title": "世界クラスの才能をもたらす第43回国際ツーソン・マリアッチ・カンファレンス - KVOA"
     },
     {
-      "id": 497,
+      "id": 193,
       "category": "Global",
       "title": "Trump dispatches U.S. envoys to Pakistan for new talks with Iran's foreign minister - CBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE50ZG55Qk9QUExENFlRdHAyMjVCeXc2VFIwMlJhT0lSV1pvcXlJMmlnXzBFQ21iT1BVajNYSmFwdVJpdU0tdm42dkdGcDNKdXdYVVlFZ2FYOUJyZGl3U2ZZTVc3VW55OHdEVkFPTHNyb1",
@@ -880,240 +1100,20 @@
       "importance": 1,
       "source_name": "Google News World",
       "translated_title": "トランプ大統領、イラン外相との新たな会談のためパキスタンに米国特使を派遣 - CBC"
-    },
-    {
-      "id": 424,
-      "category": "Product",
-      "title": "ワークチェアを諦めていた僕が、理想の「1脚」に出会った話",
-      "summary": "Photo:カイル諦めないで（迫真）。僕は、ワーキングチェアやゲーミングチェアといった、いわゆる「多機能チェア」と少しだけ距離を置いていました。理由ははっきりしていて、3つあります。多機能チェアを諦めていた理由①値段が高すぎる僕は生粋のデスクワーカーなので、「腰の問題のクリティカルさ」はわかっているつもりです。そうすると、必然的にワーキング/ゲーミングチェアが購入候補に上がります。ゲームはあまりし",
-      "url": "https://www.gizmodo.jp/2026/04/yps-s800-gizmart-1.html",
-      "published_at": "Fri, 24 Apr 2026 23:45:00 +0900",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "ワークチェアを諦めていた僕が、理想の「1脚」に出会った話"
-    },
-    {
-      "id": 318,
-      "category": "AI/IT",
-      "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
-      "summary": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor.",
-      "url": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
-      "published_at": "Fri, 24 Apr 2026 23:32:11 +0000",
-      "importance": 1,
-      "source_name": "TechCrunch",
-      "translated_title": "スティーブ・バルマー氏、詐欺罪を認めた自身が支援する創業者を激しく非難「騙された、愚かな気分だ」"
-    },
-    {
-      "id": 549,
-      "category": "News",
-      "title": "「嫌いといわれたから…」幼い娘の首を絞め殺人容疑で逮捕された母（30）はシェルター内に3年間“DV夫”を匿っていた…偽装心中の可能性も≪福岡（集英社オンライン） - Yahoo!ニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9WbjdTQm1UTHBEaV9FVlExa2QwRXZkand6UWFPYV9YYm0yUzBXOURUcGQ2Qm1LeldOMFVDVUZjWm9UMVkwVFZWQTI1WC1MWXFNdTJoeUJGeWNzenl1QnV5d2JjMl8tck5YRE",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WbjdTQm1UTHBEaV9FVlExa2QwRXZkand6UWFPYV9YYm0yUzBXOURUcGQ2Qm1LeldOMFVDVUZjWm9UMVkwVFZWQTI1WC1MWXFNdTJoeUJGeWNzenl1QnV5d2JjMl8tck5YREJRdDFRWkVwSWdHbkFQbGk0MXN6WXc?oc=5",
-      "published_at": "Fri, 24 Apr 2026 23:00:46 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "「嫌いといわれたから…」幼い娘の首を絞め殺人容疑で逮捕された母（30）はシェルター内に3年間“DV夫”を匿っていた…偽装心中の可能性も≪福岡（集英社オンライン） - Yahoo!ニュース"
-    },
-    {
-      "id": 563,
-      "category": "News",
-      "title": "モジュール式ノートPCのFramework、初のUbuntu認証版がWindows版を上回る人気だと明かす - Gadget Gate",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5udDR6NVBsb2FtSjBEVWJYa2czUDZacUxuc3FFSjh0U3BnZ1Q0a2ZSQW9vRXNYUXJyMC1DUDFVOTUtQnpWeFdYaGtFdXdnaFYybUE?oc=5\" target=\"_blank\">モジュール式ノー",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5udDR6NVBsb2FtSjBEVWJYa2czUDZacUxuc3FFSjh0U3BnZ1Q0a2ZSQW9vRXNYUXJyMC1DUDFVOTUtQnpWeFdYaGtFdXdnaFYybUE?oc=5",
-      "published_at": "Fri, 24 Apr 2026 23:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "モジュール式ノートPCのFramework、初のUbuntu認証版がWindows版を上回る人気だと明かす - Gadget Gate"
-    },
-    {
-      "id": 425,
-      "category": "Product",
-      "title": "実はすごい快挙。原子の粒が自由に動く様子の撮影に成功",
-      "summary": "Image:SampsonWilcox2025年5月19日の記事を編集して再掲載しています。物理と聞くと、難しそうって思いませんか？少なくとも私は難しそうな印象を抱いています。だから選択科目で物理か生物かを選ぶときに、迷わず生物を選択したんです。だって生物の方が眼に見えるものが多いし、想像しやすいから。物理ってそこに存在しているはずなのに見えないものを、理論やデータで理解するものだと解釈しています",
-      "url": "https://www.gizmodo.jp/2026/04/photographing-moving-atoms-orx.html",
-      "published_at": "Fri, 24 Apr 2026 23:00:00 +0900",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "実はすごい快挙。原子の粒が自由に動く様子の撮影に成功"
-    },
-    {
-      "id": 551,
-      "category": "News",
-      "title": "今日4月25日(土)の天気予報 北日本から東日本は晴天 西日本太平洋側は雨の所も - ウェザーニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WdTVNdXhtWWdfNVZPS0pHb3ZLckF2VUNZbUhqblhxRmY3QkdTZHhTcjh5TFBnMkJJTUhKcjZxT3Z2ZkZRLXh0cWZIMXYwSjBtTlV5Mg?oc=5\" target=\"_blank\">今日4月2",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WdTVNdXhtWWdfNVZPS0pHb3ZLckF2VUNZbUhqblhxRmY3QkdTZHhTcjh5TFBnMkJJTUhKcjZxT3Z2ZkZRLXh0cWZIMXYwSjBtTlV5Mg?oc=5",
-      "published_at": "Fri, 24 Apr 2026 22:55:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "今日4月25日(土)の天気予報 北日本から東日本は晴天 西日本太平洋側は雨の所も - ウェザーニュース"
-    },
-    {
-      "id": 538,
-      "category": "Global",
-      "title": "Barrie getting into World Cup spirit with online gaming competition - BarrieToday.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelptQ1RlaU9sc2F6Qi1JSDRKR082SmlJQ0xqbFF4LWI4SzZ5dU5VaVk1MHdEY21VblRJT3R4YVpuRWFJZDYzaURvdWJ0ckZiZXZXUFk1VThGN3RESFlQa0lnZ0xLbUIyQlR5Ri1sd0",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelptQ1RlaU9sc2F6Qi1JSDRKR082SmlJQ0xqbFF4LWI4SzZ5dU5VaVk1MHdEY21VblRJT3R4YVpuRWFJZDYzaURvdWJ0ckZiZXZXUFk1VThGN3RESFlQa0lnZ0xLbUIyQlR5Ri1sd09relktT1UtajBXYnVEOHg0WnhYZ3Q4dWRoVTFjRExNNkt0TjY4eTZXakpZM3IwWTRhUGJBNk9fc0tycHlfTkEyQURmZjFJZ1BQ?oc=5",
-      "published_at": "Fri, 24 Apr 2026 22:33:05 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "バリー、オンライン ゲーム コンテストでワールド カップの精神に熱中 - BarrieToday.com"
-    },
-    {
-      "id": 459,
-      "category": "Global",
-      "title": "Funny old world: the week's offbeat news - cbs19news.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFE5dURfS3B0TG5YcWw0VExvV1hCdUhzNk1vRUFjTUFVdEcxdDQwaUNQZmthbGpSei1OdWFCSzBDZU1HUFVibGR4NFVoczNpNjdxMTBiR1BQN2Z6YkxfMTlNVzNNTlp2V3JRbE8xUU",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFE5dURfS3B0TG5YcWw0VExvV1hCdUhzNk1vRUFjTUFVdEcxdDQwaUNQZmthbGpSei1OdWFCSzBDZU1HUFVibGR4NFVoczNpNjdxMTBiR1BQN2Z6YkxfMTlNVzNNTlp2V3JRbE8xUUo1UHNDU09ZLU1fRTZfbm9Ma19wV3N2RWFYTVhSMTVmdzFSVm5wTzdHMkMzSXNyUkJuQVEwSjI1anREYlBldEgyQ19lcE8?oc=5",
-      "published_at": "Fri, 24 Apr 2026 22:16:58 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "おかしな古い世界: 今週の風変わりなニュース - cbs19news.com"
-    },
-    {
-      "id": 489,
-      "category": "Global",
-      "title": "World’s largest wildlife crossing finally has an opening date - KTLA",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE40YUF1UmdGTlI0c1gwUGVsU3VXcVFGbE5rRkRpbVVYOWtxc040Z090QllnVlE0UVRWYXlJSUg1ZXVQQXJVOTMtYlRmZm5nZjA1WmRSM3h1YUFfald4ZnFDQlhhcGRVZl9yOWN0QTNOYV",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40YUF1UmdGTlI0c1gwUGVsU3VXcVFGbE5rRkRpbVVYOWtxc040Z090QllnVlE0UVRWYXlJSUg1ZXVQQXJVOTMtYlRmZm5nZjA1WmRSM3h1YUFfald4ZnFDQlhhcGRVZl9yOWN0QTNOYVJKcWdwdlNuczVwYjlTSkXSAYQBQVVfeXFMUDFVWjVYMDMzal9TdE9lUU44UnNWNHp0RHNaQVU1R09hS2NIOFpSYU01c0dLT2lyZ04wbS02ZG1DMlo0Y2dEMWVJY0tzRll1cHI4T05NeG9QUWRrRWVSZlMwSkhZeFRqMWViQjd5WDNqb1RKZTd2Q2wyT1pRbEgxRTdGVVJC?oc=5",
-      "published_at": "Fri, 24 Apr 2026 22:15:23 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "世界最大の野生生物横断歩道がついにオープン日を決定 - KTLA"
-    },
-    {
-      "id": 471,
-      "category": "Global",
-      "title": "Expo 2031 is bringing a sustainability-focused world fair to Dakota County - CBS News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQjhpT3dLek41dFU3TzdFWTN1MHNfUDFyZ2tVSHRuRHZjMUJQUXFaR0drQTYxV3lZYW95N3VRZDJzUmtpWHdYSXl0NTIzSHcwVHV5OERhdmZiRmpkNU5BR2xIYmZVTFBqaDZfZjZUVU",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQjhpT3dLek41dFU3TzdFWTN1MHNfUDFyZ2tVSHRuRHZjMUJQUXFaR0drQTYxV3lZYW95N3VRZDJzUmtpWHdYSXl0NTIzSHcwVHV5OERhdmZiRmpkNU5BR2xIYmZVTFBqaDZfZjZUVUE?oc=5",
-      "published_at": "Fri, 24 Apr 2026 22:12:43 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "Expo 2031 はダコタ郡に持続可能性に焦点を当てた世界博覧会をもたらす - CBS ニュース"
-    },
-    {
-      "id": 547,
-      "category": "News",
-      "title": "《なぜ義父は結希くんを殺害したか》「自分から乱暴やるとは考えられない」安達優季容疑者の親友が困惑「断れないタイプ」文化祭の出来事とは【京都・遺体遺棄】 - NEWSポストセブン",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1HcEdjd0ZGdGtORTlqb3hENzZTek94Vi1Zb2M2X0pwVGFCSFJIa3hscEFsUXh4ZnAtQllKV2RqV3g0YTdmLUFKd3ItUzF3eEtGQzVzd2t6Q2RDUDRnS2tCek9kenhzU2xJNV",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HcEdjd0ZGdGtORTlqb3hENzZTek94Vi1Zb2M2X0pwVGFCSFJIa3hscEFsUXh4ZnAtQllKV2RqV3g0YTdmLUFKd3ItUzF3eEtGQzVzd2t6Q2RDUDRnS2tCek9kenhzU2xJNVRpdFBUVV9rSkJ2TDZ3?oc=5",
-      "published_at": "Fri, 24 Apr 2026 22:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "《なぜ義父は結希くんを殺害したか》「自分から乱暴やるとは考えられない」安達優季容疑者の親友が困惑「断れないタイプ」文化祭の出来事とは【京都・遺体遺棄】 - NEWSポストセブン"
-    },
-    {
-      "id": 560,
-      "category": "News",
-      "title": "戦争は株買いの好機か 米ハイテク株好調のウラにトランプ氏支える「AIマフィア」 田村秀男の経済正解 - 産経ニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBSR0ZlTi1aRHJXUWNCX0djTnl3eHl2b0ItNXJrTnFDNWNySWQ2bWxibVBRMGROY3ZJY0NBbnZUOGtzUWZOdTZEaWpoclJaRTZzX3AySkdmSjhVTFRmbVZ3a2dZZ3BwQlNkaF",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSR0ZlTi1aRHJXUWNCX0djTnl3eHl2b0ItNXJrTnFDNWNySWQ2bWxibVBRMGROY3ZJY0NBbnZUOGtzUWZOdTZEaWpoclJaRTZzX3AySkdmSjhVTFRmbVZ3a2dZZ3BwQlNkaFBSZlBtZktwLVpTQkE?oc=5",
-      "published_at": "Fri, 24 Apr 2026 22:00:00 GMT",
-      "importance": 5,
-      "source_name": "Google News JP",
-      "translated_title": "戦争は株買いの好機か 米ハイテク株好調のウラにトランプ氏支える「AIマフィア」 田村秀男の経済正解 - 産経ニュース"
-    },
-    {
-      "id": 567,
-      "category": "News",
-      "title": "市民から連絡「ニュースで見た像が庭に」…公園から盗まれた銅像、民家で見つかる - 読売新聞",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lS3JidnZ0VElPS1VfQjVsZ3RwSWMwZTJZVkxYd0hDSGhxMXhDUlBnc3BiMDIyVG9fRUpha293RWJiM0x3TU5IYzc1LW1SMWpyMkE4QVRNUDRGWHkwcmp2OEdmUXFZZw?oc=5\" targe",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lS3JidnZ0VElPS1VfQjVsZ3RwSWMwZTJZVkxYd0hDSGhxMXhDUlBnc3BiMDIyVG9fRUpha293RWJiM0x3TU5IYzc1LW1SMWpyMkE4QVRNUDRGWHkwcmp2OEdmUXFZZw?oc=5",
-      "published_at": "Fri, 24 Apr 2026 22:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "市民から連絡「ニュースで見た像が庭に」…公園から盗まれた銅像、民家で見つかる - 読売新聞"
-    },
-    {
-      "id": 426,
-      "category": "Product",
-      "title": "ワンマイル以上もOK。ワッペンでカスタマイズできるムーンスターのサンダル",
-      "summary": "Photo:富沢ビルさらっと突っかけて、どこかへ行きたくなるサンダル。どこか遊び心があり、そしてもちろん履き心地もいい。一足あったら超便利なサンダル「SWIC/BB（スウィック/ビービー）」（税込4,400円）を手がけているのは、福岡県久留米市に本社を置き、なんと創業150年以上の歴史を持つシューズメーカー「ムーンスター」です。専門靴のデイリーユースラインPhoto:富沢ビルムーンスターは学校用の",
-      "url": "https://www.gizmodo.jp/2026/04/moonstar_810s_swicbb.html",
-      "published_at": "Fri, 24 Apr 2026 22:00:00 +0900",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "ワンマイル以上もOK。ワッペンでカスタマイズできるムーンスターのサンダル"
-    },
-    {
-      "id": 461,
-      "category": "Global",
-      "title": "Pictures from World Championship Blacksmith Competition in Amarillo - Amarillo Globe-News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdmhhWFVoZjFIR1VrSi00UGtaS19wb1o1MGhvNFY2bmo4UTdfLUVuTk8yUkRROFVFZmRtTkxZNVhJcFVHWEMycGdjeDNaVG85d3dPNkZyUF9lLWI0Nkh5R1c3MF9TUnk3aXlrVG5Oan",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdmhhWFVoZjFIR1VrSi00UGtaS19wb1o1MGhvNFY2bmo4UTdfLUVuTk8yUkRROFVFZmRtTkxZNVhJcFVHWEMycGdjeDNaVG85d3dPNkZyUF9lLWI0Nkh5R1c3MF9TUnk3aXlrVG5OandnMzV0Q2tWQV9GVU9Say11WEZSMWZGdzZFWG1vRG1KT2VicUh0RXA5RHlKdUpraWV5cGFTaWhBSHVVMVZaZE9QRDhfbldLZEk4ci1sMHYyUHc3YzIzVVE?oc=5",
-      "published_at": "Fri, 24 Apr 2026 21:54:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "アマリロの世界選手権鍛冶屋コンテストの写真 - アマリロ グローブ ニュース"
-    },
-    {
-      "id": 319,
-      "category": "AI/IT",
-      "title": "Palantir is reportedly helping the IRS investigate financial crimes",
-      "summary": "The IRS has used Palantir's software since at least 2018, The Intercept reports.",
-      "url": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
-      "published_at": "Fri, 24 Apr 2026 21:53:44 +0000",
-      "importance": 1,
-      "source_name": "TechCrunch",
-      "translated_title": "PalantirはIRSの金融犯罪捜査を支援していると報じられている"
-    },
-    {
-      "id": 320,
-      "category": "AI/IT",
-      "title": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
-      "summary": "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for busin",
-      "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
-      "published_at": "Fri, 24 Apr 2026 21:35:30 +0000",
-      "importance": 3,
-      "source_name": "TechCrunch",
-      "translated_title": "Cohereがドイツを拠点とするスタートアップを買収、合併して「大西洋横断AI強国」を創設"
-    },
-    {
-      "id": 427,
-      "category": "Product",
-      "title": "世界初アイトラッキング採用のスマートグラス、使ってみた",
-      "summary": "Image:JamesPero/GizmodoUS市場拡大しつつ、まだ初期段階の混沌も持ち合わせているスマートグラス業界。スペックも各モデルごとにかなり違いがあります。Everysightの「MaverickAIPro」は、目の動きをトラッキングする仕組みを搭載したスマートグラス。メガネなので目に関する機能は当然と思いきや、スマートグラスでアイトラッキングを実装するのはこれが初めて。米Gizmod",
-      "url": "https://www.gizmodo.jp/2026/04/the-worlds-first-eye-tracking-smart-glasses-are-intriguing-and-unpolished.html",
-      "published_at": "Fri, 24 Apr 2026 21:30:00 +0900",
-      "importance": 5,
-      "source_name": "Gizmodo JP",
-      "translated_title": "世界初アイトラッキング採用のスマートグラス、使ってみた"
-    },
-    {
-      "id": 543,
-      "category": "News",
-      "title": "トランプ氏、イランが対米要求に応じる可能性示唆 25日に協議 - Reuters",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5TRVhVUG9NNldvY0l4bzQxSV9IZEJiT09oUDJsb1ZCdG5qUFlfLTBQMWZydGNYREhvZTI2MF9fN3NfLWFuekl1T0ZDc0xLZm4ya0JjanBManZWY2NmblJfSXBMYmNsVXk5dm",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TRVhVUG9NNldvY0l4bzQxSV9IZEJiT09oUDJsb1ZCdG5qUFlfLTBQMWZydGNYREhvZTI2MF9fN3NfLWFuekl1T0ZDc0xLZm4ya0JjanBManZWY2NmblJfSXBMYmNsVXk5dmt1Zi0zbTZNRGotUU55Qk5B?oc=5",
-      "published_at": "Fri, 24 Apr 2026 21:10:01 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "トランプ氏、イランが対米要求に応じる可能性示唆 25日に協議 - Reuters"
-    },
-    {
-      "id": 321,
-      "category": "AI/IT",
-      "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
-      "summary": "Series, a social networking app that's grown popular on college campuses, announced a $5.1 million pre-seed round from some big names in tech.",
-      "url": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
-      "published_at": "Fri, 24 Apr 2026 21:05:59 +0000",
-      "importance": 3,
-      "source_name": "TechCrunch",
-      "translated_title": "2 人の大学生が iMessage で AI ソーシャル ネットワークを構築するために 510 万ドルのプレシードを調達"
     }
   ],
   "trends": [
-    "ニュ",
     "world",
+    "ニュ",
     "news",
     "イラン",
-    "トランプ",
-    "cbs",
     "iran",
     "bbc",
-    "cup",
-    "ロボット",
     "trump",
-    "york"
+    "トランプ",
+    "ロボット",
+    "cup",
+    "talks",
+    "health"
   ]
 }
