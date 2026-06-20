@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T20:16:51.383629",
+  "last_updated": "2026-06-20T22:08:14.089551",
   "items": [
     {
       "id": 361,
@@ -24,6 +24,17 @@
       "translated_title": "ロボット工学に ChatGPT の瞬間はありますか?"
     },
     {
+      "id": 515,
+      "category": "Global",
+      "title": "Scotland fans drink Boston dry as local bars run out of beer - ESPN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOVUU5N0Y4X0RUUzdYN2tRUFNrck9rb1paSkVOT0JqcmlOcmJQWlhDLUFueGFJSklna3hreFFjYl83emlUNHBpNDhNYW9HSzFEMnRVajBjRTU0bmE3d1JEWWxITEJRUWpLVmdqQmhKeU",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVUU5N0Y4X0RUUzdYN2tRUFNrck9rb1paSkVOT0JqcmlOcmJQWlhDLUFueGFJSklna3hreFFjYl83emlUNHBpNDhNYW9HSzFEMnRVajBjRTU0bmE3d1JEWWxITEJRUWpLVmdqQmhKeUc5RVplaThvSkdxSWp3VnduNWx1Z2FsVWh1Y0JaZjFUR1lSQlNuWnRIckNzcF9aRkFhVUZWTVZLbmpacDNH?oc=5",
+      "published_at": "Wed, 17 Jun 2026 15:51:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "地元バーのビールが品薄になる中、スコットランドファンはボストンドライを飲む - ESPN"
+    },
+    {
       "id": 335,
       "category": "Mechanical",
       "title": "The Secret to Marathon-Winning Humanoid Robots",
@@ -35,7 +46,7 @@
       "translated_title": "マラソンで勝つ人型ロボットの秘密"
     },
     {
-      "id": 523,
+      "id": 529,
       "category": "Global",
       "title": "USDA Confirms Presence of New World Screwworm in the United States | Animal and Plant Health Inspection Service - aphis.usda.gov",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOU2pxVFRYVFFmNEoxOVVNeUl0RGc0blM2WVlkdnFXS2VZU3ktS0VKRVJBVUppYXRuQTI5Z1BORE8tVWh1QndVbFc0bl9Ja3BJbnBUMlAwMVhMdUpMT3hhRkt3dXhHcWpYZjNqNnpoZV",
@@ -134,7 +145,7 @@
       "translated_title": "物理的 AI の未来はよりスマートなロボットではなく、よりスマートなインターフェイスです"
     },
     {
-      "id": 498,
+      "id": 509,
       "category": "Global",
       "title": "JD Vance tells Iran deal critics in Israel: Trump is your only ally left in the world - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEVPdFdkcms2ZC15R1V4OW1FNjlVck1YWkVJbF9yc3dNbWQzLU5PUzdISkhKRzlPYnVxa1otSkVodk1YYXFiQUQySWxMQS1aVXZWMUhaVk1rOG9Qb20ycy1ULUdkWkN3MUtFSGpnTW",
@@ -145,7 +156,7 @@
       "translated_title": "JD・ヴァンス氏、イスラエルのイラン合意批判者らに語る：トランプ氏は世界に残された唯一の同盟者だ - ガーディアン紙"
     },
     {
-      "id": 513,
+      "id": 521,
       "category": "Global",
       "title": "TSA sounds alarm after World Cup fans pack their bags with American staple - Fox News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnlwNHg0YnAyVVBRZ25YVVp2cTgySU1hY3d2MXR0Q1V6aG1qMlVPMWFmN1FsYkVmQ0YyZGJpbFE4ODRFaXV1dERsdk5zYlZDelozUERDOUdiYjk5MzBqb01JQnc5VTVkWlo4M202WH",
@@ -156,7 +167,7 @@
       "translated_title": "ワールドカップファンがアメリカの必需品をバッグに詰めたことにTSAが警鐘を鳴らす - FOXニュース"
     },
     {
-      "id": 328,
+      "id": 329,
       "category": "AI/IT",
       "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
       "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
@@ -167,7 +178,7 @@
       "translated_title": "AI推論スタートアップBaseten、前回のメガラウンドから数か月後に15億ドルを調達したと報じられている"
     },
     {
-      "id": 329,
+      "id": 330,
       "category": "AI/IT",
       "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
       "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
@@ -178,7 +189,7 @@
       "translated_title": "Snap、コストを理由に AI ビデオ チームを新会社 Dotmo に分離"
     },
     {
-      "id": 330,
+      "id": 331,
       "category": "AI/IT",
       "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
       "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
@@ -189,7 +200,7 @@
       "translated_title": "OpenAIはIPOに向けていくつかの大きな武器を導入している"
     },
     {
-      "id": 331,
+      "id": 332,
       "category": "AI/IT",
       "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
       "summary": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.",
@@ -200,18 +211,7 @@
       "translated_title": "VCによると、YCのデモデーで注目を集めたスタートアップ11社"
     },
     {
-      "id": 332,
-      "category": "AI/IT",
-      "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
-      "summary": "Plaintiffs in the class -action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles.",
-      "url": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
-      "published_at": "Thu, 18 Jun 2026 19:31:45 +0000",
-      "importance": 3,
-      "source_name": "TechCrunch",
-      "translated_title": "リビアンの所有者が自動運転機能に関する虚偽の約束を主張して訴訟を起こす"
-    },
-    {
-      "id": 509,
+      "id": 517,
       "category": "Global",
       "title": "Iran announces plans to bring in maritime fees for strait of Hormuz - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQUThlbEZ0WlpCeWk5TXNSb3lnbklYZkdCYjdDTXlJTzBpMlRTZTBiay1sckV6bUMxVzBJMC1HR2R6NFZPWWxCeVdOd0hfZ1pPN203N1U1Ymx5UWZ1bzQwMGxqNjRnb1ZEc0YyX2N6Vm",
@@ -233,18 +233,7 @@
       "translated_title": "シニアケアにおけるウェルネスロボットの自律性の定義"
     },
     {
-      "id": 524,
-      "category": "Global",
-      "title": "World Cup 2026 today: Live updates and news -- as it happened on June 10 - ESPN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRm1tZDJiMGVSbnRTd0tCN080bWpGTzg4bl9IczBpdHllaHZXcG42V2xfcXE2bUxYakR6ei1QVVRvSFRhcGdOcUlRUTdpVldvTXhLVWZRb2pHalBrdWZzc2o4ZjFuVFNMTldqMHVPQj",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRm1tZDJiMGVSbnRTd0tCN080bWpGTzg4bl9IczBpdHllaHZXcG42V2xfcXE2bUxYakR6ei1QVVRvSFRhcGdOcUlRUTdpVldvTXhLVWZRb2pHalBrdWZzc2o4ZjFuVFNMTldqMHVPQjd1MmtkQkN3ZVZ4UE52X05zWEF0Z2xjOVIwaGp4QUdDeEVlTXVnZ19rOC05WUdaLW9lb1dENjFsOUNOQzN5U1ZhMkEtcnNzcnlIQlVmRzV1ZnkwU2JqQTM1WDJybDdRZXpwVFkyUFdsVVdGaE5WYXkwME9B?oc=5",
-      "published_at": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "2026 年ワールドカップの今日: ライブ最新情報とニュース - 6 月 10 日に起こったとおり - ESPN"
-    },
-    {
-      "id": 527,
+      "id": 534,
       "category": "Global",
       "title": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia - UN News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDLXNtUEkxSEZadWItcEV0cXpqOVhVdHZUMWZGR2pUWWR3V0xwUEplaEhyR0Q0NFBHUVpZT1MwbTgxdDZPVWYzck5vUzRzdF9IbEc4eFZUOA?oc=5\" target=\"_blank\">World New",
@@ -266,29 +255,183 @@
       "translated_title": "この DIY 二足歩行ロボットはモーターの代わりに空気圧の「エアマッスル」を使用しました"
     },
     {
-      "id": 435,
+      "id": 467,
       "category": "Global",
-      "title": "US denies Iran's claim to have closed Strait of Hormuz over Israeli attacks in Lebanon - live updates - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RZFliamhHTXRHRms3RUVKMnlSZjVQUi1JSUp0cFEtWVJXcHRQUk9JUDVNOEltUFh2S0d3Q1BBX1NCUmpGUVA5aE5GWHZJQ1hFeU5DeQ?oc=5\" target=\"_blank\">US denies Ira",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RZFliamhHTXRHRms3RUVKMnlSZjVQUi1JSUp0cFEtWVJXcHRQUk9JUDVNOEltUFh2S0d3Q1BBX1NCUmpGUVA5aE5GWHZJQ1hFeU5DeQ?oc=5",
-      "published_at": "Sat, 20 Jun 2026 20:09:40 GMT",
+      "title": "World Cup what to know: Spain and Belgium are looking for their 1st wins after opening with draws - AP News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNG9xWlp0b3lna2psMTJoRGlfUEFIT0RISjNZeHpvbzFHaHVSYmNhUnFQWXBGMkZDcFUtS3gwMzlBOGVvLV9mTXFEdkJjMG8weUVkcklvNWdZOWw4NVNFa2JuaUo0SFZieklTVEZmVV",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNG9xWlp0b3lna2psMTJoRGlfUEFIT0RISjNZeHpvbzFHaHVSYmNhUnFQWXBGMkZDcFUtS3gwMzlBOGVvLV9mTXFEdkJjMG8weUVkcklvNWdZOWw4NVNFa2JuaUo0SFZieklTVEZmVVFjSkd2QlYydWYtQVZvMkJHcmIzaUpabzlzTVU4ZXpYazI2SmxKLVE?oc=5",
+      "published_at": "Sat, 20 Jun 2026 21:32:00 GMT",
       "importance": 3,
       "source_name": "Google News World",
-      "translated_title": "米国、レバノンでのイスラエル攻撃をめぐりホルムズ海峡を封鎖したというイランの主張を否定－最新情報－BBC"
+      "translated_title": "ワールドカップで知っておくべきこと：スペインとベルギー、引き分け開幕から初勝利を狙う - AP通信"
     },
     {
-      "id": 440,
+      "id": 446,
       "category": "Global",
-      "title": "LIVE: Germany vs Ivory Coast – World Cup 2026 - Al Jazeera",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWmNrWjNJUFNCNDdLWHowcUU2ajByNFBIVFBpMVhGUTB1SFNmb2t3czUtbl9qSEhWR2xhS1Nqa1FyYkl3c01nSXFFMVQyc3RmVGRYMHppM1NRbTlheUtpR25NTEswWm5DX1R0M3BUWW",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWmNrWjNJUFNCNDdLWHowcUU2ajByNFBIVFBpMVhGUTB1SFNmb2t3czUtbl9qSEhWR2xhS1Nqa1FyYkl3c01nSXFFMVQyc3RmVGRYMHppM1NRbTlheUtpR25NTEswWm5DX1R0M3BUWW9pTEtzamFxazB1NHA2cFFaQmpvb01PY2dpaktyRUEwU3BROXlsbzg1Rjl30gGfAUFVX3lxTE5OLXhOR2ZFaS1MRGJITmFlNjZfeUlrTWJUWHBxRG9uMElfRlRUZUp1MmlBbndRZDZob0xOb01UR2pqYXN5bFE5RlU4eXlZLVVjcy1XY29kNmZ0VDZuaVlUQ21PNWV4ekRSMzBTaVh3RVhWNDAzRmpfYjdSMVFTUEFLbnVLUVo2YTJKa1M0a0l0blZOMmx5VjNHODJwQmg3MA?oc=5",
-      "published_at": "Sat, 20 Jun 2026 20:03:45 GMT",
+      "title": "2026 NCAA baseball tournament: Bracket, schedule, scores for the Men’s College World Series - NCAA.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOcG1kVlI2enFEMUROZzMzTHptTzFmdTdyME1xdTM5amFQQkQzdHNaa1RWSjdTWHlEcU1CSmNJOTdwcE9ZU0RMRzlxSFFFZVl0U2xPOWR2OWVEcFdyNFJjS3BOc25TTEFoc2JfWWtYeT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcG1kVlI2enFEMUROZzMzTHptTzFmdTdyME1xdTM5amFQQkQzdHNaa1RWSjdTWHlEcU1CSmNJOTdwcE9ZU0RMRzlxSFFFZVl0U2xPOWR2OWVEcFdyNFJjS3BOc25TTEFoc2JfWWtYeTRRNWFTSnVyMENyNnZEWXJxR2Npb2ZiRE1RZ29UMnpCR2N6SGtDQVFFVW1UVHdDLXFpVmlPbG0xLUp4SGh0MFR2TzlPNmlPNlNCTC1DbW96T3hfNlhzMWppWDVZWHlnZw?oc=5",
+      "published_at": "Sat, 20 Jun 2026 21:29:37 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "ライブ: ドイツ vs コートジボワール – ワールドカップ 2026 – アルジャジーラ"
+      "translated_title": "2026 NCAA 野球トーナメント: 男子大学ワールド シリーズの組み合わせ、スケジュール、スコア - NCAA.com"
+    },
+    {
+      "id": 460,
+      "category": "Global",
+      "title": "Brazil confirm Raphinha hamstring injury; World Cup return uncertain - ESPN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbE1Fc0pzcFFZWUdzVXFGMGRtbkU1MUt1QVI5UGI0Q3k2bEFFbTg2RlRnNE16UlB6V3JUZDB3RDdadjJEXzZJalo0VDlmM01YSUVseGoyNUZOSjIzQXlnNkRQSG9pRDBaMzdIcnZnRV",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbE1Fc0pzcFFZWUdzVXFGMGRtbkU1MUt1QVI5UGI0Q3k2bEFFbTg2RlRnNE16UlB6V3JUZDB3RDdadjJEXzZJalo0VDlmM01YSUVseGoyNUZOSjIzQXlnNkRQSG9pRDBaMzdIcnZnRVRDUFM2YTdDSDNZeWRlQTZ1MndHT0hWVHlrank4b01icTgwcjZJMlFSRTZ1c0hKSVNUeGlWZHBtV0Q5NnlfeVhSczI4SUNBcUx2UUo2WkdidmFoY2JoSEdR?oc=5",
+      "published_at": "Sat, 20 Jun 2026 21:18:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "ブラジル、ラフィーニャのハムストリング負傷を発表。ワールドカップ再開は不透明 - ESPN"
+    },
+    {
+      "id": 457,
+      "category": "Global",
+      "title": "World Cup Daily: Germany vs. Ivory Coast LIVE; Dutch win big; Norway fans in NYC - ESPN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQVm1BMXZTWVJPVmR2a3J5UVMzYjNGOTdJRmtPOVNCb0l6U1VJT0RnUzhxNjh6ek5FNzZpNXJtVzhBcUtNNGZYYTNsc1p5aklLSGtCR0ozRm41Vm1uLXBsYXRxWFpWdTJWQ2g0ZmxrNk",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVm1BMXZTWVJPVmR2a3J5UVMzYjNGOTdJRmtPOVNCb0l6U1VJT0RnUzhxNjh6ek5FNzZpNXJtVzhBcUtNNGZYYTNsc1p5aklLSGtCR0ozRm41Vm1uLXBsYXRxWFpWdTJWQ2g0ZmxrNkd4QWFtdzBCVWl6aFc1R043NUQwN1p0ZWRYMXJtN2FXTlhDUFl1TVdyWXFvLVZTdWpzdFR2ZzFWb0RLaTV5eFlLUTZIQWtISlhiRC1EcTI5MWdBVE5EdFE?oc=5",
+      "published_at": "Sat, 20 Jun 2026 21:16:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "ワールドカップデイリー: ドイツ対コートジボワールのライブ;オランダが大勝利。ニューヨークのノルウェーファン - ESPN"
+    },
+    {
+      "id": 463,
+      "category": "Global",
+      "title": "PREVIEW | France vs Iraq: team news, lineups, predictions (World Cup 22/06) - Yahoo Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmhfczRFYWQwUzNrWEFYbjBMa1lZRjRXbzZaam5lYkJBbXA2dVVfdUhFVWVkY2lfLXZVSlpyamR5d1hhWDk4ZG9xbzNmY2NiMS03dVhOQ3VOSjBKSGFvWGlsUTJ2MWRXcjhYWGFwVF",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmhfczRFYWQwUzNrWEFYbjBMa1lZRjRXbzZaam5lYkJBbXA2dVVfdUhFVWVkY2lfLXZVSlpyamR5d1hhWDk4ZG9xbzNmY2NiMS03dVhOQ3VOSjBKSGFvWGlsUTJ2MWRXcjhYWGFwVFkxdDBlT3JmS2JaMjRxQW51NnVR?oc=5",
+      "published_at": "Sat, 20 Jun 2026 21:05:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "プレビュー |フランス対イラク: チームニュース、ラインナップ、予想 (ワールドカップ 22/06) - Yahoo Sports"
+    },
+    {
+      "id": 444,
+      "category": "Global",
+      "title": "Manhunt underway for Kansas City shooting spree suspect near World Cup venue; FBI offering $25K reward - Fox News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0RPaU02SmJHOHRNSkQ1bUV3VHh0MVJkUDAxejZrVnZYTkNVdkVZYThsQ0ZXNWZhM2ZXbFlEV1p3MExicmQ1NUZIRkVPZ0JXNk93UmM0UU9LeFZzVUoydGVMcUZnUVgxRURsN1M2a1",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0RPaU02SmJHOHRNSkQ1bUV3VHh0MVJkUDAxejZrVnZYTkNVdkVZYThsQ0ZXNWZhM2ZXbFlEV1p3MExicmQ1NUZIRkVPZ0JXNk93UmM0UU9LeFZzVUoydGVMcUZnUVgxRURsN1M2a1ktcWlURGs4clI4YWw0dVpuSzRNaGRCYnJzOVg2SzFNOHhjSFBEY05nTXVkSnRDTEd2Y3ZlZjBkOTM1akcyZE13bzE1WlcyQTAzVmd4QWpqbnPSAcYBQVVfeXFMTXVGb2gzdFNoME05U2FtM1dnX2FhYXhQbDliYkNXVlFfaTU1bUNnTGlMUkt2MmV2SXRVR3A2SVVnYVJWay1CbXo5REtDTms5aC11QTREQjJOcWg5Vy1VaVgwWVFmck9GcUQ5NlFkZW5PcDlRb05NaWdzMlBjN0RSVkhaV2VYYzV6a3M1cHVUUXlkSmhKbnRfSGxOeW13OXZsR3BXbFBJcVBJQ3lHV0piX0dQOG1RTk5RdzdKdVR6V2dTbTFGcUdn?oc=5",
+      "published_at": "Sat, 20 Jun 2026 20:59:32 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "カンザスシティ、ワールドカップ会場近くで銃乱射事件の容疑者を追っている。 FBI、2万5千ドルの報奨金を提示 - FOXニュース"
+    },
+    {
+      "id": 437,
+      "category": "Global",
+      "title": "LIVE: Germany 2-1 Ivory Coast – World Cup 2026 - Al Jazeera",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWmNrWjNJUFNCNDdLWHowcUU2ajByNFBIVFBpMVhGUTB1SFNmb2t3czUtbl9qSEhWR2xhS1Nqa1FyYkl3c01nSXFFMVQyc3RmVGRYMHppM1NRbTlheUtpR25NTEswWm5DX1R0M3BUWW",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWmNrWjNJUFNCNDdLWHowcUU2ajByNFBIVFBpMVhGUTB1SFNmb2t3czUtbl9qSEhWR2xhS1Nqa1FyYkl3c01nSXFFMVQyc3RmVGRYMHppM1NRbTlheUtpR25NTEswWm5DX1R0M3BUWW9pTEtzamFxazB1NHA2cFFaQmpvb01PY2dpaktyRUEwU3BROXlsbzg1Rjl30gGfAUFVX3lxTE5OLXhOR2ZFaS1MRGJITmFlNjZfeUlrTWJUWHBxRG9uMElfRlRUZUp1MmlBbndRZDZob0xOb01UR2pqYXN5bFE5RlU4eXlZLVVjcy1XY29kNmZ0VDZuaVlUQ21PNWV4ekRSMzBTaVh3RVhWNDAzRmpfYjdSMVFTUEFLbnVLUVo2YTJKa1M0a0l0blZOMmx5VjNHODJwQmg3MA?oc=5",
+      "published_at": "Sat, 20 Jun 2026 20:54:31 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "ライブ: ドイツ 2-1 コートジボワール – ワールドカップ 2026 – アルジャジーラ"
+    },
+    {
+      "id": 482,
+      "category": "Global",
+      "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli strike on Gaza - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmVfbWFaS1g4VllkMXIxTDV6aTlDaFVzUU0yUFdJa21rZEpDam54YWtXV1NlbmNuX29sekNBZFhNNjMyNnhYT0VnTWJvWTYwSWRHR2lIMTBzOHBzSEpDNXNsT2ZyYzVkR1dGUXNYOW",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmVfbWFaS1g4VllkMXIxTDV6aTlDaFVzUU0yUFdJa21rZEpDam54YWtXV1NlbmNuX29sekNBZFhNNjMyNnhYT0VnTWJvWTYwSWRHR2lIMTBzOHBzSEpDNXNsT2ZyYzVkR1dGUXNYOWgwZmZyWTM3MzR3SVQ4UTlJMjN3NTVXSVVEYWVoc2FHdTFrbC1WMGs3Z1VKTnNDTlEtWGNpczhnUGVGdmJLU2hfR2Zn?oc=5",
+      "published_at": "Sat, 20 Jun 2026 20:54:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "アルジャジーラのカメラマン、アハメド・ウィシャー氏がイスラエル軍のガザ攻撃で死亡 - ガーディアン紙"
+    },
+    {
+      "id": 434,
+      "category": "Global",
+      "title": "Iran says Strait of Hormuz is closed over ceasefire violations after continued Israeli strikes in Lebanon - NBC News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWZLRUlHdXhuQXlwNkpEVUlGa2tQSEs5WmJzQUQwRFVzT3lsOG43LWNyOWNlQlFxM2VrQ2VaQVIwR0RGTWljb0JYSkFJeU9FZ3dERzdONnVrdmhXSlZpTjd4WFNnWno0OUdRV2QzbW",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWZLRUlHdXhuQXlwNkpEVUlGa2tQSEs5WmJzQUQwRFVzT3lsOG43LWNyOWNlQlFxM2VrQ2VaQVIwR0RGTWljb0JYSkFJeU9FZ3dERzdONnVrdmhXSlZpTjd4WFNnWno0OUdRV2QzbWVMSllVekxQel9PYkZhWlN0VHNkVGJyMGw4RVFkbk1lZ3ZKem14LWU0eWVn?oc=5",
+      "published_at": "Sat, 20 Jun 2026 20:52:16 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "イラン、イスラエルによるレバノン攻撃継続を受け、停戦違反でホルムズ海峡を閉鎖と発表 - NBCニュース"
+    },
+    {
+      "id": 561,
+      "category": "News",
+      "title": "W杯 オランダがスウェーデンに快勝 日本と同じグループF - NHKニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0ek1wb3F0N2JGaWZIRXFkeGZkLU5yWjh2Y01MX2JmYURwWWtnRm03ZVk1ZE1iZFJRUmZ5SVdhb0czR2gxdXBoM0lvNV9rLXZ2S2tDSVQ0OE9sVXZnS1FZ?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0ek1wb3F0N2JGaWZIRXFkeGZkLU5yWjh2Y01MX2JmYURwWWtnRm03ZVk1ZE1iZFJRUmZ5SVdhb0czR2gxdXBoM0lvNV9rLXZ2S2tDSVQ0OE9sVXZnS1FZ?oc=5",
+      "published_at": "Sat, 20 Jun 2026 20:34:14 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "W杯 オランダがスウェーデンに快勝 日本と同じグループF - NHKニュース"
     },
     {
       "id": 313,
+      "category": "AI/IT",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "published_at": "Sat, 20 Jun 2026 20:32:29 +0000",
+      "importance": 3,
+      "source_name": "TechCrunch",
+      "translated_title": "Signal のメレディス・ウィテカー氏は、AI チャットボットは「友達ではない」ということを覚えておいてほしいとしています。"
+    },
+    {
+      "id": 465,
+      "category": "Global",
+      "title": "Real Madrid send scouts to watch World Cup sensation - Yahoo Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnJfUWJZN0JJellXRFBXdjl0RWhyUV80WFlNcTF6TlFLZy12QVVpb3RydUlUbFY0by1fMXIyWG9wVlEwbjJIbkdCSlhXMDBRNXVpR0t1S2NJSTNGWHV5Mk9aeklCMW1BbmhrN3ZobX",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnJfUWJZN0JJellXRFBXdjl0RWhyUV80WFlNcTF6TlFLZy12QVVpb3RydUlUbFY0by1fMXIyWG9wVlEwbjJIbkdCSlhXMDBRNXVpR0t1S2NJSTNGWHV5Mk9aeklCMW1BbmhrN3ZobXFMR2JVZzdneERuaUVodmVxamFpa2Q?oc=5",
+      "published_at": "Sat, 20 Jun 2026 20:30:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "レアル・マドリード、ワールドカップセンセーションを観戦するためにスカウトを派遣 - Yahoo Sports"
+    },
+    {
+      "id": 480,
+      "category": "Global",
+      "title": "World Cup: Netherlands bounces back with 5-1 win against Sweden - Euronews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkVzWHJPM19UVzBGS1ZrRHJzaVRrUkF4U3FXcWFCbVJzVXZISGd6QWFxbHFOQmNkYmlMcEY3aWZvTkswazZLX3ZlWVRJMm9nemtuVWdYai1sNWlqbTlOZlI5bUhKNFFiRkRCbU0zQ0",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkVzWHJPM19UVzBGS1ZrRHJzaVRrUkF4U3FXcWFCbVJzVXZISGd6QWFxbHFOQmNkYmlMcEY3aWZvTkswazZLX3ZlWVRJMm9nemtuVWdYai1sNWlqbTlOZlI5bUhKNFFiRkRCbU0zQ0lnd1BxWnNoUUhTU3N1dkJldm1rNTJ4MmVhNFdYeU5UTEl3dVpENUstYU1rQVNoODFLdUhCeHEzY3FWNll6aThIS0lFMlI?oc=5",
+      "published_at": "Sat, 20 Jun 2026 20:29:52 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "ワールドカップ：オランダがスウェーデンに5-1で勝利し立ち直る - Euronews.com"
+    },
+    {
+      "id": 537,
+      "category": "News",
+      "title": "台風7号(メーカラー) 沖縄方面へ北上の可能性 今後の進路に注意 - ウェザーニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XRU1VT1FRUXhvSWI4M1FBOXd1eGxpWEhkS1NEa1lKLVgzRmVza2JRVkhKOHI0MHl3bWdEdDB2MC1JM0w1eGFwZWc2R2o5S3lMT1Zpaw?oc=5\" target=\"_blank\">台風7号(",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XRU1VT1FRUXhvSWI4M1FBOXd1eGxpWEhkS1NEa1lKLVgzRmVza2JRVkhKOHI0MHl3bWdEdDB2MC1JM0w1eGFwZWc2R2o5S3lMT1Zpaw?oc=5",
+      "published_at": "Sat, 20 Jun 2026 20:27:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "台風7号(メーカラー) 沖縄方面へ北上の可能性 今後の進路に注意 - ウェザーニュース"
+    },
+    {
+      "id": 464,
+      "category": "Global",
+      "title": "Iran Says It Closed Strait of Hormuz as Fighting Flares Again in Lebanon - WSJ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkd5TEZMLWtpYzV4VUhyVUw5ZEhBWlpFbnNYU0RveVFYUmFka2pfakU3XzF6RFFQbHpSU09ud0lyN000bld1WHdkaUxaT1RydUFDbWRJalduUU1yQjlHaHh2NlFneDZDRm00cTZ4Wk",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkd5TEZMLWtpYzV4VUhyVUw5ZEhBWlpFbnNYU0RveVFYUmFka2pfakU3XzF6RFFQbHpSU09ud0lyN000bld1WHdkaUxaT1RydUFDbWRJalduUU1yQjlHaHh2NlFneDZDRm00cTZ4WkRhN25BUmtxV3ozNjFBYzZNSHBoNURFYWdnMWhvNG9yOGFQaHhNMTZHQ2w0dThNRnBwY0djajBMb0NtM2g3VU84ZGZrbUo?oc=5",
+      "published_at": "Sat, 20 Jun 2026 20:06:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "イラン、レバノンで再びフレアとの戦いでホルムズ海峡を封鎖 - WSJ"
+    },
+    {
+      "id": 462,
+      "category": "Global",
+      "title": "Red Apple Media Promotes Lee Harris - radioworld.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ05XX0xNVmpMVTA1YXhHNUNXdlE4aFRSRUwzTGoyWFBQUVZWYTNUaDZYeFAzQjVHNkpWZW5jNFF4amYxY2RNcWNZN2pmc2VybDY3QnpTb0dxNm1FcDZ2eTMwZEdPWGMwSEd6OHVpeW",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ05XX0xNVmpMVTA1YXhHNUNXdlE4aFRSRUwzTGoyWFBQUVZWYTNUaDZYeFAzQjVHNkpWZW5jNFF4amYxY2RNcWNZN2pmc2VybDY3QnpTb0dxNm1FcDZ2eTMwZEdPWGMwSEd6OHVpeWluRG82czdJODJGZWcxVkNSSDNiWjhSVTZEdmo1WFRvajQxaXF0MW1j?oc=5",
+      "published_at": "Sat, 20 Jun 2026 19:54:25 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Red Apple Media がリー・ハリスを宣伝 - radioworld.com"
+    },
+    {
+      "id": 314,
       "category": "AI/IT",
       "title": "In the Weights is your new AI-centric vanity search",
       "summary": "So ... what's your In the Weights score?",
@@ -299,7 +442,18 @@
       "translated_title": "In the Weights は、新しい AI 中心のバニティ検索です"
     },
     {
-      "id": 450,
+      "id": 461,
+      "category": "Global",
+      "title": "Fans told to shelter in place after Netherlands' 5-1 win over Sweden in Houston due to lightning - AP News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOWVpSdV9DSDM2RzN4cnd2cmZOVVpDdmZqVGVNQ2txa0RBQ1ZRZFJQRDJSUDlhNjRUUzJqVC10dlRVOGl5dS1idDhxc2dfWGNrX2VhZlBuZVJJUGx1SmZGSWdzOWU1SjZVXzBPVktrTl",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWVpSdV9DSDM2RzN4cnd2cmZOVVpDdmZqVGVNQ2txa0RBQ1ZRZFJQRDJSUDlhNjRUUzJqVC10dlRVOGl5dS1idDhxc2dfWGNrX2VhZlBuZVJJUGx1SmZGSWdzOWU1SjZVXzBPVktrTlZYN3lwc21jbWJzbUlFaHNtRkxuOA?oc=5",
+      "published_at": "Sat, 20 Jun 2026 19:26:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "ヒューストンでオランダがスウェーデンに5-1で勝利した後、雷のためファンに避難勧告 - AP通信"
+    },
+    {
+      "id": 458,
       "category": "Global",
       "title": "US reaches World Cup knockout round and wins its group with 2nd straight victory, 2-0 over Australia - AP News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQM09NaWstRHQ1MjlhYmhaUUFCZnpPZHdrMW1PR1ZzcFQxTHZpQTBZQlR2WnNnV3pPTmM5MW9qSVd2aWdzdTh2Y3Qyal9ydnFBX1RwdThaWWg2SXpULVZ6cmo5eW9uNWl5cm5JZG9UNU",
@@ -310,29 +464,7 @@
       "translated_title": "米国、ワールドカップ決勝トーナメント進出、オーストラリアに2-0で2連勝でグループ優勝 - AP通信"
     },
     {
-      "id": 559,
-      "category": "News",
-      "title": "Ｗ杯 オランダがスウェーデンに快勝 日本と同じグループＦ - NHKニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0ek1wb3F0N2JGaWZIRXFkeGZkLU5yWjh2Y01MX2JmYURwWWtnRm03ZVk1ZE1iZFJRUmZ5SVdhb0czR2gxdXBoM0lvNV9rLXZ2S2tDSVQ0OE9sVXZnS1FZ?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0ek1wb3F0N2JGaWZIRXFkeGZkLU5yWjh2Y01MX2JmYURwWWtnRm03ZVk1ZE1iZFJRUmZ5SVdhb0czR2gxdXBoM0lvNV9rLXZ2S2tDSVQ0OE9sVXZnS1FZ?oc=5",
-      "published_at": "Sat, 20 Jun 2026 19:12:55 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "Ｗ杯 オランダがスウェーデンに快勝 日本と同じグループＦ - NHKニュース"
-    },
-    {
-      "id": 461,
-      "category": "Global",
-      "title": "Russia strikes an apartment building in the Ukrainian city of Kharkiv and 1 person is killed - Audacy",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2k4cW9DenJPbVBFMjZzVmVHbEtxc09PWkYwM2JzbzlQY2lKT081SzdtNGNacjZ6R0xSNFp4TXRsSmc1dGYxdnViUWNKUEJRTm9KMFhyellGY08zamFJcDBkbzZBalByNDJtUVFNRn",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2k4cW9DenJPbVBFMjZzVmVHbEtxc09PWkYwM2JzbzlQY2lKT081SzdtNGNacjZ6R0xSNFp4TXRsSmc1dGYxdnViUWNKUEJRTm9KMFhyellGY08zamFJcDBkbzZBalByNDJtUVFNRnIyYm81RERMZ0lBM0I3ZVFjck04VHhUYmY1R2w3c3B0UXlkbUtYTE9UUmpSVzlhQXVPTF9iT2RJTGE?oc=5",
-      "published_at": "Sat, 20 Jun 2026 19:10:07 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "ロシア、ウクライナのハリコフ市のアパートを襲撃、1人死亡 - Audacy"
-    },
-    {
-      "id": 460,
+      "id": 453,
       "category": "Global",
       "title": "Belgium winger Jérémy Doku out for World Cup match with Iran due to illness - AP News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOV2ZGNWtVWTB3c18yRjd2WlpaSm0zbTRDY1R1bHoyMTRWZGpDR2tUWERrTmV5cVlpRDZlR1RCb2lVX2djTll2R3p5VVBWREdRanZOUlVCQUNDbHRNLVU1bGpBUmlkQkFPMm1PbEh4Sl",
@@ -343,18 +475,7 @@
       "translated_title": "ベルギーウィンガーのジェレミー・ドク、病気のためワールドカップのイラン戦を欠場 - AP通信"
     },
     {
-      "id": 433,
-      "category": "Global",
-      "title": "Iran closes Strait of Hormuz over ‘ceasefire violations’ - The Telegraph",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVW51MDJkdDNoUDFCZUFrdFkzUEtxWGRESXN0MTJXMXlvZjVJZEtxdVltS3R4dHlaUkd5WlFRbzd1bGNMMUVPTnpSdjRJOUZSbF9TRHd6bEdzNjFNVjY3cnpzTzJSckk0ZDIzY0g3bT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVW51MDJkdDNoUDFCZUFrdFkzUEtxWGRESXN0MTJXMXlvZjVJZEtxdVltS3R4dHlaUkd5WlFRbzd1bGNMMUVPTnpSdjRJOUZSbF9TRHd6bEdzNjFNVjY3cnpzTzJSckk0ZDIzY0g3bTd1Y09McjJUeDQ4TDlNSGcwT2k4b3ZQdXJRTHhRb1o0NHQxOVBKSDBUZVZkMGVKLXUta2JTNHZXdTBHZGc?oc=5",
-      "published_at": "Sat, 20 Jun 2026 19:05:08 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "イラン、「停戦違反」を理由にホルムズ海峡を封鎖 - テレグラフ"
-    },
-    {
-      "id": 472,
+      "id": 475,
       "category": "Global",
       "title": "World Cup: Netherlands secure first win in style | News | Official Site - Chelsea",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNLXV6Y2c5WDIzc09rcU41Q21scWNzU29mQld1WVRlLTZUVll4M29DR19RSjBLVFFfWVFjUko1OEp1V3pQaHRLamEtT044eVVYOU5odkRvOVN0amEwYXNGTU1SR2hSZ2FOamdQTHF4dV",
@@ -365,7 +486,18 @@
       "translated_title": "ワールドカップ: オランダが華々しく初勝利を収める |ニュース |公式サイト - チェルシー"
     },
     {
-      "id": 465,
+      "id": 557,
+      "category": "News",
+      "title": "SUPER EIGHT丸山隆平、半自伝的舞台で主演 幼少期で過ごした京都の記憶がベースに「どんな作品になっていくのかが今から楽しみ」 - オリコンニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UZHM5bkdOVDNGNHNpTU5mclFjVkYyVGJDWjFMa0FjUXIyNWQ4c2V5Z2R5bE5lN2F5QnN6ZXJNWDlqdW5jLVBEaE1KdzJiR2lvdGUzV1N3?oc=5\" target=\"_blank\">SUP",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UZHM5bkdOVDNGNHNpTU5mclFjVkYyVGJDWjFMa0FjUXIyNWQ4c2V5Z2R5bE5lN2F5QnN6ZXJNWDlqdW5jLVBEaE1KdzJiR2lvdGUzV1N3?oc=5",
+      "published_at": "Sat, 20 Jun 2026 19:00:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "SUPER EIGHT丸山隆平、半自伝的舞台で主演 幼少期で過ごした京都の記憶がベースに「どんな作品になっていくのかが今から楽しみ」 - オリコンニュース"
+    },
+    {
+      "id": 470,
       "category": "Global",
       "title": "A flurry of goals and convincing wins are raising US World Cup hopes and expectations - AP News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVduRXB6Wk03VXU0cGhWbHNNam9TT1cyeWhJRVFreHVFSkpXOVpqaEQtRkJqRi1EUkRKMGVUOHBtN1Itc0pPZWFXTWh3Rl9CQzV2RGhlWU9zQ01LQlUta2lBbDZnaDFSbldKSmJKWW",
@@ -376,7 +508,7 @@
       "translated_title": "相次ぐゴールと納得の勝利で米国ワールドカップへの希望と期待が高まる - AP通信"
     },
     {
-      "id": 457,
+      "id": 456,
       "category": "Global",
       "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFbVh2NGR4RU1xWVVYUExYN0FlNF8zRjFKenhqQlZnWk5OVkFJbzFlRHdJcUxwS1JiUFJoQ1dsUXFLN0tjMDVELUM3SHdVTjNMUTdLSXJBMGRKUQ?oc=5\" target=\"_blank\">Iran ",
@@ -387,29 +519,7 @@
       "translated_title": "イラン、イスラエルによるレバノン攻撃を理由にホルムズ海峡を封鎖すると発表 - BBC"
     },
     {
-      "id": 443,
-      "category": "Global",
-      "title": "2026 NCAA baseball tournament: Bracket, schedule, scores for the Men’s College World Series - NCAA.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOcG1kVlI2enFEMUROZzMzTHptTzFmdTdyME1xdTM5amFQQkQzdHNaa1RWSjdTWHlEcU1CSmNJOTdwcE9ZU0RMRzlxSFFFZVl0U2xPOWR2OWVEcFdyNFJjS3BOc25TTEFoc2JfWWtYeT",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcG1kVlI2enFEMUROZzMzTHptTzFmdTdyME1xdTM5amFQQkQzdHNaa1RWSjdTWHlEcU1CSmNJOTdwcE9ZU0RMRzlxSFFFZVl0U2xPOWR2OWVEcFdyNFJjS3BOc25TTEFoc2JfWWtYeTRRNWFTSnVyMENyNnZEWXJxR2Npb2ZiRE1RZ29UMnpCR2N6SGtDQVFFVW1UVHdDLXFpVmlPbG0xLUp4SGh0MFR2TzlPNmlPNlNCTC1DbW96T3hfNlhzMWppWDVZWHlnZw?oc=5",
-      "published_at": "Sat, 20 Jun 2026 18:28:50 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "2026 NCAA 野球トーナメント: 男子大学ワールド シリーズの組み合わせ、スケジュール、スコア - NCAA.com"
-    },
-    {
-      "id": 458,
-      "category": "Global",
-      "title": "Iran Says It Closed Strait of Hormuz as Fighting Flares Again in Lebanon - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkd5TEZMLWtpYzV4VUhyVUw5ZEhBWlpFbnNYU0RveVFYUmFka2pfakU3XzF6RFFQbHpSU09ud0lyN000bld1WHdkaUxaT1RydUFDbWRJalduUU1yQjlHaHh2NlFneDZDRm00cTZ4Wk",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkd5TEZMLWtpYzV4VUhyVUw5ZEhBWlpFbnNYU0RveVFYUmFka2pfakU3XzF6RFFQbHpSU09ud0lyN000bld1WHdkaUxaT1RydUFDbWRJalduUU1yQjlHaHh2NlFneDZDRm00cTZ4WkRhN25BUmtxV3ozNjFBYzZNSHBoNURFYWdnMWhvNG9yOGFQaHhNMTZHQ2w0dThNRnBwY0djajBMb0NtM2g3VU84ZGZrbUo?oc=5",
-      "published_at": "Sat, 20 Jun 2026 18:27:00 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "イラン、レバノンで再びフレアとの戦いでホルムズ海峡を封鎖 - WSJ"
-    },
-    {
-      "id": 446,
+      "id": 445,
       "category": "Global",
       "title": "Thousands of Dutch and Swedish fans march to Houston Stadium ahead of World Cup match - Houston Public Media",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSjVUSk5tV0xxSGxaODRpUG5BRVFhbkJFMzlSUFZ2Slk1WFpUZUJpVTRUM0VhUjdESEMwRk43ZTZGakgzOFBUOUtFbGFPTkFyQVZFcFNWVk91TTRKa1diamJITmZUYzVsenBpaWNsST",
@@ -420,7 +530,7 @@
       "translated_title": "ワールドカップの試合に先立ち、数千人のオランダとスウェーデンのファンがヒューストン・スタジアムへ行進 - ヒューストン・パブリック・メディア"
     },
     {
-      "id": 314,
+      "id": 315,
       "category": "AI/IT",
       "title": "Founders Fund’s outlier bet on humanely killed fish",
       "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
@@ -431,29 +541,29 @@
       "translated_title": "ファウンダーズ・ファンド、人道的に殺された魚に対する異常な賭け"
     },
     {
-      "id": 529,
+      "id": 468,
       "category": "Global",
-      "title": "Germany, Ivory Coast get ready for Toronto's 3rd FIFA World Cup match - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHRwRzhVLXM2U2JKS1phdEJPQm5mYzZ4RkpjdVdTZ0VVemd0U2s4cEJDTWloUFpfSlFHa20waE1aRmJ5eFVDSFVwZFd2dTl0Ujg3OV9fMzlDcERyRVZkcFUtc2tTR1JDX1NGS1dPSH",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHRwRzhVLXM2U2JKS1phdEJPQm5mYzZ4RkpjdVdTZ0VVemd0U2s4cEJDTWloUFpfSlFHa20waE1aRmJ5eFVDSFVwZFd2dTl0Ujg3OV9fMzlDcERyRVZkcFUtc2tTR1JDX1NGS1dPSHRfNXM5c2llTTJUNUNxWENmNUNFOWxkYUZ1?oc=5",
-      "published_at": "Sat, 20 Jun 2026 18:25:28 GMT",
+      "title": "City shuts down free festival celebrating World Cup and Father’s Day, citing safety concerns - WSB-TV",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX2NYdUR0SHpaaTRPeG5pOFVaM1ItaFF0NWtzY0lSUVpjdmhZNTRVZGIwR1R3RDQ2Q1c1MUJpRE1zQTVsOTlHSzdleWU1al83ZUFqdWFPZWd4Q3hIcmJ5dzhJeDg2QVktckdxaW1QUj",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX2NYdUR0SHpaaTRPeG5pOFVaM1ItaFF0NWtzY0lSUVpjdmhZNTRVZGIwR1R3RDQ2Q1c1MUJpRE1zQTVsOTlHSzdleWU1al83ZUFqdWFPZWd4Q3hIcmJ5dzhJeDg2QVktckdxaW1QUjI1YW9iVjN5TUNYZjAtX2dLcDBjNDB2bkN6Zjc3clp6UldwTExmRHBZWjZCUWh3RGE2ZmRIbWZwNnRBbzgySEVkbXRxck1vV25SQktodjhVOENsOG9Eek5FMTRRVENHWDhKME5FdTlQTnRCVG1zcThFNWtzVkF2eXhsdmEw0gH_AUFVX3lxTE5xS2pmQnBDMEFpNEhFeEFVdFoyZG5fbFM4SzJiRlhmVGt5M0ZueFY2bnRmOG5Oa093V1U5a2hGa3NDUHBwU3F6TTc3M3ZibWRJQU1PN29wQVR3TjFPVGdETDZXTzVCZ1N5V2pqMzFlZ2JxeXpiekRfU2plZFlqS3gxUDg4bTVGeHhoOFl3X3dYMF9Wa00yU3lzY0h1S19rY2NCTEhpdVFjLU1hMEhaOVBPVVp6VjVDcDJ4cGJScDNnN2lDeUpyX0t2UGN1eGgwaG1veHNIMnBnek1CNmJCMVU4MUJuOElSUTFINUFvamJwcktBaFUzVkoyMWRScmQ4UQ?oc=5",
+      "published_at": "Sat, 20 Jun 2026 18:14:19 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "ドイツとコートジボワール、トロントのFIFAワールドカップ第3戦に向けて準備を整える - CBC"
+      "translated_title": "市、安全上の懸念を理由にワールドカップと父の日を祝う無料フェスティバルを中止 - WSB-TV"
     },
     {
-      "id": 539,
-      "category": "News",
-      "title": "【速報】八田與一容疑者の逮捕に向け「諦めない」 - 47NEWS",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lM3l0NzhiWWt2VGs1dE8wd2hfeGFMVk80dHd0RXFqM01vQ29tX3JIV0h3WFNlLUVzc1E0M05hdi01Q0tZQy1HbjRvWQ?oc=5\" target=\"_blank\">【速報】八田與一容疑者の逮捕に向け",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lM3l0NzhiWWt2VGs1dE8wd2hfeGFMVk80dHd0RXFqM01vQ29tX3JIV0h3WFNlLUVzc1E0M05hdi01Q0tZQy1HbjRvWQ?oc=5",
-      "published_at": "Sat, 20 Jun 2026 18:07:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "【速報】八田與一容疑者の逮捕に向け「諦めない」 - 47NEWS"
+      "id": 500,
+      "category": "Global",
+      "title": "World Cup 2026: Bukayo Saka trains alone as England prepare for Ghana game - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UTExpcmVRZmlKUG5XNGYwZ0UwdmliWjVHMnc3V1E3eXQ1VmcwWnpKXzBUdU9hWXhWbHJDX2NNNDJEbk5JUUU4VmFwQTgtY0pHMVp6SmxqWGw5Vy1wY0FRbENnbmRseHc?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UTExpcmVRZmlKUG5XNGYwZ0UwdmliWjVHMnc3V1E3eXQ1VmcwWnpKXzBUdU9hWXhWbHJDX2NNNDJEbk5JUUU4VmFwQTgtY0pHMVp6SmxqWGw5Vy1wY0FRbENnbmRseHc?oc=5",
+      "published_at": "Sat, 20 Jun 2026 18:02:39 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "2026年ワールドカップ：イングランドがガーナ戦に備える中、ブカヨ・サカが単独トレーニング - BBC"
     },
     {
-      "id": 445,
+      "id": 448,
       "category": "Global",
       "title": "World cup wrap day 9 - Al Jazeera",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1QY1M5cnNqbGRtaGlCWXBYWmR4Qm01NDJBYVhPMFhINXZ2SThxaE1TalRVd0xzcWtMc0kxcGlRWFFyLVJOQmFjUnIwNmVuZUQwRklVTEppTmxhdU9XTnNRcHMwN1JOZ1RQMllzQjdBUW",
@@ -464,18 +574,18 @@
       "translated_title": "ワールドカップ終了 9 日目 - アルジャジーラ"
     },
     {
-      "id": 547,
-      "category": "News",
-      "title": "賃金プレミアム3割、転職の「神器」AIスキル ホワイトカラーで顕著 - 日本経済新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBsTnh1MFVtNmcxakxHQUt4eHlVT0ZiVXdiSC1YYnpyMGtWWEJhQ3ZEUEZNOVQtM0Fxajh5NmFnZ09iaTh0VGV1YlNFa05QYk1PQmtvQUFqZTh3R2RQOTktQzNGTmxYUXR3dm",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsTnh1MFVtNmcxakxHQUt4eHlVT0ZiVXdiSC1YYnpyMGtWWEJhQ3ZEUEZNOVQtM0Fxajh5NmFnZ09iaTh0VGV1YlNFa05QYk1PQmtvQUFqZTh3R2RQOTktQzNGTmxYUXR3dmphSw?oc=5",
-      "published_at": "Sat, 20 Jun 2026 17:00:00 GMT",
-      "importance": 3,
-      "source_name": "Google News JP",
-      "translated_title": "賃金プレミアム3割、転職の「神器」AIスキル ホワイトカラーで顕著 - 日本経済新聞"
+      "id": 450,
+      "category": "Global",
+      "title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans - Sky Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOay1vMlA4d3VvMTlLUVl3b1ZUXzJLWFVaY1JxZ1hxMVI4VlJoRGEyZEd6aFVxM2EzYjlsdDdYX3JaYWJrSTFsQlUxckJadzN0ck9od01McEFheUJJVmMtXzZRQUZwTkU3Q2pvbXNfel",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOay1vMlA4d3VvMTlLUVl3b1ZUXzJLWFVaY1JxZ1hxMVI4VlJoRGEyZEd6aFVxM2EzYjlsdDdYX3JaYWJrSTFsQlUxckJadzN0ck9od01McEFheUJJVmMtXzZRQUZwTkU3Q2pvbXNfelp0ak1UVWlqOWtXNGl3azR4MVkyMXZUZ01STFlqQ3VfS3FWN3NIVHhhY05YdFo5QVptcjgzNEFUb2VLeUNBYnl4YjNPWDFIQmtzaXdTcVFqaGFEVExOSURhd19ab1BrNGxBV2lIZlZuajdwS1dZcE0zaVBwMHBnSXZ2X0dsTEdzcjBDQUV6TWtiZg?oc=5",
+      "published_at": "Sat, 20 Jun 2026 16:42:32 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "2026 年ワールドカップのニュースとライブ最新情報 - トランプ大統領、チケット、ファンを含む米国、カナダ、メキシコの最新情報 - スカイスポーツ"
     },
     {
-      "id": 447,
+      "id": 452,
       "category": "Global",
       "title": "Thetford church hosts watch party for US Men’s National Team soccer match - Valley News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFA5akRTWkxJMWtXOE5JeHJ4aDVPSGFCdmhkRzNwUm1qc0hWSjlBQUlXTWVya0ZHQThURm5sanNZb1EtZEV0M1hiQnlBSnlLQ3kyMDVRRkZKTG1oQy00cE5uems2Y2lNaGRBY0NsLVBR?o",
@@ -486,7 +596,7 @@
       "translated_title": "セットフォード教会がサッカー米国代表チームの試合観戦パーティーを主催 - Valley News"
     },
     {
-      "id": 467,
+      "id": 471,
       "category": "Global",
       "title": "Why is covering your mouth a red card at the World Cup? Explaining 2026 controversy that led to FIFA rule change - Yahoo Sports",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNcnJlR1RyOFFBYXVac2gzTmozMG5MUU1mNEF6Sy1UVmpiMW1PRmI5RjBjcThpSVd3aVZrTnpsUTA3WjhqNnpoVzFaX2tDbGJxNjBMWXZsQm9KbWp5UmdBdUM1dWkzYVFiNmQzV0FNVG",
@@ -497,7 +607,7 @@
       "translated_title": "なぜワールドカップで口を覆うとレッドカードになるのですか? FIFAルール変更につながった2026年の論争を解説 - Yahoo Sports"
     },
     {
-      "id": 315,
+      "id": 316,
       "category": "AI/IT",
       "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
       "summary": "Jumper isn't the only big name leaving Google DeepMind.",
@@ -508,7 +618,7 @@
       "translated_title": "ノーベル賞受賞者のジョン・ジャンパー氏がディープマインドを離れ、ライバルのアンスロピック社に移籍する"
     },
     {
-      "id": 560,
+      "id": 562,
       "category": "News",
       "title": "ドジャース・大谷 第2子誕生を報告 オリオールズ戦欠場で駆け付けた「父親リスト」入らず今週中に復帰へ（スポニチアネックス） - Yahoo!ニュース",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE43dkUwdUpVbUZ0eXJ5OHFlY3cwbVNOQVA5dTAtQjNDZy13a3AtWG9rX0RxYmZoaW5RcTJOVFFsQS1pNkctMGpIYnBkUXhvYkF3VlNIc3RYN0g0LTZJa2JmUEk3MFYyMV9ka1",
@@ -519,7 +629,18 @@
       "translated_title": "ドジャース・大谷 第2子誕生を報告 オリオールズ戦欠場で駆け付けた「父親リスト」入らず今週中に復帰へ（スポニチアネックス） - Yahoo!ニュース"
     },
     {
-      "id": 434,
+      "id": 486,
+      "category": "Global",
+      "title": "\"Knicks in 6\" and other prescient quotes of the week - Dallas News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNem4zWVBaeVhPNVhHRm1TSnNwQkZJYXhMM1FpNm9CSXp2azEzd1ZpZEJUODBOQW5DdWRxdVRxRlRyY0NzMGdCMjhXMlVKN1RscDNkeGJWaHdtdHhTSm1hdWpSWkRxY3JWelhmaWVoTl",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNem4zWVBaeVhPNVhHRm1TSnNwQkZJYXhMM1FpNm9CSXp2azEzd1ZpZEJUODBOQW5DdWRxdVRxRlRyY0NzMGdCMjhXMlVKN1RscDNkeGJWaHdtdHhTSm1hdWpSWkRxY3JWelhmaWVoTllVNk55SUkxVllqcFd1QVdtTHZHZmNxREtoVTRiZjVVNUtJa3pFTVRjQUtSOGQzUQ?oc=5",
+      "published_at": "Sat, 20 Jun 2026 16:33:58 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "「ニックス・イン・6」と今週のその他の先見の明のある言葉 - ダラス・ニュース"
+    },
+    {
+      "id": 433,
       "category": "Global",
       "title": "Paraguay's Miguel Almiron becomes first player ejected under FIFA's new mouth-covering rule at World Cup - Fox News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxORnpzckE5ODNlZTdtNFB0YnB0dnBtMmZ3VWFwbEhPZ2ZOTVJtdmJ0eUlsYzBDMTVmQnZnVHpaUFh6RTNCa2hORURud0tYWEo5VTlMT0hnLVpDZUFPQzV6VEdKX2VGQWF5b0dFSEUzdm",
@@ -530,18 +651,7 @@
       "translated_title": "パラグアイのミゲル・アルミロン、ワールドカップでFIFAの新ルール「口を覆う」で退場となる初の選手に - FOXニュース"
     },
     {
-      "id": 452,
-      "category": "Global",
-      "title": "England vs. Ghana: Kick-off time, team news, how to watch FIFA World Cup clash - ESPN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUxNV1pFb21fRFVpTUpRNnFmaURIMERqOUJCSGF4SjJpVWxmNElIRHJZY2ljSzZTY2ZzTmxfUDZ6b0Q1Rkh3dHdKLWs3aDJEblJobk9sVU5JTzYyZ3kzdnZzdERRbFZmTmZCVlV1aj",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUxNV1pFb21fRFVpTUpRNnFmaURIMERqOUJCSGF4SjJpVWxmNElIRHJZY2ljSzZTY2ZzTmxfUDZ6b0Q1Rkh3dHdKLWs3aDJEblJobk9sVU5JTzYyZ3kzdnZzdERRbFZmTmZCVlV1ajYtdVBXd2NUMjNMSWJyV2VNNTFlMEJ4dXAtZ3czQUMxWk1tSExqc3c?oc=5",
-      "published_at": "Sat, 20 Jun 2026 16:26:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "イングランド対ガーナ: キックオフ時間、チームニュース、FIFA ワールドカップの試合の観戦方法 - ESPN"
-    },
-    {
-      "id": 552,
+      "id": 554,
       "category": "News",
       "title": "iOS 27 ハンズオン：AI 写真ツール、Wallet のアップグレード、そして新しい Maps 機能が登場 - finance.biggo.jp",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNdXNjeHZ1ZC1xNkxkYTVmVTNST0tsb0pOSFdJdmdBWmgwMHlIVUt5QUcycElGYk5oeV9Gd2FmUHB4ZGxZWEo2ZUktYTFLWjhlR1FMRjNyVmRmVjFmNHIxZ295ZWxGV3Njdm",
@@ -552,18 +662,29 @@
       "translated_title": "iOS 27 ハンズオン：AI 写真ツール、Wallet のアップグレード、そして新しい Maps 機能が登場 - finance.biggo.jp"
     },
     {
-      "id": 475,
-      "category": "Global",
-      "title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans - Sky Sports",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPanNrSnNJUU05OGZIcHN6ajBVZXZHWFZXRkdIN2FEMlk4Z2hISmowWEpic19ENG5SOGdidVhwY1ZNWHJicGFDbWxFUUF5NjVxNTFuN3dYS0JUY1N3bkRFYl8wMTVEZFlFaXlYNDVnMU",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPanNrSnNJUU05OGZIcHN6ajBVZXZHWFZXRkdIN2FEMlk4Z2hISmowWEpic19ENG5SOGdidVhwY1ZNWHJicGFDbWxFUUF5NjVxNTFuN3dYS0JUY1N3bkRFYl8wMTVEZFlFaXlYNDVnMUNrcWU0bjBhYjVKSWwxQUwza3E3MHkybTVxb0xINzJ5cWd1NG8yakFzd09MZm9TdWxkRTRfRkhHVGp5N25PYTRCcDR6bmQ3R3h6eldVUFJfWnFLaW84RV9za2xfdVBZWmdPTWNiVXdFR1VfbjJjdkMxZUJDZFNoMElESDg3eEtUeFZtVFdsOHREYQ?oc=5",
-      "published_at": "Sat, 20 Jun 2026 15:53:59 GMT",
+      "id": 536,
+      "category": "News",
+      "title": "【速報】イラン国会議長と外相、スイスへ出発 - 47NEWS",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mUmU4dWp2WFNleWJOaG5zc3MzcFJPMmJmakZYOFk0S2N4b1k2YVVXdG1ycmNtT1ZHbUlaREFxZWFSOTRxQzl2bWdoYw?oc=5\" target=\"_blank\">【速報】イラン国会議長と外相、スイ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mUmU4dWp2WFNleWJOaG5zc3MzcFJPMmJmakZYOFk0S2N4b1k2YVVXdG1ycmNtT1ZHbUlaREFxZWFSOTRxQzl2bWdoYw?oc=5",
+      "published_at": "Sat, 20 Jun 2026 16:03:09 GMT",
       "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "2026 年ワールドカップのニュースとライブ最新情報 - トランプ大統領、チケット、ファンを含む米国、カナダ、メキシコの最新情報 - スカイスポーツ"
+      "source_name": "Google News JP",
+      "translated_title": "【速報】イラン国会議長と外相、スイスへ出発 - 47NEWS"
     },
     {
-      "id": 439,
+      "id": 443,
+      "category": "Global",
+      "title": "At least one tourist dead after massive fire nearly destroys Caribbean resort, 1,690 evacuated - Fox News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2tNRGlEb25hY0pqQk9wdmQzLWVwVmUzTGZzRk04cE4yTFQ0NFdNdGh3UHRKQlFFbl9vaU5uTk44Q2UtZkNIR2hhdVJBbUt3QS1obVNXQ3BsZjZNWUVhRU9KODdkVzVtZmFTVHVHVG",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2tNRGlEb25hY0pqQk9wdmQzLWVwVmUzTGZzRk04cE4yTFQ0NFdNdGh3UHRKQlFFbl9vaU5uTk44Q2UtZkNIR2hhdVJBbUt3QS1obVNXQ3BsZjZNWUVhRU9KODdkVzVtZmFTVHVHVGpYYWtWTzhkTDJMUndQQXhNTzlUczJaNmxlNHlwNkVrekNuSzlMcVhJdjVMQmltXzRJODVzYUlOaEJvOTl6dm9VVGl4RdIBuAFBVV95cUxNR3N0aDhadUxfYUp6U0FYeERtdzJaM1JMXzFIaXFNNkZrbW04dU1wbTBYWXlRTFV1aU90UHhwdjVUNUlXdzBEeTVqcTVhRGhpOXlZNlE0cFBkZHMwWFh3ZGpZN0hrNnVvSnJON1V4Z2FuOGNKZExQb1BtUjJRRG9RYl9oNGU5WTY1V3M3M0d2VXYwRTR5c28zUWVRTHFCODNXdFlBRUM2TF9wMndleXB3MVZRdm1YMGhu?oc=5",
+      "published_at": "Sat, 20 Jun 2026 15:49:18 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "カリブ海のリゾート大規模火災でほぼ全焼、観光客少なくとも1人死亡、1,690人が避難 - FOXニュース"
+    },
+    {
+      "id": 455,
       "category": "Global",
       "title": "Trump and Italy’s Giorgia Meloni escalate war of words over G7 photo claims - NBC News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcXlkVldkS192VzRyYkNXaEhGVm1rMW04RUlmcVNTUUJhS3VpNC1hZVpQWGs4aGt2dHpEMkdNY3l1VF9fb2pGOGV4bXdyMVJkVTcwS2dEYUlsQ2VBWTdxMi1FUEV0RmFrYXZiRmszU0",
@@ -574,7 +695,7 @@
       "translated_title": "トランプ大統領とイタリアのジョルジア・メローニ氏、G7の写真主張をめぐり舌戦激化 - NBCニュース"
     },
     {
-      "id": 453,
+      "id": 454,
       "category": "Global",
       "title": "World Cup 2026: Here are USA's potential opponents in knockout round after clinching Group D's top spot - Yahoo Sports",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMVlTdEtjLURTU012NWZjN1B6MUQ5UmUzTS1QVGdXVHdEUm9DbURRNDRPM0JwZWF4SWNRWm1KVWtqNmdmUTk3UW1XTktnQm1tQVNQM05DUXdqYl8tYThyNTktdDNxQ1FzLUVPRWFITH",
@@ -585,18 +706,7 @@
       "translated_title": "2026年ワールドカップ：グループD首位通過後の決勝トーナメント進出候補国は以下の通り - Yahoo Sports"
     },
     {
-      "id": 448,
-      "category": "Global",
-      "title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans - Sky Sports",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOay1vMlA4d3VvMTlLUVl3b1ZUXzJLWFVaY1JxZ1hxMVI4VlJoRGEyZEd6aFVxM2EzYjlsdDdYX3JaYWJrSTFsQlUxckJadzN0ck9od01McEFheUJJVmMtXzZRQUZwTkU3Q2pvbXNfel",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOay1vMlA4d3VvMTlLUVl3b1ZUXzJLWFVaY1JxZ1hxMVI4VlJoRGEyZEd6aFVxM2EzYjlsdDdYX3JaYWJrSTFsQlUxckJadzN0ck9od01McEFheUJJVmMtXzZRQUZwTkU3Q2pvbXNfelp0ak1UVWlqOWtXNGl3azR4MVkyMXZUZ01STFlqQ3VfS3FWN3NIVHhhY05YdFo5QVptcjgzNEFUb2VLeUNBYnl4YjNPWDFIQmtzaXdTcVFqaGFEVExOSURhd19ab1BrNGxBV2lIZlZuajdwS1dZcE0zaVBwMHBnSXZ2X0dsTEdzcjBDQUV6TWtiZg?oc=5",
-      "published_at": "Sat, 20 Jun 2026 15:32:52 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "2026 年ワールドカップのニュースとライブ最新情報 - トランプ大統領、チケット、ファンを含む米国、カナダ、メキシコの最新情報 - スカイスポーツ"
-    },
-    {
-      "id": 444,
+      "id": 447,
       "category": "Global",
       "title": "World Cup 2026 today: Live updates, latest news as it happened - June 20 - ESPN",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNHk2clgtX2Y4U1NMY0k1eWYxYjk0YkROYXJaRVJKN0pEUmZwbXgtbVc2bE1fYzlpN3VhYW9CajBjVkk4M2hvM3Y2NHN1akdJcGcyeWdJcTFtQm1sbGpLQ0lwZm1rQTVoUlY3S0trYU",
@@ -607,18 +717,18 @@
       "translated_title": "2026 年ワールドカップの今日: ライブ アップデート、最新ニュース - 6 月 20 日 - ESPN"
     },
     {
-      "id": 555,
+      "id": 535,
       "category": "News",
-      "title": "「あかね噺」第2期制作決定！“前座修業篇”2027年1月放送開始 大塚芳忠らキャスト6人発表 - ナタリー",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uNVhrTFFOTVBxcG1FTXFQMVZGdi1aQTFGZDFGeWx2UllQNGx3Y1lfMkhmSnJSUHJxSWdqU0duelZvTzdfTzZOWDFsdU8?oc=5\" target=\"_blank\">「あかね噺」第2期制作決定！“前",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uNVhrTFFOTVBxcG1FTXFQMVZGdi1aQTFGZDFGeWx2UllQNGx3Y1lfMkhmSnJSUHJxSWdqU0duelZvTzdfTzZOWDFsdU8?oc=5",
-      "published_at": "Sat, 20 Jun 2026 15:00:00 GMT",
+      "title": "イラン、ホルムズ海峡を「再封鎖」 米イラン協議は21日にも開催 米特使らがスイス到着 - 産経ニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0xVDAxazVmcGV0N0ZzQ1pkMG9SMEI4bDBjRnVOR3YzTW5ad3BaVjg2YUVCUjd0TXdBVGdtZW1EZHBrSE03Q0dhal9FSUJEYVJob0FuMHAyRTdzZ0lpNGtRZWRVMTB0b1ZDa0",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xVDAxazVmcGV0N0ZzQ1pkMG9SMEI4bDBjRnVOR3YzTW5ad3BaVjg2YUVCUjd0TXdBVGdtZW1EZHBrSE03Q0dhal9FSUJEYVJob0FuMHAyRTdzZ0lpNGtRZWRVMTB0b1ZDa0hRUEJ3VlpMQmZ3aGc?oc=5",
+      "published_at": "Sat, 20 Jun 2026 15:06:14 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "「あかね噺」第2期制作決定！“前座修業篇”2027年1月放送開始 大塚芳忠らキャスト6人発表 - ナタリー"
+      "translated_title": "イラン、ホルムズ海峡を「再封鎖」 米イラン協議は21日にも開催 米特使らがスイス到着 - 産経ニュース"
     },
     {
-      "id": 316,
+      "id": 317,
       "category": "AI/IT",
       "title": "Every new iOS 27 feature that’s worth knowing about",
       "summary": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
@@ -629,7 +739,7 @@
       "translated_title": "知っておく価値のある iOS 27 のすべての新機能"
     },
     {
-      "id": 473,
+      "id": 481,
       "category": "Global",
       "title": "Video US beats Australia in World Cup - ABC News - Breaking News, Latest News and Videos",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PdEx5b1ZXU0pjLW5PUzlVZHhtcmpLc05sUkhUSGtjY21HSmVrQ1huZ3NSY1JhcTQ4RlBncmVTdmRHY0FqZUxpU3hwUmY?oc=5\" target=\"_blank\">Video US beats Australia",
@@ -640,29 +750,7 @@
       "translated_title": "ビデオ 米国がワールドカップでオーストラリアを破る - ABCニュース - ニュース速報、最新ニュースとビデオ"
     },
     {
-      "id": 455,
-      "category": "Global",
-      "title": "World Cup 2026: Boston bounce sends Scotland to Miami with hope and no fear - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkcUxsMElsSTRQOEE0UXljVXpSTlZpSzUwYTZrZWl4c2wweXVWa1BTUm9oQXBDaHBMNS0wR3lXZWRmRnBGSjRYb01vcEZIM1UyenhTdEJqdW02U3poYktpM25kS3VQbDQ?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkcUxsMElsSTRQOEE0UXljVXpSTlZpSzUwYTZrZWl4c2wweXVWa1BTUm9oQXBDaHBMNS0wR3lXZWRmRnBGSjRYb01vcEZIM1UyenhTdEJqdW02U3poYktpM25kS3VQbDQ?oc=5",
-      "published_at": "Sat, 20 Jun 2026 14:43:39 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "ワールドカップ2026：ボストンのバウンスでスコットランドは希望と恐れを持たずにマイアミへ - BBC"
-    },
-    {
-      "id": 535,
-      "category": "News",
-      "title": "イランと近くスイスで協議、米副大統領表明 ホルムズ封鎖の情報伝わる中 - Reuters",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNc1A0UmZkT0VURTNZbUJpYkdNdlZEUjVPZlp1N3I1UTQxOGtfcmhBR0wxbWxTV0lnZG1IaTJkSEdvOUdpU0otcUg5VGg1bGlhUzVrLXB5M2JlYlQ0RFlRendiN0QwVURxeFdDb2RocW",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc1A0UmZkT0VURTNZbUJpYkdNdlZEUjVPZlp1N3I1UTQxOGtfcmhBR0wxbWxTV0lnZG1IaTJkSEdvOUdpU0otcUg5VGg1bGlhUzVrLXB5M2JlYlQ0RFlRendiN0QwVURxeFdDb2RocWdBNDZzbFk2Z1FfcXhYYm9zSEVB?oc=5",
-      "published_at": "Sat, 20 Jun 2026 14:36:36 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "イランと近くスイスで協議、米副大統領表明 ホルムズ封鎖の情報伝わる中 - Reuters"
-    },
-    {
-      "id": 471,
+      "id": 478,
       "category": "Global",
       "title": "Australia flogs the Netherlands for a third straight Women's T20 World Cup win - ABC News - Breaking News, Latest News and Videos",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNT3hUM2FBZFZOUjc4VzRXZEhMdENxUUVleFVxYTJxSjVVdHExdWJKTFBsZWkyMlZuSW1hZUYtUmE0ZDVOemludndPSHp6djV3ZGNRYjU2dDRpR3VnSzFMNi1MRjhKQU1zdHY5QTl3Yj",
@@ -671,28 +759,6 @@
       "importance": 3,
       "source_name": "Google News World",
       "translated_title": "オーストラリアがオランダを破り、女子T20ワールドカップ3連覇 - ABCニュース - 速報ニュース、最新ニュースと動画"
-    },
-    {
-      "id": 543,
-      "category": "News",
-      "title": "イスラエルとヒズボラが停戦合意 レバノンでは交戦継続―米イラン交渉は「数日内」 - 時事ドットコム",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QbUJSQi1YY2dWaktSLTBKT1RreWdnNVJJRjlSSTJCdzlTWkZSMl9TUzBULWNvZGZLbkk0Z29TaHV0OUpSVzNJOEduQjdKOXhIVzlJUG1TYUpUQlJQWDdQNlRmcw?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QbUJSQi1YY2dWaktSLTBKT1RreWdnNVJJRjlSSTJCdzlTWkZSMl9TUzBULWNvZGZLbkk0Z29TaHV0OUpSVzNJOEduQjdKOXhIVzlJUG1TYUpUQlJQWDdQNlRmcw?oc=5",
-      "published_at": "Sat, 20 Jun 2026 14:14:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "イスラエルとヒズボラが停戦合意 レバノンでは交戦継続―米イラン交渉は「数日内」 - 時事ドットコム"
-    },
-    {
-      "id": 533,
-      "category": "News",
-      "title": "イランがホルムズ「封鎖」宣言 レバノン情勢で停戦合意後も空爆 - 毎日新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE92Y2N5YXFLSjNRYWdUWG1TcmxESzJuc0RCai1xTWNTS2l6YVVURnZpc1FfN3JvQXRTNVVncGpWeUJiSXB3TWUtczFkcUZCTXpWNXJzbjJCaVNuYTdmcDdLQWdMQnE2b2E1?o",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92Y2N5YXFLSjNRYWdUWG1TcmxESzJuc0RCai1xTWNTS2l6YVVURnZpc1FfN3JvQXRTNVVncGpWeUJiSXB3TWUtczFkcUZCTXpWNXJzbjJCaVNuYTdmcDdLQWdMQnE2b2E1?oc=5",
-      "published_at": "Sat, 20 Jun 2026 14:01:58 GMT",
-      "importance": 3,
-      "source_name": "Google News JP",
-      "translated_title": "イランがホルムズ「封鎖」宣言 レバノン情勢で停戦合意後も空爆 - 毎日新聞"
     },
     {
       "id": 432,
@@ -706,7 +772,18 @@
       "translated_title": "「山がいらない揚水発電」が実現？カギは水の2.5倍の密度を持つ謎の流体"
     },
     {
-      "id": 542,
+      "id": 560,
+      "category": "News",
+      "title": "さんま 中村玉緒さんの通夜で起きた〝奇跡〟語る「俺は完全に玉緒さんに呼ばれた」 - 東スポWeb",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ub0Y2WkV1Nk1xNW04RWxUMlB4SnlGRERrdjkwQVU1b3Z3M1gwbXhBbE1uUzNIVzZiZ2lSRWYxZ1VaR0c3ZV9RV3VlRmVYd1JWQmZSRGV4MDN5OU83?oc=5\" target=\"_bl",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ub0Y2WkV1Nk1xNW04RWxUMlB4SnlGRERrdjkwQVU1b3Z3M1gwbXhBbE1uUzNIVzZiZ2lSRWYxZ1VaR0c3ZV9RV3VlRmVYd1JWQmZSRGV4MDN5OU83?oc=5",
+      "published_at": "Sat, 20 Jun 2026 14:00:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "さんま 中村玉緒さんの通夜で起きた〝奇跡〟語る「俺は完全に玉緒さんに呼ばれた」 - 東スポWeb"
+    },
+    {
+      "id": 541,
       "category": "News",
       "title": "横浜市：病院に「公園で刺された」と男性…突き飛ばされて倒れ込み、気づくと右脇腹刺されていたと説明 - 読売新聞",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oeDNCamhEd0k2d1VLVUppQ3pWSHktYmpRYzNQaWkwazRKSUtWRnlGQUEwRUVaeVFzRnF4N1d1dmtEd0dYcTdraGNPcnRDbVBXNzhUalJvNi1sd2xEckZQOHZnSXJOUQ?oc=",
@@ -717,7 +794,7 @@
       "translated_title": "横浜市：病院に「公園で刺された」と男性…突き飛ばされて倒れ込み、気づくと右脇腹刺されていたと説明 - 読売新聞"
     },
     {
-      "id": 414,
+      "id": 424,
       "category": "Product",
       "title": "【読者アンケート】ガジェットはスペックで決める？ デザインで決める？ みなさんのこと教えてください",
       "summary": "アンケートへのご協力、よろしくお願いします！ギズモード・ジャパンがはじまってから20年が経とうとしている現在。生成AIの普及を筆頭に、ガジェットやテクノロジーを取り巻く世界はものすごいスピードで変化しています。こうした中、ギズモード・ジャパ…",
@@ -728,7 +805,7 @@
       "translated_title": "【読者アンケート】ガジェットはスペックで決める？ デザインで決める？ みなさんのこと教えてください"
     },
     {
-      "id": 482,
+      "id": 436,
       "category": "Global",
       "title": "Iran closes Strait of Hormuz over ceasefire violations - MEHR - Reuters",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTEyTUU2Snk2NzBhWmZCcV9JMzlEV0hRbjNTU282RU5wV3FvNElISFk2ek5SaXU3YXJXR3l1ZFF2RGpsMElnTkpMUmc3Y084NldTRndXWGdLWDJuT05wd0JkY3VtSUxKdFZMLXdJYm",
@@ -739,7 +816,7 @@
       "translated_title": "イラン、停戦違反でホルムズ海峡を封鎖 - MEHR - ロイター"
     },
     {
-      "id": 500,
+      "id": 440,
       "category": "Global",
       "title": "World Cup 2026: Why Harry Kane is different at this World Cup - Alan Shearer - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MeU04dVZYVlRMdExQV1Q2RlVWQV8wSkdhRlFDX1VudHpqQVUyeVpDejltejJNT0lpdGdzUXVQVFIyeEgyaHRDOXlRRzVSeVBfTnZ5MjdrRi10YXBQN0k1NEdRN2tmRGM?oc=5\" targ",
@@ -750,7 +827,7 @@
       "translated_title": "2026年ワールドカップ: ハリー・ケインが今回のワールドカップで違う理由 - アラン・シアラー - BBC"
     },
     {
-      "id": 483,
+      "id": 497,
       "category": "Global",
       "title": "Video shows scene of Bedford train crash as passenger describes aftermath - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNTmJjTzFjN2p0aEhTMk1GeFpaWFBtRjVVZzd5UlpwOXZMMVhsN3ZFYzdCMExHc1ZCSG9xNWJaUEU5cjM4dGY1dXFWd0E0RGp4T0VWOU1zYw?oc=5\" target=\"_blank\">Video sho",
@@ -761,7 +838,18 @@
       "translated_title": "ベッドフォード列車事故の現場を映すビデオ、乗客がその後の状況を説明 - BBC"
     },
     {
-      "id": 415,
+      "id": 563,
+      "category": "News",
+      "title": "冷静な森保一と情熱のルナール 好対照な両指揮官のスタンスが、日本vs.チュニジアを面白くする？ - スポーツナビ",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFByYklDZ0oycUMxcEoxbjhhVUUzQzJQU1Jxc200Ql91MGs5ZDUzZ3FUM2xnWVdMeFZMUlgwMEdTUWpRamU5ZVNrc2k2UU55d3hlTjJLQ3NkRGlDMHdKRGJpYXp6bkE4Qzc5ck",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByYklDZ0oycUMxcEoxbjhhVUUzQzJQU1Jxc200Ql91MGs5ZDUzZ3FUM2xnWVdMeFZMUlgwMEdTUWpRamU5ZVNrc2k2UU55d3hlTjJLQ3NkRGlDMHdKRGJpYXp6bkE4Qzc5ckZqWFRB?oc=5",
+      "published_at": "Sat, 20 Jun 2026 13:18:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "冷静な森保一と情熱のルナール 好対照な両指揮官のスタンスが、日本vs.チュニジアを面白くする？ - スポーツナビ"
+    },
+    {
+      "id": 422,
       "category": "Product",
       "title": "おならで知る僕の腸内環境！ 人気すぎて被験者募集一時停止中のおなら検出スマートパンツ、履いてみた…",
       "summary": "おならのことをもっと知りたい。おならを1日何回するのか正確に数えたい。おならから腸内環境への理解を深めたい。そんなアツい探究心をもった人々がいました。アメリカはメリーランド大学の研究チームです。そして開発されのがおならトラッキング端末「Sm…",
@@ -783,7 +871,7 @@
       "translated_title": "2026 FIFA ワールドカップでの信仰の力強い瞬間 5 つ - EWTN ニュース"
     },
     {
-      "id": 548,
+      "id": 551,
       "category": "News",
       "title": "柵の切れ目から線路に進入 新幹線浜松駅の人身事故 - 47NEWS",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFAybExxOS1qMzBjcUIwRDNvc1RaRmhZcEZSYnJsZFEzcV9MOU9HZDZPUEc3RWhvY1lMRVQ3eFFLd1p2QkwxZzlKb1lzWQ?oc=5\" target=\"_blank\">柵の切れ目から線路に進入 新幹線浜",
@@ -794,18 +882,18 @@
       "translated_title": "柵の切れ目から線路に進入 新幹線浜松駅の人身事故 - 47NEWS"
     },
     {
-      "id": 534,
-      "category": "News",
-      "title": "【速報】大型冷凍庫から男性遺体 腐敗か 神戸市中心部のマンション - テレ朝NEWS",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBXVUFDejRRQ3BUZTkwR3R6amdPRzdHY2xFbThKUnlKQk43c1pfY3BNWWdUeFpsdHJmcWxBUWtjODVZdHJrNzBIaVBlUzFMZUNMZFM0OW8zdkloOHc3MEFPbW9Kb2ttYjdLTU",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXVUFDejRRQ3BUZTkwR3R6amdPRzdHY2xFbThKUnlKQk43c1pfY3BNWWdUeFpsdHJmcWxBUWtjODVZdHJrNzBIaVBlUzFMZUNMZFM0OW8zdkloOHc3MEFPbW9Kb2ttYjdLTU5faGFobjlDZw?oc=5",
-      "published_at": "Sat, 20 Jun 2026 12:45:48 GMT",
+      "id": 441,
+      "category": "Global",
+      "title": "\"My Popularity None Of Your Concern\": Trump-Meloni Photo War Escalates - NDTV",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPcG12TGVBV1RwZk5pcjZzaXRxLWV4YU1FSUwtb2RzRGdYZWdMdkd2OTVYeGlFekVOSGItSUxxajM3RTJQSUR3Q0RDVkdmZVJkcDhBV1lWZkZlMFhzcndoNGVuUUVpLU9pYWotdGNYc1",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcG12TGVBV1RwZk5pcjZzaXRxLWV4YU1FSUwtb2RzRGdYZWdMdkd2OTVYeGlFekVOSGItSUxxajM3RTJQSUR3Q0RDVkdmZVJkcDhBV1lWZkZlMFhzcndoNGVuUUVpLU9pYWotdGNYc196Y1dZazVNTlB2NUJSUkwzcFdmdWd0ajZVNnhsN2dUZ1J2Q2RvRzlOcmpSUjQtTzUwY1FFMTk4TUV2OHg3RDVmdUc5UkNyU0lNekhWWDJ5X2h1cndIWEEwSDZ30gHSAUFVX3lxTE9xRTZfV0tqbjBsYVhHbG9IUElCUTh4blFsZnNWcE5Yc1RBTzNqZkFyUC1abl9DXy0zM1hLVnFvRkpUYVRtbEVnamJCcm5id2R5ZXYyVXdtNEU5cjZkT0paMDlPQzJoZ2lOakhicUI5QXIwR2xDVGVzelJ1NHVKeFhFVnNmRXNSX01fc0lHV083Q1BCQlp3R1diLXE2aUtJVlJTcXVtTkhOSE5IdmtZX3BRU3lkVUxYSlpLenNjZEJ5U2JSWmVSWnZ6Z01nZEdXN3Frdw?oc=5",
+      "published_at": "Sat, 20 Jun 2026 12:41:00 GMT",
       "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "【速報】大型冷凍庫から男性遺体 腐敗か 神戸市中心部のマンション - テレ朝NEWS"
+      "source_name": "Google News World",
+      "translated_title": "「私の人気はあなたには関係ありません」：トランプとメローニの写真戦争が激化 - NDTV"
     },
     {
-      "id": 537,
+      "id": 540,
       "category": "News",
       "title": "小学校火災、失火の疑い 音楽準備室に電気ストーブなど―警視庁 - 時事ドットコム",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCaWhZeDlyVkIwbllUX0RrYl9mSG0zZGdzdkVXNHBLNWRJRjFHbHNsNTRuYlJvZjVqUklUSjFMV1hFMTFrSmFQZy1Fb3IwYmtOZ183a3pMaUlCbDJuVk83NWhmdw?oc=5\" t",
@@ -816,29 +904,29 @@
       "translated_title": "小学校火災、失火の疑い 音楽準備室に電気ストーブなど―警視庁 - 時事ドットコム"
     },
     {
-      "id": 468,
-      "category": "Global",
-      "title": "Paraguay’s Miguel Almirón gets first-ever red card for covering mouth in situation of confrontation - The Athletic - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1pkcWZwNkpEWkprbFpBZmdIU1I4NnpudFR2dHFfOEZnQkJ5RzdmQlhvaWhxZmJVLVhGbzVMaXhVVUxoTEo1dktsbk1TYVFxTkJWTWFnb2l6cDhURVE0TDlfTzJmTXBxdlB4ZkhabV",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1pkcWZwNkpEWkprbFpBZmdIU1I4NnpudFR2dHFfOEZnQkJ5RzdmQlhvaWhxZmJVLVhGbzVMaXhVVUxoTEo1dktsbk1TYVFxTkJWTWFnb2l6cDhURVE0TDlfTzJmTXBxdlB4ZkhabVN3SWIzNmRtLWRDdVVqSjFKOWJJZkJYWjA4STlLTW9aMTBNOEpB?oc=5",
-      "published_at": "Sat, 20 Jun 2026 12:25:00 GMT",
+      "id": 539,
+      "category": "News",
+      "title": "神戸市中央区のマンション、大型冷凍庫から遺体発見 成人男性、損壊され腐敗進む|事件・事故 - 神戸新聞NEXT",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5UdGdqWWpxMjc3dkZUcl91eEdORkUycE5oa2RYc3hEN0x6dU5aRWVNWnNDNGg1NDBoV1hPeHFsUHpjQ1FncUZHQm9Xc2FXNXdpQk9HeGRlcERkN1ZWTFhpc0VJSFE5a2pXRH",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UdGdqWWpxMjc3dkZUcl91eEdORkUycE5oa2RYc3hEN0x6dU5aRWVNWnNDNGg1NDBoV1hPeHFsUHpjQ1FncUZHQm9Xc2FXNXdpQk9HeGRlcERkN1ZWTFhpc0VJSFE5a2pXRHVkQw?oc=5",
+      "published_at": "Sat, 20 Jun 2026 12:19:56 GMT",
       "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "パラグアイのミゲル・アルミロン、衝突の状況で口を覆ったとして史上初のレッドカード - アスレチック - ニューヨーク・タイムズ"
+      "source_name": "Google News JP",
+      "translated_title": "神戸市中央区のマンション、大型冷凍庫から遺体発見 成人男性、損壊され腐敗進む|事件・事故 - 神戸新聞NEXT"
     },
     {
-      "id": 441,
-      "category": "Global",
-      "title": "'No Press Freedom': JD Vance Blames Pak For Delay In Releasing Iran Agreement - NDTV",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHhaYmh0eE8zaTdfRFplcGlzeEZROGxicEJadTBxalBYOWNfakswMFhEZW5zakZFdFhwWW5aWkxGQ2RZTWNZSURsVzRHSzAzOC1JS2t2THQtZ3haWWJwWHFuRG82anRfaHZ6STNXWG",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHhaYmh0eE8zaTdfRFplcGlzeEZROGxicEJadTBxalBYOWNfakswMFhEZW5zakZFdFhwWW5aWkxGQ2RZTWNZSURsVzRHSzAzOC1JS2t2THQtZ3haWWJwWHFuRG82anRfaHZ6STNXWGhmZXB4NVlRTHc2UjljSDJGQ0RSTUFfZ2lPVU9IUGdhX05JeEU0amZZRGx4ZDdkQVl4Vld6WW1sX3pUc1hPM3Y4ZTdjZVc0N0hNQ3Bqc0dlWmhOQ2Nvalc4d2xhX0ZDZ9IB1gFBVV95cUxOT2NUWG41WEpwVVBUZnJhdGc2WWIyaTZDeF9XWWFQSkI2cl9sUG9QdzkxUTlkQWN0Mm11dFJ1UXc1MUpzdW9LbmZQbG45bmdTTzlfVnlMMDRFOUUxMlVMOFVBOEwzUC1wdkNZa1VhZFdfY0dVamVYLWlUWHFYU0ZJV0NrTVJMOG1Za3NTOFJaQXFuMTdlSjJIY2VuZE1tS1dhOXNXTGJNY2ZZQUdvWngxbWh0UVVlc0RTQVJRSW56LTlrc29QLUdUX2FjWjZNdkpsNU1lYzJn?oc=5",
-      "published_at": "Sat, 20 Jun 2026 12:02:44 GMT",
+      "id": 552,
+      "category": "News",
+      "title": "【速報】フリマ不正一掃へ、運営3社が警察庁と連携 - 47NEWS",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCaXd1bzh2dmI5cG9RSXNzWlcyekRJeFJUSXFoVWo0QmFQSkFmQUZ4WnotUXg2REliRFM4cDgyQm9Cb1drTFVmSUlnTQ?oc=5\" target=\"_blank\">【速報】フリマ不正一掃へ、運営3社",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCaXd1bzh2dmI5cG9RSXNzWlcyekRJeFJUSXFoVWo0QmFQSkFmQUZ4WnotUXg2REliRFM4cDgyQm9Cb1drTFVmSUlnTQ?oc=5",
+      "published_at": "Sat, 20 Jun 2026 12:00:06 GMT",
       "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "「報道の自由なし」：JD・バンス氏、イラン合意解除の遅れで朴大統領を非難 - NDTV"
+      "source_name": "Google News JP",
+      "translated_title": "【速報】フリマ不正一掃へ、運営3社が警察庁と連携 - 47NEWS"
     },
     {
-      "id": 420,
+      "id": 421,
       "category": "Product",
       "title": "超巨大ブラックホールに存在する空洞が「50年来の謎」を解明するかも",
       "summary": "ブラックホールは物質を吸い込むだけでなく、時には物質を吐き出すこともあります。この高エネルギー粒子の噴流は「ブラックホールジェット」と呼ばれ、ブラックホールの周囲に形成される降着円盤と、それが生み出す強力な磁場が関係しているのでは？と考えら…",
@@ -849,7 +937,7 @@
       "translated_title": "超巨大ブラックホールに存在する空洞が「50年来の謎」を解明するかも"
     },
     {
-      "id": 489,
+      "id": 498,
       "category": "Global",
       "title": "World Cup 2026: The sibling rivals lining up for different teams in the US, Canada and Mexico - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jQTg0SFNrdlRoWUhSZnp1cTdsSURTRkpRWkg2QTI3N1dUTWY4NU9HTUcwYWNNaTFKdUVINHROLXUtTnRvZDhZQkJJUFRfUEJtT1MzM3JWVVZrZXR3YndlbmJNdEFmeFU?oc=5\" targ",
@@ -860,7 +948,7 @@
       "translated_title": "2026年ワールドカップ：兄弟ライバルが米国、カナダ、メキシコの異なるチームに名を連ねる - BBC"
     },
     {
-      "id": 437,
+      "id": 435,
       "category": "Global",
       "title": "Iran says it is closing strait of Hormuz over Israeli strikes in Lebanon - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUHFHQURrcjZ2R1g4MkZTcmNqU2lsOFpDNzlUeE4tcFl2eWd5bFkxTEdPcFV6clh1NTFjMkFBTW9qWGhzRW14Y25HdmRseVItckNBLW11M3o4MGtHWExoZUZCNGpHWlFxa0ZUMEU4Z3",
@@ -871,7 +959,7 @@
       "translated_title": "イラン、イスラエルによるレバノン攻撃を理由にホルムズ海峡を封鎖すると発表 - ガーディアン紙"
     },
     {
-      "id": 551,
+      "id": 553,
       "category": "News",
       "title": "約131億年前の銀河「REBELS-25」に星の材料となる低温ガスを大量に検出 急成長の謎に迫る - sorae 宇宙へのポータルサイト",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KczVNZGlpUU9rVk9hZmNQSl9OdGlBaGFrMGhDM3VONWl0TFg1R1hVUFFvTXd4cl8yY1Y4Ml84aVJiaHpEcWJIdURGTjJCanZVMDNJazZCeWxtdjNYTnVFY1hR?oc=5\" tar",
@@ -882,7 +970,18 @@
       "translated_title": "約131億年前の銀河「REBELS-25」に星の材料となる低温ガスを大量に検出 急成長の謎に迫る - sorae 宇宙へのポータルサイト"
     },
     {
-      "id": 413,
+      "id": 564,
+      "category": "News",
+      "title": "【日本ハム】新庄監督「俺もそんなのさせるわけない」レイエスの伝達疑惑に小久保監督と話し合い - 日刊スポーツ",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA5R3JQYVNEa1I5dGZfZHJ4bGFrME9PZnk4Y1EyUzZQZEI4QzRqaDRUaWZuanFLUzRXeU5KN2N6ZzVPV3ZuUjNrelpCcjFfQ1pjUGV2VC05U3dQc1lSYTVRMXZlcjZQb3A2OV",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5R3JQYVNEa1I5dGZfZHJ4bGFrME9PZnk4Y1EyUzZQZEI4QzRqaDRUaWZuanFLUzRXeU5KN2N6ZzVPV3ZuUjNrelpCcjFfQ1pjUGV2VC05U3dQc1lSYTVRMXZlcjZQb3A2OVdYUENRM3LSAXhBVV95cUxQdnlMNy1iX1VhbkhlWXZ2elNlZlJKeHVPU0FTd3FEYUVjSEVRbTd6MUM3SkQtLTVEWjFPY3VzOFNPVTRZZ1dxX1BucWF0UC00dVZyTl9SRnE3QWZ3REw1NmVTVGlqaVBrTmNIY0dFUFk5b0hfdVZfV2Y?oc=5",
+      "published_at": "Sat, 20 Jun 2026 11:41:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "【日本ハム】新庄監督「俺もそんなのさせるわけない」レイエスの伝達疑惑に小久保監督と話し合い - 日刊スポーツ"
+    },
+    {
+      "id": 429,
       "category": "Product",
       "title": "スマホが世界的な出生率低下の原因？",
       "summary": "え？と思ったけど、確かにそうかもしれない。2000年代初頭から出生率はずっと下がり続けています。しかも世界全体で、です。その背景には、性教育の充実や避妊の普及、そして子育てが経済的に難しいことなどがあるとされてきました。ある研究者によって、…",
@@ -893,7 +992,7 @@
       "translated_title": "スマホが世界的な出生率低下の原因？"
     },
     {
-      "id": 545,
+      "id": 546,
       "category": "News",
       "title": "モスクワでガソリンの買い急ぎ発生、製油所攻撃後は黒い雨も…「モスクワでこんな不安を感じるとは」（読売新聞オンライン） - Yahoo!ニュース",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAwNEVtb0tIQ0dTVUZkVGZOdWd2V3V3T1gtWTg5blJkSC1mRml3RGcwamJZRVYxb21WM2VSWmdyZk9JVU9reWpyWDk0cnFsTFJobXp1VWV3eVROak0xYzhqUlZLZ2VCRzRjM2",
@@ -904,15 +1003,15 @@
       "translated_title": "モスクワでガソリンの買い急ぎ発生、製油所攻撃後は黒い雨も…「モスクワでこんな不安を感じるとは」（読売新聞オンライン） - Yahoo!ニュース"
     },
     {
-      "id": 536,
-      "category": "News",
-      "title": "国民民主・玉木代表、２年間限定での消費税１％案に「２年後に景気が悪かったら増税できるのか」 - 読売新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1NGxMZnoyRFlQNnhxVUVBZ3QxQ3ZpMHhXaFVjYnZualRzbkgweFJJd202OHl3Z0swSlhoQzBPbnR5aEpPRmp6ZFE1UDBGaHlRSkt0ZnY5dTNKRHlwSDF2T2V0RUNmdw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1NGxMZnoyRFlQNnhxVUVBZ3QxQ3ZpMHhXaFVjYnZualRzbkgweFJJd202OHl3Z0swSlhoQzBPbnR5aEpPRmp6ZFE1UDBGaHlRSkt0ZnY5dTNKRHlwSDF2T2V0RUNmdw?oc=5",
-      "published_at": "Sat, 20 Jun 2026 10:43:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "国民民主・玉木代表、２年間限定での消費税１％案に「２年後に景気が悪かったら増税できるのか」 - 読売新聞"
+      "id": 439,
+      "category": "Global",
+      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQU",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQUE4TzZJU283eEpodFdsZms?oc=5",
+      "published_at": "Sat, 20 Jun 2026 11:00:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "「それは科学ではなく、強制だ」：保健専門家がRFKジュニアのハンタウイルス隔離命令を非難 - ガーディアン紙"
     },
     {
       "id": 442,
@@ -926,18 +1025,7 @@
       "translated_title": "トランプ氏のチームはイラン人に立ち向かうことができるだろうか？ - スカイニュース"
     },
     {
-      "id": 562,
-      "category": "News",
-      "title": "《SHINJOの信条》そんなことをさせるわけないし、小久保監督は分かってくれている - 道新スポーツ",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iQnNsOGdTX0ZscEZKYk5nNUgtWUNGa21tQjdsMXVOOUFoTlJGZXoxMG96cnBsMlFNN3ZrUVdodUpKMm9CTjVMWnJoUlNkRGRWSzFpa19Fay11c0Q3bTR4ZUh3?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iQnNsOGdTX0ZscEZKYk5nNUgtWUNGa21tQjdsMXVOOUFoTlJGZXoxMG96cnBsMlFNN3ZrUVdodUpKMm9CTjVMWnJoUlNkRGRWSzFpa19Fay11c0Q3bTR4ZUh3?oc=5",
-      "published_at": "Sat, 20 Jun 2026 10:03:27 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "《SHINJOの信条》そんなことをさせるわけないし、小久保監督は分かってくれている - 道新スポーツ"
-    },
-    {
-      "id": 416,
+      "id": 420,
       "category": "Product",
       "title": "GoPro MISSION 1 PROレビュー：最高のGoPro。でも“シネマカメラ”と呼ぶにはちと惜しい",
       "summary": "GoProから新たな小型カメラ「MISSION 1」シリーズが登場しました。このMISSION 1は、「コンパクトシネマカメラ」を謳うシリーズで、プロ仕様の“映画のような”映像を撮影できる小型カメラとのこと。すでにこの「GoPro MISS…",
@@ -948,7 +1036,7 @@
       "translated_title": "GoPro MISSION 1 PROレビュー：最高のGoPro。でも“シネマカメラ”と呼ぶにはちと惜しい"
     },
     {
-      "id": 538,
+      "id": 543,
       "category": "News",
       "title": "7月初めにかけて北海道～九州は雨の日多い　沖縄は台風7号の動向次第　2週間天気(気象予報士 堂本　幸代 2026年06月20日) - tenki.jp",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB3Q1ZHcU1HOHh6eDlibFctWmhGZzhVaC1MNVd2MXp3RHBRUUlUQS1tNkIwN1BkTXFRTm5aSUs4dThDUGpXTTA0d3lUU04zNm82UVBnSWtGdk52alhOUXlodUJ1R1NzZ1dMV2",
@@ -959,18 +1047,18 @@
       "translated_title": "7月初めにかけて北海道～九州は雨の日多い　沖縄は台風7号の動向次第　2週間天気(気象予報士 堂本　幸代 2026年06月20日) - tenki.jp"
     },
     {
-      "id": 504,
-      "category": "Global",
-      "title": "Zelenskyy returns Poland's highest honor after Polish leader revokes it in a spat over history - KSAT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPbUFpSjdiYVV0T2dTUEZuSUwzc0lkZkVSb004OHhMSlJ5NnFFTFVXeUpFY2Q0OWw5N3RHWDF4Yld0VWg0OTJ2cjBEMEVGSjh0YUdMcVNyN0s4Wk90Q3RsV0dnQ1VSZGJBSGNGdkZoOG",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbUFpSjdiYVV0T2dTUEZuSUwzc0lkZkVSb004OHhMSlJ5NnFFTFVXeUpFY2Q0OWw5N3RHWDF4Yld0VWg0OTJ2cjBEMEVGSjh0YUdMcVNyN0s4Wk90Q3RsV0dnQ1VSZGJBSGNGdkZoOGdKTUtGTHVjamtYLVZROC1xN1JwM3o5cFZYdVU4ZHl2Sm5nd3BmekYtYUZOUDc2OExOSlVYSllwNjFjcEV2Q0owUGxWMXVSa0Q3SmJvQmZiLWo5c3RrMmxz?oc=5",
-      "published_at": "Sat, 20 Jun 2026 09:22:47 GMT",
+      "id": 542,
+      "category": "News",
+      "title": "夕張市、職員給与回復へ 破綻後２０年、林総務相が訪問―北海道 - 時事ドットコム",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE92NVNINy1FbWFzTVI3UjFja3JtWkZjdFk1Rk9NMHZVcVQwRzFoWlJrU1pMNVZRR3FXNWhCak9GaG40MXJ1TmJSUW5YMFljTm56Q0kxQmlWVmJqME9vNk01aFF3RQ?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92NVNINy1FbWFzTVI3UjFja3JtWkZjdFk1Rk9NMHZVcVQwRzFoWlJrU1pMNVZRR3FXNWhCak9GaG40MXJ1TmJSUW5YMFljTm56Q0kxQmlWVmJqME9vNk01aFF3RQ?oc=5",
+      "published_at": "Sat, 20 Jun 2026 09:20:00 GMT",
       "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "ポーランド指導者が歴史を巡る口論でポーランド最高の栄誉を取り消し後、ゼレンシキー氏がポーランド最高の栄誉を返還 - KSAT"
+      "source_name": "Google News JP",
+      "translated_title": "夕張市、職員給与回復へ 破綻後２０年、林総務相が訪問―北海道 - 時事ドットコム"
     },
     {
-      "id": 466,
+      "id": 472,
       "category": "Global",
       "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32? - Al Jazeera",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFBianY2RmpSaktyMXVXZW1VVVEtRVQzZzRsNks1Z3hpbk5WMTdkQUNEaTg0TTlMRTM5R295LVhLZng3LUJNUXkzSy14MVp0Ulp4UFZnY3pOWXd0VE5TeVhia0RaYS13SGZLVUVZWU",
@@ -981,7 +1069,18 @@
       "translated_title": "2026 年ワールドカップの決勝トーナメント、ラウンド 32 への出場権を獲得したチームはどこですか? - アルジャジーラ"
     },
     {
-      "id": 464,
+      "id": 489,
+      "category": "Global",
+      "title": "Trump threatens to charge US tolls in Strait of Hormuz if final Iran deal not reached in 60 days - KSAT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOYWM2d2lFcm1Sb1dYWmVOMUVvaUNLRWVSUnY3bjUtVkhQSmY2d3NGQXVHN0x6T0FxYVpEbVJNU29EejR5bFAwa3NQUkVGZEVDcGtGeGNXNnhmZkJHY0FKS2tpQmY3MG9kNnBHa01ydU",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYWM2d2lFcm1Sb1dYWmVOMUVvaUNLRWVSUnY3bjUtVkhQSmY2d3NGQXVHN0x6T0FxYVpEbVJNU29EejR5bFAwa3NQUkVGZEVDcGtGeGNXNnhmZkJHY0FKS2tpQmY3MG9kNnBHa01ydUZ2V2E2WVRCdDN2Zk13Nl81dDh3ZTg0ZmczWW5TWW1GZGJnU3RaLXpOTUppZUJyRThJckdLODhWUExBRFZqTmhXcmlYbDM5UGx5cjlhbHM1TnduNEFYUnhj?oc=5",
+      "published_at": "Sat, 20 Jun 2026 09:15:08 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "トランプ大統領、イランとの最終合意が60日以内に合意に達しなければ、ホルムズ海峡で米国の通行料を請求すると脅迫 - KSAT"
+    },
+    {
+      "id": 469,
       "category": "Global",
       "title": "World Leaders Awaited Iran Deal for Months. Here’s Why They’re Still Wary. - The New York Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5XSzJZRXNndElnWEhUVEctMWRqZVNYbmR6M05FXzYyRzREWDZhdDBMQXdVUUxoTjJCdnZmYS1idDJ4VDNEXzFhR0NpZFZ5ZEZDWHQyaHhpYjhWNjNLWktIbk5qb1hrOUJSUXhuZ0ZQMT",
@@ -992,7 +1091,7 @@
       "translated_title": "世界の指導者たちは何ヶ月もイランとの合意を待っていた。彼らが依然として警戒している理由は次のとおりです。 - ニューヨーク・タイムズ紙"
     },
     {
-      "id": 424,
+      "id": 425,
       "category": "Product",
       "title": "雨の日のゴロ寝は至高。もっと堕落できるお昼寝ガジェット",
       "summary": "気温の上がり下がりが激しい今日この頃。暑い夏に向けて、休日はしっかり休んで体力回復するのが大事ですね。そんな日にぴったりなガジェットを3つ紹介します。至高のゴロ寝タブレット体験をタブレットアームを導入して、ゴロゴロしながら動画を楽しむ……贅…",
@@ -1001,105 +1100,6 @@
       "importance": 1,
       "source_name": "Gizmodo JP",
       "translated_title": "雨の日のゴロ寝は至高。もっと堕落できるお昼寝ガジェット"
-    },
-    {
-      "id": 557,
-      "category": "News",
-      "title": "田原俊彦「3カ月ぐらい練習したからさ」　セレモニアルピッチを振り返る　新曲「ナニコレ最高!!!」発売記念パーティー - サンスポ",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBLV2o3dy1hWko0M2c4ck5Kd3pjRmZhVEpMNEpZNEdNNWlXLXJGZ3lsa0N2RGdoR1BUc0FSYXRYVmU3NUVtVVhXWHlwMGxaYTQwS09zRkhBUEhOeE12Q3dLUHNQa043dG1Mej",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLV2o3dy1hWko0M2c4ck5Kd3pjRmZhVEpMNEpZNEdNNWlXLXJGZ3lsa0N2RGdoR1BUc0FSYXRYVmU3NUVtVVhXWHlwMGxaYTQwS09zRkhBUEhOeE12Q3dLUHNQa043dG1MejBUbWVJZ0FQa1lKU2fSAYoBQVVfeXFMTmZ0Uy1DSllnUG1Yd3ZNQ19MUGFuT09fVkUxaUpPU3I1UUVlZENYc2kwS3hUZFZuTExKRHc1VmMwNVBQdnRVOGdEYW9ZQmNOYWdHNnYtd0tvV3VVTDh6aU4wMENUbUhpN3I3RnVPVmRYTDNtcFZGLTY1aEl0a2VZUmVQT2IyQUlzZDJR?oc=5",
-      "published_at": "Sat, 20 Jun 2026 09:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "田原俊彦「3カ月ぐらい練習したからさ」　セレモニアルピッチを振り返る　新曲「ナニコレ最高!!!」発売記念パーティー - サンスポ"
-    },
-    {
-      "id": 517,
-      "category": "Global",
-      "title": "'Everything I do is for you' - how tragedy is driving Diomande - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lclNHNkxNYTQ5SVlzSkNDZXI4MUJERE9oR3d4NFN5aWtHU0VsUEY1M0pGR2F6aVRNSzB4aHg5cTRkWDRLLVRwNzA1cGdqV0FpWk1KVnMtNjVKUzFWU3oxWlNvT0NVSW8?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lclNHNkxNYTQ5SVlzSkNDZXI4MUJERE9oR3d4NFN5aWtHU0VsUEY1M0pGR2F6aVRNSzB4aHg5cTRkWDRLLVRwNzA1cGdqV0FpWk1KVnMtNjVKUzFWU3oxWlNvT0NVSW8?oc=5",
-      "published_at": "Sat, 20 Jun 2026 08:56:58 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "「私のすることはすべてあなたのためです」- 悲劇がディオマンデを駆り立てている - BBC"
-    },
-    {
-      "id": 417,
-      "category": "Product",
-      "title": "フォルムも機能も平成のガラケー。Sidephone SP-01でスマホ疲れに終止符を",
-      "summary": "2025年11月1日の記事を編集して再掲載しています。ホイール付けたら完全にiPodじゃん？ スマホは前面がツルツルの画面ですが、人によっては押し心地のあるボタンを好む場合もあるかと思います。なので、iPhoneをBlackBerry（ブラ…",
-      "url": "https://www.gizmodo.jp/article/sidephone-sp-01-6qo-bau/",
-      "published_at": "Sat, 20 Jun 2026 08:35:00 GMT",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "フォルムも機能も平成のガラケー。Sidephone SP-01でスマホ疲れに終止符を"
-    },
-    {
-      "id": 561,
-      "category": "News",
-      "title": "「必ず勝ちが必要な一戦」中村敬斗はチュニジア戦に意気込むも…気になったピッチ状況「けっこう固かった」 - gekisaka.jp",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBSaENsTnpabjZDYnFWSzZHVUgxZmIwbUhaRzE5UFlQaEFLTndET0xwNW5YTmFQSXdoY01jdFBZUlFnR2FHc2Z0WWN0U2N5R1ZOeTlEVFRqZ2wtU1AxZ29TYUVWQ1V6LWpGdn",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSaENsTnpabjZDYnFWSzZHVUgxZmIwbUhaRzE5UFlQaEFLTndET0xwNW5YTmFQSXdoY01jdFBZUlFnR2FHc2Z0WWN0U2N5R1ZOeTlEVFRqZ2wtU1AxZ29TYUVWQ1V6LWpGdnZV?oc=5",
-      "published_at": "Sat, 20 Jun 2026 08:35:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "「必ず勝ちが必要な一戦」中村敬斗はチュニジア戦に意気込むも…気になったピッチ状況「けっこう固かった」 - gekisaka.jp"
-    },
-    {
-      "id": 546,
-      "category": "News",
-      "title": "トランプ氏「写真懇願された」 メローニ氏「作り話」と激怒 伊外相の訪米中止に - 産経ニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9KcDZncm1UdjJHSXR6SjhBSWtISmZtOHR6WFpuNDEyNklVc0ktM0ZNLXNiZVRyYV96MmswQTF6dWNLTktEcU5ub1Jod3BtT0NzZmFwMWtfZU16SjF2UUM5MEZjcl9iVmFKal",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KcDZncm1UdjJHSXR6SjhBSWtISmZtOHR6WFpuNDEyNklVc0ktM0ZNLXNiZVRyYV96MmswQTF6dWNLTktEcU5ub1Jod3BtT0NzZmFwMWtfZU16SjF2UUM5MEZjcl9iVmFKaldvUU1vVHp4S25DQmc?oc=5",
-      "published_at": "Sat, 20 Jun 2026 08:32:31 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "トランプ氏「写真懇願された」 メローニ氏「作り話」と激怒 伊外相の訪米中止に - 産経ニュース"
-    },
-    {
-      "id": 558,
-      "category": "News",
-      "title": "中山秀征、『シューイチ』途中退席 理由を自ら説明→「おお！」スタジオどよめき - オリコンニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kdV83NktSRzU5Wkk3emFWVDdiQnNjNG43U3NlYWc3cFJVMGk3RU5LTGxzVGhQTzNkWnloQzNVUFN5aDczbVdsZDRucmNSZXRyNVB4aDd3?oc=5\" target=\"_blank\">中山秀",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kdV83NktSRzU5Wkk3emFWVDdiQnNjNG43U3NlYWc3cFJVMGk3RU5LTGxzVGhQTzNkWnloQzNVUFN5aDczbVdsZDRucmNSZXRyNVB4aDd3?oc=5",
-      "published_at": "Sat, 20 Jun 2026 08:30:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "中山秀征、『シューイチ』途中退席 理由を自ら説明→「おお！」スタジオどよめき - オリコンニュース"
-    },
-    {
-      "id": 515,
-      "category": "Global",
-      "title": "World Cup: Alisson Becker keeps clean sheet in Brazil win over Haiti - Liverpool FC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQeW9mRzNYbUpVQVlHaGw0dmRwVWxxWHhFY1k0NW4tN3pvSG5Qc3hpTGRpeG50eXcybUdzS1VyXzBjZU1TMjFjbXhSb1JQU3d0d2tDQmFIbWZ2U3hXTS05U3Y0QURnTE5lYy15NEtwTl",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeW9mRzNYbUpVQVlHaGw0dmRwVWxxWHhFY1k0NW4tN3pvSG5Qc3hpTGRpeG50eXcybUdzS1VyXzBjZU1TMjFjbXhSb1JQU3d0d2tDQmFIbWZ2U3hXTS05U3Y0QURnTE5lYy15NEtwTlhfcktpQjRpWVFqdzdQc3ZQaE1xNWdVcEhLejlfQjJPaDhoUjNxY25pUVpqT1ZxUdIBpgFBVV95cUxPT1hxUFRzd29BeWIzUzVKRlJSWjZqOHJibmgzT19idjQxNXFuMmd0UnNXSUtmUkwtcE9LWWhaZDJac01rVkZWQktJZ2ViRFNoaUNlZnFxUkJndzZLWUhnQlE3emZvODNEWkMwYTAwV01sWVBKNnNwY3ZfVnBaRmhjMDFEZkFWT0F0WDNRTG5BQTN5RzJBbnNwb0FTUGFmTUtkemJOR05n?oc=5",
-      "published_at": "Sat, 20 Jun 2026 08:02:23 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "ワールドカップ：アリソン・ベッカーがブラジルに無失点でハイチに勝利 - リヴァプールFC"
-    },
-    {
-      "id": 418,
-      "category": "Product",
-      "title": "濡れた折りたたみ傘に困ったら。3COINS「リュックに付けられる傘ポーチ」",
-      "summary": "持ち運びのしやすさを優先して、傘はいつも「折りたたみ式」を選ぶことにしている筆者。使う前はバッグの中に収納できて便利な反面、一度さしてしまうと、濡れた傘をバッグの中に戻すわけにもいかず、収納場所に頭を悩ませることが多々あります。傘の収納場所…",
-      "url": "https://www.gizmodo.jp/article/3coins-foldable-umbrella-pouch/",
-      "published_at": "Sat, 20 Jun 2026 08:00:00 GMT",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "濡れた折りたたみ傘に困ったら。3COINS「リュックに付けられる傘ポーチ」"
-    },
-    {
-      "id": 456,
-      "category": "Global",
-      "title": "All the latest FIFA World Cup 2026 news - Daily updates and LIVE blog! - bundesliga.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUFXQ2VFYUFTb1k3R1ZmTk5GUTllTDM4WDdINUVLZDFGSnhqLW56Wnc0eG9OVmVOdWs0SDFJSEU4Sk1WclZvRUIxS0ZiUDVYZVF0OWV1ZmVrT1I1S24zZmVrVUJUQ2FBbGxiNTg3MU",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUFXQ2VFYUFTb1k3R1ZmTk5GUTllTDM4WDdINUVLZDFGSnhqLW56Wnc0eG9OVmVOdWs0SDFJSEU4Sk1WclZvRUIxS0ZiUDVYZVF0OWV1ZmVrT1I1S24zZmVrVUJUQ2FBbGxiNTg3MUwzbGYxTHRFbl9uTXpDUjJrcDcxUWNfX21QM2dIaHV6TnNXRGhXM2w5UTJR?oc=5",
-      "published_at": "Sat, 20 Jun 2026 07:35:15 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "2026 FIFA ワールドカップの最新ニュースすべて - 毎日更新とライブブログ! - bundesliga.com"
     }
   ],
   "trends": [
@@ -1109,11 +1109,11 @@
     "cup",
     "ルドカップ",
     "イラン",
-    "bbc",
-    "fifa",
+    "yahoo",
     "ロボット",
     "iran",
+    "bbc",
     "ホルムズ",
-    "レバノン"
+    "sports"
   ]
 }
