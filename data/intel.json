@@ -1,28 +1,6 @@
 {
-  "last_updated": "2026-09-22T14:25:09.808081",
+  "last_updated": "2026-09-22T18:34:51.333989",
   "items": [
-    {
-      "id": 436,
-      "category": "Global",
-      "title": "UN chief urges global AI cooperation saying world can't afford 'a race to the bottom on AI safety' - AP News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQVFZiWDFYOEI1THJDSkNUek1MV3VXcVFpOWIzLTJZMU1YLVp2bndjWEFGRkVudFZfc29USWpEYlNldnk0ZmxreTFWTWV3Q1lVNmY5UUxwUzM5bmtMcXYzSGNZUHliTXZsWUhySlZ2bk",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVFZiWDFYOEI1THJDSkNUek1MV3VXcVFpOWIzLTJZMU1YLVp2bndjWEFGRkVudFZfc29USWpEYlNldnk0ZmxreTFWTWV3Q1lVNmY5UUxwUzM5bmtMcXYzSGNZUHliTXZsWUhySlZ2bkVZajJVaVJDZC12b0ZUSWNiV2tBNE1EVVphNnJNT1pPR2twaU9FSFJlUTZUQTg4RUJ2bVdXaXZrVTJxM2c4ckQ4bw?oc=5",
-      "published_at": "Wed, 16 Sep 2026 21:58:39 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "UN chief urges global AI cooperation saying world can't afford 'a race to the bottom on AI safety' - AP News"
-    },
-    {
-      "id": 421,
-      "category": "Global",
-      "title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political ‘denialism’ - UN News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KQmJNUEpxZ21ET284bU9BdU1DODl2YnEyd2pEbVNBYVhhQnB3WDBHTlFjNnNKMXBSS3QySkU1eEZRbXZGVHcxRlFqYXV1Mk9YNGFtYWJBNA?oc=5\" target=\"_blank\">World New",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KQmJNUEpxZ21ET284bU9BdU1DODl2YnEyd2pEbVNBYVhhQnB3WDBHTlFjNnNKMXBSS3QySkU1eEZRbXZGVHcxRlFqYXV1Mk9YNGFtYWJBNA?oc=5",
-      "published_at": "Wed, 16 Sep 2026 20:58:44 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political ‘denialism’ - UN News"
-    },
     {
       "id": 237,
       "category": "Mechanical",
@@ -33,17 +11,6 @@
       "importance": 5,
       "source_name": "IEEE Robotics",
       "translated_title": "Rethinking Robot Safety in the Age of AI"
-    },
-    {
-      "id": 420,
-      "category": "Global",
-      "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine - UN News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HVGxtMk43bFBRN3ExU2Qzem5tTjljcHMtT0xyYVRBanNJVm9jUEwzaENRM0psOEpiSDlGanhHY19vU3ZQQWZLdGhCUDFEVV9hQTJJa2s5QQ?oc=5\" target=\"_blank\">World New",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HVGxtMk43bFBRN3ExU2Qzem5tTjljcHMtT0xyYVRBanNJVm9jUEwzaENRM0psOEpiSDlGanhHY19vU3ZQQWZLdGhCUDFEVV9hQTJJa2s5QQ?oc=5",
-      "published_at": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine - UN News"
     },
     {
       "id": 257,
@@ -68,6 +35,545 @@
       "translated_title": "AI Companion Robots Are Closing the Human Connection in Modern Homes"
     },
     {
+      "id": 215,
+      "category": "AI/IT",
+      "title": "A16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+      "summary": "This academy for promising high school grads is somewhere between a trade-school, Y Combinator and Peter Thiel's Fellowship Program.",
+      "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+      "published_at": "Tue, 22 Sep 2026 18:24:34 +0000",
+      "importance": 3,
+      "source_name": "TechCrunch",
+      "translated_title": "A16z is challenging Silicon Valley’s love for drop-outs by launching a school"
+    },
+    {
+      "id": 338,
+      "category": "Global",
+      "title": "Live Updates: Trump says he's deciding between deal or driving Iran \"into hell with no chance of survival\" - CBS News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGRLV0xqY1AyaEVCb1I0bnRJcm5hVnkzRmZWUDhtR1cxdHdBbTJwTFllNkdhejlhWGx2b3ktdGhVcXdlam1iM2d0TDJPMHN4azB1RWI2TklLVENrdHlSVE5yNHpsWFVlSWpaWk9NbG",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGRLV0xqY1AyaEVCb1I0bnRJcm5hVnkzRmZWUDhtR1cxdHdBbTJwTFllNkdhejlhWGx2b3ktdGhVcXdlam1iM2d0TDJPMHN4azB1RWI2TklLVENrdHlSVE5yNHpsWFVlSWpaWk9NbGtGMlZNTW1iLW5DWF9UM2tkc3RpaXRhRFpQbkFsWkw5VXZxQU1a?oc=5",
+      "published_at": "Tue, 22 Sep 2026 18:19:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Live Updates: Trump says he's deciding between deal or driving Iran \"into hell with no chance of survival\" - CBS News"
+    },
+    {
+      "id": 383,
+      "category": "Global",
+      "title": "The Latest: Trump uses UN speech to defend decision to start war against Iran - WRAL",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOZjhYcjVnRi15TVlxSVBGdlQ4TUw3c2NmWnlXd0xMMVdTT2RLcjEyWEh4WXhuYzMzVUFjM1BBSjRielFxZHBZa2pNNllzZ3JxYnZtZDlJaWVwQnRRVzNteTFkOEhuZGxKZlVDODJzRV",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZjhYcjVnRi15TVlxSVBGdlQ4TUw3c2NmWnlXd0xMMVdTT2RLcjEyWEh4WXhuYzMzVUFjM1BBSjRielFxZHBZa2pNNllzZ3JxYnZtZDlJaWVwQnRRVzNteTFkOEhuZGxKZlVDODJzRVlJdXc5dUt0Y0d2S1U1cXNDZ0ZrbEFwYjJFRGhSeUpYNXlCY215ci1nNkRfbnpMWS1lbXMtS2pkVWlCZllFMi1OUkVMNHgyemdaSWV4QzNyUkJIZUt6bnB2VE4wWU10dw?oc=5",
+      "published_at": "Tue, 22 Sep 2026 18:12:11 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "The Latest: Trump uses UN speech to defend decision to start war against Iran - WRAL"
+    },
+    {
+      "id": 397,
+      "category": "Global",
+      "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran - AP News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYU",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
+      "published_at": "Tue, 22 Sep 2026 18:08:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran - AP News"
+    },
+    {
+      "id": 428,
+      "category": "Global",
+      "title": "Marlon James and Douglas Stuart have chance to become 5th multiple winner of Booker Prize book award - audacy.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjlLVzRtcmZwM3JSWmZpQ0w4bkZxQjNqc1g1T3hsMzA5cUpndmJrR0hrUXFuY2J0UXFBVmVObDQ5a1Y1d1dyV0pnZ05hd2dzc2RfeFRDckhqOXc0YUpSNWRCQm50dmp4WmozMElDQV",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjlLVzRtcmZwM3JSWmZpQ0w4bkZxQjNqc1g1T3hsMzA5cUpndmJrR0hrUXFuY2J0UXFBVmVObDQ5a1Y1d1dyV0pnZ05hd2dzc2RfeFRDckhqOXc0YUpSNWRCQm50dmp4WmozMElDQVdIUDNTZHo4TEY0ZXI4VmhmUDZmZ3hIcFFTOUk4a24yZ0VfaV94NlVNX2s2OUt2ZlRmZnpaYVdjb0dhZklqSERIbVp5eS0tV3JZ?oc=5",
+      "published_at": "Tue, 22 Sep 2026 18:01:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Marlon James and Douglas Stuart have chance to become 5th multiple winner of Booker Prize book award - audacy.com"
+    },
+    {
+      "id": 216,
+      "category": "AI/IT",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "published_at": "Tue, 22 Sep 2026 18:00:00 +0000",
+      "importance": 5,
+      "source_name": "TechCrunch",
+      "translated_title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes"
+    },
+    {
+      "id": 335,
+      "category": "Global",
+      "title": "World’s most contagious virus hits major US airport as officials warn of possible exposure - Fox News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOalRUby1pdmxnM2lUaVZIaF9BZ3BUM3JHMU0tMjFncHRTZ0Z0SHBSb3hKMW5mMlQ1SDU3dmhTNzd3Ri1VcHM5TWJENnd4Sm51Ymh2b1BYeVVhbUwxbDRvTTY3TWhwYWJ1Vllza194al",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOalRUby1pdmxnM2lUaVZIaF9BZ3BUM3JHMU0tMjFncHRTZ0Z0SHBSb3hKMW5mMlQ1SDU3dmhTNzd3Ri1VcHM5TWJENnd4Sm51Ymh2b1BYeVVhbUwxbDRvTTY3TWhwYWJ1Vllza194aldNTl8xZDVMc1MtMF9sdTJPeFJ6UkZTbUowN0FXN1ZHWXRaX1VkYUxGYllTaUJUZ0FLOHNTcFBPNnpMZGxWMXpkVl9OeELSAboBQVVfeXFMUERzZDZCbExDcFRxaDNKRVVmMmRVbDlZMDBlS2YxRjk4bjU3Y2d2cUZOeE5EQU1vaExXamMwVGU4TVV3TWxvYURwNzB6dkQzLVM0ZEpQVEt6dk5KV2l6WHdhejlRUVZGWnowRnBuOWs2SXJCQklfU0RURWJFTmZnUHBNU1dsalZfVUxXalFsc1ZGUkFWd05wWDd5UC1CNkN0Q25PLTgwUHIwbFBBaXhLYkgwQmNFaGhtakFB?oc=5",
+      "published_at": "Tue, 22 Sep 2026 17:42:55 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "World’s most contagious virus hits major US airport as officials warn of possible exposure - Fox News"
+    },
+    {
+      "id": 217,
+      "category": "AI/IT",
+      "title": "Waymo’s latest expansion strategy: teenagers",
+      "summary": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors.",
+      "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
+      "published_at": "Tue, 22 Sep 2026 17:36:06 +0000",
+      "importance": 3,
+      "source_name": "TechCrunch",
+      "translated_title": "Waymo’s latest expansion strategy: teenagers"
+    },
+    {
+      "id": 390,
+      "category": "Global",
+      "title": "Why high gas prices are not a 'small price to pay' as Trump says - news8000.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeV95bzlDNGpWM0haVld4U2wxUnNRUkNxWUkxTkk1SHRESzl1b0YyU1hvN0VJRWJKa19CQll6TDlLdWsxUUJhaEFfQnhQRGFhb2tiTzVqTFFRQnoybFhZY2ExaFgwdERPbWJyaFJqb3",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeV95bzlDNGpWM0haVld4U2wxUnNRUkNxWUkxTkk1SHRESzl1b0YyU1hvN0VJRWJKa19CQll6TDlLdWsxUUJhaEFfQnhQRGFhb2tiTzVqTFFRQnoybFhZY2ExaFgwdERPbWJyaFJqb3dfSEVZUkFwaHRYT2FIbGVrWFFibVQzSnVSajdGSElENURWMWdWaHJTWHB4R0huNnVyTUFkTGItWjZPM3BZeDZWaUxxV2tnTmVTY0pMZThIU1Nld1IwNG5RMFFxem5jSkZ1QjJsVzhKSGVOTjJLX1RxakdMT1YyVGxrNDVVQ013?oc=5",
+      "published_at": "Tue, 22 Sep 2026 17:30:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Why high gas prices are not a 'small price to pay' as Trump says - news8000.com"
+    },
+    {
+      "id": 337,
+      "category": "Global",
+      "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal - bbc.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZanVZQmlnWk54T01QdjgxNjR6OEVYci11WkdPSG0zSTFQcmNjdmRxbjdfYXlkOExwREZvX1RaaHk4cVdSQkdCYS0wWmUtM2d3WXZkNlpB?oc=5\" target=\"_blank\">Trump says ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZanVZQmlnWk54T01QdjgxNjR6OEVYci11WkdPSG0zSTFQcmNjdmRxbjdfYXlkOExwREZvX1RaaHk4cVdSQkdCYS0wWmUtM2d3WXZkNlpB?oc=5",
+      "published_at": "Tue, 22 Sep 2026 17:29:13 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal - bbc.com"
+    },
+    {
+      "id": 336,
+      "category": "Global",
+      "title": "Live updates: Trump says he faces a decision on Iran to make a deal or ‘annihilate’ the country - CNN",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9QSWtFbEVOdzVwcUVmc0ZvZmRyQ3BEQjhxcnlGRXBJckxwWTE5ak9OdVNBTkdiUUlVcm9nQlNiSVpyRFQ3bDNPWTdXZHRYeEdsRFhYR0R2VllkSGE3THdNbFowMk94NEF1UX",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QSWtFbEVOdzVwcUVmc0ZvZmRyQ3BEQjhxcnlGRXBJckxwWTE5ak9OdVNBTkdiUUlVcm9nQlNiSVpyRFQ3bDNPWTdXZHRYeEdsRFhYR0R2VllkSGE3THdNbFowMk94NEF1UXpqS0NlRjhrYUZzUFQ5amx4Qno?oc=5",
+      "published_at": "Tue, 22 Sep 2026 17:29:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Live updates: Trump says he faces a decision on Iran to make a deal or ‘annihilate’ the country - CNN"
+    },
+    {
+      "id": 354,
+      "category": "Global",
+      "title": "UIndy rises again in U.S. News & World Report Best Colleges rankings - UIndy 360",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSnA4SnFtSlg4bjlqZjRETUdWRU1KQTI4UGlVdGUxSk1hdVVMOVVpSkZlTUxDSjZjYVRzQ2FnbGl5ekxGZWhQS04xX0NpTENNTzJ4ZG1HYWg0NVV6eHJYQlhnd1dfbFhkN3dxRkZjNn",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSnA4SnFtSlg4bjlqZjRETUdWRU1KQTI4UGlVdGUxSk1hdVVMOVVpSkZlTUxDSjZjYVRzQ2FnbGl5ekxGZWhQS04xX0NpTENNTzJ4ZG1HYWg0NVV6eHJYQlhnd1dfbFhkN3dxRkZjNnFqTXBTRlpFeFJ4SXJPd1NEc1k4R1lqb2FYLWRwR2tuUUhfem9aU0dweUlMb0RtWVJNZUE?oc=5",
+      "published_at": "Tue, 22 Sep 2026 17:29:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "UIndy rises again in U.S. News & World Report Best Colleges rankings - UIndy 360"
+    },
+    {
+      "id": 380,
+      "category": "Global",
+      "title": "U.S. News and World Report releases annual college rankings; WKU ranked in multiple categories - WBKO",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUs5aGJMUEhfTUFnd0NHMGFFUjZOZ3NXWWtrQlNBdHR1Zjh0cDdzbWgwcEpIT0ZfTU5lNDZmN1Zyb0xkYTBlM0tKLUI3bjVJcm9lSmkxUDFDTVpOZkJCSENrLUZBQUpSX1pJQUdvaW",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUs5aGJMUEhfTUFnd0NHMGFFUjZOZ3NXWWtrQlNBdHR1Zjh0cDdzbWgwcEpIT0ZfTU5lNDZmN1Zyb0xkYTBlM0tKLUI3bjVJcm9lSmkxUDFDTVpOZkJCSENrLUZBQUpSX1pJQUdvaWhmWkpfODBvdWhkUE50MUc3YmZOQTlrLUpCdEhxY3IyMXhHVEFMdnRDTWt3RVJEUHlPV2pHNHJpRnQ2aTFMYTZwSENieUd0b0Rq?oc=5",
+      "published_at": "Tue, 22 Sep 2026 17:29:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "U.S. News and World Report releases annual college rankings; WKU ranked in multiple categories - WBKO"
+    },
+    {
+      "id": 435,
+      "category": "News",
+      "title": "トランプ氏、日米会談「誇りに思う」 高市首相「同盟の強さ示す」 - 日本経済新聞",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9CZDFYUm43ZW1uX3FJVFlEb2RJTVFnbjBNMldIbnNCTXNtM25Id190SXhhRlVUYk5tLXNKd0I5TFJESE1DQVF5cWl0VzB3aWVMY1lCcUYtVTB2dVZtWXA4MWxEQ0NlcG1rVm",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CZDFYUm43ZW1uX3FJVFlEb2RJTVFnbjBNMldIbnNCTXNtM25Id190SXhhRlVUYk5tLXNKd0I5TFJESE1DQVF5cWl0VzB3aWVMY1lCcUYtVTB2dVZtWXA4MWxEQ0NlcG1rVmZLaQ?oc=5",
+      "published_at": "Tue, 22 Sep 2026 17:27:45 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "トランプ氏、日米会談「誇りに思う」 高市首相「同盟の強さ示す」 - 日本経済新聞"
+    },
+    {
+      "id": 342,
+      "category": "Global",
+      "title": "Photos of world leaders confronting global crises at the UN General Assembly - WRAL",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNclNIcWZBSGVRVXJqeTNiN29wTm1MTWpMV1paUlVYb1lwelhwakxrMTRyT2pjUWxhR084VDQ0NDZmeTIzaE1kNXVrdG5LNzlibzd3d3pDOTB0U3JCZkpTM1lGQy1HMDRmeVdobHhDUV",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNclNIcWZBSGVRVXJqeTNiN29wTm1MTWpMV1paUlVYb1lwelhwakxrMTRyT2pjUWxhR084VDQ0NDZmeTIzaE1kNXVrdG5LNzlibzd3d3pDOTB0U3JCZkpTM1lGQy1HMDRmeVdobHhDUVhQbFpMeHZOcTR0c2d6NXhBbWVVSm80bmgzZ1R3Zzlsc3lTWnJ0WFIyek1yVF8wQzJyVG40aGx5VkR2LUxJZzNHRm1B?oc=5",
+      "published_at": "Tue, 22 Sep 2026 17:27:16 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Photos of world leaders confronting global crises at the UN General Assembly - WRAL"
+    },
+    {
+      "id": 391,
+      "category": "Global",
+      "title": "Trump To UN: I've Made The World Safer - WBOC TV",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxORjdTc241SmlkVXR3dTVJeW5EWTFyZGZFNW9IWXI1U1Rad0RXRFFOcVAwdzVwdUFIdXlIdUNabDBfNnlDRGxrYVdxTW5yazk3Q2UtdE91ZzBlNElfUVR2cy1sRVBaM1BleGdCRWFWcU",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORjdTc241SmlkVXR3dTVJeW5EWTFyZGZFNW9IWXI1U1Rad0RXRFFOcVAwdzVwdUFIdXlIdUNabDBfNnlDRGxrYVdxTW5yazk3Q2UtdE91ZzBlNElfUVR2cy1sRVBaM1BleGdCRWFWcU5WRlRjWGx2SXd0OEZiVFhBa3dDWTgxYjcydDZpMmRSQXFSR2tqaU5KYmZSN21MellfZ0ZHbTBnakNBM2tfcTcw?oc=5",
+      "published_at": "Tue, 22 Sep 2026 17:16:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Trump To UN: I've Made The World Safer - WBOC TV"
+    },
+    {
+      "id": 352,
+      "category": "Global",
+      "title": "Guterres: ‘Cracks have become canyons’ as world faces four tests of power - UN News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sdmZvNmR1dTREdG52dTNvOUxKc2tMZGxPUVRCZmtaaks5V3FZdkdlNjZpcC1Sc1dOeXRaSm5WQzU0eGp1MTNrMVJnamJaZXdEWlZIcFA5QQ?oc=5\" target=\"_blank\">Guterres:",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sdmZvNmR1dTREdG52dTNvOUxKc2tMZGxPUVRCZmtaaks5V3FZdkdlNjZpcC1Sc1dOeXRaSm5WQzU0eGp1MTNrMVJnamJaZXdEWlZIcFA5QQ?oc=5",
+      "published_at": "Tue, 22 Sep 2026 16:58:50 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Guterres: ‘Cracks have become canyons’ as world faces four tests of power - UN News"
+    },
+    {
+      "id": 361,
+      "category": "Global",
+      "title": "Trump tells U.N. he could ‘annihilate’ Iran but expects a deal after the midterm elections - NBC News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHlfaF85em55RjZHa3VUZnlpME1GTnNQTmdxdFRiYktLd2Y1c1ZpQUNPUF9ma1RqSFE1QVJJdXRYM21ZUGJfWEhNVDBVMHk2OGNMSFpYMVB2cVg2Tk92aUgzQkxSWGlhYVZjUDdyMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHlfaF85em55RjZHa3VUZnlpME1GTnNQTmdxdFRiYktLd2Y1c1ZpQUNPUF9ma1RqSFE1QVJJdXRYM21ZUGJfWEhNVDBVMHk2OGNMSFpYMVB2cVg2Tk92aUgzQkxSWGlhYVZjUDdyMTg5dnVFNFQyTlRqanFxRzFLS0twcXZEcFk0RlR6M0hhdlU4ajNhdURycVdfTWRnQ0pYR0h2SzBieTJBVmo3d3FmeWhyaVpiZzZOMm84?oc=5",
+      "published_at": "Tue, 22 Sep 2026 16:44:03 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Trump tells U.N. he could ‘annihilate’ Iran but expects a deal after the midterm elections - NBC News"
+    },
+    {
+      "id": 345,
+      "category": "Global",
+      "title": "WATCH: Trump addresses 2026 United Nations General Assembly - PBS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDlfMEZKSnZWZFVuUEJJUnBsWXA3NWpmSXI0aFl3dTUtcHFmOVJ4MmF6QmxWLXBCVDZ3eGFCeVhYQTh2V2piam8wR1JnYWdBYVJvR0hFU203UFZEMFJqMWw0aFc1aUxyZmNTNGpJVk",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDlfMEZKSnZWZFVuUEJJUnBsWXA3NWpmSXI0aFl3dTUtcHFmOVJ4MmF6QmxWLXBCVDZ3eGFCeVhYQTh2V2piam8wR1JnYWdBYVJvR0hFU203UFZEMFJqMWw0aFc1aUxyZmNTNGpJVkdVU1hzR2hjUmxpNC1wZVJFWWRQMDlPdWxmdTEtRjhSQXNmeFktYkVHS1pEVFNDcUHSAaQBQVVfeXFMTTNpMXhPNXBsSFdCdnhSem52YWt6SUVCdjc3RHRhSGRlSlNsRV9ZRGp2bmx4ZS1YVzZXNW9hUUxTaHJLRG9lcW5vdjVGMWE5ZEh6dHFKTzVmZzQ4Mk52WENMUUVMQlZ5MTU4M2RKV205MmVtaXlYZzhnRDFLVGxadXhQVWJJSGhkblpiRWpSWll5bWp3T2c1cThxWFlQak8zX3ZuSHY?oc=5",
+      "published_at": "Tue, 22 Sep 2026 16:30:22 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "WATCH: Trump addresses 2026 United Nations General Assembly - PBS"
+    },
+    {
+      "id": 218,
+      "category": "AI/IT",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "published_at": "Tue, 22 Sep 2026 16:30:07 +0000",
+      "importance": 1,
+      "source_name": "TechCrunch",
+      "translated_title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance"
+    },
+    {
+      "id": 403,
+      "category": "Global",
+      "title": "University of Maryland Eastern Shore ranks 13 among HBCUs, says U.S. News & World Report - CBS News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ2NURUc4R0RMdERaMmFiU2llTjZRQUNIQzNpa1NFZGpyRVdkSDJBMUhnUERacnB1Sm0zWmt0Xzg3UDFNb0pMUllsNzl2c0FPNWNHUUNVM2hNbzZvSzVjbXduVWNRXzVwSXVJQk5XMn",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ2NURUc4R0RMdERaMmFiU2llTjZRQUNIQzNpa1NFZGpyRVdkSDJBMUhnUERacnB1Sm0zWmt0Xzg3UDFNb0pMUllsNzl2c0FPNWNHUUNVM2hNbzZvSzVjbXduVWNRXzVwSXVJQk5XMnhITEEwc29aOGFZSUN2Y1JCcGdlNm5wM19FNHFISS1MZ1BEUmpkZVE?oc=5",
+      "published_at": "Tue, 22 Sep 2026 16:21:15 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "University of Maryland Eastern Shore ranks 13 among HBCUs, says U.S. News & World Report - CBS News"
+    },
+    {
+      "id": 436,
+      "category": "News",
+      "title": "日米外相が意見交換 ICC所長制裁で「日本の立場を伝達」 - 日本経済新聞",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5KX0JUUVVHT2pMVXNDM3YzbXM4OXpRTEoyYTVESlQyWmF1bFNLWUR4QnVxZlhYbUxnSF8wWEVVR3dtU0VReWo4elk4NGVQMTFFcFhYS2JPY2o1dVNYdUdSTTc1ZE5PR3BVUl",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KX0JUUVVHT2pMVXNDM3YzbXM4OXpRTEoyYTVESlQyWmF1bFNLWUR4QnVxZlhYbUxnSF8wWEVVR3dtU0VReWo4elk4NGVQMTFFcFhYS2JPY2o1dVNYdUdSTTc1ZE5PR3BVUlpJUA?oc=5",
+      "published_at": "Tue, 22 Sep 2026 16:12:59 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "日米外相が意見交換 ICC所長制裁で「日本の立場を伝達」 - 日本経済新聞"
+    },
+    {
+      "id": 350,
+      "category": "Global",
+      "title": "Pepperdine University Ascends in U.S. News and World Report Rankings - Pepperdine University",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0gtN1dXOWRaczB4VVpqWW8xNzJFYnlUR3dZckNBdV9BVmR0cXdDV2lEN3RfYlhCb2N4S2QwY09qT0FBZ2wybFZBZkczT0xUTXkydF96Um50ckI1R08zcXh1WXNJWU9XYjRKZzhvMF",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0gtN1dXOWRaczB4VVpqWW8xNzJFYnlUR3dZckNBdV9BVmR0cXdDV2lEN3RfYlhCb2N4S2QwY09qT0FBZ2wybFZBZkczT0xUTXkydF96Um50ckI1R08zcXh1WXNJWU9XYjRKZzhvMFEzRHpiWlVoOXFLVExKSUFyenJvZGZxa1cwRkNQWjItRFRaa1BUMmRlUC1xNTdBcTQ?oc=5",
+      "published_at": "Tue, 22 Sep 2026 16:10:43 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Pepperdine University Ascends in U.S. News and World Report Rankings - Pepperdine University"
+    },
+    {
+      "id": 366,
+      "category": "Global",
+      "title": "Trump in address to world leaders at UN defends his decision to start war against Iran - WRAL",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOV2pKZE9JWjFteENJbHlITUhIemt2bVA1YW1ybjRYWHZjbUtkSUlHYUIzT0FPN29XZE9CMVc1eTNYZmcyc0gxeTR6S1djZURuRjloZU04SkR1YnBoNldKbUV3QjFEMHlZbTd0eUZmdW",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV2pKZE9JWjFteENJbHlITUhIemt2bVA1YW1ybjRYWHZjbUtkSUlHYUIzT0FPN29XZE9CMVc1eTNYZmcyc0gxeTR6S1djZURuRjloZU04SkR1YnBoNldKbUV3QjFEMHlZbTd0eUZmdW5JclZrT1ZGdW9VWlAtYzJMUTBpcThWYzVXU25qS3ZtLXZSTnRHLUFWNENFdEw1MkNUUzVDVmtvWThET1hZU2tRUDVRa1d3OGZjRllhZjJoaWVOa3dVZFNB?oc=5",
+      "published_at": "Tue, 22 Sep 2026 16:01:45 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "Trump in address to world leaders at UN defends his decision to start war against Iran - WRAL"
+    },
+    {
+      "id": 398,
+      "category": "Global",
+      "title": "Where Illinois schools ranked on US News & World Report's list of 2027 Best Colleges - NBC 5 Chicago",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNVy1jdl8tc05UZGt2bnRIbkJ2SUFiR3gtSjdtT2ZUbVZoak5DdnllX1NaV3VuTlZmRkpZX0lGaWVXcGZfMDM2Q3QwRFhNN1ZYLXNQdkRoa2duV3ZwNkQ5bzZrbWZlbDllNlFjQWlrbW",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVy1jdl8tc05UZGt2bnRIbkJ2SUFiR3gtSjdtT2ZUbVZoak5DdnllX1NaV3VuTlZmRkpZX0lGaWVXcGZfMDM2Q3QwRFhNN1ZYLXNQdkRoa2duV3ZwNkQ5bzZrbWZlbDllNlFjQWlrbWx4bWUzS2ZtYjF4UzB2NmpsN2lUNFFxaEtmVXgyczdnYTRTcjV3REgxeXpkRnIyV2dDSlpRbC1Ea0pCeTZ6bk1DUVA5b1V6YnNhRVYzR0FXYnR2UWN2SVlZ0gHPAUFVX3lxTE1tV1hIZnY4d3QtdWw0THVGNC1uRnl3cHBDRmMzOEZWUERaOGVCUWE3eEhMLXgzdEhNQ2dySFpLbC1LZHF0d1IyalBydVN1ZS1LS211VEhoZlRqUElXZHNOUS1veEFmZTh2QVNTYV9GV29ZWk40UlZ0RjVIVGM1WWh1RF9sdXZaY2JMTVdmamJuSUlWQzJ3RmFIM3J5bnBFZnMxM09ZMUtQZWpSSTh3QVk3eUhGREt0MDRKcnBiX2RjZzNFa0YwQ0pIMFA4dXVSSQ?oc=5",
+      "published_at": "Tue, 22 Sep 2026 15:52:45 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Where Illinois schools ranked on US News & World Report's list of 2027 Best Colleges - NBC 5 Chicago"
+    },
+    {
+      "id": 219,
+      "category": "AI/IT",
+      "title": "Stolen passwords are exposing America’s water providers to hackers",
+      "summary": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+      "url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+      "published_at": "Tue, 22 Sep 2026 15:50:58 +0000",
+      "importance": 1,
+      "source_name": "TechCrunch",
+      "translated_title": "Stolen passwords are exposing America’s water providers to hackers"
+    },
+    {
+      "id": 355,
+      "category": "Global",
+      "title": "Virginia Tech a top 20 public university nationally in latest U.S. News & World Report Best Colleges rankings - Virginia Tech News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9YY1hLRUU3Q09sZWpVeW9yRzh4UWRsTHcxX1FOYWFqckV2aFhlZ21fcW9ENVB3dnU2NkRmYzlxaDhvMml4UmVzRVZLYjdWeWF2ZU9BTG9zMUpfSV94THV6bUFVUWRQN3I0OEFuWHlVU1",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YY1hLRUU3Q09sZWpVeW9yRzh4UWRsTHcxX1FOYWFqckV2aFhlZ21fcW9ENVB3dnU2NkRmYzlxaDhvMml4UmVzRVZLYjdWeWF2ZU9BTG9zMUpfSV94THV6bUFVUWRQN3I0OEFuWHlVU1dMLVREckdkaQ?oc=5",
+      "published_at": "Tue, 22 Sep 2026 15:46:21 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Virginia Tech a top 20 public university nationally in latest U.S. News & World Report Best Colleges rankings - Virginia Tech News"
+    },
+    {
+      "id": 413,
+      "category": "Global",
+      "title": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security after prolonged tensions - KSAT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOWFJscnUtb2xiSkNMNGVTZnc0bzM4OTl3bkRtLXFDX3hGUTh0djJ3bGt2ampUU21vc0NzN2ZoREc5VVgzRHdaQnBQOHdXQk95czNTV0FsRG9LR25lUVlmdE5aYUcwbXdvTWkxdUFaWE",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWFJscnUtb2xiSkNMNGVTZnc0bzM4OTl3bkRtLXFDX3hGUTh0djJ3bGt2ampUU21vc0NzN2ZoREc5VVgzRHdaQnBQOHdXQk95czNTV0FsRG9LR25lUVlmdE5aYUcwbXdvTWkxdUFaWElRLWwxcjNMYUtuaTZoWVZlUmVadnJ0MGJTXzhJc2Utb0VEcHlsanhKSlgxRzNFMk8xU0IzOHpsdjFjSkdBSy1RUVhfVQ?oc=5",
+      "published_at": "Tue, 22 Sep 2026 15:40:56 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security after prolonged tensions - KSAT"
+    },
+    {
+      "id": 412,
+      "category": "Global",
+      "title": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security - audacy.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFg3STMzRjExZC1uY1NycDRXc3MtNnRnWHZhUG9zdE53OWZCZ2xnUkhTOTk0Y3JocjlnSnUxR19Uc3BWMGtyZDVBVVkxTkVKelZnckw5d1Q3RFRmRHR6dU5UNUx6V08tNTZFVGladk",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFg3STMzRjExZC1uY1NycDRXc3MtNnRnWHZhUG9zdE53OWZCZ2xnUkhTOTk0Y3JocjlnSnUxR19Uc3BWMGtyZDVBVVkxTkVKelZnckw5d1Q3RFRmRHR6dU5UNUx6V08tNTZFVGladkFITlR0VlJLTkoySjFrenNVbjhKeWFtU2R5cU84RENhb1pES05mWEd2SzNRVUNubDdZT1dwRkdyc2ZiTlJ6aS1CcXNpS3V1X0JSWHpr?oc=5",
+      "published_at": "Tue, 22 Sep 2026 15:40:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security - audacy.com"
+    },
+    {
+      "id": 404,
+      "category": "Global",
+      "title": "St. Ambrose named 2nd Most Innovate School by U.S. News & World Report - OurQuadCities",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNWE84LVczZ0h5OW5XOWF4eGxvZk00bGlieFBXLVBhaHRueVBTNjNiUDVETmJRMkx1OXlFWjlZQzhDQUh6TWpFNEloTmxzWGpEdGsxOU45XzgwNGh4Y090bDRiSE1uWjF1UHZMLXV0bn",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWE84LVczZ0h5OW5XOWF4eGxvZk00bGlieFBXLVBhaHRueVBTNjNiUDVETmJRMkx1OXlFWjlZQzhDQUh6TWpFNEloTmxzWGpEdGsxOU45XzgwNGh4Y090bDRiSE1uWjF1UHZMLXV0bnRacXlpaGFJcTdaVkUzWkRPUk5Wb0Q5NF9JVjE3bWtwbFNpYXB2ODI0SUJETnlqbVFBeTVyYWNTamN0Yjl1SVZTMVhRa9IBuAFBVV95cUxNQlVqYnNMdTV1S1YwN01xM2pXT3NvVzFaZEZKc2JNN2VYVElsY2NKLVZuSnlBQ09Hd2NlOUJWZ2xIUjNYQ3gxVE5jeXVqQWdqRnVkeVgtS2N2LXNhVERJaVVlYXpIWVVQX1BXUWFLenp6UU5JejJyRDMzOTV5eG9UbEdSV2paSDBJSlNRbEpqXzVXdW5QVHRTWTVyTUlVSjZUSXhldDBWZ3lqU1QyaE1lSDdVbUh2OXVj?oc=5",
+      "published_at": "Tue, 22 Sep 2026 15:30:59 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "St. Ambrose named 2nd Most Innovate School by U.S. News & World Report - OurQuadCities"
+    },
+    {
+      "id": 346,
+      "category": "Global",
+      "title": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence' - AP News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcX",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
+      "published_at": "Tue, 22 Sep 2026 15:23:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence' - AP News"
+    },
+    {
+      "id": 349,
+      "category": "Global",
+      "title": "U.S. News & World Report: A&T America’s No. 1 Public HBCU - North Carolina A&T University",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE44VXUxaTdwekZjWnFYOHNoZHlxQlNnQVdqU2FYbnpXZ1JJSi15TTNvRS1qWHEtc0JrRDNTdGtIbDlrZzNFamgtUFBicXV3clpSODNBTnJFQlNvQm5aN0ZhS1VtZHRZY2R6NHc?oc=5\" ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44VXUxaTdwekZjWnFYOHNoZHlxQlNnQVdqU2FYbnpXZ1JJSi15TTNvRS1qWHEtc0JrRDNTdGtIbDlrZzNFamgtUFBicXV3clpSODNBTnJFQlNvQm5aN0ZhS1VtZHRZY2R6NHc?oc=5",
+      "published_at": "Tue, 22 Sep 2026 15:22:40 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "U.S. News & World Report: A&T America’s No. 1 Public HBCU - North Carolina A&T University"
+    },
+    {
+      "id": 347,
+      "category": "Global",
+      "title": "UWF ranks top 10 in U.S. News & World Report’s Top Public Schools – Regional South Rankings for five years - University of West Florida",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPNF95VF9telIxVjZBREkwa2NEcTVkYkVyZVhnTjhRTmthbUlNQk5yRWdEa2xyMVJkcDFXcTJBNk1pYXE3VDF2SFpnWnNqTlVrRWswTzBfMDF6amd0ZW12d3NpbDFEcXJQRjBPSEQ2Mm",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNF95VF9telIxVjZBREkwa2NEcTVkYkVyZVhnTjhRTmthbUlNQk5yRWdEa2xyMVJkcDFXcTJBNk1pYXE3VDF2SFpnWnNqTlVrRWswTzBfMDF6amd0ZW12d3NpbDFEcXJQRjBPSEQ2Mm1XenAwS3FWYm5NVVprNWdlMUlsQU5nemYtdkNRdmFCQmU1eHMxYm1oRllaSFJHbkM2Tkh0amRxaDRuZEZJdUNQZkZ0cHRFb3p4SkRCenFPZw?oc=5",
+      "published_at": "Tue, 22 Sep 2026 15:21:01 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "UWF ranks top 10 in U.S. News & World Report’s Top Public Schools – Regional South Rankings for five years - University of West Florida"
+    },
+    {
+      "id": 430,
+      "category": "Global",
+      "title": "Mom delivers baby girl on side of road during heavy Golden Gate Park traffic - Channel 3000",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOeVVSdXVSSlhKSTRMb3U4ZkhUT3ZMMDhGOF93ZGdTQy03VlJLcTZ4NlZaclJMcjAyTldMdVlURU5EeXVjZlNPTkVVcS1yeldHbEVOQmNZeWk0VDQ4V3ZzSFZiZjYtaW10TFZvQlA2VU",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOeVVSdXVSSlhKSTRMb3U4ZkhUT3ZMMDhGOF93ZGdTQy03VlJLcTZ4NlZaclJMcjAyTldMdVlURU5EeXVjZlNPTkVVcS1yeldHbEVOQmNZeWk0VDQ4V3ZzSFZiZjYtaW10TFZvQlA2VUg0MkFNajliOUVpT0RZZF9LSTZjN3Q4dWIwWXU5X1NlYmpDUk5xNFlhcGxOZlVhbWpDYS04VTk1UVpSQUJLcEo0b1I0Uy1mMDQ5Y1E2NV9Na21RUnp0X3BqcWlPYnhJcUlDWkU0a3FNU08yUVA0Z3pyMDVVX1RRcW81MEZCRkVaeDJkeDZVeFNpbUR6SW9Vd0N1U3lUS2Q4VW1kOThYQXF6aw?oc=5",
+      "published_at": "Tue, 22 Sep 2026 15:18:05 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Mom delivers baby girl on side of road during heavy Golden Gate Park traffic - Channel 3000"
+    },
+    {
+      "id": 357,
+      "category": "Global",
+      "title": "Roanoke makes list of best psychology programs in U.S. News & World Report - Roanoke College",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEJ0VVpOMXNTS0xDQ2trQ2N4YkZaVDRoWXpoMFVxTFdXRENRZGFEZ0NHY0o2QVFoOVlOSEkxUDJiYlFFR0EyZDl5OGtia2JfRlhtX0xrbG5xR2VXSEIwTV9wUTdmcTBpTkVmWkRwRl",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEJ0VVpOMXNTS0xDQ2trQ2N4YkZaVDRoWXpoMFVxTFdXRENRZGFEZ0NHY0o2QVFoOVlOSEkxUDJiYlFFR0EyZDl5OGtia2JfRlhtX0xrbG5xR2VXSEIwTV9wUTdmcTBpTkVmWkRwRl91RWpJbENZNldJYVllX0FzWDNOTVpoNnM?oc=5",
+      "published_at": "Tue, 22 Sep 2026 15:13:49 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Roanoke makes list of best psychology programs in U.S. News & World Report - Roanoke College"
+    },
+    {
+      "id": 374,
+      "category": "Global",
+      "title": "St. John’s Achieves Significant Rise in 2027 U.S. News & World Report Rankings - St. John's University",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hHUFdZMTNGZHdFc0dsUU5kbjZYcUE2MDdEbl9UeHZfdXd5SDNkTGlfSjVXM0Z5WnZRbk5fQUM2bVFGTzU2WU9ibHNoMnY2akk0S2hXMWMyaFlNQkhiemFsclRINXlsVEhWNHRNNm",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hHUFdZMTNGZHdFc0dsUU5kbjZYcUE2MDdEbl9UeHZfdXd5SDNkTGlfSjVXM0Z5WnZRbk5fQUM2bVFGTzU2WU9ibHNoMnY2akk0S2hXMWMyaFlNQkhiemFsclRINXlsVEhWNHRNNmRZaFRTLXNkdVZrdDZTX2pnd09EUkhYODk3VXkwMlZvV29zeVVRWFVJV0pSN3kwRHlzUjdfTERtdl9tbmpvNXVuNUFZS3o2aFNqaVRCZA?oc=5",
+      "published_at": "Tue, 22 Sep 2026 15:08:30 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "St. John’s Achieves Significant Rise in 2027 U.S. News & World Report Rankings - St. John's University"
+    },
+    {
+      "id": 220,
+      "category": "AI/IT",
+      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+      "summary": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
+      "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+      "published_at": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "importance": 3,
+      "source_name": "TechCrunch",
+      "translated_title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt"
+    },
+    {
+      "id": 221,
+      "category": "AI/IT",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to s",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "published_at": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "importance": 3,
+      "source_name": "TechCrunch",
+      "translated_title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda"
+    },
+    {
+      "id": 222,
+      "category": "AI/IT",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "published_at": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "importance": 3,
+      "source_name": "TechCrunch",
+      "translated_title": "AstroForge is putting AI in command of its next spacecraft"
+    },
+    {
+      "id": 343,
+      "category": "Global",
+      "title": "Cuban delegation storms out of UN General Assembly - Sky News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxORDFhajdXLTF4NV9sMDlPY3c0SmZZeEdVUVh6N2loZzZBSDkwdHpYR0Zlc1diRUxDcURXR2FUUjhDY2RWU1ozMGFpNWJSVTlCQnlUT3hhanBUN3k4WkhUWDNhTHc3ZlU0d014c2hDa2",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORDFhajdXLTF4NV9sMDlPY3c0SmZZeEdVUVh6N2loZzZBSDkwdHpYR0Zlc1diRUxDcURXR2FUUjhDY2RWU1ozMGFpNWJSVTlCQnlUT3hhanBUN3k4WkhUWDNhTHc3ZlU0d014c2hDa2I1Y0hPMEduVEFlaGw4eUtXbVlrZmRKS1dSYVE?oc=5",
+      "published_at": "Tue, 22 Sep 2026 14:58:16 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Cuban delegation storms out of UN General Assembly - Sky News"
+    },
+    {
+      "id": 400,
+      "category": "Global",
+      "title": "New study shows when we invest in HBCU's, Black students succeed - LiveNOW from FOX",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB1RHFod1B2ZG5lNmIzQXREVUpkMHB5ZUVtaG9nM3VYLWNDbmE3QVBEQkxjRlMyZlFTR2dVSzZMd0hlal9XcXo5MWx5dXNidGRTV0hMQjJ6NmZQWTVLbUdlTzVZdDRtSlhQVnhsS2dtcU",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1RHFod1B2ZG5lNmIzQXREVUpkMHB5ZUVtaG9nM3VYLWNDbmE3QVBEQkxjRlMyZlFTR2dVSzZMd0hlal9XcXo5MWx5dXNidGRTV0hMQjJ6NmZQWTVLbUdlTzVZdDRtSlhQVnhsS2dtcUtrbEJZNWfSAXtBVV95cUxOVnBwcHA2V2hLVWhfVWR2d1FaamNYeWs4eHBCV0RUZW1HV2xFZktUbkd5NGFEWjQzTVhSbVRoaG9SX0tOTW9LYmhOSTB5MFpHVENjQ0VhWWpoa01SdDdhaUx0NE5QbTljWXB2N2JzaUZWYTJwX094Zk5NRHM?oc=5",
+      "published_at": "Tue, 22 Sep 2026 14:54:14 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "New study shows when we invest in HBCU's, Black students succeed - LiveNOW from FOX"
+    },
+    {
+      "id": 384,
+      "category": "Global",
+      "title": "University of Florida falls in latest U.S. News college rankings - Gainesville Sun",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0RrQmctaGU2UVpUWlRkTnZsVnFWVVA5UWxGQ1NZTE5sWk9hWHBBVnJZTlBETmxMR3dlMVpLaUI3WmZnWDFLSmNEelhsZ3FIY0JtUmE3Tkp0bFpENWtzOTZCTGhJcXgzRjRYS252cl",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0RrQmctaGU2UVpUWlRkTnZsVnFWVVA5UWxGQ1NZTE5sWk9hWHBBVnJZTlBETmxMR3dlMVpLaUI3WmZnWDFLSmNEelhsZ3FIY0JtUmE3Tkp0bFpENWtzOTZCTGhJcXgzRjRYS252clBIRGp3MDFTbWlOQnF6QkZEQ3RXR0p0MDJjWl9fVEp1WVZnZzlYZUxCRGRCWVRFNkpmdlNodVI4eHR1VXB5Y2RmYnVCekt6cDltRG1leWlWV1VVNUxSS1NpRjlfdFNaT1Vw?oc=5",
+      "published_at": "Tue, 22 Sep 2026 14:46:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "University of Florida falls in latest U.S. News college rankings - Gainesville Sun"
+    },
+    {
+      "id": 378,
+      "category": "Global",
+      "title": "Chico State Earns Top Marks in 2027 US News & World Report Best Colleges Rankings - Chico State Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kSndNUFB0MERrRWY5T1hZWVdSTldCZUFSMHNWQmNjUTRaZzN0ckdIWjNpSWJDd3dHQ0J2alktSzVXR25MbWhlVWFUTlRJVXR6NkYzeGpjZTJ5TndjeF9DTzgyRQ?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kSndNUFB0MERrRWY5T1hZWVdSTldCZUFSMHNWQmNjUTRaZzN0ckdIWjNpSWJDd3dHQ0J2alktSzVXR25MbWhlVWFUTlRJVXR6NkYzeGpjZTJ5TndjeF9DTzgyRQ?oc=5",
+      "published_at": "Tue, 22 Sep 2026 14:31:30 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Chico State Earns Top Marks in 2027 US News & World Report Best Colleges Rankings - Chico State Today"
+    },
+    {
+      "id": 368,
+      "category": "Global",
+      "title": "North Park University Climbs in U.S. News & World Report’s 2027 Rankings - northpark.edu",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNclAyXzBjZnhqNFJiV2tzd1hxR0Yza3lEelZ4TXpFdjZSbmZ6UzBCc2liTVJ3N3dBOEU4ZjlFblFBbldiTjhMOXh5d2V2MGxHaHVjNmhiOS10SklsazFGWEUteFMzX1duWW91NWxBUk",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNclAyXzBjZnhqNFJiV2tzd1hxR0Yza3lEelZ4TXpFdjZSbmZ6UzBCc2liTVJ3N3dBOEU4ZjlFblFBbldiTjhMOXh5d2V2MGxHaHVjNmhiOS10SklsazFGWEUteFMzX1duWW91NWxBUkZmNlRUUEN4eVBiT1psRW9EWnJZdVJpbzZNS0hBS3diNUFoUDV2eVhBbTB1NEplZnQxUHdpeUxn?oc=5",
+      "published_at": "Tue, 22 Sep 2026 14:31:15 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "North Park University Climbs in U.S. News & World Report’s 2027 Rankings - northpark.edu"
+    },
+    {
+      "id": 223,
+      "category": "AI/IT",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a se",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "published_at": "Tue, 22 Sep 2026 14:30:00 +0000",
+      "importance": 5,
+      "source_name": "TechCrunch",
+      "translated_title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage"
+    },
+    {
+      "id": 434,
+      "category": "Global",
+      "title": "Sri Lankan court convicts 15 men over roles in deadly 2019 Easter bombings - audacy.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlZRVEEweXQ0VHJOZkZ0bzBGVFRjQUlVNkxGM3pPZmhBclJYN3NaZFQ5Rm5XRFloMHNkWWpwa19EbzVhNGl3S19OcElxY1F6VmIxZ2gxa3dUNUFiWklQc1BDdzlaZGNpLUJOMFlaRk",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlZRVEEweXQ0VHJOZkZ0bzBGVFRjQUlVNkxGM3pPZmhBclJYN3NaZFQ5Rm5XRFloMHNkWWpwa19EbzVhNGl3S19OcElxY1F6VmIxZ2gxa3dUNUFiWklQc1BDdzlaZGNpLUJOMFlaRkJLcV9mV01lMVlYQjh1YTFwamxraDc1dUVNcmJSNnZjY1E2SHpDR2JRZ3FRQVo5MTVOeUZHVmJQOVdLbUhTbXFibG5vekh3QnRWaTFHNTJkSQ?oc=5",
+      "published_at": "Tue, 22 Sep 2026 14:24:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Sri Lankan court convicts 15 men over roles in deadly 2019 Easter bombings - audacy.com"
+    },
+    {
+      "id": 375,
+      "category": "Global",
+      "title": "World leadership that began at Furman - Furman University",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXkxeXdwT3lOT3pCbjBsNUt0QTVCWkxHVThnb1RGRGJhS08tUk1DWTB1T21nOTNTSm51ZzNlajNkYldaX1FMcVB1RkhPSXNiam1GSjhqam9GMVdXeF9JY0V6ZDhwNzJORmpUS05CaD",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXkxeXdwT3lOT3pCbjBsNUt0QTVCWkxHVThnb1RGRGJhS08tUk1DWTB1T21nOTNTSm51ZzNlajNkYldaX1FMcVB1RkhPSXNiam1GSjhqam9GMVdXeF9JY0V6ZDhwNzJORmpUS05CaDByWF80VkVubTQ2ZnAwODFzNkFJMA?oc=5",
+      "published_at": "Tue, 22 Sep 2026 14:23:14 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "World leadership that began at Furman - Furman University"
+    },
+    {
+      "id": 388,
+      "category": "Global",
+      "title": "U.S. News & World Report college rankings are here. See where Akron, Kent rank - Centre Daily Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOT29yYlBBLWYyRWJPOHhSb0xGUkFaWjZKUl9Dd2YzYmViWmMxYXRkdUZhdVhTMXlpM1lJNThSbnRyR1FpbkU0b3paOXk2c240TlFPTTJiQkRLRFJTQ3R0dmFlYndDM09PZ3FzQ1V2bF",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT29yYlBBLWYyRWJPOHhSb0xGUkFaWjZKUl9Dd2YzYmViWmMxYXRkdUZhdVhTMXlpM1lJNThSbnRyR1FpbkU0b3paOXk2c240TlFPTTJiQkRLRFJTQ3R0dmFlYndDM09PZ3FzQ1V2bFR2SEJ6SFBaaEJBRUs0cEJRc1Z3?oc=5",
+      "published_at": "Tue, 22 Sep 2026 14:21:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "U.S. News & World Report college rankings are here. See where Akron, Kent rank - Centre Daily Times"
+    },
+    {
+      "id": 410,
+      "category": "Global",
+      "title": "UF slips one spot to No. 8 in U.S. News & World Report rankings - Mainstreet Daily News Gainesville",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ0dEdmoyOTN2RG9Ec3BKMnozMXJxS0htRDF1djFDMy13dXRWQ1MxQW1xRWt0RDVfcXc1ZXlkOWNPTTN2bjZjbDYyNmVaaHNTUERlQ1hXOFNtYkxXTXR5Q0Jnd2FPZ3BxUlBSVW9ZSm",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ0dEdmoyOTN2RG9Ec3BKMnozMXJxS0htRDF1djFDMy13dXRWQ1MxQW1xRWt0RDVfcXc1ZXlkOWNPTTN2bjZjbDYyNmVaaHNTUERlQ1hXOFNtYkxXTXR5Q0Jnd2FPZ3BxUlBSVW9ZSmkwZFQ3N2Z0OTVENTA3UjI4TGJsZzY4dGYwRGFPU2hKSERYemRPVmVGeVhlZlZYdUhQVkFhVi1idXI?oc=5",
+      "published_at": "Tue, 22 Sep 2026 14:18:26 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "UF slips one spot to No. 8 in U.S. News & World Report rankings - Mainstreet Daily News Gainesville"
+    },
+    {
       "id": 315,
       "category": "Product",
       "title": "スニーカー味ある新作ヘッドホン「Beats 360」で、久しぶりに外へ出たくなった",
@@ -79,7 +585,7 @@
       "translated_title": "スニーカー味ある新作ヘッドホン「Beats 360」で、久しぶりに外へ出たくなった"
     },
     {
-      "id": 215,
+      "id": 224,
       "category": "AI/IT",
       "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
       "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at ",
@@ -90,7 +596,7 @@
       "translated_title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026"
     },
     {
-      "id": 349,
+      "id": 351,
       "category": "Global",
       "title": "FIU ranks among top 50 public universities in U.S. News & World Report for third year; ranks No. 1 for economic and social mobility - Florida International University",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeXRIdXhFOVBPSGZKQUpheGNPWXFYV2xPTWNQZkxlQ012cDJTc0NPaXRyY0E5UzQxLV94OEZaeUtyTTlMQVBxODR0aGltTzNjdEdxRy1qTFRQb3lwUTNTZlJKbU9PSHh2XzRNMV9MUD",
@@ -101,18 +607,18 @@
       "translated_title": "FIU ranks among top 50 public universities in U.S. News & World Report for third year; ranks No. 1 for economic and social mobility - Florida International University"
     },
     {
-      "id": 359,
+      "id": 365,
       "category": "Global",
-      "title": "‘Borgo Dialogues’ bring global leaders together in New York - Vatican News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXNiZ1BIakFIX0pSbTZWUThWUXFZWk1IRS1TSE5laGNHTzhaWlB1WTZEYWo0WVRTb3BzMTRHblNLenpLenpxX0ROMW9rR2hGQmpwVm9SeXBhM25DVWJPOXpYT0ZvMkpRNVlCLW9pLU",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXNiZ1BIakFIX0pSbTZWUThWUXFZWk1IRS1TSE5laGNHTzhaWlB1WTZEYWo0WVRTb3BzMTRHblNLenpLenpxX0ROMW9rR2hGQmpwVm9SeXBhM25DVWJPOXpYT0ZvMkpRNVlCLW9pLU9uRGVjX28xS3lBNlJ3NzdTTUdDSDRtNVdka203X2J0dzFCTWpvRXR6TUptRHV6RFNiSEN0LXNsMkdHNUZBV1MtWWlB?oc=5",
-      "published_at": "Tue, 22 Sep 2026 14:13:35 GMT",
+      "title": "CWRU jumps in latest U.S. News & World Report rankings - Case Western Reserve University",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA0Ymc0bDVLcEZXYWVFV2NIVGJpTERzSGkwZEUzSmV1R2tVd192Y1FTS1dPS2c1dEZWT21tR05EZmIzcTB4aFEwS1hQOExzQ202Z3NqNG9vNHhpd1ZPRVhQR1pVS3JZamsyblp1TDMtXz",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0Ymc0bDVLcEZXYWVFV2NIVGJpTERzSGkwZEUzSmV1R2tVd192Y1FTS1dPS2c1dEZWT21tR05EZmIzcTB4aFEwS1hQOExzQ202Z3NqNG9vNHhpd1ZPRVhQR1pVS3JZamsyblp1TDMtXzN6VjI5dWU3ZQ?oc=5",
+      "published_at": "Tue, 22 Sep 2026 14:08:47 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "‘Borgo Dialogues’ bring global leaders together in New York - Vatican News"
+      "translated_title": "CWRU jumps in latest U.S. News & World Report rankings - Case Western Reserve University"
     },
     {
-      "id": 386,
+      "id": 423,
       "category": "Global",
       "title": "Six athletes donate treasured career items to MOWA in Budapest | News | Heritage - worldathletics.org",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9RekQ4M2JKclBiZlBCaS15MFFHbkdnQTZFUG5JVXVQa1VkY0NUcERZbFhzN3E4Y2hkSzJ2WnZrYTNjU0pJRXByUE91NUN3bHFhV3hSSzlTMFNKWExaNlphLURTSUwwdFVoRWgteEw0b3",
@@ -123,18 +629,18 @@
       "translated_title": "Six athletes donate treasured career items to MOWA in Budapest | News | Heritage - worldathletics.org"
     },
     {
-      "id": 347,
+      "id": 382,
       "category": "Global",
-      "title": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence' - AP News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcX",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
-      "published_at": "Tue, 22 Sep 2026 14:07:00 GMT",
+      "title": "University of Richmond Named a Top 25 National Liberal Arts College for 10th Consecutive Year by U.S. News & World Report - University of Richmond",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wJBVV95cUxQWVhVRERkZkY4bjU1NUdReHdENUhXc2Q1YlZmd0xyaVJTTUxkUjlhc0tudGlrMEhoWElIbE1QSmRoeWFXT1JxWmxoYi0tclJqbG1oNWRhYUlmQWNCQ1FYYVA0VmNaQzhDWXFhNFBMdn",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQWVhVRERkZkY4bjU1NUdReHdENUhXc2Q1YlZmd0xyaVJTTUxkUjlhc0tudGlrMEhoWElIbE1QSmRoeWFXT1JxWmxoYi0tclJqbG1oNWRhYUlmQWNCQ1FYYVA0VmNaQzhDWXFhNFBMdnRvYkEyTjhEVFZkRFNMa0ZWWGJ4dEJFNUIwLUVjV2diUTJpXzFlakNzQlo1emlIVU4wVXlmQzd5LUZIUE1jWXpUS2g0ak9zRGxjYTJsNlViNGZ0bWRhU1JId2xiNmJtSzZFcF9TeWVuTktwaXRCczVmYnE3YXVZYTBabmFHQ3lfQ0o4S1B0VjdaXzBEYmtwV243cXUyUnpXQ2FrRGpJRWk1UGlubVBUN2liY0pqUXpfbHYwV200aF9QLW4xWVUtM0VvME81WTFNTlJPNHRxek1pZEt2VDhhdUEyRkczQUlRVmpYZTd3MHlPZTlKTQ?oc=5",
+      "published_at": "Tue, 22 Sep 2026 14:06:52 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence' - AP News"
+      "translated_title": "University of Richmond Named a Top 25 National Liberal Arts College for 10th Consecutive Year by U.S. News & World Report - University of Richmond"
     },
     {
-      "id": 358,
+      "id": 373,
       "category": "Global",
       "title": "U.S. News & World Report Names Baruch Best Public College in New York - Baruch News Center.",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTTlkRUJrMmxMazItZzlFWVN1N0xBc0t2czBpYlFDbFFscHZJaHp3ZkFaRW5RaGliUWt5VmRBYTNJUTdJRmhyVEw2UFU3V1RQUmxjSVVZT21mN2htRVhnTHB2S1hXUHRWSEF6NWQzd2",
@@ -143,6 +649,17 @@
       "importance": 1,
       "source_name": "Google News World",
       "translated_title": "U.S. News & World Report Names Baruch Best Public College in New York - Baruch News Center."
+    },
+    {
+      "id": 438,
+      "category": "News",
+      "title": "国連安保理は機能不全、だが「いかなる大国も単独で課題解決はできない」…グテレス氏最後の演説で協調訴え - 読売新聞",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zYnA1OEFYT0E4bThQanA3Y25pNXJhakZsWGN3bE1hSzlHVmdRVk1zcTEwZkdWNXFjdEJJMUpaU0VWSE1mSHBCd09ZZENzLTdsOTd3Z3N3VGhZVW90LTh4MlVR?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zYnA1OEFYT0E4bThQanA3Y25pNXJhakZsWGN3bE1hSzlHVmdRVk1zcTEwZkdWNXFjdEJJMUpaU0VWSE1mSHBCd09ZZENzLTdsOTd3Z3N3VGhZVW90LTh4MlVR?oc=5",
+      "published_at": "Tue, 22 Sep 2026 14:04:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "国連安保理は機能不全、だが「いかなる大国も単独で課題解決はできない」…グテレス氏最後の演説で協調訴え - 読売新聞"
     },
     {
       "id": 235,
@@ -167,10 +684,32 @@
       "translated_title": "AIエージェントの登場によって、定額使い放題の時代が終わりそう"
     },
     {
-      "id": 216,
+      "id": 371,
+      "category": "Global",
+      "title": "Princeton falls from top spot on US News rankings - The Hill",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEM3TnpVaFpPLXVxYmJDalpWNDFWaG9qSlNlUXljVHloQ2k3WlFRaDhxcjh2Sll6OHRTc1AyOF92b3RLcnBOMFZOTlBDQ2hSNmhEUE01SEZwNHF4N00wSVlTdDVyYXY0YTlqYmp2QU",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEM3TnpVaFpPLXVxYmJDalpWNDFWaG9qSlNlUXljVHloQ2k3WlFRaDhxcjh2Sll6OHRTc1AyOF92b3RLcnBOMFZOTlBDQ2hSNmhEUE01SEZwNHF4N00wSVlTdDVyYXY0YTlqYmp2QUptTlZYYzJoWFNoTkp2T2Iyd2ZUbzd2dHFqd2pydEJodmhkcWPSAZgBQVVfeXFMT2RsSzlwb2w4cXI4SVhJd1lZNW9PZFFQbll1X0hwYjFVVEU5MHFEX0Y3d0pmcDlMWWZXTTZwaGlpclAzb25MakhXWTVFLXlGTjVsdkRJT0p2M0F4c3p6ejhPd3RLYTNBdU1QOTNhTGtCZmluNTZqLVdMVE9JNGlwV3ZxWlVPaHZiZE1tRWpJRVJQN3JuLUtiS3o?oc=5",
+      "published_at": "Tue, 22 Sep 2026 14:00:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Princeton falls from top spot on US News rankings - The Hill"
+    },
+    {
+      "id": 453,
+      "category": "News",
+      "title": "【西田宗千佳のRandomTracking】Beats、イヤーパッド交換を前提にしたヘッドフォン「Beats 360」。“細いバンド”に注目 - AV Watch",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1fdTJxMDJYZUJla1MtM0lERlhlcXNxV0FaRUpSaDNUR2N3dEw4WHpoa1d4ZTVnRlhuczlOcWt5UnlUMVVJOGUyVlR2dm9QcHBzdnZORUxFVWRvME1NTkp3RHpwcDYtRDFqY1",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fdTJxMDJYZUJla1MtM0lERlhlcXNxV0FaRUpSaDNUR2N3dEw4WHpoa1d4ZTVnRlhuczlOcWt5UnlUMVVJOGUyVlR2dm9QcHBzdnZORUxFVWRvME1NTkp3RHpwcDYtRDFqY1E?oc=5",
+      "published_at": "Tue, 22 Sep 2026 14:00:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "【西田宗千佳のRandomTracking】Beats、イヤーパッド交換を前提にしたヘッドフォン「Beats 360」。“細いバンド”に注目 - AV Watch"
+    },
+    {
+      "id": 225,
       "category": "AI/IT",
       "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
-      "summary": "Eight months after establishing a U.S. based joint venture, TikTok is getting on board fellow platforms to support industry-wide child safety work.",
+      "summary": "Eight months after establishing a U.S.-based joint venture, TikTok is getting on board fellow platforms to support industrywide child safety work.",
       "url": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
       "published_at": "Tue, 22 Sep 2026 14:00:00 +0000",
       "importance": 1,
@@ -178,7 +717,7 @@
       "translated_title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative"
     },
     {
-      "id": 217,
+      "id": 226,
       "category": "AI/IT",
       "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
       "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
@@ -189,18 +728,18 @@
       "translated_title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026"
     },
     {
-      "id": 353,
+      "id": 360,
       "category": "Global",
-      "title": "Augustana Ranked Top 5 Regional University by U.S. News & World Report - Augustana University",
+      "title": "Augustana Ranked Top 5 Regional University by U.S. News & World Report - augie.edu",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUk5OT2tLWlBXeFdfeXdoVmFjM0hKcDNHWXZNQVRxaEVDbkkwVDZKaktlRXlybEJNdVVuSjBoTDB2TnRza2NNSVV2SGNRdHNaVUxqWHhtREpPTkt5R2VxT3VCVjd6TkdVUzhhekdGTm",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUk5OT2tLWlBXeFdfeXdoVmFjM0hKcDNHWXZNQVRxaEVDbkkwVDZKaktlRXlybEJNdVVuSjBoTDB2TnRza2NNSVV2SGNRdHNaVUxqWHhtREpPTkt5R2VxT3VCVjd6TkdVUzhhekdGTmdHckJkVUJzQlRWVE9wTnlVb2Q3TXNlOHI2RTY1MjNINDlzMnRscGdjWWpPUQ?oc=5",
       "published_at": "Tue, 22 Sep 2026 13:59:43 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "Augustana Ranked Top 5 Regional University by U.S. News & World Report - Augustana University"
+      "translated_title": "Augustana Ranked Top 5 Regional University by U.S. News & World Report - augie.edu"
     },
     {
-      "id": 463,
+      "id": 461,
       "category": "News",
       "title": "阪神 緊急降板のドリスは体の疲労 藤川監督「５０試合投げてる」 決勝弾の高寺は急きょ先発抜てきだったと明かす「前川の状況も１００％ではなかった」（デイリースポーツ） - Yahoo!ニュース",
       "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9WSlJmcGJSUW13LXBUdVVub2NYVkZvcWJ2RWRFekxWY2xkb001WDhlNEIzZ2ZvZHBCcHA2MU5XSTBmNXA0TlA2U1RPZTczRm1nQ3pCUEZZTWVVb0w5UzZNaTFSdlNYdm0zQ0",
@@ -211,18 +750,18 @@
       "translated_title": "阪神 緊急降板のドリスは体の疲労 藤川監督「５０試合投げてる」 決勝弾の高寺は急きょ先発抜てきだったと明かす「前川の状況も１００％ではなかった」（デイリースポーツ） - Yahoo!ニュース"
     },
     {
-      "id": 394,
-      "category": "Global",
-      "title": "Pope Leo XIV will meet with the French abuse survivors as critics demand action - Audacy",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxONW84R0FVMktFVU9od0hTVlY2WVhOeW5CRW1KMXAzZHNZN1JnNjhWSkhxaENqVVdNQU9CMWRsaUp1SVFrS3JHYm9tY3RfQVNTYzVyNDdtVGxpUkpSNUpjdnl1Q0stTldZLVlrVkNTMm",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONW84R0FVMktFVU9od0hTVlY2WVhOeW5CRW1KMXAzZHNZN1JnNjhWSkhxaENqVVdNQU9CMWRsaUp1SVFrS3JHYm9tY3RfQVNTYzVyNDdtVGxpUkpSNUpjdnl1Q0stTldZLVlrVkNTMmtONUZpTjhGeUJacVRoRWhCOEJ4ME9IYWdFaWRQWENsQl9HRnFNTjdnakFrMDdXVHVZZmFyUG44MTJtaHQwM0NMUUNPT0h2ekMzQnc?oc=5",
+      "id": 454,
+      "category": "News",
+      "title": "アップル、2万ドルのMacを「データセンター賃借より安価」と訴求——AIコスト競争に参戦 - BigGo ファイナンス",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9JX2wwU3NZWHNRNUh3MVJjcGhWS1FFNVYzVXV2c2J1LTBsRVgteVFoLWRxY3N4aFZ0T0FkRUtmekt6YjJILWhLU056N190enloc0VoY1VCd0pOWW80U3RmajVVMTZLNVhCZU",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JX2wwU3NZWHNRNUh3MVJjcGhWS1FFNVYzVXV2c2J1LTBsRVgteVFoLWRxY3N4aFZ0T0FkRUtmekt6YjJILWhLU056N190enloc0VoY1VCd0pOWW80U3RmajVVMTZLNVhCZUdCdTR5bW8zYkhH?oc=5",
       "published_at": "Tue, 22 Sep 2026 13:55:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Pope Leo XIV will meet with the French abuse survivors as critics demand action - Audacy"
+      "importance": 3,
+      "source_name": "Google News JP",
+      "translated_title": "アップル、2万ドルのMacを「データセンター賃借より安価」と訴求——AIコスト競争に参戦 - BigGo ファイナンス"
     },
     {
-      "id": 365,
+      "id": 389,
       "category": "Global",
       "title": "For the third consecutive year, The Citadel named #1 Regional University in the South by U.S. News & World Report - The Citadel Today",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxONTRJVFZhZ0l5VFMxYXRYczF3Q1l2N0hyUUdFMHo5RWVKNnBTMGJNMllHSjRCZFFTMmdXQXY0dGdJQ1BrTzBjZkpOeTRJUTM5TERLd1Q2alBaX3RVeDl1WWVYVzRKdHZETERMQzRFRl",
@@ -233,18 +772,73 @@
       "translated_title": "For the third consecutive year, The Citadel named #1 Regional University in the South by U.S. News & World Report - The Citadel Today"
     },
     {
-      "id": 350,
+      "id": 363,
       "category": "Global",
-      "title": "Auburn University climbs in the 2027 U.S. News and World Report “Best Colleges” rankings - Auburn University",
+      "title": "Georgia Tech Ranked No. 6 Public University in U.S. News & World Report - Georgia Tech News Center",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQVEZheWQwZFhFaVJ0eFFaOXZMNE45YUdqZmgwREdpV0FWVk0wSmVmMGdsZVYybmNtOTNKa2g0Y2VsdE1SWTlDanBfWGdGUG1kZlkxbTdPdmxFRXNMOFR3SENBMzlMZHJwSGloc1NmZ0",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVEZheWQwZFhFaVJ0eFFaOXZMNE45YUdqZmgwREdpV0FWVk0wSmVmMGdsZVYybmNtOTNKa2g0Y2VsdE1SWTlDanBfWGdGUG1kZlkxbTdPdmxFRXNMOFR3SENBMzlMZHJwSGloc1NmZ0R4SDBzdkdzTFdUWHc0b2NsMGV3WXVKZ0JodS1CVDh0MnBiaDRpbkpsQXloOFIwSmhvLWpJVk9n?oc=5",
+      "published_at": "Tue, 22 Sep 2026 13:49:39 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Georgia Tech Ranked No. 6 Public University in U.S. News & World Report - Georgia Tech News Center"
+    },
+    {
+      "id": 457,
+      "category": "News",
+      "title": "timelesz 佐藤勝利＆原嘉孝 猪俣周杜容疑者の逮捕をラジオで生謝罪「被害にあわれた方のことを大変心配しております」 - 東スポWEB",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XTk9sNzJPd2Q0UWdWYVhUZVhzWmpQWTFRbjVsbW8xVVBvS3UtU3kxUmtPbmFlcTNobmNlT0dWMmJ6a2tkU3BwTFRXMEFmcEJQckp3TW9taWJkQVdw?oc=5\" target=\"_bl",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XTk9sNzJPd2Q0UWdWYVhUZVhzWmpQWTFRbjVsbW8xVVBvS3UtU3kxUmtPbmFlcTNobmNlT0dWMmJ6a2tkU3BwTFRXMEFmcEJQckp3TW9taWJkQVdw?oc=5",
+      "published_at": "Tue, 22 Sep 2026 13:40:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "timelesz 佐藤勝利＆原嘉孝 猪俣周杜容疑者の逮捕をラジオで生謝罪「被害にあわれた方のことを大変心配しております」 - 東スポWEB"
+    },
+    {
+      "id": 358,
+      "category": "Global",
+      "title": "Loyola advances in U.S. News & World Report 2027 Best Colleges rankings - Loyola Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVRkREd1NHNSamt2OHlCWDJUVlUzQWd0S19WMEhCVmd2MzB2WXdhRWlaQ2RCN3ZjOHlpa2g0cWI3bjRjUVd5YmZZM3EzQ1FrSFRKS29EMTFRRnhQSkxVOXhYSDBOZ2xUZ0JGYkhNQ2",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVRkREd1NHNSamt2OHlCWDJUVlUzQWd0S19WMEhCVmd2MzB2WXdhRWlaQ2RCN3ZjOHlpa2g0cWI3bjRjUVd5YmZZM3EzQ1FrSFRKS29EMTFRRnhQSkxVOXhYSDBOZ2xUZ0JGYkhNQ2tTcjZuLTEtU3hfeUNFZTRFbVVHSnF4WHZ4WGo0V1NUVDBYTThNa2xXNlN2dDdnNGVrZnpuOTF3?oc=5",
+      "published_at": "Tue, 22 Sep 2026 13:37:48 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Loyola advances in U.S. News & World Report 2027 Best Colleges rankings - Loyola Today"
+    },
+    {
+      "id": 427,
+      "category": "Global",
+      "title": "Hundreds flee homes in Far North Cameroon after armed group raid kills 15 - Al Jazeera",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlNpTk1SekpKOGdGLTU3U0FrTjU4TmZkcEg0V1gtVWYweGJ2aDd5Z2wxdjJfaDhJVVRtczFhTFJFY0tRRTlOT2E0SFVIcFhCQWlETkRjUnV6eURjallrWk1YdHVmY0Z0ay01M0drOF",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlNpTk1SekpKOGdGLTU3U0FrTjU4TmZkcEg0V1gtVWYweGJ2aDd5Z2wxdjJfaDhJVVRtczFhTFJFY0tRRTlOT2E0SFVIcFhCQWlETkRjUnV6eURjallrWk1YdHVmY0Z0ay01M0drOFV0MkhlR3JIMmlWQklhcHZnUUJvdGZpb0lGZ01QalFPOUlXX1VYOC1UV2lwdUx5cXJ1QUtzdi1SbVBvSlQydnMweVMyNXnSAboBQVVfeXFMTWN6aGJ0akVlUmNSV2JuWk9WQlEwb0JRdmFRT1dvTXozMlVXUExuMXNRSjBleks4WE4ySDg2WkMydTlFWG9UNDRicXFRVzVMaDJaRktXQ0Rha09xSXZuUW95cENRRlNXeXhRYW10azBwWG1zRkZnbWVKcGsxUXl5MXp3M2VCOXpvNkg3dGQ4R052Wk1XZXdKekQ1WmV2TlpGd1JROUE3cC1xV3N2eTc0VlpCd0NTNjl4S1pR?oc=5",
+      "published_at": "Tue, 22 Sep 2026 13:37:04 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "Hundreds flee homes in Far North Cameroon after armed group raid kills 15 - Al Jazeera"
+    },
+    {
+      "id": 441,
+      "category": "News",
+      "title": "「ソフトクリームください」が最後の言葉に 飲酒事故で3歳死亡（毎日新聞） - Yahoo!ニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE15NTI5RlJQdjJIclM2MmxyTVFkNzJtT2F2LUJ2T0hKdmh0SVlSb3lBWFlfYWY3MEVKZTc3bW1WempKOE9GZmZKSlVCS045WWtEWGZUVmxTdl9EbUlpQTZZVlFEY20wSE1VTH",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15NTI5RlJQdjJIclM2MmxyTVFkNzJtT2F2LUJ2T0hKdmh0SVlSb3lBWFlfYWY3MEVKZTc3bW1WempKOE9GZmZKSlVCS045WWtEWGZUVmxTdl9EbUlpQTZZVlFEY20wSE1VTHg5c3dFUm1tUVpDZTlsaTR1cmNxSE0?oc=5",
+      "published_at": "Tue, 22 Sep 2026 13:32:01 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "「ソフトクリームください」が最後の言葉に 飲酒事故で3歳死亡（毎日新聞） - Yahoo!ニュース"
+    },
+    {
+      "id": 356,
+      "category": "Global",
+      "title": "Auburn University climbs in the 2027 U.S. News and World Report “Best Colleges” rankings - wire.auburn.edu",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWlpbmw1djdZV1dxT2Z6VE5ZbUpROXkxU1dydXVrMUJiSHdzUnphc1o5akpOeHJVTFAzSmRtM2dKWTNIbVcwRDdFc25Dcm5GZnppeGh2TlZ4OENWeTlvc0hOV0VpT1c4NnNHd0p3Sm",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWlpbmw1djdZV1dxT2Z6VE5ZbUpROXkxU1dydXVrMUJiSHdzUnphc1o5akpOeHJVTFAzSmRtM2dKWTNIbVcwRDdFc25Dcm5GZnppeGh2TlZ4OENWeTlvc0hOV0VpT1c4NnNHd0p3SmtLYXNTQk5CekRfQjVXQnJYMlpWWHpqMnpLeEcyQ2FlQUY1OHFPUVVaNHJrVWM0X3RJUXFQVWRicEg1TW5URC1B?oc=5",
       "published_at": "Tue, 22 Sep 2026 13:25:48 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "Auburn University climbs in the 2027 U.S. News and World Report “Best Colleges” rankings - Auburn University"
+      "translated_title": "Auburn University climbs in the 2027 U.S. News and World Report “Best Colleges” rankings - wire.auburn.edu"
     },
     {
-      "id": 218,
+      "id": 227,
       "category": "AI/IT",
       "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
       "summary": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
@@ -255,18 +849,7 @@
       "translated_title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs"
     },
     {
-      "id": 371,
-      "category": "Global",
-      "title": "The Latest: Trump returns to UN at moment of anxiety about Iran, AI and future of world body itself - WRAL",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOZjhYcjVnRi15TVlxSVBGdlQ4TUw3c2NmWnlXd0xMMVdTT2RLcjEyWEh4WXhuYzMzVUFjM1BBSjRielFxZHBZa2pNNllzZ3JxYnZtZDlJaWVwQnRRVzNteTFkOEhuZGxKZlVDODJzRV",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZjhYcjVnRi15TVlxSVBGdlQ4TUw3c2NmWnlXd0xMMVdTT2RLcjEyWEh4WXhuYzMzVUFjM1BBSjRielFxZHBZa2pNNllzZ3JxYnZtZDlJaWVwQnRRVzNteTFkOEhuZGxKZlVDODJzRVlJdXc5dUt0Y0d2S1U1cXNDZ0ZrbEFwYjJFRGhSeUpYNXlCY215ci1nNkRfbnpMWS1lbXMtS2pkVWlCZllFMi1OUkVMNHgyemdaSWV4QzNyUkJIZUt6bnB2VE4wWU10dw?oc=5",
-      "published_at": "Tue, 22 Sep 2026 13:18:45 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "The Latest: Trump returns to UN at moment of anxiety about Iran, AI and future of world body itself - WRAL"
-    },
-    {
-      "id": 382,
+      "id": 418,
       "category": "Global",
       "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of the world body itself - WKOW",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRG1zbUtQOG1LeHUwamowY1hHN204b0I0VzlfNUxMRVBkR1FKLUVvYXU1bnh1NzBQNUtWVjdKZFlzcThodDlZd2ZPVlBoWktSYnZIZS1SNE54amRCVEROREhUY0MwRUtLRGpja04wVl",
@@ -277,62 +860,7 @@
       "translated_title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of the world body itself - WKOW"
     },
     {
-      "id": 411,
-      "category": "Global",
-      "title": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence' - KTVN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNR0R5ZVdDY2pFWTBQS2dpQ3k0MXJmWVFkekMzQ1ltc1AxUS1fNzJRVEE2SGlWZU4zVmhoTmtYcmVDR3U5LTlsN1NLSFU1cFotQUQ2OVVzZFNoaE5RekMzMWRrbjVnQnBMTm9DUEpoZU",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNR0R5ZVdDY2pFWTBQS2dpQ3k0MXJmWVFkekMzQ1ltc1AxUS1fNzJRVEE2SGlWZU4zVmhoTmtYcmVDR3U5LTlsN1NLSFU1cFotQUQ2OVVzZFNoaE5RekMzMWRrbjVnQnBMTm9DUEpoZUhYVF8za3NDOWx5NjR6U3pMcE52Szk0LW03VUhnN0ZLYUN5cmhSd1RJUEVpZjA4X1lUSm9Zcl9xRHoyb0tTaXNaOVNlcHB2TXdxNUlVNzRUTU1NQ2dQZFBhTkpOQkYtNXNNSG1DQm9YQUVUdUlTV3BQUTduUlV3M3FGbkRXTlRoZElqTldndlFGd05jSVhRNzYyQ2s3Zg?oc=5",
-      "published_at": "Tue, 22 Sep 2026 13:16:18 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence' - KTVN"
-    },
-    {
-      "id": 437,
-      "category": "News",
-      "title": "台風２５号の大雨から一夜明け…千葉・神奈川両県で６人死亡・６人安否不明、佐倉では市街地が大規模浸水 - 読売新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE52RTVqbV9mSS14TzdUSW1PaFBCdjZOcTFmOFNKRzZKSmtKa0ZveGF5bWVhOUlCVmhRTm1RR1FKRHZ0bjhDNkIzN0JWb2RYZEJzNENGalhrMWVodTBoY19jTWZBeFNfZw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52RTVqbV9mSS14TzdUSW1PaFBCdjZOcTFmOFNKRzZKSmtKa0ZveGF5bWVhOUlCVmhRTm1RR1FKRHZ0bjhDNkIzN0JWb2RYZEJzNENGalhrMWVodTBoY19jTWZBeFNfZw?oc=5",
-      "published_at": "Tue, 22 Sep 2026 13:16:06 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "台風２５号の大雨から一夜明け…千葉・神奈川両県で６人死亡・６人安否不明、佐倉では市街地が大規模浸水 - 読売新聞"
-    },
-    {
-      "id": 446,
-      "category": "News",
-      "title": "台風発生予想 暴風域を伴い沖縄の南へ 次に発生すると「台風26号」 - ウェザーニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uOXowb1I1U3BCR01qdG5yNFFDRWRvUFBaNXBMT0lhOS1zWHFuVEU0eUIzZXR3YlVRNHN4eGJpdjhFa0FVeV9yelBEaXdhQ3RiWG03Qg?oc=5\" target=\"_blank\">台風発生予",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uOXowb1I1U3BCR01qdG5yNFFDRWRvUFBaNXBMT0lhOS1zWHFuVEU0eUIzZXR3YlVRNHN4eGJpdjhFa0FVeV9yelBEaXdhQ3RiWG03Qg?oc=5",
-      "published_at": "Tue, 22 Sep 2026 13:16:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "台風発生予想 暴風域を伴い沖縄の南へ 次に発生すると「台風26号」 - ウェザーニュース"
-    },
-    {
-      "id": 402,
-      "category": "Global",
-      "title": "Homecoming dance to be rescheduled after incidents canceled football game - Channel 3000",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPSU1mOXktdkk2NHJBMjZuX2wtOWhZNUt6QTRlVGZGNW92Vng0QndnN1J3YUVpNGV5dGxEZDdNX0JOdUNWX1I0OEJadFZWbHI5WkJZbFN0aW13MUNIYjdTU213TERKb0hIZHRPYi1QOW",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSU1mOXktdkk2NHJBMjZuX2wtOWhZNUt6QTRlVGZGNW92Vng0QndnN1J3YUVpNGV5dGxEZDdNX0JOdUNWX1I0OEJadFZWbHI5WkJZbFN0aW13MUNIYjdTU213TERKb0hIZHRPYi1QOWI4TkpvV3cxYk40bElTejUzR1g5cG84alRKSlBmR2dMRXVPM0lTUi1FcENLMmNRZWJCaEhEblZZclRNbHFLcWpzNWR4Y0pOOVktRWlLUWlxZUMxaDY3RHNxLU5YVFJvRUFqQUF4QWt6bnMwdGdBbndYbjRfR1RRTTdHOVlwT1FnS0lpR05LU3kzVGRiRW5HbEg5dlY0YTR5cVluek5x?oc=5",
-      "published_at": "Tue, 22 Sep 2026 13:13:17 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Homecoming dance to be rescheduled after incidents canceled football game - Channel 3000"
-    },
-    {
-      "id": 364,
-      "category": "Global",
-      "title": "Trump to address U.N. General Assembly and meet with world leaders as he navigates Iran, Gaza, Ukraine conflicts - CBS News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNb2hRV1lPcWVEUi1hTEJCM0NMa3ljWUFMNTQxX0tvM2RDdGJ1UlpaWGNHTXZJdzFGODJ2NzVsUkZTa2NOYnp2d1dCZnR0SUw1aE5wVWx4WC1kWFY1OUxibWp1cGZURWdKNzA5OHNwT0",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb2hRV1lPcWVEUi1hTEJCM0NMa3ljWUFMNTQxX0tvM2RDdGJ1UlpaWGNHTXZJdzFGODJ2NzVsUkZTa2NOYnp2d1dCZnR0SUw1aE5wVWx4WC1kWFY1OUxibWp1cGZURWdKNzA5OHNwT0lydzBYZUIyVjRXdVlSUkpmVWJKZEtxT3d4Wk1MMURqN2ZYSnM3cGJsOUJlSFNkOFRzbnlLSHo4Q0g1R0o5cGJ4Qw?oc=5",
-      "published_at": "Tue, 22 Sep 2026 13:12:00 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "Trump to address U.N. General Assembly and meet with world leaders as he navigates Iran, Gaza, Ukraine conflicts - CBS News"
-    },
-    {
-      "id": 363,
+      "id": 367,
       "category": "Global",
       "title": "Auburn Engineering climbs three spots in latest U.S. News and World Report Best Undergraduate Engineering Programs rankings - Auburn University",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQNllmVEVvYUNWMXRxZTFPTlRobGg4c2I0d1N6bTdYR3NjRGdPWW13ZWZuVXRGZWszY3Q0SWhhMXM3akkydVRHeERELWhCcVdQZ1NIQ1ZYZ1dDNVR2M3Z1VWY4Q3c5SllaVGlIZTNzNm",
@@ -343,18 +871,18 @@
       "translated_title": "Auburn Engineering climbs three spots in latest U.S. News and World Report Best Undergraduate Engineering Programs rankings - Auburn University"
     },
     {
-      "id": 404,
+      "id": 405,
       "category": "Global",
-      "title": "Deadly Iowa Hill shootout: What we know about the gunman deputies killed in standoff - Channel 3000",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxNblhGR2w1a255c01tRmctaGt4ZmhLa2ZqbXZqVWxMcWRRX1FpdmFpeUxFLXR2cVJZR3pPUGhCYVdlMEUwMHhSUjBPYlpCa1h6LXE3aUxQT1RtZGJoUnpLeElhLW9jbk13TEtfb0pFem",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNblhGR2w1a255c01tRmctaGt4ZmhLa2ZqbXZqVWxMcWRRX1FpdmFpeUxFLXR2cVJZR3pPUGhCYVdlMEUwMHhSUjBPYlpCa1h6LXE3aUxQT1RtZGJoUnpLeElhLW9jbk13TEtfb0pFemdHcVAtTDI4SDF2Ynd0RnNDSFlielBvcUdtZHhtZUlwM0NsTWQtM243ajVEbVAwY3EyemcxTzloZFYyYmJmZFpUTk1nNU12SU5GYUZOYjU2dTFFWS00MzNhNklBYVFLN1htaExuVEF6aVYzbHgxUFBLc3ZuME05Ul9JcnJzUUNEWW1XN0V0WGJBWGZkMEp0b1Z1SG5jczhCQ3NRNmNOeGZGa2JLMk56VU1pMWc?oc=5",
-      "published_at": "Tue, 22 Sep 2026 13:06:25 GMT",
+      "title": "Messy, troubled, unpredictable: Diplomats describe a world in turmoil as UN opens annual meeting - AP News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjN3WFNGNEdzRmFrdk4wNmpadnhfQVhWSjF3eUNmVGg2SFBNWjl5TTlWdnFNT2VlLTkzUFRZYUJ4RmFfM292UEwxUkY5UjlFTnFBcGlYcDN5WUVEbmZWeHhGd1ZsWEhKY1Q3ZER5LW",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjN3WFNGNEdzRmFrdk4wNmpadnhfQVhWSjF3eUNmVGg2SFBNWjl5TTlWdnFNT2VlLTkzUFRZYUJ4RmFfM292UEwxUkY5UjlFTnFBcGlYcDN5WUVEbmZWeHhGd1ZsWEhKY1Q3ZER5LWFaWThpVUlxbUJBMWdRLS1heEl4bHEzNHFjUzE5RW9hVno1cUFiVTNHQll2Y0ZwVTc5YWVDOF9wM2dlZw?oc=5",
+      "published_at": "Tue, 22 Sep 2026 13:10:00 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "Deadly Iowa Hill shootout: What we know about the gunman deputies killed in standoff - Channel 3000"
+      "translated_title": "Messy, troubled, unpredictable: Diplomats describe a world in turmoil as UN opens annual meeting - AP News"
     },
     {
-      "id": 383,
+      "id": 420,
       "category": "Global",
       "title": "News: Physical AI in the Real World: Four Requirements for Reliable Robot Manipulation - A3 Association for Advancing Automation",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3VtSElENG0wM294U3FsZFliQ0NDR2l0WTVIN2hEdkZuZ2E2NnU4S3R4cFhVMlpRQ0gycVpvYUZxMF9JUEx2ci1OYk0zemRieTBNYlRJWkRXOG9hVFNHSmVjall0aGtHaDJUdXpreD",
@@ -365,26 +893,48 @@
       "translated_title": "News: Physical AI in the Real World: Four Requirements for Reliable Robot Manipulation - A3 Association for Advancing Automation"
     },
     {
-      "id": 408,
+      "id": 392,
       "category": "Global",
-      "title": "Man attacks elderly couple, later grabs officer's gun and shoots, police say - Channel 3000",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOaHVFbHVjcW9ndnhxeGh1SV80Q1dpeUszcmJOTDlZTkdzWXB2OE9zWXZBYXB3QjZOWVVUb0RIQ0pmZEx0dk8tUldaSkVyMm9ZWEJyajlTOVRVRG9pRWpLZTd4LVJKRmpfeFFxd1NGd1",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOaHVFbHVjcW9ndnhxeGh1SV80Q1dpeUszcmJOTDlZTkdzWXB2OE9zWXZBYXB3QjZOWVVUb0RIQ0pmZEx0dk8tUldaSkVyMm9ZWEJyajlTOVRVRG9pRWpLZTd4LVJKRmpfeFFxd1NGd1ZiLXNLTzlhZk1uclFBOUZwaThDNFdHZzZDNHEyRi1tUjRYZ0VlOHNtMmNFSXdMYlU0Qnc1M3VGUjBodExaWkRVRnMyNVNBS3FqWmVWOXlHY0NYMllRTWs2bFB3OGgyWHVXdWdHd2pFakpFWmhQU2VfX0xKcHRScW15eUJ5bEx2X09RbXZEa0ZlWktJaFgtamQtZER5dFhaTXNKMFVX?oc=5",
-      "published_at": "Tue, 22 Sep 2026 13:02:30 GMT",
+      "title": "VCU ranked among top 100 public universities, recognized as a ‘best value’ by U.S. News & World Report - VCU News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUZ4allNYzJmX0x3eGh1alVJcmI5WlZLWG5lTW5vYmRkMnFFUnc3alI2OVd2RnRNTmIwdENIT3VWVE4zUWVmUUJQMndpWFEyRzhobURHWWxNWUw5SjlESU9WVDBjWGNOUFJGTFU2YX",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUZ4allNYzJmX0x3eGh1alVJcmI5WlZLWG5lTW5vYmRkMnFFUnc3alI2OVd2RnRNTmIwdENIT3VWVE4zUWVmUUJQMndpWFEyRzhobURHWWxNWUw5SjlESU9WVDBjWGNOUFJGTFU2YXc1RlM4dFJzV2ExNG1wN19jaFRyeXM5YkFkLTR0VGUwVkdGa2FCYWtRUXI2N0FkS0E5ZF9ZQ1RzclU1aGFhOFp2NVkzMWtxZXB3aXJkb2xiQlBxRHU3QTFN?oc=5",
+      "published_at": "Tue, 22 Sep 2026 13:02:07 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "Man attacks elderly couple, later grabs officer's gun and shoots, police say - Channel 3000"
+      "translated_title": "VCU ranked among top 100 public universities, recognized as a ‘best value’ by U.S. News & World Report - VCU News"
     },
     {
-      "id": 348,
+      "id": 353,
       "category": "Global",
-      "title": "TCU Climbs in 2027 U.S. News & World Report Rankings - Texas Christian University",
+      "title": "TCU Climbs in 2027 U.S. News & World Report Rankings - tcu.edu",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTh3dlV2cnNGaVBLSnJfbEF5Z1hDbnAzZFl4cHhxQzdFV3JoQmczQkpZUW1xeUdqdGJCdTVBNGxZdGJPYlB4TDA5cjFic2RIcVYyVDJ5cU90eVBJaXJzN050VndtS2JEM29kNDZWZD",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTh3dlV2cnNGaVBLSnJfbEF5Z1hDbnAzZFl4cHhxQzdFV3JoQmczQkpZUW1xeUdqdGJCdTVBNGxZdGJPYlB4TDA5cjFic2RIcVYyVDJ5cU90eVBJaXJzN050VndtS2JEM29kNDZWZDUwMUJmS0VzM25ueU5zNm92Z1l6RjJyTWctekE?oc=5",
       "published_at": "Tue, 22 Sep 2026 13:01:52 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "TCU Climbs in 2027 U.S. News & World Report Rankings - Texas Christian University"
+      "translated_title": "TCU Climbs in 2027 U.S. News & World Report Rankings - tcu.edu"
+    },
+    {
+      "id": 443,
+      "category": "News",
+      "title": "【速報】台風25号は温帯低気圧に変わりました(気象予報士 日直主任 2026年09月22日) - tenki.jp",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE95Zy10Yjg2TzlSakJvNFgwVndXNUMteXR5b1QxU0xaMDR0TjNsbG9nTGpoRng0UkxsNEtDbVBKU2RRQjVLUE41SzhXWk1VNGNaUHZnbjcyT1pqVi1NVWJaNHAzUFNuNHJHR3",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95Zy10Yjg2TzlSakJvNFgwVndXNUMteXR5b1QxU0xaMDR0TjNsbG9nTGpoRng0UkxsNEtDbVBKU2RRQjVLUE41SzhXWk1VNGNaUHZnbjcyT1pqVi1NVWJaNHAzUFNuNHJHR3fSAW9BVV95cUxNVWc2MUhXOFBCZFl3akhsQVdWYThxc29ra1lPajhockNZYlBRTFBORExwaGxGaEhxakZ6MFNJLUdmZS1WcWtPUmw0SGVsd2EtdXJBa2h2SlEta3dhNFV5a2w1VXRkemJoTGtUbWVsTXM?oc=5",
+      "published_at": "Tue, 22 Sep 2026 13:01:23 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "【速報】台風25号は温帯低気圧に変わりました(気象予報士 日直主任 2026年09月22日) - tenki.jp"
+    },
+    {
+      "id": 408,
+      "category": "Global",
+      "title": "Keeping first responders connected during wildfires - news8000.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWHdETUVEQlN5WGlSTVc1OGNlUGVNTnpaWXJ2aDJla29XTnB6ZkxXQVJBU2RSY2hXWUFtYkRRcWZaZ0tLVFZaMG1oUXlZdE1MWTBmdlJoc3J6ZkNseTBaeEJIOXpwcU4xWTUxWkpLa0",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWHdETUVEQlN5WGlSTVc1OGNlUGVNTnpaWXJ2aDJla29XTnB6ZkxXQVJBU2RSY2hXWUFtYkRRcWZaZ0tLVFZaMG1oUXlZdE1MWTBmdlJoc3J6ZkNseTBaeEJIOXpwcU4xWTUxWkpLa0VBUkJtcm9XWUVMckg1SGhTVUNmLUxMazZHZ0JXT2s0bXdTUUh4NjFieDIwamN6U0p5VXlJWGNkTVBZNExCOXQtUlFSODNaUWF0alVfaGVsbHRUX1p3QTZWSmdqSEFOOEpwMHNJMDh0VFM1YVc2Ynhz?oc=5",
+      "published_at": "Tue, 22 Sep 2026 13:00:07 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Keeping first responders connected during wildfires - news8000.com"
     },
     {
       "id": 317,
@@ -398,10 +948,10 @@
       "translated_title": "そのメール、AIで書いたよね？ GmailでAI文章を見破れるように"
     },
     {
-      "id": 219,
+      "id": 228,
       "category": "AI/IT",
       "title": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
-      "summary": "To the investors at Bill Gates's Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing.",
+      "summary": "To the investors at Bill Gates' Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing.",
       "url": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
       "published_at": "Tue, 22 Sep 2026 13:00:00 +0000",
       "importance": 5,
@@ -409,7 +959,7 @@
       "translated_title": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future"
     },
     {
-      "id": 220,
+      "id": 229,
       "category": "AI/IT",
       "title": "Everyone can find a reason to dislike data center construction",
       "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
@@ -420,40 +970,29 @@
       "translated_title": "Everyone can find a reason to dislike data center construction"
     },
     {
-      "id": 405,
+      "id": 422,
       "category": "Global",
-      "title": "A man saved nearly 400 old trucks. Now he's letting them all go. - Channel 3000",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMjZUVGprMGVKcHVZRDd1Q2IxZnBWVkxpUHBHN3BhR1daUEUyMi05a0JyZnc5S045V0J0ZHJlZ2hteWxJWmNhUld6ck1VVFNhanZSTW5mc1k0aG5YcnI2Y0c3M1BXRVV3amxrdWxxNW",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMjZUVGprMGVKcHVZRDd1Q2IxZnBWVkxpUHBHN3BhR1daUEUyMi05a0JyZnc5S045V0J0ZHJlZ2hteWxJWmNhUld6ck1VVFNhanZSTW5mc1k0aG5YcnI2Y0c3M1BXRVV3amxrdWxxNWhCeTFuUmxhR19zVHJTN0Iwbng4cFM0bjlaOTAwcDE2b1l1MDl2N1JrdGhuSzBLY1BEUGJJM0N6WlNuVVBmM21Ccl9RV1hsSm1nRFloVHV4LWJfVW94aG1HTnZLYmUwTnhkVGRtT00xMWpLeU5pSVQwYzdyVFAzYWR4M2JfSHFJR3Y5RUV2TmVoblpGZTE?oc=5",
-      "published_at": "Tue, 22 Sep 2026 12:53:05 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "A man saved nearly 400 old trucks. Now he's letting them all go. - Channel 3000"
-    },
-    {
-      "id": 376,
-      "category": "Global",
-      "title": "Trump’s press ban prompts widespread solidarity — and fewer images of the president - news8000.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQaGR4Zy1Td0l5RUVaeWFBcGpHNFZFOE9weXM0aDdIVzhaOHRaekNHR0R6RUF1MHlnUE9YeElZOVdDZ2thbEV5VHU5MlRvdE9JbFZfUHhfVk91UG9oM3BlVjRpMlVhSzNvd21iN1Y4Mn",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaGR4Zy1Td0l5RUVaeWFBcGpHNFZFOE9weXM0aDdIVzhaOHRaekNHR0R6RUF1MHlnUE9YeElZOVdDZ2thbEV5VHU5MlRvdE9JbFZfUHhfVk91UG9oM3BlVjRpMlVhSzNvd21iN1Y4MnpiZXFPN0cyNzhyV0daVXpTZ1FVM3dDVl9sYWNlMGkwcjRFQlNWcEtkbDlWcmxFNGpKVHRWUmF6ZUpTa1dTUWpYSThLZ2dBdXJzWkNDQ2tyNm5xZTUzY21jblpWd3Q0elVYQVZyRmlpMVZYOEJQMVFsVzZNcUQ3cEkwLTFnYUpZaUtieUpyUVBORnpDcC0yVmZJTEItazZvbw?oc=5",
-      "published_at": "Tue, 22 Sep 2026 12:51:37 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Trump’s press ban prompts widespread solidarity — and fewer images of the president - news8000.com"
-    },
-    {
-      "id": 366,
-      "category": "Global",
-      "title": "For veterans, these are the top schools according to US News & World Report - livenowfox.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2gtR2FkZklQUDJFdWZSX0J6NFg4ci0xY0NpaHBmYUJJaXpqY0phZURPQ3Z5QlNpX2dzdnVid3lqanVTT1BOenFYS0JXdzdJdVpSSmpvMXVYcGdYelpkRjhMRzN0TGttSGs5bFRSZm",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2gtR2FkZklQUDJFdWZSX0J6NFg4ci0xY0NpaHBmYUJJaXpqY0phZURPQ3Z5QlNpX2dzdnVid3lqanVTT1BOenFYS0JXdzdJdVpSSmpvMXVYcGdYelpkRjhMRzN0TGttSGs5bFRSZmdlZHkwM2RUZDRyYVFTVmNmZ01mZlE5MTR2a3ZN?oc=5",
+      "title": "For veterans, these are the top schools according to US News & World Report - FOX 13 Seattle",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1Zod05JVHh6amE0NjRHS21PZUNVaFJkRTJSd0tacUd2WnFDTl92N2NEdzRiNENxVmJUcWlFVkhWVDZwS1dNSWZ1ZUlKVTJ6Q0txaXlaV2VyejRGUmNOcDhnVFVlQnJRSEY5NXhTRW",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1Zod05JVHh6amE0NjRHS21PZUNVaFJkRTJSd0tacUd2WnFDTl92N2NEdzRiNENxVmJUcWlFVkhWVDZwS1dNSWZ1ZUlKVTJ6Q0txaXlaV2VyejRGUmNOcDhnVFVlQnJRSEY5NXhTRWVIOEZYZ3RkLUN1VU0yT1UxN2E5RU5xdWJBUWplZ1Fn?oc=5",
       "published_at": "Tue, 22 Sep 2026 12:50:00 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "For veterans, these are the top schools according to US News & World Report - livenowfox.com"
+      "translated_title": "For veterans, these are the top schools according to US News & World Report - FOX 13 Seattle"
     },
     {
-      "id": 351,
+      "id": 463,
+      "category": "News",
+      "title": "バレー女子日本代表、中国にストレート負けで４８年ぶり優勝逃す…躍動した秋本美空らに期待 - 読売新聞",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HMzJvTDU5R2d1aVRYQzBoT2JDd2pyN0JHZFN4dHQweE5pbXNUZDRnLTVkTE95bmdtckItc1dGcTduZkJvQ0NqOElkVHp4Z0ZFMW1aaXdRTlZETDZON0Q0QmQ3X2ROMmxo?o",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HMzJvTDU5R2d1aVRYQzBoT2JDd2pyN0JHZFN4dHQweE5pbXNUZDRnLTVkTE95bmdtckItc1dGcTduZkJvQ0NqOElkVHp4Z0ZFMW1aaXdRTlZETDZON0Q0QmQ3X2ROMmxo?oc=5",
+      "published_at": "Tue, 22 Sep 2026 12:43:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "バレー女子日本代表、中国にストレート負けで４８年ぶり優勝逃す…躍動した秋本美空らに期待 - 読売新聞"
+    },
+    {
+      "id": 359,
       "category": "Global",
       "title": "Albion climbing U.S. News & World Report’s 2027 college rankings - Albion College",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQN3lXQmh3STlGYlA5dmFyRDRtOVFHdUFLTGZUdmRPYUNkN2t6WEFWT2RXcVpNMnBjekpKRGxDSUJTanFYQ1BtSWUzcXFBZjFEWUxUSGFmeVY5bGZURkZfbTRBamFOaG5PcV9Pc1pVcH",
@@ -464,18 +1003,18 @@
       "translated_title": "Albion climbing U.S. News & World Report’s 2027 college rankings - Albion College"
     },
     {
-      "id": 384,
+      "id": 421,
       "category": "Global",
-      "title": "Flagler College Earns Two No. 1 Rankings in U.S. News & World Report's 2027 Best Colleges for the First Time Ever - Morningstar",
+      "title": "Flagler College Earns Two No. 1 Rankings in U.S. News & World Report's 2027 Best Colleges for the First Time Ever - morningstar.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTTZaV2hlVC1GRnVHV1U0Uzd6MUFCejFoNTBMSnlxTEN4MkgzeVp2OGNDOVBBRFAyLTNOcW5lUjJLM3RhZEJUVWc0Z1JyLUpRYmJfZjlsYnpnenZCbFpGbUhLSHdoUnE2bUhUd2JsNE",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTTZaV2hlVC1GRnVHV1U0Uzd6MUFCejFoNTBMSnlxTEN4MkgzeVp2OGNDOVBBRFAyLTNOcW5lUjJLM3RhZEJUVWc0Z1JyLUpRYmJfZjlsYnpnenZCbFpGbUhLSHdoUnE2bUhUd2JsNE91clhaQnVpOTJBbTdKOHhoSjJqSU9NNXV1RU4tTTdQc3JtbHJqY0tXajJXc3lRMU9JN0pRTnUtUVFlbC1LTUtnZEVmUFJPVXVtU2UtU21zRmZKOW96bjZkd2tWMnpHeElxTmkxN2t5VlcxNjhpZjh4WEt6d3pLOXpVRm43UWZaQzlqYzNJY2p5Ul8tRHE?oc=5",
       "published_at": "Tue, 22 Sep 2026 12:37:00 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "Flagler College Earns Two No. 1 Rankings in U.S. News & World Report's 2027 Best Colleges for the First Time Ever - Morningstar"
+      "translated_title": "Flagler College Earns Two No. 1 Rankings in U.S. News & World Report's 2027 Best Colleges for the First Time Ever - morningstar.com"
     },
     {
-      "id": 380,
+      "id": 417,
       "category": "Global",
       "title": "Haiti: Over 250,000 children trapped in the grip of hunger - Vatican News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPMElFalR0c3d0SHhMQWw3MGF6dHNiM0N2NC01aGk3X3oxU0xsNllpS25UNVprNmM0NmY2alFoZEMtbEJrclczQXZJTjFWZFRJdkRna2JWS0NYTk9VazRWRWFVRklDTXZPb3hwQ25Vcm",
@@ -486,15 +1025,15 @@
       "translated_title": "Haiti: Over 250,000 children trapped in the grip of hunger - Vatican News"
     },
     {
-      "id": 398,
+      "id": 385,
       "category": "Global",
-      "title": "Polo strengthens to a Category 5 hurricane off Mexico's Pacific coast - The Journal Gazette",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNM1ctbFV6cndhVDhaX0Q5Q3dKYjVBOXRvRFR6TWpBeVU3YTBvcDFHSFJFWmpHWXJmbEpITGNrMlJsdGF0eWFHSHpPS0p2UWl0QkNoU2pYX0MzVGtlTjA2SUxUUEZYTjh6RjZBVW1lQX",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNM1ctbFV6cndhVDhaX0Q5Q3dKYjVBOXRvRFR6TWpBeVU3YTBvcDFHSFJFWmpHWXJmbEpITGNrMlJsdGF0eWFHSHpPS0p2UWl0QkNoU2pYX0MzVGtlTjA2SUxUUEZYTjh6RjZBVW1lQXNLc1NPTmFfVXRCcTBpUkU0SE1iMGpuMXBuSU4zTGZLbXhET1FpRkx0WHJPSG1nUUNzdWozWkNMX2tCenplNkgyX0twVWhpZUIyYURiYUY1TG1na0UwUVdDek91SXdFZXhqTnZBRkJ3RER3SXRxWHk1T0gweGRSTnNvZjRkekNaRmgzUQ?oc=5",
-      "published_at": "Tue, 22 Sep 2026 12:31:00 GMT",
+      "title": "Most Florida universities fell in national rankings, per U.S. News & World Report - Florida Phoenix",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWxROGRURm0yYVNZaU9hSVZwbjJqQ2FjN3JfanNLdnNXOHJ3QmJQenRyRWtTQ2lYRWtQb3g4amZ2bHFhWm9zenhUTTd4Um1NQlpFSUh1YlVzQU9tR1N2LVduWnNWMGY1cFg2anpvZV",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWxROGRURm0yYVNZaU9hSVZwbjJqQ2FjN3JfanNLdnNXOHJ3QmJQenRyRWtTQ2lYRWtQb3g4amZ2bHFhWm9zenhUTTd4Um1NQlpFSUh1YlVzQU9tR1N2LVduWnNWMGY1cFg2anpvZVFOeWw0NlJnS1BjTVlYV1FEelZKMUZweFJBQXI2bVRuOGROek9CdTFnLWtTaFltSlRveEtUTDJGSUR3Sld2cFlMMlUyZTFhdFE?oc=5",
+      "published_at": "Tue, 22 Sep 2026 12:31:25 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "Polo strengthens to a Category 5 hurricane off Mexico's Pacific coast - The Journal Gazette"
+      "translated_title": "Most Florida universities fell in national rankings, per U.S. News & World Report - Florida Phoenix"
     },
     {
       "id": 318,
@@ -508,7 +1047,18 @@
       "translated_title": "iPhone 18 Pro Maxを郵送するなら、「わざと」バッテリーを減らしましょう"
     },
     {
-      "id": 221,
+      "id": 393,
+      "category": "Global",
+      "title": "Watch live: World leaders speak at United Nations General Assembly - NBC News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOVkFuYzNTT2pSbGRSblBtc1VxVmlXMHBTXzVZUDQyQjdHYi1rLXczMDBWMnc0VWNBaXNCSmVMVVZzVU1YMTFsYVlSSXdpRDhsLTltcm5GLW41SV9FY3ctYjdtZjVoaEUwRmxUcFhTZX",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVkFuYzNTT2pSbGRSblBtc1VxVmlXMHBTXzVZUDQyQjdHYi1rLXczMDBWMnc0VWNBaXNCSmVMVVZzVU1YMTFsYVlSSXdpRDhsLTltcm5GLW41SV9FY3ctYjdtZjVoaEUwRmxUcFhTZXllSnRpY3ZRRmRqcVM5dGduSmpVRTZKSWRaYkludEN5MnlNYjBCX3J6MWVHaG1aMUNTNlNEU1dYTHMtYlFh?oc=5",
+      "published_at": "Tue, 22 Sep 2026 12:29:06 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Watch live: World leaders speak at United Nations General Assembly - NBC News"
+    },
+    {
+      "id": 230,
       "category": "AI/IT",
       "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
       "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
@@ -519,601 +1069,51 @@
       "translated_title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again"
     },
     {
-      "id": 367,
+      "id": 402,
       "category": "Global",
-      "title": "Most Florida universities fell in national rankings, per U.S. News & World Report - Florida Phoenix",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWxROGRURm0yYVNZaU9hSVZwbjJqQ2FjN3JfanNLdnNXOHJ3QmJQenRyRWtTQ2lYRWtQb3g4amZ2bHFhWm9zenhUTTd4Um1NQlpFSUh1YlVzQU9tR1N2LVduWnNWMGY1cFg2anpvZV",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWxROGRURm0yYVNZaU9hSVZwbjJqQ2FjN3JfanNLdnNXOHJ3QmJQenRyRWtTQ2lYRWtQb3g4amZ2bHFhWm9zenhUTTd4Um1NQlpFSUh1YlVzQU9tR1N2LVduWnNWMGY1cFg2anpvZVFOeWw0NlJnS1BjTVlYV1FEelZKMUZweFJBQXI2bVRuOGROek9CdTFnLWtTaFltSlRveEtUTDJGSUR3Sld2cFlMMlUyZTFhdFE?oc=5",
-      "published_at": "Tue, 22 Sep 2026 12:18:39 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Most Florida universities fell in national rankings, per U.S. News & World Report - Florida Phoenix"
-    },
-    {
-      "id": 352,
-      "category": "Global",
-      "title": "Loyola advances in U.S. News & World Report 2027 Best Colleges rankings - Loyola Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVRkREd1NHNSamt2OHlCWDJUVlUzQWd0S19WMEhCVmd2MzB2WXdhRWlaQ2RCN3ZjOHlpa2g0cWI3bjRjUVd5YmZZM3EzQ1FrSFRKS29EMTFRRnhQSkxVOXhYSDBOZ2xUZ0JGYkhNQ2",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVRkREd1NHNSamt2OHlCWDJUVlUzQWd0S19WMEhCVmd2MzB2WXdhRWlaQ2RCN3ZjOHlpa2g0cWI3bjRjUVd5YmZZM3EzQ1FrSFRKS29EMTFRRnhQSkxVOXhYSDBOZ2xUZ0JGYkhNQ2tTcjZuLTEtU3hfeUNFZTRFbVVHSnF4WHZ4WGo0V1NUVDBYTThNa2xXNlN2dDdnNGVrZnpuOTF3?oc=5",
-      "published_at": "Tue, 22 Sep 2026 12:17:50 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Loyola advances in U.S. News & World Report 2027 Best Colleges rankings - Loyola Today"
-    },
-    {
-      "id": 338,
-      "category": "Global",
-      "title": "Live Updates: Iran's president heads for U.N. summit in New York ahead of possible meeting with Trump - CBS News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGRLV0xqY1AyaEVCb1I0bnRJcm5hVnkzRmZWUDhtR1cxdHdBbTJwTFllNkdhejlhWGx2b3ktdGhVcXdlam1iM2d0TDJPMHN4azB1RWI2TklLVENrdHlSVE5yNHpsWFVlSWpaWk9NbG",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGRLV0xqY1AyaEVCb1I0bnRJcm5hVnkzRmZWUDhtR1cxdHdBbTJwTFllNkdhejlhWGx2b3ktdGhVcXdlam1iM2d0TDJPMHN4azB1RWI2TklLVENrdHlSVE5yNHpsWFVlSWpaWk9NbGtGMlZNTW1iLW5DWF9UM2tkc3RpaXRhRFpQbkFsWkw5VXZxQU1a?oc=5",
-      "published_at": "Tue, 22 Sep 2026 12:16:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Live Updates: Iran's president heads for U.N. summit in New York ahead of possible meeting with Trump - CBS News"
-    },
-    {
-      "id": 400,
-      "category": "Global",
-      "title": "The Latest: Trump returns to UN at moment of anxiety about Iran, AI and future of world body itself - ClickOnDetroit",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSWxVckVTLVhvMWs0R2F3ak8tMnFvbUp0bERzcDFjTmNvY1owTm9VQ3lEaVhLdDNrRENvNVI1cS14ZGJ4QVlOWkUxTzZQSHVSckt6VXlNWjFMQXdsTXlUTHpLRDNNUld6TVlHOHY0cz",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSWxVckVTLVhvMWs0R2F3ak8tMnFvbUp0bERzcDFjTmNvY1owTm9VQ3lEaVhLdDNrRENvNVI1cS14ZGJ4QVlOWkUxTzZQSHVSckt6VXlNWjFMQXdsTXlUTHpLRDNNUld6TVlHOHY0czJxS0o3OTg2dXRmMmNqODVfMHNxSzk0TkYyci1oelItZFdJR3k3T2ZYaGEzSi1xTExSUmxfYzJvVHoteVpYUjZ3YkV2SFVtSXd6ektHQ0JxVE9fY0hNck5lTjk3Tm5uTzg4R1JFNnRLTjNNT0NqQnlyTnNaaWh5YlJnbGc?oc=5",
+      "title": "The Latest: Trump returns to UN at moment of anxiety about Iran, AI and future of world body itself - News4JAX",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRUR6RndDZVBDanplUXFlaGN5VFNKUHR5ZEl5N053cjF3Wkp0cE84YUd1UXlfYkFXTTV6NFRTdTVNQjBuajdQdDJ1OHI4c3EwMWlGXzFVUUlhZ0U4NGwwOEpCNWhnN3hGQ3A4QWxpU0",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRUR6RndDZVBDanplUXFlaGN5VFNKUHR5ZEl5N053cjF3Wkp0cE84YUd1UXlfYkFXTTV6NFRTdTVNQjBuajdQdDJ1OHI4c3EwMWlGXzFVUUlhZ0U4NGwwOEpCNWhnN3hGQ3A4QWxpU0NpWE16RGVYV3RjdU4tUERxNFA5WEFNZm42MDl4SUF6V19QQ0NvdlhIVmIyZXAtMkVaMGlyTno4QUhWVS1UcDRveEtyd3IxME0yY3Y0ZERVU2tySmVJdlZNNUcySnNMY3JQeGpKUHpQdDBaQm1PT0pBTnBR?oc=5",
       "published_at": "Tue, 22 Sep 2026 12:15:19 GMT",
       "importance": 3,
       "source_name": "Google News World",
-      "translated_title": "The Latest: Trump returns to UN at moment of anxiety about Iran, AI and future of world body itself - ClickOnDetroit"
+      "translated_title": "The Latest: Trump returns to UN at moment of anxiety about Iran, AI and future of world body itself - News4JAX"
     },
     {
-      "id": 412,
-      "category": "Global",
-      "title": "Arbor Day Foundation Podcast Features Associated Press Global Climate and Environmental News Director In Latest Episode - businesswire.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQVElhdVFUTmRCdUVucXZnNGt3ZTNodGpjaFh2b051VTFzNWxZb0R2aVlzNW1qRWJ1d3dXTzdKejdMQ1lQQUptTDl0a1hWeGRxN0RXZWJXSjJ5R2l0am1yVVZlb2czdldWT2Nsb0VVZj",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVElhdVFUTmRCdUVucXZnNGt3ZTNodGpjaFh2b051VTFzNWxZb0R2aVlzNW1qRWJ1d3dXTzdKejdMQ1lQQUptTDl0a1hWeGRxN0RXZWJXSjJ5R2l0am1yVVZlb2czdldWT2Nsb0VVZjVwSzRBVmZKd0I2YThScVlGNmo0RUtOd0FoZmM2azZEclVWMTgxS0tVa0pubkJKNjF2OWVBdHRwZjFRSzloMDZNQk9WWHR1TktIaldhNXJocHBJaWVyUzJtRGRxV0NlNkxrQjloY1ZWV2c5YVRia1pxMno5OUZ3Wk5nWVRfWldIRVhSdjRxVzBVSDhPVkNtaFJuVExzcGZHbw?oc=5",
-      "published_at": "Tue, 22 Sep 2026 12:12:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Arbor Day Foundation Podcast Features Associated Press Global Climate and Environmental News Director In Latest Episode - businesswire.com"
-    },
-    {
-      "id": 451,
+      "id": 437,
       "category": "News",
-      "title": "サウジ東西パイプライン稼働再開、紅海側で石油輸出22日にも開始 - reuters.com",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA3bDhRWjF6c2pMMEVsVU4tTTlvd3FwTlNDa1NZTXVka3Y1TVlBbjlLQ3RBVnBxQ1Z1Nzc5SzQyX2ZaNFkyMWdUeElZUXM3blMwbVczQjhwWnZQVHZfbXNfcFFhUDlnM0FHMn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3bDhRWjF6c2pMMEVsVU4tTTlvd3FwTlNDa1NZTXVka3Y1TVlBbjlLQ3RBVnBxQ1Z1Nzc5SzQyX2ZaNFkyMWdUeElZUXM3blMwbVczQjhwWnZQVHZfbXNfcFFhUDlnM0FHMnZOUk11Q21DaWFDaXFQZnF2SGs2Z1k?oc=5",
-      "published_at": "Tue, 22 Sep 2026 12:03:57 GMT",
+      "title": "台風２５号の大雨から一夜明け…千葉・神奈川両県で７人死亡・５人安否不明、佐倉では市街地が大規模浸水 - 読売新聞",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE52RTVqbV9mSS14TzdUSW1PaFBCdjZOcTFmOFNKRzZKSmtKa0ZveGF5bWVhOUlCVmhRTm1RR1FKRHZ0bjhDNkIzN0JWb2RYZEJzNENGalhrMWVodTBoY19jTWZBeFNfZw?oc=",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52RTVqbV9mSS14TzdUSW1PaFBCdjZOcTFmOFNKRzZKSmtKa0ZveGF5bWVhOUlCVmhRTm1RR1FKRHZ0bjhDNkIzN0JWb2RYZEJzNENGalhrMWVodTBoY19jTWZBeFNfZw?oc=5",
+      "published_at": "Tue, 22 Sep 2026 12:15:00 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "サウジ東西パイプライン稼働再開、紅海側で石油輸出22日にも開始 - reuters.com"
+      "translated_title": "台風２５号の大雨から一夜明け…千葉・神奈川両県で７人死亡・５人安否不明、佐倉では市街地が大規模浸水 - 読売新聞"
     },
     {
-      "id": 426,
-      "category": "Global",
-      "title": "Miller aims to chart World Cup glory by keeping it simple - ICC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS0NUbVR6MUk4bkNqbnRlVkxTMS16dnJJdnpKTkI1bExNSjd5ZFNKVnZuMVJmbzdjRHh1WUFGTTdVYVg5b2x1anRNTF80bVhTVmJIOS1SUGpKUDEyWmlsYkt6WllkQjF0SGV4cHFpQU",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS0NUbVR6MUk4bkNqbnRlVkxTMS16dnJJdnpKTkI1bExNSjd5ZFNKVnZuMVJmbzdjRHh1WUFGTTdVYVg5b2x1anRNTF80bVhTVmJIOS1SUGpKUDEyWmlsYkt6WllkQjF0SGV4cHFpQU5GU1ZoUElzX1g5VHR4bEVFbF85VGhmQ1FNNWZtMlpJbHJuNmJsVUtZZWVtZU1xM1c4Ty1PUUN5VWNWcGhzYzJEUDk1WkZnT0dtekdaQ2ZwSUJKUnZZOVlfNg?oc=5",
-      "published_at": "Tue, 22 Sep 2026 12:00:35 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "Miller aims to chart World Cup glory by keeping it simple - ICC"
-    },
-    {
-      "id": 459,
+      "id": 450,
       "category": "News",
-      "title": "《他人事感がすごい》猪俣周杜容疑者逮捕で佐藤勝利の“ドライな”コメントにファン困惑…菊池風磨らは怒りと謝罪 - Yahoo!ニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE84SVVCY0NVYTRNNkJnaUdwcUVEQW9mMWlxYUw3OTAzN2w3THMzMXg5QlBQQkNUY191UllobmVhUjRWZnJzWnNaSjRwNElkdXluOGpwOXBDYjRTSnR1ZFNfU3QtN3RJWkVJS1",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84SVVCY0NVYTRNNkJnaUdwcUVEQW9mMWlxYUw3OTAzN2w3THMzMXg5QlBQQkNUY191UllobmVhUjRWZnJzWnNaSjRwNElkdXluOGpwOXBDYjRTSnR1ZFNfU3QtN3RJWkVJS1hXc05DNlhDM19pd3hpdGVxWXBYUU0?oc=5",
-      "published_at": "Tue, 22 Sep 2026 12:00:34 GMT",
+      "title": "家路へ長～い車列 「シルバーウイーク」Uターンラッシュがピーク 県内高速道路、各地で渋滞|社会 - 神戸新聞",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE42RGlCQkN1RTdHV2cwcUt5bU1JZU1SUHRLTG5kV2VRbkRfQ1ZsNGN5a09HeEpTUW40VnQ0cklaU1dySHFiSmJ1YWZFYk9qNWhraE1fT3ItUTgtVlhwT0NIY1NqNS1XVEp0cX",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42RGlCQkN1RTdHV2cwcUt5bU1JZU1SUHRLTG5kV2VRbkRfQ1ZsNGN5a09HeEpTUW40VnQ0cklaU1dySHFiSmJ1YWZFYk9qNWhraE1fT3ItUTgtVlhwT0NIY1NqNS1XVEp0cXhRZi02aw?oc=5",
+      "published_at": "Tue, 22 Sep 2026 12:09:35 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "《他人事感がすごい》猪俣周杜容疑者逮捕で佐藤勝利の“ドライな”コメントにファン困惑…菊池風磨らは怒りと謝罪 - Yahoo!ニュース"
-    },
-    {
-      "id": 319,
-      "category": "Product",
-      "title": "50年前の子どもたちの未来予想、今の子どもたちとそっくりだった",
-      "summary": "50年前と現在の子どもたちの未来予想を徹底比較。ロボットや戦争、宇宙への夢など、時代を超えた子どもたちの普遍的な希望と不安に迫ります。",
-      "url": "https://www.gizmodo.jp/article/2609-childrens-future-predictions-50-years-ago-and-today/",
-      "published_at": "Tue, 22 Sep 2026 12:00:00 GMT",
-      "importance": 3,
-      "source_name": "Gizmodo JP",
-      "translated_title": "50年前の子どもたちの未来予想、今の子どもたちとそっくりだった"
-    },
-    {
-      "id": 362,
-      "category": "Global",
-      "title": "Holy Cross Earns Highest-Ever Ranking From U.S. News & World Report - Holy Cross Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQdHJhQkFrNm9GME1JTHNqeHhfTk9NVGUxZE81N3VaU0MxWHRGRHd2b3pvTGFrQXI3RUtYNTVoYlA5S3FMNDE3Yy1BMkhVSlRqdk0wOWZxV0Zfa3dGTXhMby12c1lKTktYVTNUVkhten",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdHJhQkFrNm9GME1JTHNqeHhfTk9NVGUxZE81N3VaU0MxWHRGRHd2b3pvTGFrQXI3RUtYNTVoYlA5S3FMNDE3Yy1BMkhVSlRqdk0wOWZxV0Zfa3dGTXhMby12c1lKTktYVTNUVkhtenphNTQtdzQ2VjN1RkNQQkZLTVkwVXBwYnlpaVZVcF9pd2F3RWVQLU9NWkZzNFdmQQ?oc=5",
-      "published_at": "Tue, 22 Sep 2026 12:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Holy Cross Earns Highest-Ever Ranking From U.S. News & World Report - Holy Cross Magazine"
-    },
-    {
-      "id": 361,
-      "category": "Global",
-      "title": "Pitt ranks No. 24 among the nation’s public universities, says U.S. News & World Report - University of Pittsburgh",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPalM2VEdGeWhKckJDVnA3LUxaUGFIQkx4MzRvNXhZXzdWeGZqb19Zb1VsamQ1T0ctOTVfUUdxTXVab19OSUhlaktMRzF1Mm1Lc3JmMXpjYVdXY3pHSFdfZTVOTEIwMlE4VkRCeUJoeF",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPalM2VEdGeWhKckJDVnA3LUxaUGFIQkx4MzRvNXhZXzdWeGZqb19Zb1VsamQ1T0ctOTVfUUdxTXVab19OSUhlaktMRzF1Mm1Lc3JmMXpjYVdXY3pHSFdfZTVOTEIwMlE4VkRCeUJoeFpqS0JMLUNDdl8tMzVNRU1ia0FPWkx3em9sMmJFalFmZHN2QmtIeHliRDFTVzItVzE5Yy00?oc=5",
-      "published_at": "Tue, 22 Sep 2026 11:58:38 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Pitt ranks No. 24 among the nation’s public universities, says U.S. News & World Report - University of Pittsburgh"
-    },
-    {
-      "id": 464,
-      "category": "News",
-      "title": "【アジア大会】バレー女子　48年ぶり金メダルならず　中国にストレート負けで2大会連続の銀 - ｄメニューニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPekpRZGNLYWdpRm4teXNQRENSeFB2N2dPcXdsd3B1aElEcEhZb0FJWlRBMDJkQ0RkdENQWGlNVXplOXRrU21tVGZ1czU2djRNREQxbUVfM3E1TzZNX0dMRVdvMTdtZklFN1",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPekpRZGNLYWdpRm4teXNQRENSeFB2N2dPcXdsd3B1aElEcEhZb0FJWlRBMDJkQ0RkdENQWGlNVXplOXRrU21tVGZ1czU2djRNREQxbUVfM3E1TzZNX0dMRVdvMTdtZklFN1dOTHdsTnpWOVlvY3JoNndQWkVhX0tIajhwWEl4cy00ZGlSREtB0gGTAUFVX3lxTE1waGYtMkJBamdFMmRPMmdCZGo4Y2tQWkhab040RmE3eGlBLVFUSkNieUozTFozcFdnbmE4M1NZUmE4cUMyN2ZvcV94ekdPOWtCcVdYMmZKWGRkRnB6YVBXY0dJMkx4Z25vTnZlOEtNVWFVRnFwRDFxeGQtUkpCV1NoVFJJLWQ4MHkxQ2l5Q2ljRnlLNA?oc=5",
-      "published_at": "Tue, 22 Sep 2026 11:52:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "【アジア大会】バレー女子　48年ぶり金メダルならず　中国にストレート負けで2大会連続の銀 - ｄメニューニュース"
-    },
-    {
-      "id": 388,
-      "category": "Global",
-      "title": "New York Airport Operations Resume After Disruptions Across US Northeast Due to Technical Problems - U.S. News & World Report",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcmZ3RENWcVVXUEpFcE1OMDZESmVfMWlNTXFQQ1hDMmhUNU4ycUV6WWZtWVl2b3RnTDBIZEQ2MFVScXpkVmZyaWJiQ29XR2VJRHZLX05odkI3UG5Lc19kVVE0Z1JGbHhPQ2xaNjR5S2",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcmZ3RENWcVVXUEpFcE1OMDZESmVfMWlNTXFQQ1hDMmhUNU4ycUV6WWZtWVl2b3RnTDBIZEQ2MFVScXpkVmZyaWJiQ29XR2VJRHZLX05odkI3UG5Lc19kVVE0Z1JGbHhPQ2xaNjR5S2xxTFpXNDZjX2dDNEw5R3JVQmJVUzNSRUFXWEt6TmFJc1pyVS1mM01lUU5YR3FjcDdiN1g2Y09TTlQwakRkTXVLRUFiVWRVX0xCY3dHU21WalI4MUgxOWs2bEZubXptaDctNnAxWUhrZXduLUJ0UDRLbXFBdUFCSkxPcUFN?oc=5",
-      "published_at": "Tue, 22 Sep 2026 11:37:00 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "New York Airport Operations Resume After Disruptions Across US Northeast Due to Technical Problems - U.S. News & World Report"
-    },
-    {
-      "id": 381,
-      "category": "Global",
-      "title": "With war, climate change and AI, it's a troubled world as leaders convene at the United Nations - KTVN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMlJLbF8xVW10Zy1KSjFPazlJVnh1ZU1PakZoVlZuS3NvWVRnUWdUd0dSdkE1T1AwTVFzcWpVQWVMZXMyazBYZnQ2bTJveXU3NTIwQlNoN1ppYkZxVHZIc2lDbDlTOUlQOTVmRTMzWF",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMlJLbF8xVW10Zy1KSjFPazlJVnh1ZU1PakZoVlZuS3NvWVRnUWdUd0dSdkE1T1AwTVFzcWpVQWVMZXMyazBYZnQ2bTJveXU3NTIwQlNoN1ppYkZxVHZIc2lDbDlTOUlQOTVmRTMzWFJzWExZS3BpdzBwRFRzNFlTLU1palAteHkyNFp1ckxOalhEYngwQXBydlQ2eWRGZUR1SDJJb1prY1BaQW1kS0ItejF2WlptaHJWMjRFaHhQaVliV2FsamRhWTgxa1pHWm9RaHpBeUxYUC1iVEY0WjdHb1Fvb2QtMm9rQ3N1NHJKUXVBQQ?oc=5",
-      "published_at": "Tue, 22 Sep 2026 11:24:28 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "With war, climate change and AI, it's a troubled world as leaders convene at the United Nations - KTVN"
-    },
-    {
-      "id": 378,
-      "category": "Global",
-      "title": "As Mideast leaders gather in New York, regional wars top the agenda, and other Mideast developments - wsls.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOWpCSHl0LTEyZnRvM1ZvTkZfSEdJQmtGWUZ5U2k1U0cwY0cwd0Z5UnhHc2FfMW9Kb2lZYVQyZjZiMzJITDBFRTJNN0ZYSG9DSUdKbHFHVTlOT3ZTQ3VVQXYwVW1EVU5hTTRNYzRjdG",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOWpCSHl0LTEyZnRvM1ZvTkZfSEdJQmtGWUZ5U2k1U0cwY0cwd0Z5UnhHc2FfMW9Kb2lZYVQyZjZiMzJITDBFRTJNN0ZYSG9DSUdKbHFHVTlOT3ZTQ3VVQXYwVW1EVU5hTTRNYzRjdG1ZZm5Dc0xuYU0yOVhYeXZMR3BwWWtubm9WeE1PUl8zMnQ5RXJVTTMwNlFPT1RGSFd3YjFBLXB3UW5TUDZPNGN0cWhKSi1RbTQzLTdHMGdhSTRnNjBZNUF1SkdwcGt3eFFfMHhya05McTY?oc=5",
-      "published_at": "Tue, 22 Sep 2026 11:18:48 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "As Mideast leaders gather in New York, regional wars top the agenda, and other Mideast developments - wsls.com"
-    },
-    {
-      "id": 390,
-      "category": "Global",
-      "title": "The EU moves closer to free trade deal with Philippines amid global tensions - WRAL",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEEyOUl2S1pQQ1ZhOUlGMkNDVURJVFlIS1hldjd0WllyWVFsN2hjTVpBM001ODdwekJkblBxR2FpS1NieTJzVGZYYWtqOXZENjdTMHlxa3hqSUZMU01BWlN0Mk1TUFAyNjdGS01tTT",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEEyOUl2S1pQQ1ZhOUlGMkNDVURJVFlIS1hldjd0WllyWVFsN2hjTVpBM001ODdwekJkblBxR2FpS1NieTJzVGZYYWtqOXZENjdTMHlxa3hqSUZMU01BWlN0Mk1TUFAyNjdGS01tTTZFZGJETmFPRG02R3VTXzhWdVpRYmV5ZnlWVWo5eG1Bb2twQ1dvZzlqdFFEZG1nRjVFWmM4?oc=5",
-      "published_at": "Tue, 22 Sep 2026 11:11:56 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "The EU moves closer to free trade deal with Philippines amid global tensions - WRAL"
-    },
-    {
-      "id": 372,
-      "category": "Global",
-      "title": "6-year-old Chinese girl reportedly sets Rubik's Cube world record, completing puzzle in just over 4 seconds - CBS News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG9KR0YyN01xMUstM2hMbGxVYzR4N190aU1mSGNRcWRyTUNiU2ZmOGxnd1doUGhCdkZKXzh4TThrMVFHMzRqLS1DcEZiWlpNM2lkckhkQlpKdUpOazhEWnN5VlhIM0xuT2V4ODdfaX",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG9KR0YyN01xMUstM2hMbGxVYzR4N190aU1mSGNRcWRyTUNiU2ZmOGxnd1doUGhCdkZKXzh4TThrMVFHMzRqLS1DcEZiWlpNM2lkckhkQlpKdUpOazhEWnN5VlhIM0xuT2V4ODdfaXBpMXNINVkxUnhvMmxKMGtqdVJqRHc?oc=5",
-      "published_at": "Tue, 22 Sep 2026 11:10:05 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "6-year-old Chinese girl reportedly sets Rubik's Cube world record, completing puzzle in just over 4 seconds - CBS News"
-    },
-    {
-      "id": 320,
-      "category": "Product",
-      "title": "アシックスの「ブラスト」シリーズ。何が違うのか履き比べてみました",
-      "summary": "アシックスから「ソニックブラスト2」という新作が登場しました。「ブラスト」シリーズ唯一のプレート搭載モデルがアップデートされたということですが、一体どんなシューズなのでしょうか。気になるニューモデルを試す機会をいただいたので、他の人気モデル…",
-      "url": "https://www.gizmodo.jp/article/asics_blast_series_comparison/",
-      "published_at": "Tue, 22 Sep 2026 11:00:00 GMT",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "アシックスの「ブラスト」シリーズ。何が違うのか履き比べてみました"
-    },
-    {
-      "id": 222,
-      "category": "AI/IT",
-      "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
-      "summary": "Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.",
-      "url": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
-      "published_at": "Tue, 22 Sep 2026 11:00:00 +0000",
-      "importance": 1,
-      "source_name": "TechCrunch",
-      "translated_title": "Meta deal will help plastics recycling startup MacroCycle build its first factory"
-    },
-    {
-      "id": 360,
-      "category": "Global",
-      "title": "Ohio Northern University named one of the nation’s top 100 private universities in U.S. News & World Report’s rankings - onu.edu",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQTHZmX3FKcDhFQ3E0VDVsTzJIcW9xOVJVZW9kbG5vSzZLYVF0d0tZSF9WbDJ4UzdxQmVwSDFScDFyMVp1YUIyc0IycWlFbEMyTk9CYmt6dDE2RlFnb01Kc2JCNmVSa25jeURLdHplQT",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTHZmX3FKcDhFQ3E0VDVsTzJIcW9xOVJVZW9kbG5vSzZLYVF0d0tZSF9WbDJ4UzdxQmVwSDFScDFyMVp1YUIyc0IycWlFbEMyTk9CYmt6dDE2RlFnb01Kc2JCNmVSa25jeURLdHplQTZUN2hFQWxscW9NWXllZ0xQVkdzVUZOV0k3SHFsZjEtV1czZ19HZVpxSm03bC05TmdoV09Ka1BmNnhVdk9MOGhiTjU1THl1Rk4tYmc?oc=5",
-      "published_at": "Tue, 22 Sep 2026 10:56:28 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Ohio Northern University named one of the nation’s top 100 private universities in U.S. News & World Report’s rankings - onu.edu"
-    },
-    {
-      "id": 466,
-      "category": "News",
-      "title": "杉原愛子、日本初の体操女子個人総合「金」 16歳の西山実沙「銅」 アジア大会 - 産経ニュース",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZbXBlNm1acER2R2tVTC1henhZR3dqNXNVSmtleHVJTWJiTklYTzJ4blFENWlvM2hQb1FqLWJyWVJ3TERzelIyU0t0Q2pzU01lSlZtd1RFREVfRGhqa3dyUFZiaFVBM3B1MUlTb2JybU",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZbXBlNm1acER2R2tVTC1henhZR3dqNXNVSmtleHVJTWJiTklYTzJ4blFENWlvM2hQb1FqLWJyWVJ3TERzelIyU0t0Q2pzU01lSlZtd1RFREVfRGhqa3dyUFZiaFVBM3B1MUlTb2JybU5iVE1RVlE?oc=5",
-      "published_at": "Tue, 22 Sep 2026 10:55:02 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "杉原愛子、日本初の体操女子個人総合「金」 16歳の西山実沙「銅」 アジア大会 - 産経ニュース"
-    },
-    {
-      "id": 389,
-      "category": "Global",
-      "title": "MotoGP injury news: World Champion to miss two races - Yahoo Sports",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOUHl6SDlQNWVNN0Y5cHNkVEVRa1RxM25BNldublVtMlBIQ21OVUZJTzZyYTgzRDVCVlZOM0NqcUJGU3ViXzlrQU1mdzZxMGxKVF9zak5JRzlsdEs0Q3licnZ2b1NpRFFFRDRRbHExSG",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUHl6SDlQNWVNN0Y5cHNkVEVRa1RxM25BNldublVtMlBIQ21OVUZJTzZyYTgzRDVCVlZOM0NqcUJGU3ViXzlrQU1mdzZxMGxKVF9zak5JRzlsdEs0Q3licnZ2b1NpRFFFRDRRbHExSGVFcU9KTkJWZGFTRmotVVc4amRwT0RuQ29Ma3c?oc=5",
-      "published_at": "Tue, 22 Sep 2026 10:30:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "MotoGP injury news: World Champion to miss two races - Yahoo Sports"
-    },
-    {
-      "id": 438,
-      "category": "News",
-      "title": "トランプ大統領、フーシへの攻撃見送る…米軍機に爆弾を搭載し攻撃始めるタイミングで決断 - 読売新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TNHpsTW40cUdPM1Q0OTZRM3M4ckRURDB0QXQwRy1TZVZZYXkwTWR0a3JpcGZTZTJ1anN3T3JnYXVMVVN4NGg0cXVEZEpJb2VjU1pZZFRxX3lwX2RUVlVnM2Fn?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TNHpsTW40cUdPM1Q0OTZRM3M4ckRURDB0QXQwRy1TZVZZYXkwTWR0a3JpcGZTZTJ1anN3T3JnYXVMVVN4NGg0cXVEZEpJb2VjU1pZZFRxX3lwX2RUVlVnM2Fn?oc=5",
-      "published_at": "Tue, 22 Sep 2026 10:22:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "トランプ大統領、フーシへの攻撃見送る…米軍機に爆弾を搭載し攻撃始めるタイミングで決断 - 読売新聞"
-    },
-    {
-      "id": 357,
-      "category": "Global",
-      "title": "Hofstra Earns Two Top 100 Rankings From U.S. News & World Report - Hofstra University News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPMUZpWjM3bUtlclFUd19LclctWmVVUXFSTkpldWZIZzRGSXNJS3RNY0VJRUpYZ2xiSDJkOVotQzJhdmozWXZwbjdaMUZETlI2ck5ESGRycXU0ZHRETUNoQl9sT3pacl9uOVF2QlJJY0",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMUZpWjM3bUtlclFUd19LclctWmVVUXFSTkpldWZIZzRGSXNJS3RNY0VJRUpYZ2xiSDJkOVotQzJhdmozWXZwbjdaMUZETlI2ck5ESGRycXU0ZHRETUNoQl9sT3pacl9uOVF2QlJJY08wYk9KbTlZaFEzaWViSk5UUTY1TmJfTU5xcUFHaWJTc1JZemZpWDBleGNDZDFEMFk?oc=5",
-      "published_at": "Tue, 22 Sep 2026 10:11:11 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Hofstra Earns Two Top 100 Rankings From U.S. News & World Report - Hofstra University News"
-    },
-    {
-      "id": 355,
-      "category": "Global",
-      "title": "JMU rises to No. 67 among public universities in 2027 U.S. News & World Report Best Colleges rankings - James Madison University",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFJ2X3h6bFRselBncFdaMkQxYUJ5MWFweGNkdk1nM3ZEZzdfMWlFUEgzZXhXZTBMa3YwY0RmVGFBTDNTRy1KTU5qYS1QOUpHem1pT0JXM1lSWTZCZVdqbEJOMmlGc2hPU0hwZUM5SH",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFJ2X3h6bFRselBncFdaMkQxYUJ5MWFweGNkdk1nM3ZEZzdfMWlFUEgzZXhXZTBMa3YwY0RmVGFBTDNTRy1KTU5qYS1QOUpHem1pT0JXM1lSWTZCZVdqbEJOMmlGc2hPU0hwZUM5SHoyMXNfUjhOSUV0TmhuZlBaRA?oc=5",
-      "published_at": "Tue, 22 Sep 2026 10:04:05 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "JMU rises to No. 67 among public universities in 2027 U.S. News & World Report Best Colleges rankings - James Madison University"
-    },
-    {
-      "id": 321,
-      "category": "Product",
-      "title": "iPhone Duoの真実を明らかにしてきました",
-      "summary": "Duoってなんですか？折りたたみスマホ、といえば画面のシワや使い勝手が気になったりしそうですが、iPhone Duoはそうした違和感をほとんど感じさせません。一体どんな狙いでこのプロダクトに辿り着いたのか。そして「Duo」という名前にはどん…",
-      "url": "https://www.gizmodo.jp/article/apple-bobborchers-interview/",
-      "published_at": "Tue, 22 Sep 2026 10:00:00 GMT",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "iPhone Duoの真実を明らかにしてきました"
-    },
-    {
-      "id": 449,
-      "category": "News",
-      "title": "［社説］ドイツは極右台頭に対応急げ - 日本経済新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9lTFNHOGtTQTN3M0RYeWN1cnh0V0FwOUlDMDZaelc2blV4RjYySmVWdERsajdOcGhxMThRcUdVX3p2UWFmNFo5YnAtZFV1Z2dmN3JVREJxRHlJX1BWb2syMldVZWFyczB1WH",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lTFNHOGtTQTN3M0RYeWN1cnh0V0FwOUlDMDZaelc2blV4RjYySmVWdERsajdOcGhxMThRcUdVX3p2UWFmNFo5YnAtZFV1Z2dmN3JVREJxRHlJX1BWb2syMldVZWFyczB1WHhHaQ?oc=5",
-      "published_at": "Tue, 22 Sep 2026 10:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "［社説］ドイツは極右台頭に対応急げ - 日本経済新聞"
-    },
-    {
-      "id": 462,
-      "category": "News",
-      "title": "元KAT-TUN田口淳之介が結婚＆第1子男児誕生を報告 お相手は年下の一般女性 - オリコンニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE81YWl4bmtBOGNURzZwcHFHWUV6aEZ1a3E4dmNxYkllbzI5MzJIb3Z3UG54cTNWTUhaYWVIWkJQQmxpcXV5TWlsbnYwbTZ1ZGdHZzFmVEJ3?oc=5\" target=\"_blank\">元KA",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81YWl4bmtBOGNURzZwcHFHWUV6aEZ1a3E4dmNxYkllbzI5MzJIb3Z3UG54cTNWTUhaYWVIWkJQQmxpcXV5TWlsbnYwbTZ1ZGdHZzFmVEJ3?oc=5",
-      "published_at": "Tue, 22 Sep 2026 09:46:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "元KAT-TUN田口淳之介が結婚＆第1子男児誕生を報告 お相手は年下の一般女性 - オリコンニュース"
-    },
-    {
-      "id": 322,
-      "category": "Product",
-      "title": "1,000ドル切り「Googlebook」に淡い希望？ MediaTekの新チップが手頃なPC化の鍵になるかも",
-      "summary": "MediaTekが開発中の新チップ「Dimensity CX C10 Max」が、1,000ドルを切る低価格なGooglebook登場の鍵となるか。その性能と価格への影響とは？",
-      "url": "https://www.gizmodo.jp/article/2609-mediatek-googlebook-chip/",
-      "published_at": "Tue, 22 Sep 2026 09:30:00 GMT",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "1,000ドル切り「Googlebook」に淡い希望？ MediaTekの新チップが手頃なPC化の鍵になるかも"
-    },
-    {
-      "id": 356,
-      "category": "Global",
-      "title": "DePauw Ranked 12th Most Innovative College in U.S. News & World Report Ranking - DePauw University",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzBaaW1rU3N4WUZGUC1IQlIwd19tWWd0MGhDaTV6ZmtwSEJHZ1J6VTRXa1E0YmpNSmlCUFZQVDNqc2JDSFRZZV83eEJJR1EwcFZJUDlpbGQwZXBRMHhqUERPUTVYaWFubjNrNVg2cz",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzBaaW1rU3N4WUZGUC1IQlIwd19tWWd0MGhDaTV6ZmtwSEJHZ1J6VTRXa1E0YmpNSmlCUFZQVDNqc2JDSFRZZV83eEJJR1EwcFZJUDlpbGQwZXBRMHhqUERPUTVYaWFubjNrNVg2czEwTVBIWEpQcl9DMWd2RHZ4OFhHNlhzR2tlTllocHVvS2JPLVREWVE4X1NqOGVVazJkWnJxY3FPbk8wVEFScDhhVkw5ZEk?oc=5",
-      "published_at": "Tue, 22 Sep 2026 09:29:05 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "DePauw Ranked 12th Most Innovative College in U.S. News & World Report Ranking - DePauw University"
-    },
-    {
-      "id": 387,
-      "category": "Global",
-      "title": "President Lai meets World Alliance for Disaster Management delegation leaders-News releases-News & activities - Office of the President Republic of China(Taiwan)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VYVJrWjBaWGpZeWRlZjlVS0dUZUJSQVJZaDhZanBadFowQWVxSVMxNHRBZTQ0emJYbEttVnVrT0FIV2tiRXBlckktMUY1NkpvSkRPaw?oc=5\" target=\"_blank\">President Lai",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VYVJrWjBaWGpZeWRlZjlVS0dUZUJSQVJZaDhZanBadFowQWVxSVMxNHRBZTQ0emJYbEttVnVrT0FIV2tiRXBlckktMUY1NkpvSkRPaw?oc=5",
-      "published_at": "Tue, 22 Sep 2026 09:12:34 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "President Lai meets World Alliance for Disaster Management delegation leaders-News releases-News & activities - Office of the President Republic of China(Taiwan)"
-    },
-    {
-      "id": 345,
-      "category": "Global",
-      "title": "EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXozX2ozakFHQ0YycG5kazljc1Q0UW5hWVY5S2Q5THRPWlh4OWRBR1hBOFpHOWoxcmsta1VrbmFsLTQzdlFPdlFWVkZmWVF3cUpMa05sVkExNlY5V004TUtpZVZmYzhmZVZFTklhSk",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXozX2ozakFHQ0YycG5kazljc1Q0UW5hWVY5S2Q5THRPWlh4OWRBR1hBOFpHOWoxcmsta1VrbmFsLTQzdlFPdlFWVkZmWVF3cUpMa05sVkExNlY5V004TUtpZVZmYzhmZVZFTklhSkZaT0xsVER5SDFjWkxGNVpwcmlzcF94Z0tGWGtrQmtWVEhXN1Y1a2c4QVZ3SFVhQllzWUswMEhjV2dFSGNaNkhsWUcxZlZyNVBVcGFTSGVzWGdCc2cwQXMxY1NXVmZtcl9jRWhnMw?oc=5",
-      "published_at": "Tue, 22 Sep 2026 09:11:00 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live - The Guardian"
-    },
-    {
-      "id": 461,
-      "category": "News",
-      "title": "ヒカル「農家を救う」コメ事業に1年半で興味なくなる…販売担当者が明かした舞台裏にSNSで批判集まる「再生回数稼ぎに利用されただけ」（SmartFLASH） - Yahoo!ニュース",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5CdGxKaUowWWpWMlVJcnVRc0VEUFREYjE1UXd4TGZsZXgteXJyOHVQLUo2cGdVTGVNeEJwal9mdGJTMW1ZbXA0TmFWdjVILWhPSU9nOTlTWGItSkJDV0EwSmJDbndjTWpORDRsZ3BHSE",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CdGxKaUowWWpWMlVJcnVRc0VEUFREYjE1UXd4TGZsZXgteXJyOHVQLUo2cGdVTGVNeEJwal9mdGJTMW1ZbXA0TmFWdjVILWhPSU9nOTlTWGItSkJDV0EwSmJDbndjTWpORDRsZ3BHSEVjWFllNkVrNElFNjVoUUE?oc=5",
-      "published_at": "Tue, 22 Sep 2026 09:10:15 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "ヒカル「農家を救う」コメ事業に1年半で興味なくなる…販売担当者が明かした舞台裏にSNSで批判集まる「再生回数稼ぎに利用されただけ」（SmartFLASH） - Yahoo!ニュース"
-    },
-    {
-      "id": 374,
-      "category": "Global",
-      "title": "See the new University of Tennessee rankings from US News & World Report - Knoxville News Sentinel",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVpCRllnMnpuWllxdjBRMGpQbzVYejdnRWw0cUJzRXJJQUFKaUs0bWJZMy1rV295dFFpamJOcGJJRXFva01ZNjdWM1ZMY2djajNYZi1xbkNLY21malFwTWFTSDJudUVmaXZTRFF5a2",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVpCRllnMnpuWllxdjBRMGpQbzVYejdnRWw0cUJzRXJJQUFKaUs0bWJZMy1rV295dFFpamJOcGJJRXFva01ZNjdWM1ZMY2djajNYZi1xbkNLY21malFwTWFTSDJudUVmaXZTRFF5a2VSc2tla3FscWNvWlQ1aFZUV0p4dHVSc1EydVRIOTdiWm4xSWVEcmZIT0FuZDhWYmJlc0trTGQ2aWhXSlVMcXU2S2dpd3hrWXlhR0pzbVJESU8?oc=5",
-      "published_at": "Tue, 22 Sep 2026 09:07:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "See the new University of Tennessee rankings from US News & World Report - Knoxville News Sentinel"
-    },
-    {
-      "id": 335,
-      "category": "Global",
-      "title": "Trump to zero-in on Iran nuclear threat, Gaza plan and UN overhaul in world stage speech - Fox News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN0YyenBubVNIa3kyMm83c01FWjVYM1VEdi1DbEp4d2ZlREhVSC15WG1tVkFBdV84Sk15STFBNFN6VUlKaFl2U3FLMTNHMTRwY0xUYnd1eHRtcTZILWp4aElIbkcwWDdyVUgzRGdlOE",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN0YyenBubVNIa3kyMm83c01FWjVYM1VEdi1DbEp4d2ZlREhVSC15WG1tVkFBdV84Sk15STFBNFN6VUlKaFl2U3FLMTNHMTRwY0xUYnd1eHRtcTZILWp4aElIbkcwWDdyVUgzRGdlOE53cHF2SXlOZzVmcGVxclVBdmdDNnUyODJtclQzeEh6MUUtdW9yaUItNHlxS1NHeHluQUhXM00xQi1CSnPSAbABQVVfeXFMUGVIY25jdTdZSUN4MzIxdVhUbmtwaDk3Q0N2NGg2NU5iVnVzdk8zUmJVV2diX2NObDAtUWtWWHB4NG5vcnJ4bFUyVVlMLUg1Yy0wY1E3aFRRN3pvM3dpY3VDdU9OdEcxRnR4ZGZvN3R2aks5QzVWZ29EcjU5UjlzcmRnQWZRQ1FjQ29pMmVCajE2aDRNOER1cWh2eDVUQW9hRm5JS181YTdYb3RyX2w4aEw?oc=5",
-      "published_at": "Tue, 22 Sep 2026 09:00:51 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Trump to zero-in on Iran nuclear threat, Gaza plan and UN overhaul in world stage speech - Fox News"
-    },
-    {
-      "id": 323,
-      "category": "Product",
-      "title": "未発表Apple M6 Proのベンチマーク結果が…！ え？ ニセモノなの？",
-      "summary": "未発表のApple M6 Proチップとされたベンチマークスコアにニセモノの可能性が浮上。",
-      "url": "https://www.gizmodo.jp/article/2609-m6-pro-benchmark-fake/",
-      "published_at": "Tue, 22 Sep 2026 09:00:00 GMT",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "未発表Apple M6 Proのベンチマーク結果が…！ え？ ニセモノなの？"
-    },
-    {
-      "id": 443,
-      "category": "News",
-      "title": "26日以降は九州～関東で雨が降りやすい　新たに台風のたまご「熱帯低気圧」が発生へ(気象予報士 藤川　徹 2026年09月22日) - tenki.jp",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9OQ091cDBFNHBZUjNBdGdRWlFZejNFSEtUamZITUtiTWdlZUpIVGcybHM5N3hXZGpjM3hYNU9vNDM1RlFWcTZ1dUtYUEpHYkh3aW9NTHkwRGdxT1l0ZFlrbVlaSlFLZWFzc3lhN9IBck",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OQ091cDBFNHBZUjNBdGdRWlFZejNFSEtUamZITUtiTWdlZUpIVGcybHM5N3hXZGpjM3hYNU9vNDM1RlFWcTZ1dUtYUEpHYkh3aW9NTHkwRGdxT1l0ZFlrbVlaSlFLZWFzc3lhN9IBckFVX3lxTE9PRWlUbXRvX1l5NjBJengzTFljTVFhQ1pkYjdGSUhQdnZzYzhuX3BPOS1aajd6ZHpfOC1wbzNtVTlnSUxZSm5JSllsYkVaYS04NUxBLVJHYXEwcFRWZFZrQjhVY183VVVyS1Y0Y1RKVHZVdw?oc=5",
-      "published_at": "Tue, 22 Sep 2026 08:49:27 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "26日以降は九州～関東で雨が降りやすい　新たに台風のたまご「熱帯低気圧」が発生へ(気象予報士 藤川　徹 2026年09月22日) - tenki.jp"
-    },
-    {
-      "id": 395,
-      "category": "Global",
-      "title": "World Supercross updates investment plans and cancels British GP - fim-moto.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRGJsV1lsYzZYQmxES05LMnpkS3ZzQzBVa0lLb0NHdzRGWFFXNGJjS2hQdDIyVW5GbFZ4aFdHeGxnZ2MteUR3NkRrbEZCNThDZUQwb1BBTGwxTHJROFJGUnFvSnhvblo5NXJwM2NPdT",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRGJsV1lsYzZYQmxES05LMnpkS3ZzQzBVa0lLb0NHdzRGWFFXNGJjS2hQdDIyVW5GbFZ4aFdHeGxnZ2MteUR3NkRrbEZCNThDZUQwb1BBTGwxTHJROFJGUnFvSnhvblo5NXJwM2NPdTVVYlFsemRiX2JJdTFRZ2RWSEdIRHNQM1RmUTR6Y1hEa1RrRlpCV1VVUjlkRjBNUXh2TUFwQlRBTTFtQTkxOE5tcWdqbUtqeVc1?oc=5",
-      "published_at": "Tue, 22 Sep 2026 08:41:54 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "World Supercross updates investment plans and cancels British GP - fim-moto.com"
-    },
-    {
-      "id": 456,
-      "category": "News",
-      "title": "iPhone Duo向け小型Apple Pencil、量産前に計画中止か　既存USB-Cモデルで年内対応へ - 財経新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CQmZ0Z29PaVhIY2JRY0M0Q1ZndVBnUnBVek5JNU45WWNaalQyLVEtM1k5VGpOWFhPUGxsOHlyMUhIUGhaMC0tMl90c19TNW1mZGYxeUNoWU9laWZqYmFsSUt2UdIBaEFVX3",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CQmZ0Z29PaVhIY2JRY0M0Q1ZndVBnUnBVek5JNU45WWNaalQyLVEtM1k5VGpOWFhPUGxsOHlyMUhIUGhaMC0tMl90c19TNW1mZGYxeUNoWU9laWZqYmFsSUt2UdIBaEFVX3lxTE5sR1V4QzJNNlk1SmRYTzZlRTYxYVpGWjExWVBrWHk0ODFmcWEzQklpSXRia0NKWThsWEwyNkRlaWhWR3BEak9VdGJfdFlrLTBFZ09HbnMyVUpqbnN2V25EaEJkc3Bab2l3?oc=5",
-      "published_at": "Tue, 22 Sep 2026 08:25:08 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "iPhone Duo向け小型Apple Pencil、量産前に計画中止か　既存USB-Cモデルで年内対応へ - 財経新聞"
-    },
-    {
-      "id": 453,
-      "category": "News",
-      "title": "秋の大型連休 各地でUターンラッシュピーク - NHKニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SYldpM3BYaGJQNE42Qk8tRnVDNUtyY2hWaTgtQnNGYkJJdms1emN6LWl4ZXByQU5NeWlKRkIzQ3E0RGg4a1hDamtnVzZORFNXTjNTYmNCUHp2NVN2Wk4w?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SYldpM3BYaGJQNE42Qk8tRnVDNUtyY2hWaTgtQnNGYkJJdms1emN6LWl4ZXByQU5NeWlKRkIzQ3E0RGg4a1hDamtnVzZORFNXTjNTYmNCUHp2NVN2Wk4w?oc=5",
-      "published_at": "Tue, 22 Sep 2026 08:25:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "秋の大型連休 各地でUターンラッシュピーク - NHKニュース"
-    },
-    {
-      "id": 447,
-      "category": "News",
-      "title": "トランプ氏、イラン攻撃の「成果」正当化か 国連総会で一般討論演説へ - 日本経済新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFAxOGU1N2J3SmQ4Zi1JdlgzUHZuUkw4eXVUY3RfVnpDTXlVc3dfb3V1R2RST0VMbTFRcUtkdkI3UXhZYS13bGR6Q0xfeWtVb2NnRS1HdFVhckxxdFQ3RjFtLTRzajQ1Zk5ScS",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxOGU1N2J3SmQ4Zi1JdlgzUHZuUkw4eXVUY3RfVnpDTXlVc3dfb3V1R2RST0VMbTFRcUtkdkI3UXhZYS13bGR6Q0xfeWtVb2NnRS1HdFVhckxxdFQ3RjFtLTRzajQ1Zk5ScS02Vw?oc=5",
-      "published_at": "Tue, 22 Sep 2026 08:05:59 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "トランプ氏、イラン攻撃の「成果」正当化か 国連総会で一般討論演説へ - 日本経済新聞"
-    },
-    {
-      "id": 324,
-      "category": "Product",
-      "title": "さすが6万円のドライヤー。すぐ乾くし髪もしっかりケアしてくれる",
-      "summary": "6万円の高級ドライヤー「ナノケア ULTIMATE EH-NC50」をレビュー。圧倒的な速乾性と髪のケア効果を両立し、毎日のドライ時間を半減させる実力を徹底解説します。",
-      "url": "https://www.gizmodo.jp/article/2609-nanocare-eh-nc50-review/",
-      "published_at": "Tue, 22 Sep 2026 08:00:00 GMT",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "さすが6万円のドライヤー。すぐ乾くし髪もしっかりケアしてくれる"
-    },
-    {
-      "id": 455,
-      "category": "News",
-      "title": "この低音むっちゃ面白い！ 耳をふさがないのに極太ベースが響く、英国・個性派イヤホンの音に夢中になった！ (1/5) - ASCII.jp",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VZDE2ZU85bDF0clV1cWExVzVleS1IcUtzX1lTREtCeGRjZWVCRkVWT0lXMm1ZVkU1RjVpOU1rTmRZdmpQblZaWURnaUxza0VvMm5rYg?oc=5\" target=\"_blank\">この低音むっちゃ面白い！ ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VZDE2ZU85bDF0clV1cWExVzVleS1IcUtzX1lTREtCeGRjZWVCRkVWT0lXMm1ZVkU1RjVpOU1rTmRZdmpQblZaWURnaUxza0VvMm5rYg?oc=5",
-      "published_at": "Tue, 22 Sep 2026 08:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "この低音むっちゃ面白い！ 耳をふさがないのに極太ベースが響く、英国・個性派イヤホンの音に夢中になった！ (1/5) - ASCII.jp"
-    },
-    {
-      "id": 465,
-      "category": "News",
-      "title": "プロ野球 広島 新井監督続投の方針 来季は就任5年目へ - NHKニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5QUlleGtHTElCclc5bkxTSmUyRmlpVUlGU1VLN19WbEdNb2RlNW9YdlBCMG9wQS1nR2wtTDZpcmJTRVBRYzVHYkNnbXZwTkVoLXBZeEJ5SldPT0hZdl9B?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5QUlleGtHTElCclc5bkxTSmUyRmlpVUlGU1VLN19WbEdNb2RlNW9YdlBCMG9wQS1nR2wtTDZpcmJTRVBRYzVHYkNnbXZwTkVoLXBZeEJ5SldPT0hZdl9B?oc=5",
-      "published_at": "Tue, 22 Sep 2026 07:49:54 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "プロ野球 広島 新井監督続投の方針 来季は就任5年目へ - NHKニュース"
-    },
-    {
-      "id": 422,
-      "category": "Global",
-      "title": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd041ekhrbW5NY0lDU3Rqcm9MOTlXNjFDMy1ZSlZIai11UVl6Ql96WjdjUEcwd25PVmM5ellaQWlDZjY3bGxsZkZZV0xRaWpUaEptQzYyekpTOXBBNENQNV93YnNZZ1RZczlvb1BLTT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd041ekhrbW5NY0lDU3Rqcm9MOTlXNjFDMy1ZSlZIai11UVl6Ql96WjdjUEcwd25PVmM5ellaQWlDZjY3bGxsZkZZV0xRaWpUaEptQzYyekpTOXBBNENQNV93YnNZZ1RZczlvb1BLTTV3bUNZc0pDa2NOdjdRR0E0cWM1ZUxvVm8wZmlUUS1QdS1vMmhqSEhfX3hvSURvamxoaGR3aTJVVDFBemxhMW5GSjNkNklKQkhZRndNNjVCejJvOEhac3FDWHZJMDVpbWhL?oc=5",
-      "published_at": "Tue, 22 Sep 2026 07:36:00 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong - The Guardian"
-    },
-    {
-      "id": 439,
-      "category": "News",
-      "title": "【独自】イラン、早期の海峡開放提案 米封鎖解除後「7日以内」 - 47NEWS",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xNUZjeHdlb2tzMXMwSWJ4N3pQM3ZvdVpWVFh0V3FRYlNFeUhWZjBSTTFISHVzSkhuQjRHUzhXb0dDWVR0Um11bU8xaw?oc=5\" target=\"_blank\">【独自】イラン、早期の海峡開放提案",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xNUZjeHdlb2tzMXMwSWJ4N3pQM3ZvdVpWVFh0V3FRYlNFeUhWZjBSTTFISHVzSkhuQjRHUzhXb0dDWVR0Um11bU8xaw?oc=5",
-      "published_at": "Tue, 22 Sep 2026 07:18:30 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "【独自】イラン、早期の海峡開放提案 米封鎖解除後「7日以内」 - 47NEWS"
-    },
-    {
-      "id": 336,
-      "category": "Global",
-      "title": "‘The fault lines in our world are widening’, António Guterres warns as world leaders gather for UN General Assembly– live updates - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRVdWT084RlVDOEFDaFZDblR1b0ZBZVlpdzFkMXd5RzZISlBEaTNjN0dldEtrdW83c2hOYkoxUUpDYVY3UTN2SmhtQnpvaVJrQXA1ZFRjdUpsVnFrcUwxXzlnQjhTWkRPdHZIOUZQVm",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRVdWT084RlVDOEFDaFZDblR1b0ZBZVlpdzFkMXd5RzZISlBEaTNjN0dldEtrdW83c2hOYkoxUUpDYVY3UTN2SmhtQnpvaVJrQXA1ZFRjdUpsVnFrcUwxXzlnQjhTWkRPdHZIOUZQVmFPRVpjb0tEcXk5OTI0aU5qX0dzUWt0b19STFdXcW94NEJRUHpiMUlSVFVtcHhUTXVHcVJCQlR0emVJV2JYcEtic2x4VEpVWV9uYVZpRldhWTlaemRBQjlJeExXWTE0RHV0UktpZ3hiVk5qbWNvNHBmcWtCamc4dw?oc=5",
-      "published_at": "Tue, 22 Sep 2026 07:14:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "‘The fault lines in our world are widening’, António Guterres warns as world leaders gather for UN General Assembly– live updates - The Guardian"
-    },
-    {
-      "id": 391,
-      "category": "Global",
-      "title": "New Zealand Commune's Funding Trust Loses Charity Status Over Child Labor and Other Misconduct - U.S. News & World Report",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ0hGbXViZk82VFduRjQ3bmpxLWZpOUtLZFl6ZEpSa1JvWmxlZloxZ1YwNDZyWEQ2OERMNlZHOUsxZktlTWhXN0V3R2RiU1JNdEhQbThfV3FCSTV3cnFfOWFrNWgwX1BGRXRheVJ3ST",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ0hGbXViZk82VFduRjQ3bmpxLWZpOUtLZFl6ZEpSa1JvWmxlZloxZ1YwNDZyWEQ2OERMNlZHOUsxZktlTWhXN0V3R2RiU1JNdEhQbThfV3FCSTV3cnFfOWFrNWgwX1BGRXRheVJ3STluN09JUGY3Q2VjUVdPWDI0Y0Rqd1VpQjltOUI4b3RVc0oxVC12OUNVWVpyeXBEUW93U1lIMmVRRzZPbDBPNGxKT1B0QkVhUEJ6NnV2MGtRaDd6a0wzZGl2eldFZ2wwdHA0Z1BJV3Vnem0tcnNlQV91eQ?oc=5",
-      "published_at": "Tue, 22 Sep 2026 06:49:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "New Zealand Commune's Funding Trust Loses Charity Status Over Child Labor and Other Misconduct - U.S. News & World Report"
-    },
-    {
-      "id": 460,
-      "category": "News",
-      "title": "松村北斗＆今田美桜、まさかの“お蔵入り”告白「出なくて、すごく変な空気に」 - テレ朝NEWS",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9UV3VNZ2lDUlRlWW9QVjJKZTJicnJ4dUtmUVRKZzNqVnBFMzJtWk44SlZaQlVkT1ROLWZKOFh3OWtaajN1SktrTHM5NkRWUnN0bDdZemt2cGxKbnFhem5Lc2NiQlJoMnNqcW",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UV3VNZ2lDUlRlWW9QVjJKZTJicnJ4dUtmUVRKZzNqVnBFMzJtWk44SlZaQlVkT1ROLWZKOFh3OWtaajN1SktrTHM5NkRWUnN0bDdZemt2cGxKbnFhem5Lc2NiQlJoMnNqcWRzSzA5ck8?oc=5",
-      "published_at": "Tue, 22 Sep 2026 06:49:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "松村北斗＆今田美桜、まさかの“お蔵入り”告白「出なくて、すごく変な空気に」 - テレ朝NEWS"
-    },
-    {
-      "id": 407,
-      "category": "Global",
-      "title": "South Sudan's President Signs Election Law Changes Ahead of December Vote - U.S. News & World Report",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOR0FHZHhDYndqX2dsNTNBY0NKRGk1c0xFUFh5RV9PT1RBQ3VVa3hEbV81UkYwanBvWGlpcVBvQnRidTNoeFJEZl9MV0JQNkphTlEycF9nRVlxbzdqRGpBbHdMUzc2U0ZIOWhCNjNuQz",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR0FHZHhDYndqX2dsNTNBY0NKRGk1c0xFUFh5RV9PT1RBQ3VVa3hEbV81UkYwanBvWGlpcVBvQnRidTNoeFJEZl9MV0JQNkphTlEycF9nRVlxbzdqRGpBbHdMUzc2U0ZIOWhCNjNuQzFJV1pHZ1hMQVRtUGJiU1k0OVY1WXZhZ0hmU0pvb3ZlN0lQeU4wYTl1amQtS3FqelRYLUtTR2VibHJWS245ZTNwbm9waHpIYWoxdjlKT2gyU3N3d0Vj?oc=5",
-      "published_at": "Tue, 22 Sep 2026 06:16:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "South Sudan's President Signs Election Law Changes Ahead of December Vote - U.S. News & World Report"
-    },
-    {
-      "id": 325,
-      "category": "Product",
-      "title": "オレゴン州の電気、すでに4分の1がデータセンター行き（2030年には3割超え）",
-      "summary": "4分の1って、けっこうな量ですよ。アメリカ・オレゴン州にあるデータセンターが、2025年に州全体の小売電力販売量の約23％を使っていたことがわかりました。地元の調査会社「ECOnorthwest」とバージニア大学がまとめ、ポートランドの非営…",
-      "url": "https://www.gizmodo.jp/article/oregon-data-centers-quarter-power/",
-      "published_at": "Tue, 22 Sep 2026 06:00:00 GMT",
-      "importance": 1,
-      "source_name": "Gizmodo JP",
-      "translated_title": "オレゴン州の電気、すでに4分の1がデータセンター行き（2030年には3割超え）"
-    },
-    {
-      "id": 223,
-      "category": "AI/IT",
-      "title": "Morphotonics raises €40M to expand its display tech into data centers",
-      "summary": "Deep tech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
-      "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
-      "published_at": "Tue, 22 Sep 2026 06:00:00 +0000",
-      "importance": 3,
-      "source_name": "TechCrunch",
-      "translated_title": "Morphotonics raises €40M to expand its display tech into data centers"
-    },
-    {
-      "id": 458,
-      "category": "News",
-      "title": "火星衛星からサンプル採取へ 相模原の神社で成功祈願 - 相模原町田経済新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LeFEyR2d0OTZJb3FFb19BZldydGFwSGtYVkNFQlgwWVRlUlpLZzZYSF9leDdNSXpJdmZGQlhReWJEY3haX0xfQlJhanZHN0M0cTlJ?oc=5\" target=\"_blank\">火星衛星からサ",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LeFEyR2d0OTZJb3FFb19BZldydGFwSGtYVkNFQlgwWVRlUlpLZzZYSF9leDdNSXpJdmZGQlhReWJEY3haX0xfQlJhanZHN0M0cTlJ?oc=5",
-      "published_at": "Tue, 22 Sep 2026 05:46:51 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "火星衛星からサンプル採取へ 相模原の神社で成功祈願 - 相模原町田経済新聞"
+      "translated_title": "家路へ長～い車列 「シルバーウイーク」Uターンラッシュがピーク 県内高速道路、各地で渋滞|社会 - 神戸新聞"
     }
   ],
   "trends": [
     "news",
     "world",
     "report",
-    "university",
     "rankings",
-    "leaders",
-    "ニュ",
-    "iran",
+    "university",
     "trump",
-    "top",
     "best",
+    "top",
+    "college",
+    "iran",
+    "latest",
     "com"
   ]
 }
