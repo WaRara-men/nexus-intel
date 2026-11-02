@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-02T00:18:47.682148",
+  "last_updated": "2026-11-02T07:18:28.434518",
   "items": [
     {
-      "id": 176,
+      "id": 169,
       "category": "Global",
       "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health - UN News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mX2NXUUJNLW4zdVRQcjhzWklXRlpoY2NNckV5QXVHZ2JnQkg0dGJPdjdlRkxSTGtLeFlKQVdFSnFxLXhxa0hWQUc1RmUzVk9TZXNUTGpBdw?oc=5\" target=\"_blank\">World New",
@@ -13,7 +13,7 @@
       "translated_title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health - UN News"
     },
     {
-      "id": 217,
+      "id": 212,
       "category": "Global",
       "title": "Europe stands by Ukraine – but how long can that last? | World news - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbVlaQ21sQzdMLUdIdU9pV1hQeGxXN2l0Z01Cc1F5YkoyZG94TFp4aFdXYmpQRGZJdnJfSWV1eHV2c1pxa2JuT3NiRmtBWDNKWXpuUW1jNWNHQ1NRQ1dTMmZjQ1U5ZWhGOHRnSjl6ZD",
@@ -35,7 +35,7 @@
       "translated_title": "Rethinking Robot Safety in the Age of AI"
     },
     {
-      "id": 207,
+      "id": 197,
       "category": "Global",
       "title": "World News in Brief: Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable development - UN News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvVEExazVpNWRXZFV2bU4wSlFBaFI0V29lTHh1WjZrZmVqdUdqeUdFRmlCV1RxNGVEdlRrZHZTM1ZpMVBFazVXVlJTSENMZVdSOXZYOEd6cw?oc=5\" target=\"_blank\">World New",
@@ -44,6 +44,17 @@
       "importance": 3,
       "source_name": "Google News World",
       "translated_title": "World News in Brief: Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable development - UN News"
+    },
+    {
+      "id": 220,
+      "category": "Global",
+      "title": "World's oldest shipwreck found off Kekova Island in Turkey - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PcjhBeFpSOHdzZWRrdll4QkxDU2tjejNVLWt1ektxd3NpMkg0enp1aDVOM0JMZzR3LUptd2JGQURUdjI3VDRBaURwa3d2RDdnNmVpTzlJSGsyd3M?oc=5\" target=\"_blank\">Worl",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PcjhBeFpSOHdzZWRrdll4QkxDU2tjejNVLWt1ektxd3NpMkg0enp1aDVOM0JMZzR3LUptd2JGQURUdjI3VDRBaURwa3d2RDdnNmVpTzlJSGsyd3M?oc=5",
+      "published_at": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "World's oldest shipwreck found off Kekova Island in Turkey - BBC"
     },
     {
       "id": 29,
@@ -55,6 +66,28 @@
       "importance": 5,
       "source_name": "IEEE Robotics",
       "translated_title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction"
+    },
+    {
+      "id": 218,
+      "category": "Global",
+      "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine - UN News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HVGxtMk43bFBRN3ExU2Qzem5tTjljcHMtT0xyYVRBanNJVm9jUEwzaENRM0psOEpiSDlGanhHY19vU3ZQQWZLdGhCUDFEVV9hQTJJa2s5QQ?oc=5\" target=\"_blank\">World New",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HVGxtMk43bFBRN3ExU2Qzem5tTjljcHMtT0xyYVRBanNJVm9jUEwzaENRM0psOEpiSDlGanhHY19vU3ZQQWZLdGhCUDFEVV9hQTJJa2s5QQ?oc=5",
+      "published_at": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine - UN News"
+    },
+    {
+      "id": 217,
+      "category": "Global",
+      "title": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update - UN News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1cXpybXJRWXdVRXlySk1oSzBlLWtTWWhnSnlvTF9nNGpySnpYRTR5TzhhMXNjbXdYLXQ3bmdKSEJtNHZVblUya3JDdlpyZWtWb1d4UXBjWQ?oc=5\" target=\"_blank\">World New",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1cXpybXJRWXdVRXlySk1oSzBlLWtTWWhnSnlvTF9nNGpySnpYRTR5TzhhMXNjbXdYLXQ3bmdKSEJtNHZVblUya3JDdlpyZWtWb1d4UXBjWQ?oc=5",
+      "published_at": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update - UN News"
     },
     {
       "id": 22,
@@ -123,7 +156,7 @@
       "translated_title": "Q&A: Mars Perseverance Rover Sets a Distance Record"
     },
     {
-      "id": 199,
+      "id": 186,
       "category": "Global",
       "title": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update - UN News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE56dy1SZDF4V3E3WThCR2VtbGRTNjJqd2Z0UU5oSXdmeGlDYlc1eFE0VEJLTmZfbnhoLTBGSEo4LVdZR2cxWENEN0FvZlJxdEdiczdfeXVWQQ?oc=5\" target=\"_blank\">World New",
@@ -132,17 +165,6 @@
       "importance": 1,
       "source_name": "Google News World",
       "translated_title": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update - UN News"
-    },
-    {
-      "id": 136,
-      "category": "Global",
-      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update - UN News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JY29RNmxnQ2xMMTJ4Yks4MFhSR3hJSkw2NmxyVkdINW0wbDNRMTRGaXhjNEZIQm9lVlFtM2ZiX2tqRExEdU96bWZ4U1VzRlVaemo3dm9FMA?oc=5\" target=\"_blank\">World New",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JY29RNmxnQ2xMMTJ4Yks4MFhSR3hJSkw2NmxyVkdINW0wbDNRMTRGaXhjNEZIQm9lVlFtM2ZiX2tqRExEdU96bWZ4U1VzRlVaemo3dm9FMA?oc=5",
-      "published_at": "Thu, 29 Oct 2026 19:43:19 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update - UN News"
     },
     {
       "id": 34,
@@ -154,6 +176,17 @@
       "importance": 3,
       "source_name": "IEEE Robotics",
       "translated_title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform"
+    },
+    {
+      "id": 214,
+      "category": "Global",
+      "title": "World News in Brief: ‘New intensity’ to Russian attacks on Ukraine, Yemen, Gaza and Colombia updates - UN News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2TlEwU0VjUjhYclhhTHVnSXBHdFROS2dmMzRGZ1RLUHJ3NUtmckJFejlSTTdnQUljZE0xYUx5S1A1amFtWkNYYk9IS1d3VjMwRTBOYllDcw?oc=5\" target=\"_blank\">World New",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2TlEwU0VjUjhYclhhTHVnSXBHdFROS2dmMzRGZ1RLUHJ3NUtmckJFejlSTTdnQUljZE0xYUx5S1A1amFtWkNYYk9IS1d3VjMwRTBOYllDcw?oc=5",
+      "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "World News in Brief: ‘New intensity’ to Russian attacks on Ukraine, Yemen, Gaza and Colombia updates - UN News"
     },
     {
       "id": 40,
@@ -211,7 +244,7 @@
       "translated_title": "Atlas Robot’s New Hand May Outperform Humanlike Designs"
     },
     {
-      "id": 157,
+      "id": 152,
       "category": "Global",
       "title": "Giving AI a “crystal clear” view of the materials world - MIT News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmJPV2RZSlBnUXVGT3o3Tkpmc0E2aDJqa2JHUER4Q2ZXQlQ3U3E0ZG4zclZTOEJ1dUNqTHlwaVFkc243akhLd0RYZHFxWXh1VHU5R18yaDdGZ0dFWDFqZm9zWnVEaHFmdW1UUVRYND",
@@ -222,7 +255,7 @@
       "translated_title": "Giving AI a “crystal clear” view of the materials world - MIT News"
     },
     {
-      "id": 202,
+      "id": 190,
       "category": "Global",
       "title": "News fatigue: what it is and how to avoid it - The University of North Carolina at Chapel Hill",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9ieHI3YUhhemVuZ0ZHVHlHYlRMMmFzcHhMSFRqdGFFM0NQX2pjZ2s3eGpxdEdSdVZJak9FeDdqSklvV0N0VDlyai1FWDRZb3dkMXY5RW9veVZaOHZmMlhPNEZiQzdwMFh6YTRRS1FnUz",
@@ -233,7 +266,18 @@
       "translated_title": "News fatigue: what it is and how to avoid it - The University of North Carolina at Chapel Hill"
     },
     {
-      "id": 102,
+      "id": 225,
+      "category": "News",
+      "title": "小型ジェット機が住宅街へ墜落の瞬間 搭乗者9人全員が死亡 アメリカ・フロリダ州 - FNNプライムオンライン",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiSnBBOEVZa0lOUUh3RTFNSi1RYkYzYjhBSm4tS25QRkU3MkpFS0pqbWZjZ3AtTzRST1lxNDdZbWhxVGNPM09WbkVCaDgzUQ?oc=5\" target=\"_blank\">小型ジェット機が住宅街へ墜落の瞬間 搭乗者",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiSnBBOEVZa0lOUUh3RTFNSi1RYkYzYjhBSm4tS25QRkU3MkpFS0pqbWZjZ3AtTzRST1lxNDdZbWhxVGNPM09WbkVCaDgzUQ?oc=5",
+      "published_at": "Sun, 01 Nov 2026 23:43:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "小型ジェット機が住宅街へ墜落の瞬間 搭乗者9人全員が死亡 アメリカ・フロリダ州 - FNNプライムオンライン"
+    },
+    {
+      "id": 111,
       "category": "Product",
       "title": "GoogleのAIがメガネの中へ。XREAL AURA、ついに日本で予約スタート",
       "summary": "GoogleのAIとAndroid XRを搭載したXREAL AURAが日本で予約開始。価格やスペック、新体験の魅力を解説します。",
@@ -244,29 +288,7 @@
       "translated_title": "GoogleのAIがメガネの中へ。XREAL AURA、ついに日本で予約スタート"
     },
     {
-      "id": 242,
-      "category": "News",
-      "title": "ゲーム業界のビジネスモデル崩壊、救うのは生成AI－創造性復活の可能性 - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTZ1NndzVkIwYVpXY3puTnhjaEtjOXhQenlIS2RsWHhWWVZjUlV4RnR6R0xtdF9DRWVycUkzUE9SUmI4Z3c4WnRTMUdnVnhhOUpQei04a2VjQzhjT0tPNlkxVXdoQ1JYODllRGM5RF",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTZ1NndzVkIwYVpXY3puTnhjaEtjOXhQenlIS2RsWHhWWVZjUlV4RnR6R0xtdF9DRWVycUkzUE9SUmI4Z3c4WnRTMUdnVnhhOUpQei04a2VjQzhjT0tPNlkxVXdoQ1JYODllRGM5RFZaSnItaGRZY3pzZ29DV19jWWRSckhUdEJfbTdYYQ?oc=5",
-      "published_at": "Sun, 01 Nov 2026 23:33:28 GMT",
-      "importance": 3,
-      "source_name": "Google News JP",
-      "translated_title": "ゲーム業界のビジネスモデル崩壊、救うのは生成AI－創造性復活の可能性 - Bloomberg.com"
-    },
-    {
-      "id": 238,
-      "category": "News",
-      "title": "半導体やAI関連株の売り一巡後の底堅さを見極め／東京株オープニングコメント - 財経新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wQ0ZmSmtVNEFMOXNGU1dfVmFPdHE0dVJQYUI2S0paYW5HRTFoMkFmdmd0UG1aMzIxVFJZSm1FS24td2pDOUlNcDAxSV9Ea1pNbkR1Z1lWeTkzUzFQWW9ONlAxWQ?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wQ0ZmSmtVNEFMOXNGU1dfVmFPdHE0dVJQYUI2S0paYW5HRTFoMkFmdmd0UG1aMzIxVFJZSm1FS24td2pDOUlNcDAxSV9Ea1pNbkR1Z1lWeTkzUzFQWW9ONlAxWQ?oc=5",
-      "published_at": "Sun, 01 Nov 2026 23:30:28 GMT",
-      "importance": 3,
-      "source_name": "Google News JP",
-      "translated_title": "半導体やAI関連株の売り一巡後の底堅さを見極め／東京株オープニングコメント - 財経新聞"
-    },
-    {
-      "id": 103,
+      "id": 112,
       "category": "Product",
       "title": "Apple Watch、まさかのiPhone以外のスマホで使えるように！ 機能はまだ限定的",
       "summary": "Apple WatchがHuawei製の一部スマートフォンで利用可能に。現時点では通知の受信など一部機能のみですが、iPhone以外のスマホで使えるようになる第一歩として今後の展開に期待が高まる注目のニュースです。",
@@ -288,29 +310,29 @@
       "translated_title": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old - NBC News"
     },
     {
-      "id": 233,
+      "id": 231,
       "category": "News",
-      "title": "アラスカ上院選の結果認定阻止、地裁認めず 共和党に打撃 - Reuters",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA2cENlOUFpVEc4N0U3MzB6N0g4YXRleGtSTUVsc2VzdEVza3JDN0M3OTFQZmc2OHJaVjhHY3hTa09FY2hra1lVVm51dWs4YjFHRkduRi1tMGE0OXk3WklhcnpYa0JwZU1UMG",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2cENlOUFpVEc4N0U3MzB6N0g4YXRleGtSTUVsc2VzdEVza3JDN0M3OTFQZmc2OHJaVjhHY3hTa09FY2hra1lVVm51dWs4YjFHRkduRi1tMGE0OXk3WklhcnpYa0JwZU1UMGVFRkxDS1g1cUFvM3dEYTJmSGp3eEE?oc=5",
-      "published_at": "Sun, 01 Nov 2026 23:27:08 GMT",
+      "title": "米中間選挙、トランプ氏が接戦州集会で最後の訴え 「共産主義者の米国乗っ取り許さない」 - 産経ニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPcDJPYV9YOW9UclNOT3d4YTQ2bWJ4eU5hTUx0UHFnSng0SDVxSzBiWU5DYjZrTzF5OTduUFJZQnc2ZGVYZDdZX2RaYlVWT3I3R0ZSOVNUUFVuekU0eGtLOXQ1M3VZLTFWTk",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcDJPYV9YOW9UclNOT3d4YTQ2bWJ4eU5hTUx0UHFnSng0SDVxSzBiWU5DYjZrTzF5OTduUFJZQnc2ZGVYZDdZX2RaYlVWT3I3R0ZSOVNUUFVuekU0eGtLOXQ1M3VZLTFWTkNVamxocjE1SnkydVpzanhKRkxKUmNSdFB0aU14aFJ0dFZteg?oc=5",
+      "published_at": "Sun, 01 Nov 2026 23:18:58 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "アラスカ上院選の結果認定阻止、地裁認めず 共和党に打撃 - Reuters"
+      "translated_title": "米中間選挙、トランプ氏が接戦州集会で最後の訴え 「共産主義者の米国乗っ取り許さない」 - 産経ニュース"
     },
     {
-      "id": 249,
-      "category": "News",
-      "title": "佐藤輝明、平良海馬、伊藤大海がポスティング申請 現地時間２日から交渉解禁へ、早期決着も…韓国からも１人申請 - Yahoo!ニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBIRHZjNUI4Q3RqZEp1MTY0QXhhSjloOXNKRGc5RHFnc19HS3dJTThwNU13OXRockVHOXJxQWo1RXhDdFZITUZ5S012YWV3VjROUTJOS0J3U3NWVnF0WkhGV3c3WkpNeThxYz",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIRHZjNUI4Q3RqZEp1MTY0QXhhSjloOXNKRGc5RHFnc19HS3dJTThwNU13OXRockVHOXJxQWo1RXhDdFZITUZ5S012YWV3VjROUTJOS0J3U3NWVnF0WkhGV3c3WkpNeThxYzRzaE5NRzMxOEYzcnRtdjEzclZxVFE?oc=5",
-      "published_at": "Sun, 01 Nov 2026 23:10:40 GMT",
+      "id": 173,
+      "category": "Global",
+      "title": "F1 Mexico GP: Kimi Antonelli clinches world title as Max Verstappen holds off Lewis Hamilton for victory - Motorsport.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1kcFlBaHZMbG50R0FLZThPOGdrQTctc3JNajRvWnhDUmVYUmk0TWNGMEdxRU5mS1ZuMVZOQktkblh2OU9RTzBVMDRGQ1F5djFsWGxXSGs1NDNqR1pnamUwbEpBNENsUnk4ay1QY0R6aX",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kcFlBaHZMbG50R0FLZThPOGdrQTctc3JNajRvWnhDUmVYUmk0TWNGMEdxRU5mS1ZuMVZOQktkblh2OU9RTzBVMDRGQ1F5djFsWGxXSGs1NDNqR1pnamUwbEpBNENsUnk4ay1QY0R6aXJWSGdCSUZiOEx3?oc=5",
+      "published_at": "Sun, 01 Nov 2026 23:15:45 GMT",
       "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "佐藤輝明、平良海馬、伊藤大海がポスティング申請 現地時間２日から交渉解禁へ、早期決着も…韓国からも１人申請 - Yahoo!ニュース"
+      "source_name": "Google News World",
+      "translated_title": "F1 Mexico GP: Kimi Antonelli clinches world title as Max Verstappen holds off Lewis Hamilton for victory - Motorsport.com"
     },
     {
-      "id": 104,
+      "id": 113,
       "category": "Product",
       "title": "画面共有中のパスワード、自動で隠してくれます。ただしAndroid限定",
       "summary": "画面共有中のパスワードや決済画面を自動で隠すAndroidの新機能を紹介。情報漏洩リスクを減らす仕組みの対象範囲がChromeやWebViewにも拡大し、より安全に画面共有が行えるようになります。",
@@ -321,7 +343,7 @@
       "translated_title": "画面共有中のパスワード、自動で隠してくれます。ただしAndroid限定"
     },
     {
-      "id": 151,
+      "id": 140,
       "category": "Global",
       "title": "Baby orangutans in India expose illegal wildlife trade burgeoning in the country - The Journal Gazette",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPNWd4VUdyYnlRM01fWVloTmJ1dlFZUVl2VGk4YXVHck5wXzFsRTg2VWZQQW5WNWo5am54QzItOXNNbXUwQ3ZPM2ozdTRHZzNDWUFVZW9vYk42YV9sUGxwdFVudG5HZ1BaVHMxRVZlWV",
@@ -332,95 +354,51 @@
       "translated_title": "Baby orangutans in India expose illegal wildlife trade burgeoning in the country - The Journal Gazette"
     },
     {
-      "id": 239,
-      "category": "News",
-      "title": "もはや“薄型AVアンプ”の音ではない。マランツ「CINEMA 70s SERIES 2」の進化を、前モデルユーザーが聴く[Sponsored] - AV Watch",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE0ybEtpTGpjeDdJVnJFQ1U2ZXVNZEg4QUR0RjNIUUpyUDJtVWIwU3EycnJoVGluMW5Ra19CdEZwYmMzVmczdG4xT2w1X3Vyb2dveDMyM242bFpFaTg4aFBOTHV1UnRhYWRIMzVjcmtGQQ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ybEtpTGpjeDdJVnJFQ1U2ZXVNZEg4QUR0RjNIUUpyUDJtVWIwU3EycnJoVGluMW5Ra19CdEZwYmMzVmczdG4xT2w1X3Vyb2dveDMyM242bFpFaTg4aFBOTHV1UnRhYWRIMzVjcmtGQQ?oc=5",
-      "published_at": "Sun, 01 Nov 2026 23:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "もはや“薄型AVアンプ”の音ではない。マランツ「CINEMA 70s SERIES 2」の進化を、前モデルユーザーが聴く[Sponsored] - AV Watch"
-    },
-    {
-      "id": 248,
-      "category": "News",
-      "title": "フィギュアＧＰシリーズ、初出場の１８歳島田麻央Ｖ…「納得のいく滑りで楽しく演技することが目標だった」 - 読売新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1ON3dQYzMxUl9Nend2TkFIMkloYnpzdE1UQnoxQ1NMX2lEajBvSVE1QzBVZ0U4WUplRkVyZzNjRTlxTmFqbEpGMmUyOFNRbGZVZW91bktpRGJqUWtYbGhHc1MtRGVSQ05CdW",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ON3dQYzMxUl9Nend2TkFIMkloYnpzdE1UQnoxQ1NMX2lEajBvSVE1QzBVZ0U4WUplRkVyZzNjRTlxTmFqbEpGMmUyOFNRbGZVZW91bktpRGJqUWtYbGhHc1MtRGVSQ05CdWhvXw?oc=5",
-      "published_at": "Sun, 01 Nov 2026 22:59:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "フィギュアＧＰシリーズ、初出場の１８歳島田麻央Ｖ…「納得のいく滑りで楽しく演技することが目標だった」 - 読売新聞"
-    },
-    {
-      "id": 139,
+      "id": 146,
       "category": "Global",
-      "title": "Youngest F1 world champions: How Kimi Antonelli's record-breaking title compares to Sebastian Vettel, Lewis Hamilton, other drivers - Yahoo Sports",
+      "title": "Youngest F1 world champions: How Kimi Antonelli's record-breaking title compares to Lewis Hamilton, other drivers - Yahoo Sports",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzNmUWQ3REVsWFRnRjRRQWJVV25zMlpWNXdTa0FEdHlWV3Y5WWhpR2lPT3Rrbmc3Wk9xLXZsWTV6T0cyR0k3UlFoNW93S3NXbW1OMDR4anR3U0U5UFFOLWc3VzJpdE1FZjNUNHJETl",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzNmUWQ3REVsWFRnRjRRQWJVV25zMlpWNXdTa0FEdHlWV3Y5WWhpR2lPT3Rrbmc3Wk9xLXZsWTV6T0cyR0k3UlFoNW93S3NXbW1OMDR4anR3U0U5UFFOLWc3VzJpdE1FZjNUNHJETlJOVjJ1dWNuRVJFa0N4RHVBZF8wVVFuZjZR?oc=5",
       "published_at": "Sun, 01 Nov 2026 22:53:15 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "Youngest F1 world champions: How Kimi Antonelli's record-breaking title compares to Sebastian Vettel, Lewis Hamilton, other drivers - Yahoo Sports"
+      "translated_title": "Youngest F1 world champions: How Kimi Antonelli's record-breaking title compares to Lewis Hamilton, other drivers - Yahoo Sports"
     },
     {
-      "id": 131,
-      "category": "Global",
-      "title": "All 9 aboard killed after plane crashes in Florida, officials say - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1XTDBCUFdSOUdFS0hVaV9pNmZPQUE1bW1vS2x2aGJoMVdDVlBhS0Q1c21fTnBZOWpmWER4WF85V0s1eXdZakxsUTNYZVM3OHZGSWFIa3ltZmhhTjFlMmpKenIweHJzYVhzQUhB?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XTDBCUFdSOUdFS0hVaV9pNmZPQUE1bW1vS2x2aGJoMVdDVlBhS0Q1c21fTnBZOWpmWER4WF85V0s1eXdZakxsUTNYZVM3OHZGSWFIa3ltZmhhTjFlMmpKenIweHJzYVhzQUhB?oc=5",
-      "published_at": "Sun, 01 Nov 2026 22:42:44 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "All 9 aboard killed after plane crashes in Florida, officials say - CBC"
-    },
-    {
-      "id": 126,
-      "category": "Global",
-      "title": "Iran’s boosted weapons capabilities have caused up to $15B in US base damage: report - New York Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbFRlLUEzdjNGQlBzZi1BeTVuWVpMMWZEME13N215dVRudkZSSHJXbnZFUHhZaHFzeFcxbC1aUWdiM3ZWSmw5UF92eThyYkVCN2cxMGx3eTNUbW0zOXd5bmlaeWR2V3d4Q3pDMGRITn",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbFRlLUEzdjNGQlBzZi1BeTVuWVpMMWZEME13N215dVRudkZSSHJXbnZFUHhZaHFzeFcxbC1aUWdiM3ZWSmw5UF92eThyYkVCN2cxMGx3eTNUbW0zOXd5bmlaeWR2V3d4Q3pDMGRITnhfUUdPTElEdkpFVnVwSTR2WmJZbmJrMDlDbGJrWkNWcGgyOTBwenFrWElRSHUwaVNBQTFFRXNJd2J2LXRLS0ZpV3gyRHh1MEda?oc=5",
-      "published_at": "Sun, 01 Nov 2026 22:42:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Iran’s boosted weapons capabilities have caused up to $15B in US base damage: report - New York Post"
-    },
-    {
-      "id": 168,
+      "id": 183,
       "category": "Global",
       "title": "Kimi Antonelli crowned 2026 F1 world champion as Max Verstappen wins wild Mexico City Grand Prix from Lewis Hamilton - Sky Sports",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUGltSHRqejdWa1NRR1ExNEZVRDRPTTJFZXZHNlIyN2pqajY2MXVVM0t0TUVFUFJ1MDlNNmViMVpiaVMyVVpHaURXVWtnVS1hX2locDlwRWFybzdHdjJOMU9OZUt0bUNGanppcmE2dF",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUGltSHRqejdWa1NRR1ExNEZVRDRPTTJFZXZHNlIyN2pqajY2MXVVM0t0TUVFUFJ1MDlNNmViMVpiaVMyVVpHaURXVWtnVS1hX2locDlwRWFybzdHdjJOMU9OZUt0bUNGanppcmE2dFo1a0RUY2ttU0pmZ3VINUx2V2tvRVV5NmtXNmNLakZRNm1STXhhUXZmOFVvaEM5TFJ1ZGRtclpCQXJUeUowd2kxLVNpQk9wTHFKT0ZPcnkxTWY4TkkzNjRZbm1ZbzYtZEdYaktqMFNMRE15b3BIV05sLTJueWZVd0J5MzdfdUc5V0Q?oc=5",
-      "published_at": "Sun, 01 Nov 2026 22:39:36 GMT",
+      "published_at": "Sun, 01 Nov 2026 22:41:09 GMT",
       "importance": 1,
       "source_name": "Google News World",
       "translated_title": "Kimi Antonelli crowned 2026 F1 world champion as Max Verstappen wins wild Mexico City Grand Prix from Lewis Hamilton - Sky Sports"
     },
     {
-      "id": 171,
-      "category": "Global",
-      "title": "F1 Mexico GP: Kimi Antonelli clinches world title as Max Verstappen holds off Lewis Hamilton for victory - Motorsport.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1kcFlBaHZMbG50R0FLZThPOGdrQTctc3JNajRvWnhDUmVYUmk0TWNGMEdxRU5mS1ZuMVZOQktkblh2OU9RTzBVMDRGQ1F5djFsWGxXSGs1NDNqR1pnamUwbEpBNENsUnk4ay1QY0R6aX",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kcFlBaHZMbG50R0FLZThPOGdrQTctc3JNajRvWnhDUmVYUmk0TWNGMEdxRU5mS1ZuMVZOQktkblh2OU9RTzBVMDRGQ1F5djFsWGxXSGs1NDNqR1pnamUwbEpBNENsUnk4ay1QY0R6aXJWSGdCSUZiOEx3?oc=5",
-      "published_at": "Sun, 01 Nov 2026 22:36:04 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "F1 Mexico GP: Kimi Antonelli clinches world title as Max Verstappen holds off Lewis Hamilton for victory - Motorsport.com"
-    },
-    {
-      "id": 236,
+      "id": 234,
       "category": "News",
-      "title": "ソフトバンクＧ出資のオーペイ、米ＩＰＯ撤回 「外国当局の調査」理由 - Reuters",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE13eXpkeUJpaVBnZ255YXpqVEI0OGNpVWZqdV9PY3dyYUMwOG90Ml9TNzdxSDlhU1h6bExCMFR4bzJGUm9oNXZpa0RiWFl0b1VrNThCOE9MQzBhckF6UW94cmJ2enlsVDc0ekhvR1Y4UX",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13eXpkeUJpaVBnZ255YXpqVEI0OGNpVWZqdV9PY3dyYUMwOG90Ml9TNzdxSDlhU1h6bExCMFR4bzJGUm9oNXZpa0RiWFl0b1VrNThCOE9MQzBhckF6UW94cmJ2enlsVDc0ekhvR1Y4UXFZUzlsSUFpTGZ3R1J2QQ?oc=5",
-      "published_at": "Sun, 01 Nov 2026 22:33:44 GMT",
+      "title": "共和敗北の結果認定見送り認めず 同名出馬で混乱のアラスカ上院選―米地裁 - 時事ドットコム",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZS3JHNGVCV2FQTTc1U2ZaLUZacnpLOGtZeVJTMTBMM0FLLVBvdmZFNE1fc2ZUS2NOODIwdTJacURFRUNaNlN5aXhxQ3ZXN05xOV82RjlROTk4aUl0YmhxOVJkQQ?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZS3JHNGVCV2FQTTc1U2ZaLUZacnpLOGtZeVJTMTBMM0FLLVBvdmZFNE1fc2ZUS2NOODIwdTJacURFRUNaNlN5aXhxQ3ZXN05xOV82RjlROTk4aUl0YmhxOVJkQQ?oc=5",
+      "published_at": "Sun, 01 Nov 2026 22:38:00 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "ソフトバンクＧ出資のオーペイ、米ＩＰＯ撤回 「外国当局の調査」理由 - Reuters"
+      "translated_title": "共和敗北の結果認定見送り認めず 同名出馬で混乱のアラスカ上院選―米地裁 - 時事ドットコム"
     },
     {
-      "id": 203,
+      "id": 244,
+      "category": "News",
+      "title": "町田啓太、いかついタトゥーショット披露も…コメントにファンほっこり「温度差w」「ギャップに笑う」 - ｄメニューニュース",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2F5NVNON0pEdlF6bE5QREhPb0JZVHZ6VTYteGdBU01SSmF1N2Y4bUVkMnY5ODk1cE8zM291MVBGd0FZWnY0RnctemtucHN4VF9KUGRGMF9vVWFyS0F6UWVaNDYtQ25tZjhNQmF3dE",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2F5NVNON0pEdlF6bE5QREhPb0JZVHZ6VTYteGdBU01SSmF1N2Y4bUVkMnY5ODk1cE8zM291MVBGd0FZWnY0RnctemtucHN4VF9KUGRGMF9vVWFyS0F6UWVaNDYtQ25tZjhNQmF3dEd1X0Vic2xCeTE1aktCZUUtZTJuVdIBiAFBVV95cUxNQ3VGdnp4QllUbkVQNFpOcWR2eDhBT19fWFRrWEM0cnUwTmg4cFZTV3RyVXZrOEtsYUZZeE5aQjBCNHFvN1J4d3RYQXJKcWpfLXdUT0J2SEZQcXNCU0Z1bl8xd2FYZlk5UXNuUURmc2hKejNLR21TR1NCVXkzRWltdFpleUxqdUpN?oc=5",
+      "published_at": "Sun, 01 Nov 2026 22:30:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "町田啓太、いかついタトゥーショット披露も…コメントにファンほっこり「温度差w」「ギャップに笑う」 - ｄメニューニュース"
+    },
+    {
+      "id": 206,
       "category": "Global",
       "title": "Kimi Antonelli becomes F1 world champion as Max Verstappen wins Mexico City Grand Prix - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE91SHh0QUpYbFp0cE1XaVVkdy1zVkJGVVZidTc1aklWMmNFMFZKVmhIOVFPYUp3dWFuelZhdHY5OGVtRlg3dUctWGxfMXUtb1FKdk5sRjk2YjNCY1pGRmhac3FzYjlxenpNSGpN?oc=5\"",
@@ -431,18 +409,18 @@
       "translated_title": "Kimi Antonelli becomes F1 world champion as Max Verstappen wins Mexico City Grand Prix - BBC"
     },
     {
-      "id": 222,
+      "id": 246,
       "category": "News",
-      "title": "米フロリダでビジネスジェット機が住宅街に墜落、搭乗の９人全員死亡 - 読売新聞",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KWG1Zb2E1eGJ5YjZyVkV2aS1YYmpzNHNMNGtSUS1FNDA3Y2pJRW8wNlV0dlFyVWNBNHJwT3cxOG9sZ1MyQktCR1hkMVFHeDRDYUVMRXVJYW1HSDR5dWo2NXZ3?oc=5\" target=\"_bl",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KWG1Zb2E1eGJ5YjZyVkV2aS1YYmpzNHNMNGtSUS1FNDA3Y2pJRW8wNlV0dlFyVWNBNHJwT3cxOG9sZ1MyQktCR1hkMVFHeDRDYUVMRXVJYW1HSDR5dWo2NXZ3?oc=5",
-      "published_at": "Sun, 01 Nov 2026 22:07:00 GMT",
+      "title": "「VIVANT」シンシーも驚愕した乃木の射撃術 カルト映画『リベリオン』彷彿と話題 - シネマトゥデイ",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XaXA3VWpjSW9KRFpZRXFKMDdZR2l5ZVl5NGhmT0JxVWxGNFAwY0ZNS05WYmdsSlFtcHdrc05hU2xSRy03WmlZOG5PeGZZclBEN2c?oc=5\" target=\"_blank\">「VIVANT」",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XaXA3VWpjSW9KRFpZRXFKMDdZR2l5ZVl5NGhmT0JxVWxGNFAwY0ZNS05WYmdsSlFtcHdrc05hU2xSRy03WmlZOG5PeGZZclBEN2c?oc=5",
+      "published_at": "Sun, 01 Nov 2026 22:10:00 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "米フロリダでビジネスジェット機が住宅街に墜落、搭乗の９人全員死亡 - 読売新聞"
+      "translated_title": "「VIVANT」シンシーも驚愕した乃木の射撃術 カルト映画『リベリオン』彷彿と話題 - シネマトゥデイ"
     },
     {
-      "id": 1,
+      "id": 2,
       "category": "AI/IT",
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "summary": "Data centers are deeply unpopular. But what if we called them something else?",
@@ -453,51 +431,51 @@
       "translated_title": "OpenAI might rebrand its data centers as ‘AI compute campuses’"
     },
     {
-      "id": 122,
+      "id": 149,
       "category": "Global",
-      "title": "Ukraine defies Trump to resume attacks on Russian oil refineries - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ19rWVE2TGotNE9jeVFKZnFoaEpZaDRlTHVjZVhPcks0am5ieVl2ck9MaTYxR25CQXVvcDNfZ1FibEo3QjRIRWRjcno1eXRGVTlkT0FmVmZLYkNYYm12akswdFBHNGRMOXdiTEQyb0",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ19rWVE2TGotNE9jeVFKZnFoaEpZaDRlTHVjZVhPcks0am5ieVl2ck9MaTYxR25CQXVvcDNfZ1FibEo3QjRIRWRjcno1eXRGVTlkT0FmVmZLYkNYYm12akswdFBHNGRMOXdiTEQyb01rLW5NWFZJMGU5QjRMV3p4MjE0aC01Skx6UXAzWTktVVl3UC1VZXA0SGFn?oc=5",
-      "published_at": "Sun, 01 Nov 2026 21:46:00 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "Ukraine defies Trump to resume attacks on Russian oil refineries - The Guardian"
-    },
-    {
-      "id": 121,
-      "category": "Global",
-      "title": "Nine killed in Florida plane crash - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vUlJzX2dBUVVoZDFRak1IOFF4aW12bTZoSi1HeTdOY0FyTWp2M0pHTmtMRVh3SlIzUXFsNWhrWlR5dG1vUUJmaWRNYW43aTVGbC1BWG8xdF9hY1k?oc=5\" target=\"_blank\">Nine",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vUlJzX2dBUVVoZDFRak1IOFF4aW12bTZoSi1HeTdOY0FyTWp2M0pHTmtMRVh3SlIzUXFsNWhrWlR5dG1vUUJmaWRNYW43aTVGbC1BWG8xdF9hY1k?oc=5",
-      "published_at": "Sun, 01 Nov 2026 21:21:46 GMT",
+      "title": "Iran's top diplomat hopes US shows 'rationality,' and other Mideast news - WRAL",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2YwVWtPX1c4Q29uZW5naVNzZnpLbnZ6ZEhQTkJEZjhLQXI4WFBKUGJvZ2tPZ1Njb0FtVTdZYWRxa2sxWURSS0REa3doeTBXcjhoakN6UmxyT1loSXQ0d0ppbDFLWklvb3JBLXNuYU",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2YwVWtPX1c4Q29uZW5naVNzZnpLbnZ6ZEhQTkJEZjhLQXI4WFBKUGJvZ2tPZ1Njb0FtVTdZYWRxa2sxWURSS0REa3doeTBXcjhoakN6UmxyT1loSXQ0d0ppbDFLWklvb3JBLXNuYU1iV0h4UXh0S0NmVDR4YXFOOXE3VHc0bHEwWkNYU2lIemhmbHlZdEd1MWRUNUhwUVB5OHFxREdtRjI5enpNcjZwa2pTeG9mdFdSRUlHVzQwSk0zSHZmNGRv?oc=5",
+      "published_at": "Sun, 01 Nov 2026 21:53:39 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "Nine killed in Florida plane crash - BBC"
+      "translated_title": "Iran's top diplomat hopes US shows 'rationality,' and other Mideast news - WRAL"
     },
     {
-      "id": 230,
+      "id": 233,
       "category": "News",
-      "title": "週間天気予報 文化の日は晴れて行楽日和 5日(木)は広範囲で雨に - ウェザーニュース",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9la1dvUk9WWGtPUFZHYTUyYzhBYTJtVUlJMTduUndLTk9nSlVvYjVxdXNmalF1LWpfekJQS1ZuYmczaW9wc3UzbWtNbDlBaWJKbjJZdA?oc=5\" target=\"_blank\">週間天気予報 文化の日は晴",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9la1dvUk9WWGtPUFZHYTUyYzhBYTJtVUlJMTduUndLTk9nSlVvYjVxdXNmalF1LWpfekJQS1ZuYmczaW9wc3UzbWtNbDlBaWJKbjJZdA?oc=5",
-      "published_at": "Sun, 01 Nov 2026 21:07:00 GMT",
+      "title": "ウクライナ南部の停戦終了 和平期待も他地域で攻撃（共同通信） - Yahoo!ニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5kYXJZZ1VDbUNiM0xyX1ZKRjNpWkxvOUZpakcydThzSmpGb3Z0VDJld3dDWXFEekZRLVM0bW4wRi1tMk8tb0tUYlJwbC13UG41elJaUFN1WW4wQnA4cEZQLVlmdU80Wi1xOE",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kYXJZZ1VDbUNiM0xyX1ZKRjNpWkxvOUZpakcydThzSmpGb3Z0VDJld3dDWXFEekZRLVM0bW4wRi1tMk8tb0tUYlJwbC13UG41elJaUFN1WW4wQnA4cEZQLVlmdU80Wi1xOE1DekcxNWQ1OEJ2QnFrQjJqZEU2QVk?oc=5",
+      "published_at": "Sun, 01 Nov 2026 21:44:06 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "週間天気予報 文化の日は晴れて行楽日和 5日(木)は広範囲で雨に - ウェザーニュース"
+      "translated_title": "ウクライナ南部の停戦終了 和平期待も他地域で攻撃（共同通信） - Yahoo!ニュース"
     },
     {
-      "id": 228,
+      "id": 129,
+      "category": "Global",
+      "title": "All nine people aboard business jet that crashed in Florida have died - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE4tSkJWU09vVGZKUno3R0xodXY0WHcycGpEdUdRWWJsOWJZZmtGZ3U2TmMwMUl5eTR0em9rZmZzb0MyX3NRUEVKVXRYSTlqX2wwbThSZW9wcHhGS3F4aWN1cXNYeG5aZzZoeU56WXJVVk",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tSkJWU09vVGZKUno3R0xodXY0WHcycGpEdUdRWWJsOWJZZmtGZ3U2TmMwMUl5eTR0em9rZmZzb0MyX3NRUEVKVXRYSTlqX2wwbThSZW9wcHhGS3F4aWN1cXNYeG5aZzZoeU56WXJVVkVuZmlJa2FRWThBNWU5Z3M?oc=5",
+      "published_at": "Sun, 01 Nov 2026 21:13:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "All nine people aboard business jet that crashed in Florida have died - The Guardian"
+    },
+    {
+      "id": 245,
       "category": "News",
-      "title": "鈴木幹事長の「大予言」を「大失言」にしなかった野党の「功労者」は 衆院議員の定数「31減」がスンナリ固まった背景 - Yahoo!ニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9xXzhaWFhzUzZmMXAxZ2kwTnM5dmptd014bG5qZFBUcHc0M0FYUndfaVc4MjFaRnp4aHFPQUk0czcwRlNZaDhvUFpORm5yS2wtcWFlWEtQRnRrU25DSzJJS2dQVE5sSVlwY1",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xXzhaWFhzUzZmMXAxZ2kwTnM5dmptd014bG5qZFBUcHc0M0FYUndfaVc4MjFaRnp4aHFPQUk0czcwRlNZaDhvUFpORm5yS2wtcWFlWEtQRnRrU25DSzJJS2dQVE5sSVlwY1FScEU1UzdMQTkyM1Zrd25pT3A0Z3c?oc=5",
-      "published_at": "Sun, 01 Nov 2026 20:59:44 GMT",
+      "title": "芦田愛菜主演ドラマがNetflix世界5位の快挙。なぜ日本のテレビドラマは世界で注目されはじめたのか（徳力基彦） - エキスパート - Yahoo!ニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2pjNWViTmhtWFE0RnpYQlkyeGNYMmQ1emVELWgxSkR1M1ZhdkpjbFI0WTR1VzdSX3E2YUJDS3pKRldaVXhBQXJTMWZnZkdhaUZLQ3BMaU5KbjkyR0tiN0x3NTdQTGZaTD",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2pjNWViTmhtWFE0RnpYQlkyeGNYMmQ1emVELWgxSkR1M1ZhdkpjbFI0WTR1VzdSX3E2YUJDS3pKRldaVXhBQXJTMWZnZkdhaUZLQ3BMaU5KbjkyR0tiN0x3NTdQTGZaTDdzNV9saURhS1NfTkkxUGlXRUZvT2ZCQi1PRWdfTGlo?oc=5",
+      "published_at": "Sun, 01 Nov 2026 21:01:20 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "鈴木幹事長の「大予言」を「大失言」にしなかった野党の「功労者」は 衆院議員の定数「31減」がスンナリ固まった背景 - Yahoo!ニュース"
+      "translated_title": "芦田愛菜主演ドラマがNetflix世界5位の快挙。なぜ日本のテレビドラマは世界で注目されはじめたのか（徳力基彦） - エキスパート - Yahoo!ニュース"
     },
     {
-      "id": 2,
+      "id": 3,
       "category": "AI/IT",
       "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
       "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
@@ -508,139 +486,62 @@
       "translated_title": "AI can make tech CEOs’ lives easier. What about everyone else?"
     },
     {
-      "id": 231,
-      "category": "News",
-      "title": "フランス、デモ後衝突で捜査開始 警官隊に火炎瓶3人負傷「すさまじい敵意を感じた」 - 産経ニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5hNldGcDByNzAxUF9Ha21sTGZPaER5a1hoOWdSb1p6bFBaTGVZbUlYTk1ZYVhfWVRnMm5ZRmFCZ3N5QWlmbGw5TVhBaFBxdjhyMUlwUGN6NVBVdGc0alB0RXhZY3RVcXcwdk",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hNldGcDByNzAxUF9Ha21sTGZPaER5a1hoOWdSb1p6bFBaTGVZbUlYTk1ZYVhfWVRnMm5ZRmFCZ3N5QWlmbGw5TVhBaFBxdjhyMUlwUGN6NVBVdGc0alB0RXhZY3RVcXcwdk44WTltcnR4eUFjX0E?oc=5",
-      "published_at": "Sun, 01 Nov 2026 20:55:28 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "フランス、デモ後衝突で捜査開始 警官隊に火炎瓶3人負傷「すさまじい敵意を感じた」 - 産経ニュース"
-    },
-    {
-      "id": 250,
-      "category": "News",
-      "title": "中村敬斗が初先発でリーグ戦初アシスト！リヨンの2試合ぶり勝利に貢献 - Goal.com",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNNU8wdFpsekhJdjJGRWV4M3dxRGhybWVLSklvWTlKTTFXcWItamxQeE1KRHVONEFyN3FtMzNPTjI4aEFQb3ZvbGF4QU8wTHlJRXFwdGVUUU9BdGJHMUNRbi11cUhUN2VYeW",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNU8wdFpsekhJdjJGRWV4M3dxRGhybWVLSklvWTlKTTFXcWItamxQeE1KRHVONEFyN3FtMzNPTjI4aEFQb3ZvbGF4QU8wTHlJRXFwdGVUUU9BdGJHMUNRbi11cUhUN2VYeW9udDhBNS0yQmtiTGdkVmtKMXR0aDBKd05ROThNWHRKX2VjWHlJdkZWa3B1UDlHb2RaenRJSy0y?oc=5",
-      "published_at": "Sun, 01 Nov 2026 20:50:13 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "中村敬斗が初先発でリーグ戦初アシスト！リヨンの2試合ぶり勝利に貢献 - Goal.com"
-    },
-    {
-      "id": 243,
-      "category": "News",
-      "title": "【ネタバレ】「VIVANT」最終話前に重大発言 エリシャが乃木に伝えた言葉「来週で完結する!?」 - シネマトゥデイ",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdnV3UTRsY0xPWHNDVkxndFY4WV85WlhqYm9xX3hKeWNNR2FJV2ZITkVXaHZfNmFSR3J3czBXTzhUZER5TDhlSmZjbmFGUmZoS3c?oc=5\" target=\"_blank\">【ネタバレ】「V",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdnV3UTRsY0xPWHNDVkxndFY4WV85WlhqYm9xX3hKeWNNR2FJV2ZITkVXaHZfNmFSR3J3czBXTzhUZER5TDhlSmZjbmFGUmZoS3c?oc=5",
-      "published_at": "Sun, 01 Nov 2026 20:32:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "【ネタバレ】「VIVANT」最終話前に重大発言 エリシャが乃木に伝えた言葉「来週で完結する!?」 - シネマトゥデイ"
-    },
-    {
-      "id": 166,
+      "id": 126,
       "category": "Global",
-      "title": "9 killed after a Learjet crashes and erupts into flames in Palm Beach County, Florida - news8000.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMnNqX2Ixb1B1VWRNemh1MENmTE92dGNvcU9vc0NXT0xzZGw2ek5sM09uTmlYS3FkcHV4QkhocVBFRG1vZXNfOFNVYlF1bHB1TUZVRW9lUUZEMFJIX3Q2bGxNUXhCNmpMTVAyQXBwTW",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMnNqX2Ixb1B1VWRNemh1MENmTE92dGNvcU9vc0NXT0xzZGw2ek5sM09uTmlYS3FkcHV4QkhocVBFRG1vZXNfOFNVYlF1bHB1TUZVRW9lUUZEMFJIX3Q2bGxNUXhCNmpMTVAyQXBwTW9GYlBTOU9GOWZ2UUZUVy1TenEzZmZmMnAwYThrRUs4dEpvMWkzNUlwdHU4T1FKYXJSeWRrSzlRTVZ6VVVDbU5Jem9BMWp1NEphRkMtbGNRRUNBYUF2Mkk0YVVKdlJybW9DMzRVNkhPY21IVHI4czB1NEd3b2R6X3k4NWc4QmtNTTRPODgwLThORXF4UXV3bjdCaU5mQUp2RHBqeDg?oc=5",
+      "title": "Russia suffers record 54,400 casualties in October, Ukraine says — and 2.1M since war began - New York Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXlsUnNEbjVDNExHdUNqZ3ZfaTFBOWdwekkyaTNxV2dMOG9VU2hPa0tQMzJ4MWotdVdQSzJjekt0THFXdk92aHh5WUdIMXlCa0V6b21SSEt6QTNFbGhLcFVUbWFDUlRZSE1JdmE2Yz",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXlsUnNEbjVDNExHdUNqZ3ZfaTFBOWdwekkyaTNxV2dMOG9VU2hPa0tQMzJ4MWotdVdQSzJjekt0THFXdk92aHh5WUdIMXlCa0V6b21SSEt6QTNFbGhLcFVUbWFDUlRZSE1JdmE2YzNsQWFfZ1k4VmdaRjlrTk1jVjJJOVgwVnRjRFlVd3VGZy02UnJ0VjlvdlVxU0otQkVEVTNPOElGUQ?oc=5",
+      "published_at": "Sun, 01 Nov 2026 20:55:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "Russia suffers record 54,400 casualties in October, Ukraine says — and 2.1M since war began - New York Post"
+    },
+    {
+      "id": 160,
+      "category": "Global",
+      "title": "Ukraine Says Public Air Raid Alert App Sent False Alerts After Being Hacked - U.S. News & World Report",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOanN6d3RIZ0IwNjlWMGhRaHJhUHNMUzZ4ZVItZms1LXhURGF4TGUwQTJzcTlKSmJ1cXBkOXlyY3dRM25rTm9GbkFyY1BVZWlsVmlCa2J1UzA4MGZGZFFqVzhHUnBHRmdENzgweF85Tm",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOanN6d3RIZ0IwNjlWMGhRaHJhUHNMUzZ4ZVItZms1LXhURGF4TGUwQTJzcTlKSmJ1cXBkOXlyY3dRM25rTm9GbkFyY1BVZWlsVmlCa2J1UzA4MGZGZFFqVzhHUnBHRmdENzgweF85Tm1PQTEyVWQyRXVoV29lcFJkaVBla1c3Rm1sUjlhQVVJSUZhTUU5MzBrS0tmN2l5elBqZWd0cms1SXJhSS10UzBEM0JqYWxLQ1NfVFVpSA?oc=5",
+      "published_at": "Sun, 01 Nov 2026 20:36:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "Ukraine Says Public Air Raid Alert App Sent False Alerts After Being Hacked - U.S. News & World Report"
+    },
+    {
+      "id": 174,
+      "category": "Global",
+      "title": "Learjet crashes and erupts into flames in Florida, killing all 9 on board - news8000.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMHpEejN2WkE5Q3VSTnFpVGlxYnQxeEZMQmltYTBuSmpZNXhsVmNNU3U5eG5oUjFXMDI0Y3NhTV8teFpZTlRMZ1ppM1p4N21ZcUJ6WFVTUGl4RVd1enhPR0ZETlRnV2xOOXdueHc0YU",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMHpEejN2WkE5Q3VSTnFpVGlxYnQxeEZMQmltYTBuSmpZNXhsVmNNU3U5eG5oUjFXMDI0Y3NhTV8teFpZTlRMZ1ppM1p4N21ZcUJ6WFVTUGl4RVd1enhPR0ZETlRnV2xOOXdueHc0YU5EOGZYTVhhVjlzSVVzeUozQ0VhNXZRUHdhWjlYa3pZS2plcHltdF9mM0NaMjdtVkhiWjJVYnBKQUhCV1ZXYU5hWjhlMVF6SFN1WmpEYnQweGRnTXVjWFB4d0kzQUNja3Q1WFl5enJ0Y2hfZlY5RnJBYWVtTUFiZkQ5TkkxTVZHaWFic291ekltLVhnZw?oc=5",
       "published_at": "Sun, 01 Nov 2026 20:31:08 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "9 killed after a Learjet crashes and erupts into flames in Palm Beach County, Florida - news8000.com"
+      "translated_title": "Learjet crashes and erupts into flames in Florida, killing all 9 on board - news8000.com"
     },
     {
-      "id": 227,
-      "category": "News",
-      "title": "今日11月2日(月)の天気予報 広範囲で傘の出番 強雨や落雷にも注意 - ウェザーニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UZGc1TDRYSGpSb2Q2Vm1nZmQxeEdBeVhJdXVjNUh2U0J3WXpBX3N3aVE4aFNiRTNCRFVqNlJRQWRpSi1VRmt3NXR6U180dkgyNzJjZw?oc=5\" target=\"_blank\">今日11月",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UZGc1TDRYSGpSb2Q2Vm1nZmQxeEdBeVhJdXVjNUh2U0J3WXpBX3N3aVE4aFNiRTNCRFVqNlJRQWRpSi1VRmt3NXR6U180dkgyNzJjZw?oc=5",
-      "published_at": "Sun, 01 Nov 2026 20:24:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "今日11月2日(月)の天気予報 広範囲で傘の出番 強雨や落雷にも注意 - ウェザーニュース"
-    },
-    {
-      "id": 182,
+      "id": 201,
       "category": "Global",
       "title": "Morning Mail: The ex-Liberal driving One Nation’s expansion; house prices fall again; and Jillaroos break World Cup records - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDliV1pTeEM3cjNDcTNIY0VTckxMak5HVUc2b0ZEcC1seDdPZEpuby1pVURHVnZEblpVcFBKLTR5dVpVX2szQWtnLUxuMjdmVmlnTWFiQ2k3RVA5SU1rWkctMDhyWVhGclJpelpIcj",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDliV1pTeEM3cjNDcTNIY0VTckxMak5HVUc2b0ZEcC1seDdPZEpuby1pVURHVnZEblpVcFBKLTR5dVpVX2szQWtnLUxuMjdmVmlnTWFiQ2k3RVA5SU1rWkctMDhyWVhGclJpelpIcjRua3R5NXdnN3NXbjZ3enltSHBQVkxJVm1D?oc=5",
-      "published_at": "Sun, 01 Nov 2026 20:10:00 GMT",
+      "published_at": "Sun, 01 Nov 2026 20:09:00 GMT",
       "importance": 3,
       "source_name": "Google News World",
       "translated_title": "Morning Mail: The ex-Liberal driving One Nation’s expansion; house prices fall again; and Jillaroos break World Cup records - The Guardian"
     },
     {
-      "id": 225,
-      "category": "News",
-      "title": "スペイン列車事故、捜索活動終了で安否の知らせ待つ家族は憔悴…システム障害や人為的判断ミス重なる（読売新聞オンライン） - Yahoo!ニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1nU1pYVHBjWkd1M1k0Qlh4d1ZsTnRjV2pxVVBkdjh0dXJ6bWpJX0haVWx4eWc1YVZUV0NHR3lPcFhYLVg3S2NRaDQ3cVN4NWtoQllZbnVEUU1HaU5HTWwwaVM1SmdqQ2FzS0",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nU1pYVHBjWkd1M1k0Qlh4d1ZsTnRjV2pxVVBkdjh0dXJ6bWpJX0haVWx4eWc1YVZUV0NHR3lPcFhYLVg3S2NRaDQ3cVN4NWtoQllZbnVEUU1HaU5HTWwwaVM1SmdqQ2FzS0JteDJtTEd3SFlRR0hKaHNRZmtyT0k?oc=5",
-      "published_at": "Sun, 01 Nov 2026 20:07:07 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "スペイン列車事故、捜索活動終了で安否の知らせ待つ家族は憔悴…システム障害や人為的判断ミス重なる（読売新聞オンライン） - Yahoo!ニュース"
+      "id": 131,
+      "category": "Global",
+      "title": "Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote - PBS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZDNRQ0YxRm5jOGJBMVNSRS1YbXVVVmJXQ1VDRmU5ckY0OXRLZXVWSkFtZmtCWWZwLW9FeHlNa20ybFNVOFAwSG1OYkxIeWhMc0ZLdGtMSE1UalZYek9MemNlZTBpbVpnR3VjVThfQV",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZDNRQ0YxRm5jOGJBMVNSRS1YbXVVVmJXQ1VDRmU5ckY0OXRLZXVWSkFtZmtCWWZwLW9FeHlNa20ybFNVOFAwSG1OYkxIeWhMc0ZLdGtMSE1UalZYek9MemNlZTBpbVpnR3VjVThfQVBRYW5weGk5clRLSm9abTFOT3BiZ1VReDlKeXdEa2RWYjVRcElyNS1JaFNSbXUzVVJieXNNcVZYUGY0MURTMC1adnd2VU1hYXp2VXJlY3ExRVRwZ9IBxwFBVV95cUxNbDlVMjFteEVrRU5OcVZCaE90dmdpX2VrZFNQbzRQZTNyLVFOMDZBUmxhVjc4d29pWHhBVmVrMVl1WW10UDlIWmlvRDB1NU5hZ193emo4bG84RDFoTHJpRnBGeXF1TTZQd2F3MDJYYTE1M0ZRWndVdWlKWkl5a2ZSOEZWWEJWN1BCb051bW5PZFdnRndDejhfdjJpajdjVmNhUmdzc21EbjhFaHVvUHo1dmFhRkt1RmtWdWlJWnEyUkZ2bTNQOHJz?oc=5",
+      "published_at": "Sun, 01 Nov 2026 19:57:09 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote - PBS"
     },
     {
-      "id": 226,
-      "category": "News",
-      "title": "中国、一部党幹部が「権力を私物化して堕落している」として監督強化の方針…５中総会「統治」決定全文公開 - 読売新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kcHFHeXpqdGtyOUR6Zjg0SjU0RW9HYzZmcFVHc1pkQVZpNUdWeW1JbFMtYVpXdzdnT1FsR3ZxdXVLX2x6T3Z2MFktZDFnVFRGWjFoVDIwYk00ZUpUNmJsMjZ3?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kcHFHeXpqdGtyOUR6Zjg0SjU0RW9HYzZmcFVHc1pkQVZpNUdWeW1JbFMtYVpXdzdnT1FsR3ZxdXVLX2x6T3Z2MFktZDFnVFRGWjFoVDIwYk00ZUpUNmJsMjZ3?oc=5",
-      "published_at": "Sun, 01 Nov 2026 20:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "中国、一部党幹部が「権力を私物化して堕落している」として監督強化の方針…５中総会「統治」決定全文公開 - 読売新聞"
-    },
-    {
-      "id": 229,
-      "category": "News",
-      "title": "＜主張＞同志社の会見 説明が尽くされていない 社説 - 産経ニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5GSFMwU3BCaUdNaDRPSlgwSVotMER4UHVOVjhoT2ViZllvaDgyNlAwd05TUzk2b0hQRWk4Z0pyMnRlQ0ZMUk5xUFJMT0thcWtjXzlyNkg0V0VKbGV6a3hHVm05Z25ldXRtb1",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GSFMwU3BCaUdNaDRPSlgwSVotMER4UHVOVjhoT2ViZllvaDgyNlAwd05TUzk2b0hQRWk4Z0pyMnRlQ0ZMUk5xUFJMT0thcWtjXzlyNkg0V0VKbGV6a3hHVm05Z25ldXRtb1lEanNNWlJGNFQ3UlE?oc=5",
-      "published_at": "Sun, 01 Nov 2026 20:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "＜主張＞同志社の会見 説明が尽くされていない 社説 - 産経ニュース"
-    },
-    {
-      "id": 232,
-      "category": "News",
-      "title": "米中間選挙の恣意的な選挙区割り、思惑外れの可能性 9州が実施 - 日本経済新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9vb1ozelRUUTBJTkZwZ29ycHJ2SG5iUHZxTnNCdTZNaHFvSi1QamJyM05nYkpLM2d1VW04SlBWLWt6VEpnSjJXbXQwSGpOX1BlWXJpaEhMOGFhc3ZTWHBBYVVVbjI3WkZIQn",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vb1ozelRUUTBJTkZwZ29ycHJ2SG5iUHZxTnNCdTZNaHFvSi1QamJyM05nYkpLM2d1VW04SlBWLWt6VEpnSjJXbXQwSGpOX1BlWXJpaEhMOGFhc3ZTWHBBYVVVbjI3WkZIQnZSaw?oc=5",
-      "published_at": "Sun, 01 Nov 2026 20:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "米中間選挙の恣意的な選挙区割り、思惑外れの可能性 9州が実施 - 日本経済新聞"
-    },
-    {
-      "id": 246,
-      "category": "News",
-      "title": "紫綬褒章受ける奈良美智さん 感謝しつつ「物分かりよくはならない」 - 朝日新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XNE9oU0U0TkJIVnFQMl9fT3MwYUs3eXdGdU1KXzdsa0J2YmdKc1N2eXhtN09XbjVWZHM0SGZzZ05hSldObUlZalBZeDFXZW5PMEFXQTNWT0lodWt5NFVVckRRWnJ4cGs?oc",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XNE9oU0U0TkJIVnFQMl9fT3MwYUs3eXdGdU1KXzdsa0J2YmdKc1N2eXhtN09XbjVWZHM0SGZzZ05hSldObUlZalBZeDFXZW5PMEFXQTNWT0lodWt5NFVVckRRWnJ4cGs?oc=5",
-      "published_at": "Sun, 01 Nov 2026 20:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "紫綬褒章受ける奈良美智さん 感謝しつつ「物分かりよくはならない」 - 朝日新聞"
-    },
-    {
-      "id": 247,
-      "category": "News",
-      "title": "佐藤輝明はMLBストーブリーグの目玉 三冠王が注目集める3つの理由 - 日本経済新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9yaWlMSHZJakpUc29WU2dMcC1MTU5fTFFSejdic3ZUREU0RlZIdHZXdWs0VW5MczRaUTJXQldDRi1tTUNPT3MtUkNBTG1KVy10V3hYQ0xzU1pUSDB1T0FneDdDekk3RkVMVW",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yaWlMSHZJakpUc29WU2dMcC1MTU5fTFFSejdic3ZUREU0RlZIdHZXdWs0VW5MczRaUTJXQldDRi1tTUNPT3MtUkNBTG1KVy10V3hYQ0xzU1pUSDB1T0FneDdDekk3RkVMVWJENA?oc=5",
-      "published_at": "Sun, 01 Nov 2026 20:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "佐藤輝明はMLBストーブリーグの目玉 三冠王が注目集める3つの理由 - 日本経済新聞"
-    },
-    {
-      "id": 137,
+      "id": 148,
       "category": "Global",
       "title": "Jerry Koosman, hero of the 1969 'Miracle' Mets World Series championship run, dead at 83 | OutKick - Fox News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFgxQXk5aTlINFJBVnhObmxNckJrUDEwQzFyME9Qc0xLT1V4R2xmVjNfTEZwMjhrUGtnMzNMNUV0dnBnYzlzdXRVSHNMdDFSVTJiMWpHTjJ4ZExGN3lzMnR6VzNzUnkwQ2VrRl9iLW",
@@ -651,7 +552,7 @@
       "translated_title": "Jerry Koosman, hero of the 1969 'Miracle' Mets World Series championship run, dead at 83 | OutKick - Fox News"
     },
     {
-      "id": 155,
+      "id": 164,
       "category": "Global",
       "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUw4UUtKMGZ0aVJDMVJIbk42OGc2RjEwbkNsZWJDaDZaVVlJSTF1QV9HTjBSZFppMVVGRTNnRlR2VnVJNUxXS1RIbEtxdnk5SUl5bUxjWU83N0EwYlZBMTBleDlWZE9WTHFYTjkxYT",
@@ -662,29 +563,51 @@
       "translated_title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda - The Guardian"
     },
     {
-      "id": 221,
+      "id": 224,
       "category": "News",
-      "title": "米中間選挙が最終盤、ミシガンで民主分裂 トランプ氏は｢赤い州｣奔走 - 日本経済新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE56MG43WEFsUW5zSkZqdU1lZS1adVczZ1h3R0dxcnFIRkJlOUxyeTFGYzBGMDdyczFORTNST2tUM3BwN3dMMGhfMjhoZ2tnUjhTaVdIdHQxTVEzd2VnenFMa19jNzJKQlg4X1",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56MG43WEFsUW5zSkZqdU1lZS1adVczZ1h3R0dxcnFIRkJlOUxyeTFGYzBGMDdyczFORTNST2tUM3BwN3dMMGhfMjhoZ2tnUjhTaVdIdHQxTVEzd2VnenFMa19jNzJKQlg4X1diMA?oc=5",
-      "published_at": "Sun, 01 Nov 2026 18:48:38 GMT",
+      "title": "ドイツ全土のデモ 暴徒化した集団が店襲撃 当局が会見 - NHKニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PeUJTdjQ2bElJLUw5UWVldEJaNDdNU1FJLTQyWjlELWlnZXRscy00X3pLcGVUNTMxS2lHaGdKUHpfN3hUdm80NHZYR2dSMmo4bnVDWWx2QUYtRlhKSnNz?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PeUJTdjQ2bElJLUw5UWVldEJaNDdNU1FJLTQyWjlELWlnZXRscy00X3pLcGVUNTMxS2lHaGdKUHpfN3hUdm80NHZYR2dSMmo4bnVDWWx2QUYtRlhKSnNz?oc=5",
+      "published_at": "Sun, 01 Nov 2026 19:23:43 GMT",
       "importance": 1,
       "source_name": "Google News JP",
-      "translated_title": "米中間選挙が最終盤、ミシガンで民主分裂 トランプ氏は｢赤い州｣奔走 - 日本経済新聞"
+      "translated_title": "ドイツ全土のデモ 暴徒化した集団が店襲撃 当局が会見 - NHKニュース"
     },
     {
-      "id": 160,
+      "id": 156,
       "category": "Global",
-      "title": "UN’s peacekeeping mission in Western Sahara ends after 35 years following US-Russia standoff - Audacy",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjZKNU5iVFdlVnZ1SHZ6YlFRczdVMjVsVnlKVWNzM3U0Q1Y3ODJyYnVyOHlwaVVCQnhaYUlXQXh4N1lMRGZjRkdVYTc5c3ozMWk0MGVkNWZuaFhyTG1iVHNzSkNlX18xUFp1VHQ5Zm",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjZKNU5iVFdlVnZ1SHZ6YlFRczdVMjVsVnlKVWNzM3U0Q1Y3ODJyYnVyOHlwaVVCQnhaYUlXQXh4N1lMRGZjRkdVYTc5c3ozMWk0MGVkNWZuaFhyTG1iVHNzSkNlX18xUFp1VHQ5ZmRITkdjUTJRbDNueUNGTGdNRHh3NVhHczRTT2NRUVVxMFVUaGw2aGlVRHVBOGUxbE1KN1doM1hNQ2UzVVo5N25xck85Q2kwakR5amZQYWE0ekI?oc=5",
-      "published_at": "Sun, 01 Nov 2026 18:34:00 GMT",
+      "title": "Switzerland Names 2025 Women's World Championship Roster - Yahoo Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNT1pVMFgxU2hMM3Uwc1FVaS12c0hSWnVpaW5uME41MFlMVHFMUmxRd1VvbVRJVjVWcjZyU3AzbWtJS01xb1l4VUltY1hsLUJLWHRrVVVkM2hVeThQeHZlcE55S3lqYWNGNmNYUGRTV2",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT1pVMFgxU2hMM3Uwc1FVaS12c0hSWnVpaW5uME41MFlMVHFMUmxRd1VvbVRJVjVWcjZyU3AzbWtJS01xb1l4VUltY1hsLUJLWHRrVVVkM2hVeThQeHZlcE55S3lqYWNGNmNYUGRTV2VyeVpfWVVKNWJHYWR0bHotSDNwQXl5cXRscGJJMQ?oc=5",
+      "published_at": "Sun, 01 Nov 2026 19:10:33 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "UN’s peacekeeping mission in Western Sahara ends after 35 years following US-Russia standoff - Audacy"
+      "translated_title": "Switzerland Names 2025 Women's World Championship Roster - Yahoo Sports"
     },
     {
-      "id": 127,
+      "id": 243,
+      "category": "News",
+      "title": "SUPER EIGHT、“兄貴分”として感無量・感謝「頼もしい後輩たちが育ってきました」 『KAMIGATA EXPO PARK FES 2026』 - オリコンニュース",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE02T3hrNlBuSGNPNEM1Vi0wX0ZxWjU4U2N3VzFWZ1RqMkhxQVJST1o1S3N2SzhuSkV2aWIyR21mdWtScGZSZTNjUGc0QkhwbDh0S3JZaDB3?oc=5\" target=\"_blank\">SUP",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02T3hrNlBuSGNPNEM1Vi0wX0ZxWjU4U2N3VzFWZ1RqMkhxQVJST1o1S3N2SzhuSkV2aWIyR21mdWtScGZSZTNjUGc0QkhwbDh0S3JZaDB3?oc=5",
+      "published_at": "Sun, 01 Nov 2026 19:00:00 GMT",
+      "importance": 1,
+      "source_name": "Google News JP",
+      "translated_title": "SUPER EIGHT、“兄貴分”として感無量・感謝「頼もしい後輩たちが育ってきました」 『KAMIGATA EXPO PARK FES 2026』 - オリコンニュース"
+    },
+    {
+      "id": 145,
+      "category": "Global",
+      "title": "Czechia Names 2026 Women's World Championship Roster - Yahoo Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPQlVoRFc3V3BNRUNNUUpCcExRbjZ1QlhwSll5cFUzVzJYTkwxd0lSLVNpR0JlUjE4d2ZLN0RnRDZHclgwVnBjcmpKRk9Lay1lbS1vMW0zZlFGV2J6c3BPMi1SOVhWUUxfYmVDT2Z3Rk",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQlVoRFc3V3BNRUNNUUpCcExRbjZ1QlhwSll5cFUzVzJYTkwxd0lSLVNpR0JlUjE4d2ZLN0RnRDZHclgwVnBjcmpKRk9Lay1lbS1vMW0zZlFGV2J6c3BPMi1SOVhWUUxfYmVDT2Z3RkFHMF90WTZYQWR0NXctSkJLQjY0QlM2a28?oc=5",
+      "published_at": "Sun, 01 Nov 2026 18:31:32 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Czechia Names 2026 Women's World Championship Roster - Yahoo Sports"
+    },
+    {
+      "id": 133,
       "category": "Global",
       "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond - Al Jazeera",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNWWNQcmE4S29vb3g3TVlvTk5fbjBkdldNSGg0SGdnMTRYaTVXdVQzaWg4LWpXR20wWG41QTZPY1B6M1R1cFJVVWRPZ2dZZUk3Vno5bkFHYkZ4dkI5S05OM0M0N2tpQ0ZfWk93T0l2RF",
@@ -695,7 +618,7 @@
       "translated_title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond - Al Jazeera"
     },
     {
-      "id": 128,
+      "id": 130,
       "category": "Global",
       "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjVSR3czb2tNNE5iaEtFN0ZqWnZvczZzV3F0ZHpoMEVSdl9Jb01HOXF6U3BITmRVM3BEc3JraWl6alRYWndQR1kzdVZxZVVsNjQ3cmhLUmlpS0FGT1dxVV9tbWlHUnQyWUZvR2JLcm",
@@ -706,7 +629,18 @@
       "translated_title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz - The Guardian"
     },
     {
-      "id": 135,
+      "id": 210,
+      "category": "Global",
+      "title": "GMO to detail cyberattack incident at news conference - NHKニュース",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fSk9QUEpyR09wMUIySmlFQTBIcXFUVnFiVDNTaUtseUJhZWlsRUd5YUFZYklqdGpEZG9PRjNoa3BmS1IxcXpFM20wckhNTlN2TlF3NXdISW9oNlNoSW5aTS1obw?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fSk9QUEpyR09wMUIySmlFQTBIcXFUVnFiVDNTaUtseUJhZWlsRUd5YUFZYklqdGpEZG9PRjNoa3BmS1IxcXpFM20wckhNTlN2TlF3NXdISW9oNlNoSW5aTS1obw?oc=5",
+      "published_at": "Sun, 01 Nov 2026 18:18:38 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "GMO to detail cyberattack incident at news conference - NHKニュース"
+    },
+    {
+      "id": 138,
       "category": "Global",
       "title": "Almgren wins on marathon debut, Chepkirui regains title in New York - worldathletics.org",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTh1b1l5WkNfSW9xMW9XdTQ3bWVYSEo4ZnNNWWhoLUlMbFFtUlZNOTRYSnVyMnNwajUzNTZmM2hYWFFGR0xHa0NjSnkwMVROamQ1dTEtZ1RoZ3g5bUw0Rnp6M1JndkowaXVOTUlmMC",
@@ -717,18 +651,7 @@
       "translated_title": "Almgren wins on marathon debut, Chepkirui regains title in New York - worldathletics.org"
     },
     {
-      "id": 132,
-      "category": "Global",
-      "title": "Canada's Carney reports progress in trade talks with U.S. and Trump talks up 'concept' of a deal - PBS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSk",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84?oc=5",
-      "published_at": "Sun, 01 Nov 2026 18:00:43 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Canada's Carney reports progress in trade talks with U.S. and Trump talks up 'concept' of a deal - PBS"
-    },
-    {
-      "id": 144,
+      "id": 154,
       "category": "Global",
       "title": "2026 Vidanta World Mexico Open purse: Payout info, winner’s share | News - GOLF.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5zS3VZOVg2WlBfdUR5NU9kX29iRVZPNDJ1WGo4elB6U1RNaFd1WERZOWJWUGtLMTdNZkp5RGhQYnoxalVRNGhxNVFLczduenRQSzQzRE4zbmMzVDR3VkhoNFcyUUpEMS1tc0ZZcXNFMl",
@@ -739,7 +662,7 @@
       "translated_title": "2026 Vidanta World Mexico Open purse: Payout info, winner’s share | News - GOLF.com"
     },
     {
-      "id": 161,
+      "id": 168,
       "category": "Global",
       "title": "Sudan’s power grid nears collapse as drone strikes blamed on RSF target electric stations - Audacy",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNRXQxcDJ5UTZMQWtHZmxYWGp4Mm5XTlBKX2t2TXduYVQtdXVKdENVZWxxNE9ucHUwQ2g5dEdxRGZGVDVJYXlvXzZ6VFp0MF9OcnJ2cmd2RHlmUGxpdXQyRHJoT0dBeTI3ZmpHdGdaRD",
@@ -750,40 +673,29 @@
       "translated_title": "Sudan’s power grid nears collapse as drone strikes blamed on RSF target electric stations - Audacy"
     },
     {
-      "id": 148,
+      "id": 162,
       "category": "Global",
-      "title": "Iran's top diplomat hopes US shows 'rationality,' and other Mideast news - WRAL",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2YwVWtPX1c4Q29uZW5naVNzZnpLbnZ6ZEhQTkJEZjhLQXI4WFBKUGJvZ2tPZ1Njb0FtVTdZYWRxa2sxWURSS0REa3doeTBXcjhoakN6UmxyT1loSXQ0d0ppbDFLWklvb3JBLXNuYU",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2YwVWtPX1c4Q29uZW5naVNzZnpLbnZ6ZEhQTkJEZjhLQXI4WFBKUGJvZ2tPZ1Njb0FtVTdZYWRxa2sxWURSS0REa3doeTBXcjhoakN6UmxyT1loSXQ0d0ppbDFLWklvb3JBLXNuYU1iV0h4UXh0S0NmVDR4YXFOOXE3VHc0bHEwWkNYU2lIemhmbHlZdEd1MWRUNUhwUVB5OHFxREdtRjI5enpNcjZwa2pTeG9mdFdSRUlHVzQwSk0zSHZmNGRv?oc=5",
-      "published_at": "Sun, 01 Nov 2026 17:34:48 GMT",
+      "title": "Pat Murphy, Brewers make 'SNL' appearance as World Series celebrations continue - Yahoo Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQZGhLdVZqWmJtU0JSQlB6ckdVWF9SMFM0T3FxUTZjbEphaC1TcXFCaU1uN21mcnUxb0dDNUdfT3VkSWtpNUNINzVTbDZ1dFN0bEZoQzNvblRrdThOSHdsS0pjSFhVdDZqaUhBRGluZD",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZGhLdVZqWmJtU0JSQlB6ckdVWF9SMFM0T3FxUTZjbEphaC1TcXFCaU1uN21mcnUxb0dDNUdfT3VkSWtpNUNINzVTbDZ1dFN0bEZoQzNvblRrdThOSHdsS0pjSFhVdDZqaUhBRGluZDZFV3VIejFGTmM3RWRBUDVUV0U1a0dPbUEwb2c?oc=5",
+      "published_at": "Sun, 01 Nov 2026 17:32:46 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "Iran's top diplomat hopes US shows 'rationality,' and other Mideast news - WRAL"
+      "translated_title": "Pat Murphy, Brewers make 'SNL' appearance as World Series celebrations continue - Yahoo Sports"
     },
     {
-      "id": 130,
+      "id": 128,
       "category": "Global",
-      "title": "Attempted murder probe after petrol bomb thrown at French riot police - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVdUZ0d3OWx0RVZfN2pBdnRNSFVESkNyNDFrTDlHNXNTU1ZzVHdTVk82dGdINHVhX01Pa3U0dmZGaWx2WnhXb3oteEJnenFFVjVWd3V3RDdTRzFHNGZRZ3ptUFZtZVBSRnlEeTdRcE",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVdUZ0d3OWx0RVZfN2pBdnRNSFVESkNyNDFrTDlHNXNTU1ZzVHdTVk82dGdINHVhX01Pa3U0dmZGaWx2WnhXb3oteEJnenFFVjVWd3V3RDdTRzFHNGZRZ3ptUFZtZVBSRnlEeTdRcENiQlVkcnZHcjhVbllqekhUclhiSEdadGl5N1FIdFNuRQ?oc=5",
-      "published_at": "Sun, 01 Nov 2026 17:22:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Attempted murder probe after petrol bomb thrown at French riot police - The Guardian"
-    },
-    {
-      "id": 167,
-      "category": "Global",
-      "title": "Russia’s security service detains a teenager planning a ‘terror attack’ after a US tip-off - news8000.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWm9IMWFfQksyNDZ4ZVQxNXY3a0tuYkppSHF0ZEE0bHBpWnpac1ZoSWdHSllpZTBLcjk3bzFCVUN1MWE3Nmh1V2Z0dU9pb1NlNWRBVlB6c2RoVks3U0dpWUVyNTYtU0xkMWRBZlk4eE",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWm9IMWFfQksyNDZ4ZVQxNXY3a0tuYkppSHF0ZEE0bHBpWnpac1ZoSWdHSllpZTBLcjk3bzFCVUN1MWE3Nmh1V2Z0dU9pb1NlNWRBVlB6c2RoVks3U0dpWUVyNTYtU0xkMWRBZlk4eE9rTFFjTUhrUmpvY1NPVTZPWkR3ZklQZUpYMWVtODVjUFZONGVDRmxCcTJMUzFIdjZuVmQyLWNKSG5KQzByQy1fQlpNQ09ZeHhwZ09EU3lBRXlwYUFZLWVaOXdTTzVTdUd6dTBQdUNUTFZZSkRsTkFxVTdtM0FIUkVfYlBPQS01VHNGb0RzVVZZM3BIODdEVFNiSWRUbFRlSnFJZjg?oc=5",
-      "published_at": "Sun, 01 Nov 2026 17:19:00 GMT",
+      "title": "Ukraine defies Trump to resume attacks on Russian oil refineries - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ19rWVE2TGotNE9jeVFKZnFoaEpZaDRlTHVjZVhPcks0am5ieVl2ck9MaTYxR25CQXVvcDNfZ1FibEo3QjRIRWRjcno1eXRGVTlkT0FmVmZLYkNYYm12akswdFBHNGRMOXdiTEQyb0",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ19rWVE2TGotNE9jeVFKZnFoaEpZaDRlTHVjZVhPcks0am5ieVl2ck9MaTYxR25CQXVvcDNfZ1FibEo3QjRIRWRjcno1eXRGVTlkT0FmVmZLYkNYYm12akswdFBHNGRMOXdiTEQyb01rLW5NWFZJMGU5QjRMV3p4MjE0aC01Skx6UXAzWTktVVl3UC1VZXA0SGFn?oc=5",
+      "published_at": "Sun, 01 Nov 2026 17:20:00 GMT",
       "importance": 3,
       "source_name": "Google News World",
-      "translated_title": "Russia’s security service detains a teenager planning a ‘terror attack’ after a US tip-off - news8000.com"
+      "translated_title": "Ukraine defies Trump to resume attacks on Russian oil refineries - The Guardian"
     },
     {
-      "id": 3,
+      "id": 4,
       "category": "AI/IT",
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
@@ -794,29 +706,7 @@
       "translated_title": "TechCrunch Mobility: A new, bigger AV boom is here"
     },
     {
-      "id": 138,
-      "category": "Global",
-      "title": "Major global news moments of October, in AP photos - WTOP News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNeUNJYW5lLVlnM0NhdUo2bENpQ3NXeDlnVDRRY2NIVXU5VDdLWmdxSUhIVlNGMTA2QjV0VnNPTXAwYTc4OGdaZjhMenpldG1HWlFGNmRqdmhhc19hUDdEMG1uWmVlaFluakVqNFk0ZF",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeUNJYW5lLVlnM0NhdUo2bENpQ3NXeDlnVDRRY2NIVXU5VDdLWmdxSUhIVlNGMTA2QjV0VnNPTXAwYTc4OGdaZjhMenpldG1HWlFGNmRqdmhhc19hUDdEMG1uWmVlaFluakVqNFk0ZFFkZndyMzNYbExXVW5KOXlUSDlfdnZKUzFja080Qw?oc=5",
-      "published_at": "Sun, 01 Nov 2026 16:50:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Major global news moments of October, in AP photos - WTOP News"
-    },
-    {
-      "id": 143,
-      "category": "Global",
-      "title": "Major global news moments of October, in AP photos - Union-Bulletin",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX3V5bkhyaTBNSkVDa2l3LTJ5OXlyNF9zaWhFR3VPUVV1MXFvM2NLcHdjU1JwLXFYX0dZTmNZVHN6YmVCZnN2TXB5WDZoblA4eHYySUpLd25IOWRaM2JTTFRNaXI5ZnBzcWg2SW5YbG",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX3V5bkhyaTBNSkVDa2l3LTJ5OXlyNF9zaWhFR3VPUVV1MXFvM2NLcHdjU1JwLXFYX0dZTmNZVHN6YmVCZnN2TXB5WDZoblA4eHYySUpLd25IOWRaM2JTTFRNaXI5ZnBzcWg2SW5YbG5HOXBiVnBsOXBkd3pmVDBPSDBBX3h2WVAwZXVVbUVDQlhxOFlESk1WRXZhZ2swV1pCc2dUaWpuT3BlRXJMQzhxUFUxVGZOV2pDSlBJUFFmRWN2ekd5WUpCbmJyZjl3SFByeHRicXc0OE5yV1pz?oc=5",
-      "published_at": "Sun, 01 Nov 2026 16:46:52 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "Major global news moments of October, in AP photos - Union-Bulletin"
-    },
-    {
-      "id": 125,
+      "id": 171,
       "category": "Global",
       "title": "5 US destinations named to Best of World travel list for 2027 by National Geographic - Fox News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOUFM3NFRLQ1NFTkJzR0ktNWZxUndpT1UyQ0NUVlExcW1QZVA3OHhmM3JtXzNhRmFCUWVUWkR0dHJQSFF0NnplbXB3LW1yN1hFN1phOFRDS05yMDl6b2NSdDNUOW5EVUt2bHpnQ2FOMk",
@@ -827,18 +717,18 @@
       "translated_title": "5 US destinations named to Best of World travel list for 2027 by National Geographic - Fox News"
     },
     {
-      "id": 149,
+      "id": 143,
       "category": "Global",
-      "title": "Salem, Massachusetts, serves as \"epicenter of the world\" for Halloween - CBS News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNR01uN043dTkzZFBIeGVKakN4cUxaY3pDOEpkanBnUXkzV3FjOE9ENlp4RjA1QnpTMlYtZ3U1S0l2RE0zcXRmZG4tY0NMczQzN2hpZHVjWFQ1YjRnNEJQcDlsYThQX0dxQ1lGNnpQLV",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR01uN043dTkzZFBIeGVKakN4cUxaY3pDOEpkanBnUXkzV3FjOE9ENlp4RjA1QnpTMlYtZ3U1S0l2RE0zcXRmZG4tY0NMczQzN2hpZHVjWFQ1YjRnNEJQcDlsYThQX0dxQ1lGNnpQLVQtVVVqWVdtcWJ4Ymd6M3hYMEhVcUM5NXFfYnFqR1JqdnpiZU92Yk10SHJJRjdmOVFWX3daM3FvNA?oc=5",
-      "published_at": "Sun, 01 Nov 2026 16:37:00 GMT",
-      "importance": 1,
+      "title": "Explainer-How Trump’s Noncitizen Voter Lists Could Affect the Midterms - U.S. News & World Report",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb1pjWHBIdmJxajIta3J3aXpSVzJvOVY1d1lKQWxKWkdMOHJkMTdtdlJVeXlNTU5GYjlGZFhMRTFNSFpvYVBfekNGV2d2dUszQzVfRzZUaDRYV0NIdWZZYTVkeE1VbHFqTXVDVk9Zck",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb1pjWHBIdmJxajIta3J3aXpSVzJvOVY1d1lKQWxKWkdMOHJkMTdtdlJVeXlNTU5GYjlGZFhMRTFNSFpvYVBfekNGV2d2dUszQzVfRzZUaDRYV0NIdWZZYTVkeE1VbHFqTXVDVk9ZckJSS3NCSFN4OTYyUTY3bEg5RDRVU0pQb2s4VTRKZk9XeUg0UEprOGt4ZmpoMXh5NWItUERwa1BzQTJpM1d3OGVXUVdMbTh4aUVldVNXOVN2QnY?oc=5",
+      "published_at": "Sun, 01 Nov 2026 16:23:00 GMT",
+      "importance": 3,
       "source_name": "Google News World",
-      "translated_title": "Salem, Massachusetts, serves as \"epicenter of the world\" for Halloween - CBS News"
+      "translated_title": "Explainer-How Trump’s Noncitizen Voter Lists Could Affect the Midterms - U.S. News & World Report"
     },
     {
-      "id": 4,
+      "id": 5,
       "category": "AI/IT",
       "title": "Binance resumes withdrawals following $6.3 billion breach",
       "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
@@ -849,51 +739,18 @@
       "translated_title": "Binance resumes withdrawals following $6.3 billion breach"
     },
     {
-      "id": 235,
-      "category": "News",
-      "title": "暗号資産９９００億円相当流出、北朝鮮ハッカー集団の犯行と断定…ＦＢＩ発表「資金洗浄の動き」 - 読売新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KQkd3NDljRGZFZUhpXzdCLXZJdklQTkp2VWNlRC1QWFhIbzY2QmdrdkdvWHhORHEtSlV0YmlETkNyZDJXMHZfakh3NVIxUDFQNHlSMGxzdk9FTjdNWUhMWXJGNl8?oc=5\" ",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KQkd3NDljRGZFZUhpXzdCLXZJdklQTkp2VWNlRC1QWFhIbzY2QmdrdkdvWHhORHEtSlV0YmlETkNyZDJXMHZfakh3NVIxUDFQNHlSMGxzdk9FTjdNWUhMWXJGNl8?oc=5",
-      "published_at": "Sun, 01 Nov 2026 16:12:00 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "暗号資産９９００億円相当流出、北朝鮮ハッカー集団の犯行と断定…ＦＢＩ発表「資金洗浄の動き」 - 読売新聞"
-    },
-    {
-      "id": 197,
+      "id": 151,
       "category": "Global",
-      "title": "Dąbrowski earns record fourth bike win; Al-Bastaki on top in the quads - FIM",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWVNYdW5mVXZSSXRtWjVZTW41RGJRZjNUVXF4STRMWUtzLUY1VURQQTQ0NzlYdGVPQ1pvNzVubS1DODBRZUpUVHYycjNfTHBBcEJCVVdxTHcydzFNRDFOUnhabFU4WUQyQmZlTDR1X3",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWVNYdW5mVXZSSXRtWjVZTW41RGJRZjNUVXF4STRMWUtzLUY1VURQQTQ0NzlYdGVPQ1pvNzVubS1DODBRZUpUVHYycjNfTHBBcEJCVVdxTHcydzFNRDFOUnhabFU4WUQyQmZlTDR1X3k3cUphQVp0enNCUXN1c3c0MlNpdDQ1T01vWVh6dWtaTGlrTFFPaFFrYVdRcGJRUXk4NXhOY3ZQSmJ4SFZZSnZMaG44cmtJWHpPdGVyaHFmdDBBZw?oc=5",
-      "published_at": "Sun, 01 Nov 2026 15:47:11 GMT",
+      "title": "Multiple shootings in Dallas leave four dead and 15 injured on Halloween night - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFZLbzNoajQxQzdkdUlRZnBsZnhoQzVNZTd4Vk5KaXRuUkRkRFlIcnpOcE94bjFDZktkMzUyaWw3eXU5VXVmVGl2WHN4T1BVdnlYeTJLZ0FBY1ItOEJaTUZFRHVFWHBqVFN3d1BVcm",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFZLbzNoajQxQzdkdUlRZnBsZnhoQzVNZTd4Vk5KaXRuUkRkRFlIcnpOcE94bjFDZktkMzUyaWw3eXU5VXVmVGl2WHN4T1BVdnlYeTJLZ0FBY1ItOEJaTUZFRHVFWHBqVFN3d1BVcmJzX182SUZlZk5DWXUybXFZaVNJV01oc1N0ZjJCTUpDYW5EeEtHa1E?oc=5",
+      "published_at": "Sun, 01 Nov 2026 16:13:00 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "Dąbrowski earns record fourth bike win; Al-Bastaki on top in the quads - FIM"
+      "translated_title": "Multiple shootings in Dallas leave four dead and 15 injured on Halloween night - The Guardian"
     },
     {
-      "id": 129,
-      "category": "Global",
-      "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY05SSE9STENXVVFxdDVzRHZLQXFEQ1N6Nm5zTlA1VUNaVDI4Yk0yS2Y5OTdHVnZBbkJqdmw1Qm9qVUdNQTlrWVJGaHN3c2VCWlRkQ1JMLTk5eWgzaU53a0RQQ3RNVDRqMHFLMW5lel",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY05SSE9STENXVVFxdDVzRHZLQXFEQ1N6Nm5zTlA1VUNaVDI4Yk0yS2Y5OTdHVnZBbkJqdmw1Qm9qVUdNQTlrWVJGaHN3c2VCWlRkQ1JMLTk5eWgzaU53a0RQQ3RNVDRqMHFLMW5lel9CTnEtZDFTZFoyaGJCYzBGRnE0M0l1Sy1zN2FMTEtlMUZFVTNHa2djV2Y4OG5XbEIwQzZxc3d0dVJ3Y3c1S1BSMC12QTZHNGhZWmM2TEc3R3Y?oc=5",
-      "published_at": "Sun, 01 Nov 2026 15:00:00 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash - The Guardian"
-    },
-    {
-      "id": 142,
-      "category": "Global",
-      "title": "AZPM’s News Weekend: These are the five must-read stories of the week for Oct. 26-30 - AZPM",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPbWtxYXB5R1F3VnZIUzZNeFVMOXBxNnJHdF9HanNCR0RPUTk5WVAxYW51aGRNaDJ0bDVGV1JVN1U3WmRBYmYtN1R2UndvSFhPd1E4WWY2M3V2cVBHMmhHUGNOZnZLQkhUQTJZc0dlc3",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbWtxYXB5R1F3VnZIUzZNeFVMOXBxNnJHdF9HanNCR0RPUTk5WVAxYW51aGRNaDJ0bDVGV1JVN1U3WmRBYmYtN1R2UndvSFhPd1E4WWY2M3V2cVBHMmhHUGNOZnZLQkhUQTJZc0dlc3U0aER1dWlnUmRSMG05eTI2Q29TRi1xVjlROXpULV9FRzBxWGVtMGQtU1dwenMyREU2dHJzVFRPY19RNUtvd1dLYWotWl9Vc1UxbE54WFZZUFM4XzBuX2ZjQXY0Yw?oc=5",
-      "published_at": "Sun, 01 Nov 2026 15:00:00 GMT",
-      "importance": 1,
-      "source_name": "Google News World",
-      "translated_title": "AZPM’s News Weekend: These are the five must-read stories of the week for Oct. 26-30 - AZPM"
-    },
-    {
-      "id": 5,
+      "id": 6,
       "category": "AI/IT",
       "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
       "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
@@ -915,7 +772,7 @@
       "translated_title": "Iran, Qatari mediators hold third day of talks to end US-Iran war - Reuters"
     },
     {
-      "id": 158,
+      "id": 166,
       "category": "Global",
       "title": "German Ministers Vow Tough Response to Frankfurt Riots and Looting - U.S. News & World Report",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaHhtNVVvUVdLWlJQRGlUTFpXZERwN3ZPRXY4bnUyY1lmTnNkNFpFMUFLVnBvbDRNS3hMWjM3Z0hKWThGajFyX05HVklFcUVMcWVGTDlwd1BHZjF6cllZWklmUzRZbTdhZFJINTRNTm",
@@ -926,7 +783,7 @@
       "translated_title": "German Ministers Vow Tough Response to Frankfurt Riots and Looting - U.S. News & World Report"
     },
     {
-      "id": 175,
+      "id": 191,
       "category": "Global",
       "title": "Civilians in Ukraine's Kherson prepare for the return of war as localized ceasefire ends - KSAT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjNrTTlmR3Y4OS1CeG94UjkyMUlQMnZ3TXBmZ25va3J2LXcxOGhTUWVwZnNFdkVBSldZdG52MVp1bWZLVnYzeFllWWhWYjB1WHA5OGFUMEk2VVZyaTlRRFZPNTl0Y0JJektJVHFYUm",
@@ -937,7 +794,7 @@
       "translated_title": "Civilians in Ukraine's Kherson prepare for the return of war as localized ceasefire ends - KSAT"
     },
     {
-      "id": 105,
+      "id": 114,
       "category": "Product",
       "title": "「雨だから太陽光発電できない」はもう言い訳にならない時代に",
       "summary": "雨粒で発電する次世代の全天候型ペロブスカイト太陽電池を解説。弱点を克服したハイブリッド技術の詳細と活用可能性を紹介します。",
@@ -948,7 +805,7 @@
       "translated_title": "「雨だから太陽光発電できない」はもう言い訳にならない時代に"
     },
     {
-      "id": 6,
+      "id": 7,
       "category": "AI/IT",
       "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
       "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
@@ -959,40 +816,29 @@
       "translated_title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like"
     },
     {
-      "id": 159,
+      "id": 185,
       "category": "Global",
-      "title": "This freight train claims to be the world’s longest. How long is it? - FOX40",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXlDTFo5U1E1SmNjWS1XUlIxVlZPQWE5Vy03dmZtVnlKT1A0dmNPMEtTMHJGNWtiX2w2TE9QcUdtdVNyaXRxSzVkSnFsWE5SbVVKVnpmaWdHVlVOS2h5UGItbHVFWXBxRWM3Uzk4Uk",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXlDTFo5U1E1SmNjWS1XUlIxVlZPQWE5Vy03dmZtVnlKT1A0dmNPMEtTMHJGNWtiX2w2TE9QcUdtdVNyaXRxSzVkSnFsWE5SbVVKVnpmaWdHVlVOS2h5UGItbHVFWXBxRWM3Uzk4Uk5MYkxHSW9VbmhTTnlZajV0NFAxdkJKZi1MZ0VNQmRGeHdORi1QZUpibDFqWHVLSEdnSThWem13ejZjX1NULU5fWFRlc9IBuAFBVV95cUxNWGpkX3ZmU2ZLbkh6ejNFcV95aFRmbjZsRmpFelNEOXV1UXczcXc5aUdSdEtLbnE4YzhmTnRtVEhUUV8tY2tDenEzMHUzQW5TNjZVUTBCazBCTkxVNGgxVGNtNU44T0JScVhXSzFRSnUwaFNUbmtsQUNWY1N6TkszQ3hHRUM0eFJUTFlzUDltLUVSOGdCUlliWkVUcFAzM2lsZzlUM1Vaejh6VmhvLWNvaDhxVEk4RklN?oc=5",
-      "published_at": "Sun, 01 Nov 2026 13:01:04 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "This freight train claims to be the world’s longest. How long is it? - FOX40"
-    },
-    {
-      "id": 223,
-      "category": "News",
-      "title": "人道状況が悪化したウクライナ南部州、物資搬入・住民退避に成功…局地停戦は終了へ - 読売新聞",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtZUlma0s0WEhWekhRenZZMGUwXzJzVFI3UGlDVzE4clJxVUtKRm1hSHhHX0pMYS1ubnNIQ3VhbmlLVGVkRG4zOHRBUzFiMWVNZ01wLUFsbmhNTzZwLXlQTDFR?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtZUlma0s0WEhWekhRenZZMGUwXzJzVFI3UGlDVzE4clJxVUtKRm1hSHhHX0pMYS1ubnNIQ3VhbmlLVGVkRG4zOHRBUzFiMWVNZ01wLUFsbmhNTzZwLXlQTDFR?oc=5",
-      "published_at": "Sun, 01 Nov 2026 12:55:00 GMT",
+      "title": "Asylum seekers still being sent to France under ‘one in one out’ weeks after scheme ended - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2VCYWZjWUEwQWxKNFVxZXpqRVVWcFhfdUtOTy1uT1NORWFBSWdYeW5oM2hNUHZya1dLMFBiaW9JRjBjTDFjNkxGcGEtVFM1SElibjgtRUwxUDZ3YkN1a0ZKQVl0TnhIQlNUYVA2QT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2VCYWZjWUEwQWxKNFVxZXpqRVVWcFhfdUtOTy1uT1NORWFBSWdYeW5oM2hNUHZya1dLMFBiaW9JRjBjTDFjNkxGcGEtVFM1SElibjgtRUwxUDZ3YkN1a0ZKQVl0TnhIQlNUYVA2QTRpYVFFY1dkN2VPQmhBMjlKc0Z1a0wtNnlpYmNrUlZUMG5JbE9PTmplVk9aRTlTT09IdUVKMlpRcXlDRHcxOTZ2dFROQ1dNTDdHdGhNdTVkSkkzbmJxaFVld1U1MWs1cnVs?oc=5",
+      "published_at": "Sun, 01 Nov 2026 13:47:00 GMT",
       "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "人道状況が悪化したウクライナ南部州、物資搬入・住民退避に成功…局地停戦は終了へ - 読売新聞"
+      "source_name": "Google News World",
+      "translated_title": "Asylum seekers still being sent to France under ‘one in one out’ weeks after scheme ended - The Guardian"
     },
     {
-      "id": 165,
+      "id": 175,
       "category": "Global",
-      "title": "ANALYSIS | In 2024, they were all-in for MAGA. Now, many young men are dumping Trump - CBC",
+      "title": "Young men and right-leaning podcasters helped Trump win in 2024. Both have soured on him - CBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQQUFBMVc0ektXMGFpM0FNYjBCUTdhZG02c2xkaWhOZ1FFYW1iYUREVVRfcEV1U05VT3lxeVpBRDVxLVlSSkE4OXdFbmhsOFE3MHBfOGpJRnBXMWp6LUxPbzZCbVZGWm1lZlhhTDhQRm",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQUFBMVc0ektXMGFpM0FNYjBCUTdhZG02c2xkaWhOZ1FFYW1iYUREVVRfcEV1U05VT3lxeVpBRDVxLVlSSkE4OXdFbmhsOFE3MHBfOGpJRnBXMWp6LUxPbzZCbVZGWm1lZlhhTDhQRmt5SXI5WjVXZ043NXAtQkV5bk5seVVZQ2VKZWdPNndwN2VmMjhZX2dNbTBqcVV6WFNydXAzcHNnak9vM05pbXQ5d055cGJMT3Vra2JaWG1KRW5RcmF5UXc?oc=5",
       "published_at": "Sun, 01 Nov 2026 12:29:42 GMT",
       "importance": 1,
       "source_name": "Google News World",
-      "translated_title": "ANALYSIS | In 2024, they were all-in for MAGA. Now, many young men are dumping Trump - CBC"
+      "translated_title": "Young men and right-leaning podcasters helped Trump win in 2024. Both have soured on him - CBC"
     },
     {
-      "id": 152,
+      "id": 159,
       "category": "Global",
       "title": "Bulgaria's Acting President Iotova Takes Lead in Presidential Runoff Vote, Exit Polls Show - U.S. News & World Report",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORnpxcWpiaVdWWk9ubW1uR3ZFQ1ZHVHJITWJ1NUhZdGNkRHlXYVEtbVB1eElQR0owa2owbWx6QlFQclZ1YkE5RHBRZ3hyYng4Mjhnd3Z0YXJGbk9jU2ZLZDJyTEhpTGRYN2thd0hFSG",
@@ -1003,7 +849,7 @@
       "translated_title": "Bulgaria's Acting President Iotova Takes Lead in Presidential Runoff Vote, Exit Polls Show - U.S. News & World Report"
     },
     {
-      "id": 172,
+      "id": 188,
       "category": "Global",
       "title": "French protest violence eases while scattered riots hit Germany ahead of school return - KSAT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOOGxZWlJBVWNIRk1KangwYmwxY3hoOHFjZ2VYZzA2aHJzbG9CWm5oNVpRVWhTLUlRMXQ1a09JbndySnFrRVQtajU2ZFRJTGJ1Q1hLRW1FV2d6MWw4SC0wcHZGekZ4WXNSbUF6M0F4dn",
@@ -1014,7 +860,7 @@
       "translated_title": "French protest violence eases while scattered riots hit Germany ahead of school return - KSAT"
     },
     {
-      "id": 133,
+      "id": 136,
       "category": "Global",
       "title": "Pope: Youth Olympic Games a sign of hope emerging from world of sport - Vatican News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQckd0Y2d4MzN5bm9yLTk0bDR1MUhFZHhQb3dDdGxfX091aFVmNWJzUHI1NmRTSHNEcXBmT3dVT08yUzN5NDRDek9ZMTJkVm9udFBZbjBWd0NUalV1TGE1QXcxQXY2M2lUOTliYWtLQl",
@@ -1025,7 +871,7 @@
       "translated_title": "Pope: Youth Olympic Games a sign of hope emerging from world of sport - Vatican News"
     },
     {
-      "id": 141,
+      "id": 144,
       "category": "Global",
       "title": "Russian strikes cut power to thousands in Ukraine, despite Trump’s energy ceasefire push - NBC News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQbnFHM2dZUTJhZmduUmVZVXlxWmQ3dzFlWjZDaWJ0Rm9kZlY5Q2dkRmsxR0E0aC1tSTBOcjlXZkRfRWE3VkJ6dDVPa3g4RF80Z1V6UzRWR0ZaQXVIcVNTemI0MVptbWYxbVZiUzRkQU",
@@ -1036,18 +882,7 @@
       "translated_title": "Russian strikes cut power to thousands in Ukraine, despite Trump’s energy ceasefire push - NBC News"
     },
     {
-      "id": 237,
-      "category": "News",
-      "title": "【独自】GMO攻撃、北朝鮮ハッカーか 複数の痕跡、政府に報告（共同通信） - Yahoo!ニュース",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9WUS1mbmQyOVpJSVF4cm5uUktyZkVINWFuVzEzd0I4TnEzTWRNRmlXS3pZbGlpcmduQThaYklfSjRxTWVPR2ZGdm51ZmFXTF9jRWFrdWNUMGVXYXRrQ2hZTmU2YlJDOHo0NE",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WUS1mbmQyOVpJSVF4cm5uUktyZkVINWFuVzEzd0I4TnEzTWRNRmlXS3pZbGlpcmduQThaYklfSjRxTWVPR2ZGdm51ZmFXTF9jRWFrdWNUMGVXYXRrQ2hZTmU2YlJDOHo0NEYtNUtBalQzYkhLeGJaMEg0Vm9vZ28?oc=5",
-      "published_at": "Sun, 01 Nov 2026 12:03:37 GMT",
-      "importance": 1,
-      "source_name": "Google News JP",
-      "translated_title": "【独自】GMO攻撃、北朝鮮ハッカーか 複数の痕跡、政府に報告（共同通信） - Yahoo!ニュース"
-    },
-    {
-      "id": 106,
+      "id": 115,
       "category": "Product",
       "title": "疑っても止まれない。AIの「都合のいい思考」を読んでみよう",
       "summary": "課題を解くために関係ない人を騙そうとしたAI。どうしてそうなっちゃったんでしょう？英国AIセキュリティ研究所が「Claude Mythos 5」というAIに演習用のコンピューターに侵入するという課題を与えました。それからしばらくして、開発元…",
@@ -1058,18 +893,7 @@
       "translated_title": "疑っても止まれない。AIの「都合のいい思考」を読んでみよう"
     },
     {
-      "id": 219,
-      "category": "Global",
-      "title": "GMO to detail cyberattack incident at news conference - NHKニュース",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fSk9QUEpyR09wMUIySmlFQTBIcXFUVnFiVDNTaUtseUJhZWlsRUd5YUFZYklqdGpEZG9PRjNoa3BmS1IxcXpFM20wckhNTlN2TlF3NXdISW9oNlNoSW5aTS1obw?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fSk9QUEpyR09wMUIySmlFQTBIcXFUVnFiVDNTaUtseUJhZWlsRUd5YUFZYklqdGpEZG9PRjNoa3BmS1IxcXpFM20wckhNTlN2TlF3NXdISW9oNlNoSW5aTS1obw?oc=5",
-      "published_at": "Sun, 01 Nov 2026 11:58:51 GMT",
-      "importance": 3,
-      "source_name": "Google News World",
-      "translated_title": "GMO to detail cyberattack incident at news conference - NHKニュース"
-    },
-    {
-      "id": 204,
+      "id": 213,
       "category": "Global",
       "title": "Britain should not issue apology over slave trade, says Kemi Badenoch - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUm9aNkp2NFh5bjVzNzNUMnBMQ0d6ekpDUWQ2OHlUSG5oMERMX243dnBoc1Q2cmx6ejJvUWRWeHhiY0hYbVR3Sm1TeWZSU0xVQVpkRWc5U2k2SWQ3ellZbDZ3RjlrdWF4bE5XUFQzZ1",
@@ -1080,7 +904,7 @@
       "translated_title": "Britain should not issue apology over slave trade, says Kemi Badenoch - The Guardian"
     },
     {
-      "id": 107,
+      "id": 116,
       "category": "Product",
       "title": "いま4Kゲーミングしたいならこれが最低限。「RDY Element Pulse X B02」",
       "summary": "iBUYPOWERのゲーミングPC「RDY Element Pulse X B02」をレビュー。洗練されたデザインや冷却性能、4Kでのゲームプレイの快適さを検証しつつ、気になる騒音や内部構造についても解説します。",
@@ -1091,7 +915,7 @@
       "translated_title": "いま4Kゲーミングしたいならこれが最低限。「RDY Element Pulse X B02」"
     },
     {
-      "id": 163,
+      "id": 178,
       "category": "Global",
       "title": "Iran, Qatari Mediators Hold Third Day of Talks to End US-Iran War - U.S. News & World Report",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3hsUGU1R1RiOUc1RWh3SGY0a29tTG9KTHBuNzNnTUxhV3JESV9NM3JsQ05jZlIzdDNvVkU2Nmsxd2Q2RVM5WFlEVEtyNUNUME9HT1p5YjFNNkhqTWtFV0ZyZ2J1X00zNmZldXRxQ1",
@@ -1100,20 +924,196 @@
       "importance": 1,
       "source_name": "Google News World",
       "translated_title": "Iran, Qatari Mediators Hold Third Day of Talks to End US-Iran War - U.S. News & World Report"
+    },
+    {
+      "id": 117,
+      "category": "Product",
+      "title": "トランプ政権、地球温暖化の加速に成功。CO2排出量をさらに1億3300万トン上乗せ",
+      "summary": "トランプ政権の気候政策後退に伴う米国のCO2排出量増加と、世界的な地球温暖化への影響を解説する報告書の内容をお届けします。",
+      "url": "https://www.gizmodo.jp/article/the-us-has-retreated-from-climate-action-a-new-report-reveals-the-global-consequences/",
+      "published_at": "Sun, 01 Nov 2026 11:00:00 GMT",
+      "importance": 1,
+      "source_name": "Gizmodo JP",
+      "translated_title": "トランプ政権、地球温暖化の加速に成功。CO2排出量をさらに1億3300万トン上乗せ"
+    },
+    {
+      "id": 118,
+      "category": "Product",
+      "title": "“水中の日傘”がサンゴ礁を、そして人間の暮らしを守る救世主になるかもしれない",
+      "summary": "地球温暖化によるサンゴの白化を防ぐため、水中に日傘を設置する研究成果を紹介します。シンプルな日陰づくりがサンゴ礁と海洋生態系を守る新たな救世主となる可能性を探ります。",
+      "url": "https://www.gizmodo.jp/article/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working/",
+      "published_at": "Sun, 01 Nov 2026 10:30:00 GMT",
+      "importance": 1,
+      "source_name": "Gizmodo JP",
+      "translated_title": "“水中の日傘”がサンゴ礁を、そして人間の暮らしを守る救世主になるかもしれない"
+    },
+    {
+      "id": 194,
+      "category": "Global",
+      "title": "South Korea had the world’s lowest birth rate. How cash and childcare helped it rebound - NBC News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPejVDaVUwcTdEZkU2OTdEX3d3bllQSkVjQ3RGMjRWRks4c0ZzYnExeGhhVVJqQWpueWJ6aG9GVkpSa3c4UzhIcGU0YTVxTENBUTh2TXF2emxWdGxLZ19TOVJyYklHVlY5RkEtNkYyNm",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPejVDaVUwcTdEZkU2OTdEX3d3bllQSkVjQ3RGMjRWRks4c0ZzYnExeGhhVVJqQWpueWJ6aG9GVkpSa3c4UzhIcGU0YTVxTENBUTh2TXF2emxWdGxLZ19TOVJyYklHVlY5RkEtNkYyNmJDUno1WXRSUEVhSlhWREJDdWdBTEEyX0ZZNy11bFVZLVFlQU8wSldxQnBDQ2tySnZRR1JKSDdVLXFlcFRfcjdKWE53?oc=5",
+      "published_at": "Sun, 01 Nov 2026 10:19:49 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "South Korea had the world’s lowest birth rate. How cash and childcare helped it rebound - NBC News"
+    },
+    {
+      "id": 158,
+      "category": "Global",
+      "title": "Trump White House Maps Path to Govern Without Congress if Democrats Win - U.S. News & World Report",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVUNVeHN6WVhWeFFTVm1FX1JFZTB3NVFubHVhbDBnY0xVTW9lNVNwYXlScU1QM2MzX29OTXQ5cmpVcHc0RS1ha2Iwai1ROFd0dFA2dU04T2xxUVNMNkM2cFFvZ1ZzNVhRaGF6Q1Flal",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVUNVeHN6WVhWeFFTVm1FX1JFZTB3NVFubHVhbDBnY0xVTW9lNVNwYXlScU1QM2MzX29OTXQ5cmpVcHc0RS1ha2Iwai1ROFd0dFA2dU04T2xxUVNMNkM2cFFvZ1ZzNVhRaGF6Q1Flal96a3paai1jcnRjYmc5Y1dzdTNqOERXRHZldFFWb1JOVEFYR3hkbnhQZkNWTFgwekhYdEFvbmdDNkV5clFwdENoS0lYNUV5Wno1amtCT3Y5WFVPZW8?oc=5",
+      "published_at": "Sun, 01 Nov 2026 10:03:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "Trump White House Maps Path to Govern Without Congress if Democrats Win - U.S. News & World Report"
+    },
+    {
+      "id": 119,
+      "category": "Product",
+      "title": "Claudeが“あえて画像生成しない”理由が判明。背景には「人類滅亡」への懸念も",
+      "summary": "Claudeが画像生成を行わない理由とAnthropic社の安全性への姿勢を解説。人類滅亡の懸念も交えた開発方針の裏側に迫ります。",
+      "url": "https://www.gizmodo.jp/article/claude-image-generation-reason/",
+      "published_at": "Sun, 01 Nov 2026 10:00:00 GMT",
+      "importance": 1,
+      "source_name": "Gizmodo JP",
+      "translated_title": "Claudeが“あえて画像生成しない”理由が判明。背景には「人類滅亡」への懸念も"
+    },
+    {
+      "id": 120,
+      "category": "Product",
+      "title": "ダイソーに頼らなくても、500円で買える気が利く雑貨たち",
+      "summary": "物価高のこのご時世。安いものを求めたくなるところです。ワンコイン（＝500円）で買えるとなれば、そりゃひとまずどんな感じかチェックしたいわけで。安かろう悪かろうだと意味がありませんが、安いのに使い勝手に妥協しない、気が利く雑貨を紹介します。…",
+      "url": "https://www.gizmodo.jp/article/2610-500yen-goods/",
+      "published_at": "Sun, 01 Nov 2026 09:00:00 GMT",
+      "importance": 1,
+      "source_name": "Gizmodo JP",
+      "translated_title": "ダイソーに頼らなくても、500円で買える気が利く雑貨たち"
+    },
+    {
+      "id": 180,
+      "category": "Global",
+      "title": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPYzh1ZFludjdBZGphNlBMM09jOFpiaTBrWWxjMkV2TmphTWItT2pxcXlxQzNmMWZadUFYUi1kdEktZWxZQVpoNFN6R1d1WFJlS2RHNWlwSlBNaXhOM3RyWnc3dnkxWFdfTmpQNi0xM2",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYzh1ZFludjdBZGphNlBMM09jOFpiaTBrWWxjMkV2TmphTWItT2pxcXlxQzNmMWZadUFYUi1kdEktZWxZQVpoNFN6R1d1WFJlS2RHNWlwSlBNaXhOM3RyWnc3dnkxWFdfTmpQNi0xM2lZdDFkdmVBNDZnUzhveDVBb0xUeXJUTkVrNW5Fa1dhZ2oyWEFYVmw1dUtFSF9iS1MtSlBnQUxYNE5xRlhfQ3lpNTRQVDZvRXA4c1A3NDhlYTN4UDBicVE?oc=5",
+      "published_at": "Sun, 01 Nov 2026 07:55:00 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy - The Guardian"
+    },
+    {
+      "id": 208,
+      "category": "Global",
+      "title": "India's opposition parties stage new protest against the country's election chief - KSAT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNUDNuYlNINEh0cDZrUEQwX19BRGlYbkoxamw5US1ScHZsM3lnTmRLbGJfSWdTa3BvQXJoYjZTc19DcUtDWnRlWGoyNklRUWtGd1ZFQ3ZDSkxseF9GazFOODY3ZXl2RWxBa2tGR1FKMm",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUDNuYlNINEh0cDZrUEQwX19BRGlYbkoxamw5US1ScHZsM3lnTmRLbGJfSWdTa3BvQXJoYjZTc19DcUtDWnRlWGoyNklRUWtGd1ZFQ3ZDSkxseF9GazFOODY3ZXl2RWxBa2tGR1FKMmxFMldNRm0tWUwwTk5ZYzhtekp6dzJ4c2J2NXBNSDA1UHFJQXhzTW0ydXI4NnNQTnhJODFYZVN5NmJ1cUtzcmRwMkxyVjMwQQ?oc=5",
+      "published_at": "Sun, 01 Nov 2026 07:34:12 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "India's opposition parties stage new protest against the country's election chief - KSAT"
+    },
+    {
+      "id": 203,
+      "category": "Global",
+      "title": "For vegans, it's not just what's on the dinner plate, but also what happens after the dinner date - WRAL",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMkwyN2U5OEZNUUNUSTZ0Q2FRUmFiSWgtdmpGZVFvRWlGbEhhWE1QVUp5WlM0M2dvSG5vX2x0SVVTeUxudGJReHFBLS1tWWFVQzltNkxTdGJzZEZacVJ1YjlkbXZRSWlrS2REaURqMW",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMkwyN2U5OEZNUUNUSTZ0Q2FRUmFiSWgtdmpGZVFvRWlGbEhhWE1QVUp5WlM0M2dvSG5vX2x0SVVTeUxudGJReHFBLS1tWWFVQzltNkxTdGJzZEZacVJ1YjlkbXZRSWlrS2REaURqMW5FR2I1MzhOZTBXZXFnY1pPaVk1NjFQbXFlRE9iaWt4MDY0OTRzcTc1U0I0VWNqOGxLUmg2Z19pWEp5TmNlNXRFWGh6WVJsenZSbmNLQlc0el9zc0g2Y05yUA?oc=5",
+      "published_at": "Sun, 01 Nov 2026 06:24:50 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "For vegans, it's not just what's on the dinner plate, but also what happens after the dinner date - WRAL"
+    },
+    {
+      "id": 215,
+      "category": "Global",
+      "title": "Initial results suggest Yotova wins runoff to become Bulgaria’s first elected female president - Click2Houston",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeEkwdm5QVktZdVJiNk5XcVN2OHRnV1NNd1p2MmFYamJQdTcwMWR1U2Z4TFZfSkVha0Q1MlIwLXJKeVdXWWtuXzhPbDFBT25jcFB0b2ZpZXJxZE5Zc3oxWDRXWDNQQlA3eWU4aWQ2Tl",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeEkwdm5QVktZdVJiNk5XcVN2OHRnV1NNd1p2MmFYamJQdTcwMWR1U2Z4TFZfSkVha0Q1MlIwLXJKeVdXWWtuXzhPbDFBT25jcFB0b2ZpZXJxZE5Zc3oxWDRXWDNQQlA3eWU4aWQ2TlRGUzdjNWJOMzJFY3ZJQXBnVFo1Y2pQRGhWdHJhUC1QU2dJdWpmdmFlcElBaFRJTzdBNE5BWlFKQU92c1FoNl9qV2cxSUVXQk5hYURDS3F6d2lwQzdwMFU2dkdTT2xMLXhFRGpPdjFuaGZNU01MZ1dBcThtTDVQcl9s?oc=5",
+      "published_at": "Sun, 01 Nov 2026 05:01:36 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Initial results suggest Yotova wins runoff to become Bulgaria’s first elected female president - Click2Houston"
+    },
+    {
+      "id": 8,
+      "category": "AI/IT",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "published_at": "Sun, 01 Nov 2026 02:22:10 +0000",
+      "importance": 3,
+      "source_name": "TechCrunch",
+      "translated_title": "Data centers are now a midterm issue, even in Brooklyn"
+    },
+    {
+      "id": 189,
+      "category": "Global",
+      "title": "Judge dismisses Trump's Wall Street Journal lawsuit - Sky News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPclJyTW5TTEhlclJtbVJyUjB5U1Z5OVNZSUQwalEtMndsRFo3dlc1Q3ZybHpHWFM0cmdnQXlMeDlPbjd4dHh2UGNqczZuRFdWXzZMa3ZIOWZHdU1zT1Z1ZXBiLUgzdVpweUtILVlya2",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclJyTW5TTEhlclJtbVJyUjB5U1Z5OVNZSUQwalEtMndsRFo3dlc1Q3ZybHpHWFM0cmdnQXlMeDlPbjd4dHh2UGNqczZuRFdWXzZMa3ZIOWZHdU1zT1Z1ZXBiLUgzdVpweUtILVlya2ppUE1DV25rLWVZSzYxVmt2bkpyUWdscGctN3ctcXJvSQ?oc=5",
+      "published_at": "Sun, 01 Nov 2026 00:03:07 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Judge dismisses Trump's Wall Street Journal lawsuit - Sky News"
+    },
+    {
+      "id": 204,
+      "category": "Global",
+      "title": "Ex-Arsenal striker who caused a major stir at the World Cup offered to Man Utd - Yahoo Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzQ3ZElldlVxS3BvRnVCbmpKeG5OMjZEbmktSms5QXZOZzdzWU5GQ0l3Ql9XZ0p3T0pJWXBwV2pzX3BfZmJYc1ZJYmFvUDJEczRPSlVCc2dET0wwYlMweVBaT1p5dFByZEtpWEV0dU",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzQ3ZElldlVxS3BvRnVCbmpKeG5OMjZEbmktSms5QXZOZzdzWU5GQ0l3Ql9XZ0p3T0pJWXBwV2pzX3BfZmJYc1ZJYmFvUDJEczRPSlVCc2dET0wwYlMweVBaT1p5dFByZEtpWEV0dUhiMFZjdWdITjNaNTZueUZRek9KMXd1VFU?oc=5",
+      "published_at": "Sun, 01 Nov 2026 00:00:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Ex-Arsenal striker who caused a major stir at the World Cup offered to Man Utd - Yahoo Sports"
+    },
+    {
+      "id": 187,
+      "category": "Global",
+      "title": "2026 Vidanta World Mexico Open Sunday tee times: Round 4 groupings | News - GOLF.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0ZvSTNRTmEtZTl5N1VSeEh4VUE4cU9ITWx0U0tyTnhKOS1pRjAtNk5aSm1PSkxvU0RGbkVrWlJVbFZ6SjFDMlVwQmdPS0pWZlpORVpCaXFjMGFyOGdUV19MeWFNOWlHOVJXTURZUU",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0ZvSTNRTmEtZTl5N1VSeEh4VUE4cU9ITWx0U0tyTnhKOS1pRjAtNk5aSm1PSkxvU0RGbkVrWlJVbFZ6SjFDMlVwQmdPS0pWZlpORVpCaXFjMGFyOGdUV19MeWFNOWlHOVJXTURZUU0zZUZvdjJwbzc5bDhTUmVOOTM1c1c?oc=5",
+      "published_at": "Sat, 31 Oct 2026 23:57:01 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "2026 Vidanta World Mexico Open Sunday tee times: Round 4 groupings | News - GOLF.com"
+    },
+    {
+      "id": 200,
+      "category": "Global",
+      "title": "Tusk defends overhaul of Poland’s constitutional court despite protests - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN2tCSVYwNXlmVktrRkpCNWM3UVVoRzVUWlhtVElmUllrbWlhZjIxcXV3MUNDTmVEM1lQLU9qWWtOOWNOaC1BYmN5RTdNMDY2dzJ0STYzNG1mQy1FS3ltbnliY0lKREtiVWNMWVN4Nn",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN2tCSVYwNXlmVktrRkpCNWM3UVVoRzVUWlhtVElmUllrbWlhZjIxcXV3MUNDTmVEM1lQLU9qWWtOOWNOaC1BYmN5RTdNMDY2dzJ0STYzNG1mQy1FS3ltbnliY0lKREtiVWNMWVN4NnJtYzlnek5qUFZfbFlSbzNXWUJHRjliVF9tbG51d0x0NjJuQlRpNjVzSWNFdXBLY0xqOTN4Ymo1LWRhV3ZqOFBuWGhaM0U1aVdXOVVz?oc=5",
+      "published_at": "Sat, 31 Oct 2026 22:43:00 GMT",
+      "importance": 1,
+      "source_name": "Google News World",
+      "translated_title": "Tusk defends overhaul of Poland’s constitutional court despite protests - The Guardian"
+    },
+    {
+      "id": 211,
+      "category": "Global",
+      "title": "‘He lives in own world’: Brooks Koepka again jabs Bryson DeChambeau | News - GOLF.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9oRWgwX2tVLThzMl9LeGdxZVg1WlkxanZQU04zdTkxSVhETGxzeFFPYXRLRS0tQlBJZmlzWjdZc0FnWHlNYVZsWEJjbHJfYlRzT3pydktvTGJBWHJqcEZkelR5OWwwZjNZTUN0WkZUMW",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oRWgwX2tVLThzMl9LeGdxZVg1WlkxanZQU04zdTkxSVhETGxzeFFPYXRLRS0tQlBJZmlzWjdZc0FnWHlNYVZsWEJjbHJfYlRzT3pydktvTGJBWHJqcEZkelR5OWwwZjNZTUN0WkZUMWg?oc=5",
+      "published_at": "Sat, 31 Oct 2026 22:25:05 GMT",
+      "importance": 3,
+      "source_name": "Google News World",
+      "translated_title": "‘He lives in own world’: Brooks Koepka again jabs Bryson DeChambeau | News - GOLF.com"
     }
   ],
   "trends": [
     "news",
     "world",
-    "ニュ",
     "guardian",
+    "ukraine",
     "robot",
     "iran",
-    "com",
-    "kimi",
-    "antonelli",
     "yahoo",
-    "talks",
-    "brief"
+    "brief",
+    "war",
+    "ニュ",
+    "sports",
+    "report"
   ]
 }
